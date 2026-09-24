@@ -1,0 +1,76 @@
+name: Competitor watch
+
+on:
+  schedule:
+    - cron: "3-59/10 7-23 * * *"
+  workflow_dispatch:
+    inputs:
+      test_email:
+        description: "Send a test notification instead of checking the page"
+        type: boolean
+        default: false
+      dry_run:
+        description: "Check the live site without posting alerts or saving state"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: competitor-watch
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      TRADING_HOURS: ${{ vars.TRADING_HOURS }}
+      ALERT_ON_DELAYS: ${{ vars.ALERT_ON_DELAYS }}
+      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
+          echo "PW_VERSION=$(python -c 'from importlib.metadata import version; print(version("playwright"))')" >> "$GITHUB_ENV"
+      - name: Cache the browser between runs
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ env.PW_VERSION }}
+      - name: Install the browser
+        run: python -m playwright install --with-deps chromium
+      - name: Send test notification
+        if: ${{ inputs.test_email == true }}
+        run: python competitor_watch.py --test-notification
+      - name: Check whether Hungry Monkey is taking orders
+        if: ${{ inputs.test_email != true && inputs.dry_run != true }}
+        run: python competitor_watch.py
+      - name: Validate live website without notifications
+        if: ${{ inputs.test_email != true && inputs.dry_run == true }}
+        run: python competitor_watch.py --dry-run
+      - name: Keep the screenshot
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: screenshot
+          path: evidence.png
+          if-no-files-found: ignore
+          retention-days: 3
+      - name: Save state for the next run
+        if: always()
+        run: |
+          if [ -f state.json ]; then
+            git config user.name "competitor-watch"
+            git config user.email "competitor-watch@users.noreply.github.com"
+            git add state.json
+            if ! git diff --cached --quiet; then
+              git commit -m "state: $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
+              git push
+            fi
+          fi
