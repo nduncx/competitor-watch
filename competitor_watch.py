@@ -29,6 +29,7 @@ import argparse
 import datetime as dt
 import json
 import os
+import re
 import smtplib
 import sys
 import time
@@ -119,7 +120,7 @@ def classify_venue(page_text: str) -> str:
         return "closed"
     if any(p in t for p in DELAY_PHRASES):
         return "delays"
-    if any(p in t for p in OPEN_PHRASES + PAGE_LOADED_PHRASES):
+    if any(p in t for p in OPEN_PHRASES):
         return "open"
     return "unknown"
 
@@ -166,8 +167,12 @@ def venue_name(card_text: str, fallback: str) -> str:
 
 
 def looks_open(card_text: str) -> bool:
-    t = card_text.lower()
-    return ("delivery:" in t or "collection:" in t) and not any(h in t for h in NOT_OPEN_HINTS)
+    # A current delivery estimate is evidence of availability; a future
+    # clock time (Today/Tomorrow/weekday at...) is not.
+    return bool(re.search(
+        r"delivery(?:\s+only)?\s*:\s*(?:[0-9]+(?:\s*[-–]\s*[0-9]+)?\s*min(?:ute)?s?\b|asap\b)",
+        card_text, re.IGNORECASE,
+    ))
 
 
 # ---------------------------------------------------------------------------
@@ -327,7 +332,11 @@ def check_platform() -> dict:
         finally:
             browser.close()
 
-    return summarise(results, directory_text)
+    summary = summarise(results, directory_text)
+    if not open_cards and not any(r["status"] == "platform_closed" for r in results):
+        summary["status"] = "no_open_venues"
+        summary["detail"] = "Directory has no venues with current delivery estimates."
+    return summary
 
 
 def summarise(results: list[dict], directory_text: str = "") -> dict:
@@ -526,6 +535,14 @@ def run_check(dry_run: bool = False) -> int:
     trading = in_trading_hours(now)
     log(f"{now:%Y-%m-%d %H:%M %Z} | status={status} | previous={state.get('status')} "
         f"| trading hours={trading}")
+
+    if status == "no_open_venues":
+        log(result["detail"])
+        if not trading:
+            log("Outside trading hours: expected overnight state; no availability inference.")
+            return 0
+        log("During trading hours: cannot establish platform availability.")
+        return 2
 
     if status == "unknown":
         log("Could not tell whether they are open. " + result.get("detail", ""))
