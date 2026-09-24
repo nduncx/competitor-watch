@@ -1,0 +1,611 @@
+#!/usr/bin/env python3
+"""
+competitor_watch.py - emails you when Hungry Monkey (order.hungrymonkey.gi)
+stops taking orders during its normal trading hours - i.e. it has paused
+because it is too busy - and again when it starts taking orders again. It can
+also warn you when Hungry Monkey starts showing its "orders may incur long
+delays" notice.
+
+How it decides:
+  1. Loads the Hungry Monkey directory and picks a few venues it lists as open.
+  2. Presses ORDER NOW on each, which opens the venue's ordering page.
+  3. If every venue refuses orders - or any page shows Hungry Monkey's own
+     "we will resume our deliveries" notice - Hungry Monkey is closed.
+     One venue refusing while the others accept just means that venue is shut.
+
+Usage
+  python competitor_watch.py               run one check (cron / Task Scheduler / GitHub Actions)
+  python competitor_watch.py --every 600   keep running, re-checking every 10 minutes
+  python competitor_watch.py --test-email  send a test email to confirm the email settings
+  python competitor_watch.py --dry-run     run a check and print the result; no email, no state saved
+
+All settings live in the block below. Each one can also be overridden with an
+environment variable of the same name. See SETUP.md for the walkthrough.
+"""
+
+from __future__ import annotations
+
+import argparse
+import datetime as dt
+import json
+import os
+import smtplib
+import sys
+import time
+import urllib.request
+import urllib.error
+from email.message import EmailMessage
+from pathlib import Path
+from zoneinfo import ZoneInfo
+
+
+def setting(name: str, default: str) -> str:
+    """Environment variable if set and non-empty, otherwise the default."""
+    return os.getenv(name) or default
+
+
+# ---------------------------------------------------------------------------
+# Settings
+# ---------------------------------------------------------------------------
+DIRECTORY_URL = setting("DIRECTORY_URL", "https://order.hungrymonkey.gi/")
+TARGET_NAME = setting("TARGET_NAME", "Hungry Monkey")
+
+# How many venues to open per check. More = fewer false alarms, slower check.
+VENUES_TO_CHECK = int(setting("VENUES_TO_CHECK", "3"))
+ORDER_BUTTON_TEXT = setting("ORDER_BUTTON_TEXT", "ORDER NOW")
+
+# Hungry Monkey's normal trading hours, local time, 24-hour clock.
+# A closure that starts INSIDE this window is treated as "closed because busy"
+# and triggers an email. A closure outside it is just them shutting for the
+# night. Set the end 20-30 minutes BEFORE they really close so the normal
+# switch-off never triggers an alert. Windows may cross midnight ("18:00-01:00").
+TRADING_HOURS = setting("TRADING_HOURS", "09:00-23:30")
+TIMEZONE = setting("TIMEZONE", "Europe/Gibraltar")
+
+# Wording the check looks for on a venue's ordering page (case-insensitive).
+PLATFORM_CLOSED_PHRASES = [       # Hungry Monkey's own "we're too busy" notice
+    "resume our deliveries",
+    "everyone is a hungry monkey",
+]
+CLOSED_PHRASES = ["not taking orders"]           # the standard closed pop-up + basket panel
+DELAY_PHRASES = ["long delays", "incur delays"]  # their "busy but still open" warning
+OPEN_PHRASES = ["collection or delivery"]        # the basket's order button when open
+PAGE_LOADED_PHRASES = ["basket", "search menu items"]
+
+# Words on a directory card that mean the venue is NOT open right now.
+NOT_OPEN_HINTS = ["closed", "pre-order", "preorder", "opens at", "opening at", "unavailable", "tomorrow"]
+
+# Extra emails ("true" / "false")
+ALERT_ON_REOPEN = setting("ALERT_ON_REOPEN", "true").strip().lower() == "true"
+ALERT_ON_DELAYS = setting("ALERT_ON_DELAYS", "true").strip().lower() == "true"
+
+STATE_FILE = Path(setting("STATE_FILE", "state.json"))
+SCREENSHOT_FILE = Path(setting("SCREENSHOT_FILE", "evidence.png"))
+
+# Email. For Gmail: smtp.gmail.com, port 587, and an App Password (SETUP.md).
+SLACK_WEBHOOK_URL = setting("SLACK_WEBHOOK_URL", "")
+
+SMTP_HOST = setting("SMTP_HOST", "smtp.gmail.com")
+SMTP_PORT = int(setting("SMTP_PORT", "587"))
+SMTP_USER = setting("SMTP_USER", "")
+SMTP_PASS = setting("SMTP_PASS", "")
+EMAIL_FROM = setting("EMAIL_FROM", SMTP_USER)
+EMAIL_TO = setting("EMAIL_TO", SMTP_USER)   # comma-separate several addresses
+
+
+# ---------------------------------------------------------------------------
+# Small helpers
+# ---------------------------------------------------------------------------
+def log(message: str) -> None:
+    print(message, flush=True)
+
+
+def in_trading_hours(now: dt.datetime) -> bool:
+    start_s, end_s = TRADING_HOURS.split("-")
+    start = dt.time.fromisoformat(start_s.strip())
+    end = dt.time.fromisoformat(end_s.strip())
+    t = now.time()
+    if start <= end:
+        return start <= t < end
+    return t >= start or t < end          # window crosses midnight
+
+
+def classify_venue(page_text: str) -> str:
+    """One venue page -> platform_closed | closed | delays | open | unknown."""
+    t = page_text.lower()
+    if any(p in t for p in PLATFORM_CLOSED_PHRASES):
+        return "platform_closed"
+    if any(p in t for p in CLOSED_PHRASES):
+        return "closed"
+    if any(p in t for p in DELAY_PHRASES):
+        return "delays"
+    if any(p in t for p in OPEN_PHRASES + PAGE_LOADED_PHRASES):
+        return "open"
+    return "unknown"
+
+
+BUTTON_LABELS = {"ok", "got it", "close", "dismiss", "continue", "accept"}
+
+
+def strip_buttons(text: str) -> str:
+    return "\n".join(
+        line for line in text.splitlines() if line.strip().lower() not in BUTTON_LABELS
+    ).strip()
+
+
+def dedupe(texts: list[str]) -> list[str]:
+    """Drop empty, duplicate, and contained-in-another texts."""
+    cleaned = [t for t in dict.fromkeys(strip_buttons(t) for t in texts if t.strip()) if t]
+    return [t for t in cleaned if not any(t != o and t in o for o in cleaned)]
+
+
+def extract_notice(page_text: str, popups: list[str]) -> str:
+    """The notice a venue page is showing, for the email body."""
+    phrases = PLATFORM_CLOSED_PHRASES + CLOSED_PHRASES + DELAY_PHRASES
+    from_popups = [t for t in dedupe(popups) if any(p in t.lower() for p in phrases)]
+    if from_popups:
+        return "\n\n".join(from_popups)
+    lines = (line.strip() for line in page_text.splitlines())
+    hits = [line for line in lines if any(p in line.lower() for p in phrases)]
+    return "\n".join(dict.fromkeys(hits))
+
+
+BADGES = {"new", "special offer", "offer", "collection", "delivery"}
+
+
+def venue_name(card_text: str, fallback: str) -> str:
+    """First line of a directory card that looks like a name."""
+    for line in card_text.splitlines():
+        s = line.strip()
+        if len(s) < 3 or s.lower() in BADGES or s.upper() == ORDER_BUTTON_TEXT.upper():
+            continue
+        if ":" in s or s.startswith(("£", "$", "€")):
+            continue
+        return s
+    return fallback
+
+
+def looks_open(card_text: str) -> bool:
+    t = card_text.lower()
+    return ("delivery:" in t or "collection:" in t) and not any(h in t for h in NOT_OPEN_HINTS)
+
+
+# ---------------------------------------------------------------------------
+# Browser work
+# ---------------------------------------------------------------------------
+# Finds every visible ORDER NOW button on the directory, tags it so it can be
+# clicked later, and returns the text of the card it sits in (the biggest
+# ancestor that still contains only that one button) plus its link, if any.
+CARD_SCRIPT = r"""
+(label) => {
+  const norm = s => (s || '').replace(/\s+/g, ' ').trim().toUpperCase();
+  const visible = el => el.getClientRects().length > 0;
+  const leaves = Array.from(document.querySelectorAll('body *'))
+    .filter(el => el.children.length === 0 && norm(el.textContent) === label && visible(el));
+  const countIn = el => leaves.filter(l => el.contains(l)).length;
+  return leaves.map((btn, i) => {
+    btn.setAttribute('data-cw-index', String(i));
+    let node = btn;
+    while (node.parentElement && node.parentElement !== document.body
+           && countIn(node.parentElement) === 1) node = node.parentElement;
+    const link = btn.closest('a[href]');
+    const href = link && /^https?:/.test(link.href) ? link.href : null;
+    return { index: i, text: node.innerText || '', href: href };
+  });
+}
+"""
+
+PAGE_HAS_TEXT = "needles => { const t = document.body.innerText.toLowerCase();" \
+                " return needles.some(n => t.includes(n)); }"
+
+
+def new_context(browser):
+    return browser.new_context(
+        viewport={"width": 1280, "height": 900},
+        locale="en-GB",
+        timezone_id=TIMEZONE,
+        user_agent=(
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        ),
+    )
+
+
+def load_directory(page) -> list[dict]:
+    """Open the directory and return its venue cards, in page order."""
+    page.goto(DIRECTORY_URL, wait_until="domcontentloaded", timeout=60_000)
+    try:
+        page.wait_for_function(PAGE_HAS_TEXT, arg=[ORDER_BUTTON_TEXT.lower()], timeout=30_000)
+    except Exception:
+        pass
+    page.wait_for_timeout(2_500)                  # let the venue list finish rendering
+    for label in ("No thanks", "Accept"):         # app-download nag and cookie bar
+        try:
+            page.get_by_text(label, exact=True).first.click(timeout=1_000)
+        except Exception:
+            pass
+    cards = page.evaluate(CARD_SCRIPT, ORDER_BUTTON_TEXT.upper())
+    for card in cards:
+        card["name"] = venue_name(card["text"], f"venue {card['index'] + 1}")
+        card["looks_open"] = looks_open(card["text"])
+    return cards
+
+
+def open_venue(context, page, card):
+    """Press ORDER NOW on a directory card. Returns (venue page, opened_new_tab)."""
+    from playwright.sync_api import TimeoutError as PlaywrightTimeout
+
+    if card.get("href"):                          # the button is a plain link: open it directly
+        venue_page = context.new_page()
+        venue_page.goto(card["href"], wait_until="domcontentloaded", timeout=60_000)
+        return venue_page, True
+
+    button = page.locator(f'[data-cw-index="{card["index"]}"]').first
+    button.scroll_into_view_if_needed(timeout=5_000)
+    try:
+        with context.expect_page(timeout=10_000) as new_tab:
+            try:
+                button.click(timeout=5_000)
+            except PlaywrightTimeout:            # something overlays it: fire the click directly
+                button.dispatch_event("click")
+        venue_page = new_tab.value
+        venue_page.wait_for_load_state("domcontentloaded", timeout=60_000)
+        return venue_page, True
+    except PlaywrightTimeout:                     # no new tab: it navigated in the same tab
+        page.wait_for_load_state("domcontentloaded", timeout=60_000)
+        return page, False
+
+
+def read_venue_page(venue_page) -> dict:
+    """Wait for a venue's ordering page to render and classify it."""
+    needles = (PLATFORM_CLOSED_PHRASES + CLOSED_PHRASES + DELAY_PHRASES
+               + OPEN_PHRASES + PAGE_LOADED_PHRASES)
+    try:
+        venue_page.wait_for_function(PAGE_HAS_TEXT, arg=needles, timeout=30_000)
+    except Exception:
+        pass
+    venue_page.wait_for_timeout(2_500)            # let pop-ups finish appearing
+    text = venue_page.evaluate("document.body.innerText") or ""
+    popups = venue_page.locator(
+        '[role="dialog"], .mat-dialog-container, .modal-content, .cdk-overlay-pane'
+    ).all_inner_texts()
+    return {
+        "status": classify_venue(text),
+        "notice": extract_notice(text, popups),
+        "url": venue_page.url,
+        "text": text,
+    }
+
+
+def check_platform() -> dict:
+    """Run one full check. Returns a result dict with an overall 'status'."""
+    from playwright.sync_api import sync_playwright
+
+    results: list[dict] = []
+    directory_text = ""
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        try:
+            context = new_context(browser)
+            page = context.new_page()
+            cards = load_directory(page)
+            directory_text = page.evaluate("document.body.innerText") or ""
+            if not cards:
+                return {"status": "unknown", "venues": [], "notice": "",
+                        "detail": f"no '{ORDER_BUTTON_TEXT}' buttons found on the directory",
+                        "text": directory_text}
+
+            open_cards = [c for c in cards if c["looks_open"]]
+            chosen = (open_cards or cards)[:VENUES_TO_CHECK]
+            log(f"Directory lists {len(cards)} venues with an {ORDER_BUTTON_TEXT} button, "
+                f"{len(open_cards)} of them showing as open. Checking: "
+                + ", ".join(c["name"] for c in chosen))
+
+            on_directory = True
+            for n, card in enumerate(chosen, 1):
+                if not on_directory:              # last click navigated this tab away: go back
+                    fresh = load_directory(page)
+                    card = (next((c for c in fresh if c["name"] == card["name"]), None)
+                            or (fresh[card["index"]] if card["index"] < len(fresh) else None))
+                    on_directory = True
+                    if card is None:
+                        results.append({"status": "unknown", "name": "?", "notice": "", "url": "",
+                                        "text": "venue card disappeared after reloading"})
+                        continue
+                venue_page, new_tab = open_venue(context, page, card)
+                result = read_venue_page(venue_page)
+                result["name"] = card["name"]
+                result["listed_open"] = card["looks_open"]
+                result["screenshot"] = f"evidence-{n}.png"
+                venue_page.screenshot(path=result["screenshot"])
+                results.append(result)
+                log(f"  {card['name']}: {result['status']}   {result['url']}")
+                if new_tab:
+                    venue_page.close()
+                else:
+                    on_directory = False
+        finally:
+            browser.close()
+
+    return summarise(results, directory_text)
+
+
+def summarise(results: list[dict], directory_text: str = "") -> dict:
+    """Combine per-venue results into one platform status."""
+    statuses = [r["status"] for r in results]
+    known = [r for r in results if r["status"] != "unknown"]
+    deciding = None
+
+    if "platform_closed" in statuses:
+        status, deciding = "closed", next(r for r in results if r["status"] == "platform_closed")
+    elif known and all(r["status"] == "closed" for r in known) \
+            and len(known) == len(results) and len(known) >= 2 \
+            and all(r.get("listed_open", False) for r in known):
+        status, deciding = "closed", known[0]
+    elif "delays" in statuses:
+        status, deciding = "delays", next(r for r in results if r["status"] == "delays")
+    elif "open" in statuses:
+        status, deciding = "open", next(r for r in results if r["status"] == "open")
+    else:
+        status = "unknown"
+
+    # keep only the deciding venue's screenshot, as evidence.png
+    keep = (deciding or {}).get("screenshot") or (results[0].get("screenshot") if results else None)
+    for r in results:
+        shot = r.get("screenshot")
+        if shot and Path(shot).exists():
+            if shot == keep:
+                Path(shot).replace(SCREENSHOT_FILE)
+            else:
+                Path(shot).unlink()
+
+    return {
+        "status": status,
+        "notice": (deciding or {}).get("notice", ""),
+        "url": (deciding or {}).get("url", ""),
+        "venues": results,
+        "text": (deciding or {}).get("text") or directory_text,
+    }
+
+
+# ---------------------------------------------------------------------------
+# State (so you get one email per closure, not one per check)
+# ---------------------------------------------------------------------------
+def load_state() -> dict:
+    if STATE_FILE.exists():
+        try:
+            return json.loads(STATE_FILE.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            pass
+    return {"status": "unknown", "since": None, "alerted": False}
+
+
+def save_state(state: dict) -> None:
+    STATE_FILE.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
+
+
+# ---------------------------------------------------------------------------
+# Email
+# ---------------------------------------------------------------------------
+def send_email(subject: str, body: str, attach_screenshot: bool) -> None:
+    if SLACK_WEBHOOK_URL:
+        # Plain text avoids interpreting page text as Slack mentions or markup.
+        text = subject + "\n\n" + body.replace("A screenshot is attached.", "")
+        run_id = os.getenv("GITHUB_RUN_ID")
+        repository = os.getenv("GITHUB_REPOSITORY")
+        if attach_screenshot and run_id and repository:
+            text += f"\nScreenshot: https://github.com/{repository}/actions/runs/{run_id} (Artifacts)"
+        payload = {"text": text, "mrkdwn": False, "unfurl_links": False, "unfurl_media": False}
+        request = urllib.request.Request(SLACK_WEBHOOK_URL,
+            data=json.dumps(payload).encode(), headers={"Content-Type": "application/json"})
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                if response.status != 200 or response.read().strip() != b"ok":
+                    raise RuntimeError("Slack did not confirm notification delivery")
+        except urllib.error.HTTPError as exc:
+            raise RuntimeError(f"Slack delivery failed: HTTP {exc.code}") from None
+        except urllib.error.URLError:
+            raise RuntimeError("Slack delivery failed: connection error") from None
+        log("Slack notification delivered")
+        return
+    if not (SMTP_USER and SMTP_PASS and EMAIL_TO):
+        raise RuntimeError("Email is not configured: set SMTP_USER, SMTP_PASS and EMAIL_TO")
+
+    msg = EmailMessage()
+    msg["Subject"] = subject
+    msg["From"] = EMAIL_FROM
+    msg["To"] = EMAIL_TO
+    msg.set_content(body)
+    if attach_screenshot and SCREENSHOT_FILE.exists():
+        msg.add_attachment(SCREENSHOT_FILE.read_bytes(), maintype="image",
+                           subtype="png", filename="hungry-monkey-page.png")
+
+    if SMTP_PORT == 465:
+        server = smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT, timeout=30)
+    else:
+        server = smtplib.SMTP(SMTP_HOST, SMTP_PORT, timeout=30)
+    with server:
+        if SMTP_PORT != 465:
+            server.starttls()
+        server.login(SMTP_USER, SMTP_PASS)
+        server.send_message(msg)
+    log(f"Email sent to {EMAIL_TO}: {subject}")
+
+
+VENUE_LABELS = {
+    "platform_closed": "refusing orders (Hungry Monkey's own notice)",
+    "closed": "refusing orders",
+    "delays": "taking orders, warning of long delays",
+    "open": "taking orders",
+    "unknown": "could not read the page",
+}
+
+
+def venue_lines(result: dict) -> str:
+    lines = [f"  - {v.get('name', '?')}: {VENUE_LABELS.get(v['status'], v['status'])}"
+             for v in result.get("venues", [])]
+    return "\n".join(lines) or "  (none)"
+
+
+def notice_block(result: dict) -> str:
+    notice = result.get("notice") or "(no pop-up text captured)"
+    return "\n".join("    " + line for line in notice.splitlines())
+
+
+def duration_text(since: str | None, now: dt.datetime) -> str:
+    if not since:
+        return ""
+    minutes = int((now - dt.datetime.fromisoformat(since)).total_seconds() // 60)
+    if minutes >= 60:
+        return f" after about {minutes // 60}h {minutes % 60:02d}m"
+    return f" after about {minutes} minutes"
+
+
+def send_closed_alert(now: dt.datetime, result: dict) -> None:
+    subject = f"{TARGET_NAME} has STOPPED taking orders ({now:%H:%M})"
+    body = (
+        f"{TARGET_NAME} stopped taking orders at {now:%H:%M} on {now:%A %d %B %Y}.\n\n"
+        f"Notice on their ordering page:\n\n{notice_block(result)}\n\n"
+        f"Venues checked (all listed as open on the directory):\n{venue_lines(result)}\n\n"
+        f"Directory: {DIRECTORY_URL}\n"
+        f"Page in the screenshot: {result.get('url') or '-'}\n\n"
+        "A screenshot is attached."
+    )
+    if ALERT_ON_REOPEN:
+        body += " You'll get another email when they start taking orders again."
+    send_email(subject, body + "\n", attach_screenshot=True)
+
+
+def send_reopen_alert(now: dt.datetime, closed_since: str | None, result: dict) -> None:
+    subject = f"{TARGET_NAME} is taking orders again ({now:%H:%M})"
+    body = (f"{TARGET_NAME} started taking orders again at {now:%H:%M}"
+            f"{duration_text(closed_since, now)}.\n")
+    if result["status"] == "delays":
+        body += f"\nThey are still showing a long-delays warning:\n\n{notice_block(result)}\n"
+    body += f"\nVenues checked:\n{venue_lines(result)}\n\nDirectory: {DIRECTORY_URL}\n"
+    send_email(subject, body, attach_screenshot=False)
+
+
+def send_delays_alert(now: dt.datetime, result: dict) -> None:
+    subject = f"{TARGET_NAME} is warning of long delays ({now:%H:%M})"
+    body = (
+        f"At {now:%H:%M} on {now:%A %d %B %Y}, {TARGET_NAME} started showing this notice on "
+        f"its ordering pages:\n\n{notice_block(result)}\n\n"
+        "They are still taking orders. You'll get an email if they stop.\n\n"
+        f"Venues checked:\n{venue_lines(result)}\n\nDirectory: {DIRECTORY_URL}\n"
+    )
+    send_email(subject, body, attach_screenshot=True)
+
+
+def send_delays_cleared(now: dt.datetime, since: str | None) -> None:
+    subject = f"{TARGET_NAME}: long-delays warning cleared ({now:%H:%M})"
+    body = (f"{TARGET_NAME} is no longer showing its long-delays notice as of {now:%H:%M}"
+            f"{duration_text(since, now).replace('after', 'up for')}.\n")
+    send_email(subject, body, attach_screenshot=False)
+
+
+# ---------------------------------------------------------------------------
+# One check
+# ---------------------------------------------------------------------------
+def run_check(dry_run: bool = False) -> int:
+    now = dt.datetime.now(ZoneInfo(TIMEZONE))
+    state = load_state()
+    if not dry_run and not in_trading_hours(now):
+        log(f"{now:%Y-%m-%d %H:%M %Z} | outside alert window; skipping")
+        state["last_checked_date"] = now.date().isoformat()
+        save_state(state)
+        return 0
+
+    try:
+        result = check_platform()
+    except Exception as exc:
+        log(f"ERROR during check: {exc}")
+        return 2
+
+    status = result["status"]
+    trading = in_trading_hours(now)
+    log(f"{now:%Y-%m-%d %H:%M %Z} | status={status} | previous={state.get('status')} "
+        f"| trading hours={trading}")
+
+    if status == "unknown":
+        log("Could not tell whether they are open. " + result.get("detail", ""))
+        log("Page text began: " + " ".join(result.get("text", "").split())[:400])
+        return 2
+
+    if dry_run:
+        log("Dry run: not emailing or saving state.")
+        if result.get("notice"):
+            log("Notice found:\n" + notice_block(result))
+        return 0
+
+    if status == state.get("status"):
+        state["last_checked_date"] = now.date().isoformat()
+        save_state(state)
+        return 0                               # nothing changed since the last check
+
+    previous = state
+    state = {"status": status, "since": now.isoformat(), "alerted": False,
+             "notice": result.get("notice", ""), "last_checked_date": now.date().isoformat()}
+
+    if status == "closed":
+        if trading:
+            send_closed_alert(now, result)
+            state["alerted"] = True
+        else:
+            log("Closed outside trading hours: normal closure, no email.")
+    elif previous.get("status") == "closed":
+        if ALERT_ON_REOPEN and previous.get("alerted"):
+            send_reopen_alert(now, previous.get("since"), result)
+            state["alerted"] = status == "delays" and ALERT_ON_DELAYS
+        elif status == "delays" and ALERT_ON_DELAYS and trading:
+            send_delays_alert(now, result)
+            state["alerted"] = True
+    elif status == "delays":
+        if ALERT_ON_DELAYS and trading:
+            send_delays_alert(now, result)
+            state["alerted"] = True
+    elif status == "open" and previous.get("status") == "delays":
+        if ALERT_ON_DELAYS and previous.get("alerted"):
+            send_delays_cleared(now, previous.get("since"))
+
+    save_state(state)
+    return 0
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
+    )
+    parser.add_argument("--every", type=int, metavar="SECONDS",
+                        help="keep running and re-check every SECONDS")
+    parser.add_argument("--test-email", "--test-notification", action="store_true",
+                        help="send a test email and exit")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="run one check and print the result without emailing or saving state")
+    args = parser.parse_args()
+
+    if args.test_email:
+        now = dt.datetime.now(ZoneInfo(TIMEZONE))
+        send_email(
+            "Competitor watch: test notification",
+            f"Notifications are working.\n\nWatching: {TARGET_NAME}\n{DIRECTORY_URL}\n\n"
+            f"Alerting on closures between {TRADING_HOURS} ({TIMEZONE}).\n"
+            f"Sent {now:%Y-%m-%d %H:%M %Z}.\n",
+            attach_screenshot=False,
+        )
+        return 0
+
+    if not args.every:
+        return run_check(dry_run=args.dry_run)
+
+    log(f"Checking every {args.every} seconds. Press Ctrl+C to stop.")
+    while True:
+        try:
+            run_check(dry_run=args.dry_run)
+        except Exception as exc:               # keep the loop alive whatever happens
+            log(f"ERROR: {exc}")
+        time.sleep(args.every)
+
+
+if __name__ == "__main__":
+    sys.exit(main())
