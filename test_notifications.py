@@ -36,13 +36,32 @@ class Notifications(unittest.TestCase):
     def test_full_cycle_and_repeated_states(self):
         for status in ["open", "delays", "delays", "closed", "closed", "delays", "delays", "open", "open"]:
             self.assertEqual(self.check(status), 0)
-        self.assertEqual(len(self.sent), 4)
+        self.assertEqual(len(self.sent), 7)
         self.assertIn("warning of long delays", self.sent[0][0])
-        self.assertIn("STOPPED", self.sent[1][0])
-        self.assertIn("taking orders again", self.sent[2][0])
-        self.assertIn("still showing a long-delays warning", self.sent[2][1])
+        self.assertIn("STILL warning", self.sent[1][0])
+        self.assertIn("STOPPED", self.sent[2][0])
+        self.assertIn("STILL not taking orders", self.sent[3][0])
+        self.assertIn("taking orders again", self.sent[4][0])
+        self.assertIn("still showing a long-delays warning", self.sent[4][1])
+        self.assertIn("STILL warning", self.sent[5][0])
+        self.assertIn("warning cleared", self.sent[6][0])
+        self.assertEqual(len(w.load_state()["notification_receipts"]), 7)
+
+    def test_normal_service_is_quiet_until_next_incident(self):
+        for status in ["closed", "open", "open", "open", "delays", "open", "open"]:
+            self.assertEqual(self.check(status), 0)
+        self.assertEqual(len(self.sent), 4)
+        self.assertIn("STOPPED", self.sent[0][0])
+        self.assertIn("taking orders again", self.sent[1][0])
+        self.assertIn("warning of long delays", self.sent[2][0])
         self.assertIn("warning cleared", self.sent[3][0])
-        self.assertEqual(len(w.load_state()["notification_receipts"]), 4)
+
+    def test_unknown_observation_does_not_repeat_stale_busy_status(self):
+        self.check("delays")
+        self.sent.clear()
+        self.assertEqual(self.check("unknown"), 2)
+        self.assertEqual(self.sent, [])
+        self.assertEqual(w.load_state()["status"], "delays")
 
     def test_failed_closure_delivery_survives_reopening_and_restart(self):
         self.check("delays")
@@ -59,7 +78,8 @@ class Notifications(unittest.TestCase):
         self.assertIn("again", self.sent[1][0])
         self.assertEqual(w.load_state()["pending_notifications"], [])
         self.check("delays")
-        self.assertEqual(len(self.sent), 2)
+        self.assertEqual(len(self.sent), 3)
+        self.assertIn("STILL warning", self.sent[2][0])
 
     def test_retry_does_not_repeat_already_delivered_closure(self):
         self.check("delays")

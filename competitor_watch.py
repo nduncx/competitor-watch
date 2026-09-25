@@ -392,7 +392,7 @@ def summarise(results: list[dict], directory_text: str = "", *,
 
 
 # ---------------------------------------------------------------------------
-# State (so you get one email per closure, not one per check)
+# State (observations, pending notifications, and delivery receipts)
 # ---------------------------------------------------------------------------
 def load_state() -> dict:
     if STATE_FILE.exists():
@@ -528,6 +528,20 @@ def delays_cleared_notification(now: dt.datetime, since: str | None) -> dict:
     return {"subject": subject, "body": body, "attach_screenshot": False}
 
 
+def ongoing_notification(now: dt.datetime, result: dict) -> dict:
+    """One status update per successful check while delayed or closed."""
+    if result["status"] == "closed":
+        subject = f"{TARGET_NAME} is STILL not taking orders ({now:%H:%M})"
+        summary = "They are still not taking orders."
+    else:
+        subject = f"{TARGET_NAME} is STILL warning of long delays ({now:%H:%M})"
+        summary = "They are taking orders, but the long-delays warning remains."
+    body = (f"Check at {now:%H:%M} on {now:%A %d %B %Y} ({TIMEZONE}).\n\n"
+            f"{summary}\n\nNotice:\n{notice_block(result)}\n\n"
+            f"Venues checked:\n{venue_lines(result)}\n\nDirectory: {DIRECTORY_URL}\n")
+    return {"subject": subject, "body": body, "attach_screenshot": False}
+
+
 def import_recovery(state: dict) -> None:
     """Queue a reviewed historical correction once, without falsifying current status."""
     if not RECOVERY_FILE.exists():
@@ -624,9 +638,9 @@ def run_check(dry_run: bool = False) -> int:
     # Persist the observation and its notification together before contacting Slack.
     # A failed delivery stays queued even if the site changes again next time.
     previous = dict(state)
+    notification = None
     if status != previous.get("status"):
         state.update(status=status, since=now.isoformat(), alerted=False)
-        notification = None
         if status == "closed" and trading:
             notification = closed_notification(now, result)
             state["alerted"] = True
@@ -643,12 +657,17 @@ def run_check(dry_run: bool = False) -> int:
         elif status == "open" and previous.get("status") == "delays":
             if ALERT_ON_DELAYS and previous.get("alerted"):
                 notification = delays_cleared_notification(now, previous.get("since"))
-        if notification:
-            notification.update(id=now.isoformat() + ":" + status,
-                                observed_at=now.isoformat())
-            # A later retry could otherwise attach a screenshot from a different check.
-            notification["attach_screenshot"] = False
-            state.setdefault("pending_notifications", []).append(notification)
+    elif trading and (status == "closed" or (status == "delays" and ALERT_ON_DELAYS)):
+        # Pending transitions are delivered first; don't pile repeated reminders on them.
+        if not state.get("pending_notifications"):
+            notification = ongoing_notification(now, result)
+            state["alerted"] = True
+    if notification:
+        notification.update(id=now.isoformat() + ":" + status,
+                            observed_at=now.isoformat())
+        # A later retry could otherwise attach a screenshot from a different check.
+        notification["attach_screenshot"] = False
+        state.setdefault("pending_notifications", []).append(notification)
 
     state.update(notice=result.get("notice", ""), last_observed_at=now.isoformat(),
                  last_checked_date=now.date().isoformat(),

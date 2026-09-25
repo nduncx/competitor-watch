@@ -23,9 +23,9 @@ with tempfile.TemporaryDirectory() as tmp:
  with patch.object(w,'in_trading_hours',return_value=True),patch.object(w,'send_email',side_effect=lambda subject,*a,**k: alerts.append(subject)),contextlib.redirect_stdout(io.StringIO()):
   for r in [closed,closed,w.summarise(venues(['open']*3,True),directory_has_open_venues=True)]:
    with patch.object(w,'check_platform',return_value=r):assert w.run_check()==0
- assert len(alerts)==2,alerts
- assert 'STOPPED' in alerts[0] and 'again' in alerts[1]
- print('PASS: actual delays -> closed -> closed -> open sequence sends exactly one closure and one reopening')
+ assert len(alerts)==3,alerts
+ assert 'STOPPED' in alerts[0] and 'STILL not taking orders' in alerts[1] and 'again' in alerts[2]
+ print('PASS: delays -> closed -> closed -> open sends closure, ongoing closure, and one reopening')
  with patch.object(w,'in_trading_hours',return_value=False),patch.object(w,'check_platform') as browser,patch.object(w,'send_email') as send,contextlib.redirect_stdout(io.StringIO()):
   assert w.run_check()==0;browser.assert_not_called();send.assert_not_called()
  print('PASS: no night-time checks or closure alerts')
