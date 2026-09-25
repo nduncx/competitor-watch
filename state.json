@@ -8,19 +8,19 @@
     "2026-09-25-missed-closure-reopening"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-25T20:57:34.919795+02:00",
+  "last_observed_at": "2026-09-25T21:02:34.920654+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
       "status": "delays"
     },
     {
-      "name": "Boss Kitchen",
-      "status": "delays"
+      "name": "Panzerotto",
+      "status": "unknown"
     },
     {
-      "name": "Salt n Pepper Kitchen",
-      "status": "delays"
+      "name": "Vinopolis Gastrobar",
+      "status": "closed"
     }
   ],
   "notification_receipts": [
@@ -83,6 +83,11 @@
       "id": "2026-09-25T20:57:34.919795+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (20:57)",
       "delivered_at": "2026-09-25T20:58:09.293176+02:00"
+    },
+    {
+      "id": "2026-09-25T21:02:34.920654+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (21:02)",
+      "delivered_at": "2026-09-25T21:03:09.158979+02:00"
     }
   ]
 }
