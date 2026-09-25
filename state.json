@@ -1,7 +1,7 @@
 {
-  "status": "open",
-  "since": "2026-09-25T14:40:34.464745+02:00",
-  "alerted": false,
-  "notice": "",
+  "status": "delays",
+  "since": "2026-09-25T19:07:34.916845+02:00",
+  "alerted": true,
+  "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
   "last_checked_date": "2026-09-25"
 }
