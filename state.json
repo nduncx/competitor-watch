@@ -1,18 +1,18 @@
 {
-  "status": "open",
-  "since": "2026-09-25T20:07:34.924443+02:00",
-  "alerted": false,
-  "notice": "",
+  "status": "closed",
+  "since": "2026-09-25T20:12:34.918643+02:00",
+  "alerted": true,
+  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
   "last_checked_date": "2026-09-25",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-25T20:07:34.924443+02:00",
+  "last_observed_at": "2026-09-25T20:12:34.918643+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "open"
+      "status": "closed"
     },
     {
       "name": "OAKBERRY",
@@ -33,6 +33,11 @@
       "id": "2026-09-25T20:07:34.924443+02:00:open",
       "subject": "Hungry Monkey: long-delays warning cleared (20:07)",
       "delivered_at": "2026-09-25T20:08:08.466697+02:00"
+    },
+    {
+      "id": "2026-09-25T20:12:34.918643+02:00:closed",
+      "subject": "Hungry Monkey has STOPPED taking orders (20:12)",
+      "delivered_at": "2026-09-25T20:13:06.356421+02:00"
     }
   ]
 }
