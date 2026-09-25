@@ -8,19 +8,19 @@
     "2026-09-25-missed-closure-reopening"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-25T21:23:09.922579+02:00",
+  "last_observed_at": "2026-09-25T21:28:09.898109+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "closed"
+      "status": "open"
     },
     {
       "name": "Panzerotto",
-      "status": "closed"
+      "status": "delays"
     },
     {
       "name": "Rendezvous Chargrill",
-      "status": "closed"
+      "status": "delays"
     }
   ],
   "notification_receipts": [
@@ -108,6 +108,14 @@
       "id": "2026-09-25T21:23:09.922579+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (21:23)",
       "delivered_at": "2026-09-25T21:23:40.156287+02:00"
+    },
+    {
+      "id": "2026-09-25T21:28:09.898109+02:00:closed",
+      "subject": "Hungry Monkey: 21:28 check unconfirmed - last confirmed not taking orders at 21:08",
+      "delivered_at": "2026-09-25T21:28:40.318870+02:00"
     }
-  ]
+  ],
+  "recovery_streak": 1,
+  "recovery_candidate_at": "2026-09-25T21:28:09.898109+02:00",
+  "last_result": "delays"
 }
