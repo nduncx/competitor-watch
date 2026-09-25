@@ -8,7 +8,7 @@
     "2026-09-25-missed-closure-reopening"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-25T20:12:34.918643+02:00",
+  "last_observed_at": "2026-09-25T20:17:34.918560+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -38,6 +38,11 @@
       "id": "2026-09-25T20:12:34.918643+02:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (20:12)",
       "delivered_at": "2026-09-25T20:13:06.356421+02:00"
+    },
+    {
+      "id": "2026-09-25T20:17:34.918560+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (20:17)",
+      "delivered_at": "2026-09-25T20:18:06.476535+02:00"
     }
   ]
 }
