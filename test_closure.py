@@ -18,7 +18,7 @@ page.locator.return_value.all_inner_texts.return_value=['Everyone is a Hungry Mo
 page.url='https://example.com';assert w.read_venue_page(page)['status']=='platform_closed'
 print('PASS: visible resume-deliveries popup takes precedence over generic basket closure')
 with tempfile.TemporaryDirectory() as tmp:
- w.STATE_FILE=Path(tmp)/'state.json';alerts=[]
+ w.STATE_FILE=Path(tmp)/'state.json';w.RECOVERY_FILE=Path(tmp)/'no-recovery.json';alerts=[]
  w.save_state({'status':'delays','since':'2026-09-25T19:07:00+02:00','alerted':True})
  with patch.object(w,'in_trading_hours',return_value=True),patch.object(w,'send_email',side_effect=lambda subject,*a,**k: alerts.append(subject)),contextlib.redirect_stdout(io.StringIO()):
   for r in [closed,closed,w.summarise(venues(['open']*3,True),directory_has_open_venues=True)]:

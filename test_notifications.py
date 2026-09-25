@@ -21,9 +21,11 @@ class Notifications(unittest.TestCase):
         w.RECOVERY_FILE = Path(self.tmp.name) / "recovery.json"
         w.ALERT_ON_DELAYS = w.ALERT_ON_REOPEN = True
         self.sent = []
-        self.enterContext(patch.object(w, "in_trading_hours", return_value=True))
-        self.enterContext(patch.object(w, "send_email", side_effect=lambda *a, **k: self.sent.append(a)))
-        self.enterContext(contextlib.redirect_stdout(io.StringIO()))
+        self.stack = contextlib.ExitStack()
+        self.addCleanup(self.stack.close)
+        self.stack.enter_context(patch.object(w, "in_trading_hours", return_value=True))
+        self.stack.enter_context(patch.object(w, "send_email", side_effect=lambda *a, **k: self.sent.append(a)))
+        self.stack.enter_context(contextlib.redirect_stdout(io.StringIO()))
 
     def check(self, status, dry_run=False):
         result = {"status": status, "notice": "long delays" if status == "delays" else "",
