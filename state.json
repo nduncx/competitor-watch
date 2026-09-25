@@ -8,18 +8,18 @@
     "2026-09-25-missed-closure-reopening"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-25T21:08:10.025167+02:00",
+  "last_observed_at": "2026-09-25T21:13:09.893771+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
       "status": "closed"
     },
     {
-      "name": "Ramsons Supermarket",
+      "name": "Panzerotto",
       "status": "closed"
     },
     {
-      "name": "Panzerotto",
+      "name": "Rendezvous Chargrill",
       "status": "closed"
     }
   ],
@@ -93,6 +93,11 @@
       "id": "2026-09-25T21:08:10.025167+02:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (21:08)",
       "delivered_at": "2026-09-25T21:08:40.152004+02:00"
+    },
+    {
+      "id": "2026-09-25T21:13:09.893771+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (21:13)",
+      "delivered_at": "2026-09-25T21:13:40.534733+02:00"
     }
   ]
 }
