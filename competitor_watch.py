@@ -53,6 +53,7 @@ TARGET_NAME = setting("TARGET_NAME", "Hungry Monkey")
 
 # How many venues to open per check. More = fewer false alarms, slower check.
 VENUES_TO_CHECK = int(setting("VENUES_TO_CHECK", "3"))
+PREFERRED_VENUE = setting("PREFERRED_VENUE", "Essaouira")
 ORDER_BUTTON_TEXT = setting("ORDER_BUTTON_TEXT", "ORDER NOW")
 
 # Hungry Monkey's normal trading hours, local time, 24-hour clock.
@@ -175,6 +176,15 @@ def looks_open(card_text: str) -> bool:
     ))
 
 
+def select_venues(cards: list[dict]) -> list[dict]:
+    """Keep the user's late-closing anchor and fill remaining slots from open venues."""
+    preferred = next((c for c in cards if PREFERRED_VENUE.casefold() in c["name"].casefold()), None)
+    chosen = [preferred] if preferred else []
+    others = [c for c in cards if c is not preferred]
+    candidates = [c for c in others if c["looks_open"]] + [c for c in others if not c["looks_open"]]
+    return (chosen + candidates)[:VENUES_TO_CHECK]
+
+
 # ---------------------------------------------------------------------------
 # Browser work
 # ---------------------------------------------------------------------------
@@ -272,10 +282,11 @@ def read_venue_page(venue_page) -> dict:
     venue_page.wait_for_timeout(2_500)            # let pop-ups finish appearing
     text = venue_page.evaluate("document.body.innerText") or ""
     popups = venue_page.locator(
-        '[role="dialog"], .mat-dialog-container, .modal-content, .cdk-overlay-pane'
+        '[role="dialog"]:visible, .mat-dialog-container:visible, '
+        '.modal-content:visible, .cdk-overlay-pane:visible'
     ).all_inner_texts()
     return {
-        "status": classify_venue(text),
+        "status": classify_venue("\n".join([text, *popups])),
         "notice": extract_notice(text, popups),
         "url": venue_page.url,
         "text": text,
@@ -301,7 +312,7 @@ def check_platform() -> dict:
                         "text": directory_text}
 
             open_cards = [c for c in cards if c["looks_open"]]
-            chosen = (open_cards or cards)[:VENUES_TO_CHECK]
+            chosen = select_venues(cards)
             log(f"Directory lists {len(cards)} venues with an {ORDER_BUTTON_TEXT} button, "
                 f"{len(open_cards)} of them showing as open. Checking: "
                 + ", ".join(c["name"] for c in chosen))
@@ -332,14 +343,15 @@ def check_platform() -> dict:
         finally:
             browser.close()
 
-    summary = summarise(results, directory_text)
-    if not open_cards and not any(r["status"] == "platform_closed" for r in results):
+    summary = summarise(results, directory_text, directory_has_open_venues=bool(open_cards))
+    if not open_cards and summary["status"] not in {"closed", "delays"}:
         summary["status"] = "no_open_venues"
         summary["detail"] = "Directory has no venues with current delivery estimates."
     return summary
 
 
-def summarise(results: list[dict], directory_text: str = "") -> dict:
+def summarise(results: list[dict], directory_text: str = "", *,
+              directory_has_open_venues: bool | None = None) -> dict:
     """Combine per-venue results into one platform status."""
     statuses = [r["status"] for r in results]
     known = [r for r in results if r["status"] != "unknown"]
@@ -349,7 +361,8 @@ def summarise(results: list[dict], directory_text: str = "") -> dict:
         status, deciding = "closed", next(r for r in results if r["status"] == "platform_closed")
     elif known and all(r["status"] == "closed" for r in known) \
             and len(known) == len(results) and len(known) >= 2 \
-            and all(r.get("listed_open", False) for r in known):
+            and (sum(bool(r.get("listed_open", False)) for r in known) >= 2
+                 or directory_has_open_venues is False):
         status, deciding = "closed", known[0]
     elif "delays" in statuses:
         status, deciding = "delays", next(r for r in results if r["status"] == "delays")
@@ -473,15 +486,15 @@ def duration_text(since: str | None, now: dt.datetime) -> str:
 def send_closed_alert(now: dt.datetime, result: dict) -> None:
     subject = f"{TARGET_NAME} has STOPPED taking orders ({now:%H:%M})"
     body = (
-        f"{TARGET_NAME} stopped taking orders at {now:%H:%M} on {now:%A %d %B %Y}.\n\n"
+        f"{TARGET_NAME} was detected as not taking orders at {now:%H:%M} on {now:%A %d %B %Y}.\n\n"
         f"Notice on their ordering page:\n\n{notice_block(result)}\n\n"
-        f"Venues checked (all listed as open on the directory):\n{venue_lines(result)}\n\n"
+        f"Venues checked:\n{venue_lines(result)}\n\n"
         f"Directory: {DIRECTORY_URL}\n"
         f"Page in the screenshot: {result.get('url') or '-'}\n\n"
         "A screenshot is attached."
     )
     if ALERT_ON_REOPEN:
-        body += " You'll get another email when they start taking orders again."
+        body += " You'll get another notification when they start taking orders again."
     send_email(subject, body + "\n", attach_screenshot=True)
 
 
