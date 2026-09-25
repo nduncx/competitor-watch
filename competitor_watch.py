@@ -280,26 +280,90 @@ def open_venue(context, page, card):
         return page, False
 
 
+NOTICE_SELECTOR = '[role="dialog"], [role="alertdialog"], md-dialog, .preo-modal, .mat-dialog-container, .modal-content'
+DISMISS_LABEL = re.compile(r"^(?:got\s+it|ok|close|dismiss)$", re.IGNORECASE)
+
+
+def notice_snapshot(page) -> dict:
+    """Capture rendered evidence and leaf dialog containers, excluding duplicate wrappers."""
+    return page.evaluate(r"""selector => {
+      const visible = e => e.getClientRects().length && getComputedStyle(e).visibility !== 'hidden';
+      const dialogs = [...document.querySelectorAll(selector)].filter(visible);
+      const leaves = dialogs.filter(e => !dialogs.some(other => other !== e && e.contains(other)));
+      return {text: document.body.innerText || '', notices: leaves.map(e => ({
+        text: e.innerText || '', buttons: [...e.querySelectorAll('button')].filter(visible).map(b => b.innerText.trim()),
+        has_inputs: [...e.querySelectorAll('input, textarea, select, [contenteditable="true"]')].some(visible)
+      }))};
+    }""", NOTICE_SELECTOR)
+
+
 def read_venue_page(venue_page) -> dict:
-    """Wait for a venue's ordering page to render and classify it."""
-    needles = (PLATFORM_CLOSED_PHRASES + CLOSED_PHRASES + DELAY_PHRASES
-               + OPEN_PHRASES + PAGE_LOADED_PHRASES)
+    """Read the complete bounded sequence; never clear evidence by dismissing it."""
+    needles = PLATFORM_CLOSED_PHRASES + CLOSED_PHRASES + OPEN_PHRASES + PAGE_LOADED_PHRASES
     try:
         venue_page.wait_for_function(PAGE_HAS_TEXT, arg=needles, timeout=30_000)
     except Exception:
         pass
-    venue_page.wait_for_timeout(2_500)            # let pop-ups finish appearing
-    text = venue_page.evaluate("document.body.innerText") or ""
-    popups = venue_page.locator(
-        '[role="dialog"]:visible, .mat-dialog-container:visible, '
-        '.modal-content:visible, .cdk-overlay-pane:visible'
-    ).all_inner_texts()
-    return {
-        "status": classify_venue("\n".join([text, *popups])),
-        "notice": extract_notice(text, popups),
-        "url": venue_page.url,
-        "text": text,
-    }
+    venue_page.wait_for_timeout(2_500)
+    transcript, texts, popups = [], [], []
+    unresolved = False
+    final_text = ""
+    for step in range(5):
+        try:
+            snapshot = notice_snapshot(venue_page)
+            final_text = snapshot["text"]
+            texts.append(final_text)
+            notices = snapshot["notices"]
+            transcript.append({"step": step, "notices": notices})
+            popups.extend(n["text"] for n in notices)
+            if not notices:
+                break
+            # Only dismiss a known informational notice, never forms or generic confirmations.
+            if step == 4 or len(notices) != 1:
+                unresolved = True
+                break
+            notice = notices[0]
+            if (notice["has_inputs"] or not any(p in notice["text"].lower() for p in
+                    PLATFORM_CLOSED_PHRASES + CLOSED_PHRASES + DELAY_PHRASES)):
+                unresolved = True
+                break
+            labels = [b for b in notice["buttons"] if DISMISS_LABEL.fullmatch(b)]
+            if len(labels) != 1:
+                unresolved = True
+                break
+            # The button may belong to nested wrappers; an exact role match identifies one DOM node.
+            button = venue_page.get_by_role("button", name=labels[0], exact=True)
+            button.click(timeout=2_000)
+            transcript[-1]["action"] = labels[0]
+            venue_page.wait_for_function(r"""({selector, old}) => {
+              const visible = e => e.getClientRects().length && getComputedStyle(e).visibility !== 'hidden';
+              const dialogs = [...document.querySelectorAll(selector)].filter(visible);
+              const leaves = dialogs.filter(e => !dialogs.some(other => other !== e && e.contains(other)));
+              return JSON.stringify(leaves.map(e => e.innerText || '')) !== JSON.stringify(old);
+            }""", arg={"selector": NOTICE_SELECTOR, "old": [n["text"] for n in notices]}, timeout=2_500)
+            venue_page.wait_for_timeout(500)
+        except Exception as exc:
+            transcript.append({"step": step, "error": type(exc).__name__})
+            unresolved = True
+            break
+    combined = "\n".join(texts + popups)
+    status = classify_venue(combined)
+    try:
+        order_control = venue_page.get_by_role("button", name=re.compile(r"^collection or delivery$", re.I))
+        order_button = (not unresolved and order_control.count() == 1
+                        and order_control.is_visible() and order_control.is_enabled())
+        if order_button:
+            # Check whether an overlay intercepts it, without actually clicking or progressing an order.
+            order_control.click(trial=True, timeout=1_000)
+    except Exception:
+        order_button, unresolved = False, True
+    if status not in {"closed", "platform_closed"} and (unresolved or not order_button):
+        status = "unknown"
+    result = {"status": status, "notice": extract_notice(combined, popups),
+              "url": venue_page.url, "text": combined, "notice_transcript": transcript,
+              "unresolved_notice": unresolved, "order_button_after_notices": order_button}
+    log("Notice sequence: " + json.dumps({k: v for k, v in result.items() if k != "text"}, ensure_ascii=False))
+    return result
 
 
 def check_platform() -> dict:
@@ -468,8 +532,8 @@ def send_email(subject: str, body: str, attach_screenshot: bool) -> None:
 VENUE_LABELS = {
     "platform_closed": "refusing orders (Hungry Monkey's own notice)",
     "closed": "refusing orders",
-    "delays": "taking orders, warning of long delays",
-    "open": "taking orders",
+    "delays": "long-delays notice; ordering control shown, delivery not verified",
+    "open": "ordering control shown; delivery not verified",
     "unknown": "could not read the page",
 }
 
@@ -509,9 +573,11 @@ def closed_notification(now: dt.datetime, result: dict) -> dict:
 
 
 def reopen_notification(now: dt.datetime, closed_since: str | None, result: dict) -> dict:
-    subject = f"{TARGET_NAME} is taking orders again ({now:%H:%M})"
-    body = (f"{TARGET_NAME} was detected taking orders again at {now:%H:%M}"
-            f"{duration_text(closed_since, now)}.\n")
+    subject = f"{TARGET_NAME}: ordering pages read as taking orders again ({now:%H:%M}) - delivery not verified"
+    body = (f"{RECOVERY_CONFIRMATIONS} consecutive checks found an ordering control without a refusal "
+            f"on the deciding pages, as of {now:%H:%M}{duration_text(closed_since, now)}. "
+            "This is a page-level reading. Delivery availability is not verified: "
+            "the observed Delivery flow requires an address before offering delivery times.\n")
     if result["status"] == "delays":
         body += f"\nThey are still showing a long-delays warning:\n\n{notice_block(result)}\n"
     body += f"\nVenues checked:\n{venue_lines(result)}\n\nDirectory: {DIRECTORY_URL}\n"
@@ -523,16 +589,18 @@ def delays_notification(now: dt.datetime, result: dict) -> dict:
     body = (
         f"At {now:%H:%M} on {now:%A %d %B %Y}, {TARGET_NAME} started showing this notice on "
         f"its ordering pages:\n\n{notice_block(result)}\n\n"
-        "They are still taking orders. You'll get another notification if they stop.\n\n"
+        "An ordering control is shown, but delivery availability is not verified.\n\n"
         f"Venues checked:\n{venue_lines(result)}\n\nDirectory: {DIRECTORY_URL}\n"
     )
     return {"subject": subject, "body": body, "attach_screenshot": True}
 
 
 def delays_cleared_notification(now: dt.datetime, since: str | None) -> dict:
-    subject = f"{TARGET_NAME}: long-delays warning cleared ({now:%H:%M})"
+    subject = f"{TARGET_NAME}: long-delays warning cleared ({now:%H:%M}) - page-level reading"
     body = (f"{TARGET_NAME} is no longer showing its long-delays notice as of {now:%H:%M}"
-            f"{duration_text(since, now).replace('after', 'up for')}.\n")
+            f"{duration_text(since, now).replace('after', 'up for')}. "
+            f"This follows {RECOVERY_CONFIRMATIONS} consecutive page-level readings. "
+            "Delivery availability has not been verified.\n")
     return {"subject": subject, "body": body, "attach_screenshot": False}
 
 
@@ -543,7 +611,7 @@ def ongoing_notification(now: dt.datetime, result: dict) -> dict:
         summary = "They are still not taking orders."
     else:
         subject = f"{TARGET_NAME} is STILL warning of long delays ({now:%H:%M})"
-        summary = "They are taking orders, but the long-delays warning remains."
+        summary = "The long-delays warning remains. An ordering control is shown; delivery availability is not verified."
     body = (f"Check at {now:%H:%M} on {now:%A %d %B %Y} ({TIMEZONE}).\n\n"
             f"{summary}\n\nNotice:\n{notice_block(result)}\n\n"
             f"Venues checked:\n{venue_lines(result)}\n\nDirectory: {DIRECTORY_URL}\n")
@@ -556,7 +624,7 @@ def unconfirmed_update_notification(now: dt.datetime, state: dict, result: dict,
     but has not yet been confirmed by the following check. The headline asserts
     nothing about the present: it names the last confirmed status and when."""
     confirmed_label = {"closed": "not taking orders",
-                       "delays": "taking orders with a long-delays warning"}.get(
+                       "delays": "showing a long-delays warning"}.get(
                            state.get("status"), state.get("status"))
     confirmed_at = state.get("last_confirmed_at") or state.get("since")
     confirmed_time = dt.datetime.fromisoformat(confirmed_at).strftime("%H:%M") if confirmed_at else "?"
@@ -751,7 +819,11 @@ def run_check(dry_run: bool = False) -> int:
     state.update(notice=result.get("notice", "") if status == result["status"] else state.get("notice", ""),
                  last_observed_at=now.isoformat(), last_result=result["status"],
                  last_checked_date=now.date().isoformat(),
-                 last_venues=[{"name": v.get("name"), "status": v["status"]}
+                 last_venues=[{"name": v.get("name"), "status": v["status"],
+                               "notice": v.get("notice", ""),
+                               "notice_transcript": v.get("notice_transcript", []),
+                               "unresolved_notice": v.get("unresolved_notice", False),
+                               "order_button_after_notices": v.get("order_button_after_notices", False)}
                               for v in result.get("venues", [])])
     save_state(state)
     return 0 if flush_notifications(state) else 3

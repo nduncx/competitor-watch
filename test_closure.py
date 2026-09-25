@@ -15,10 +15,9 @@ assert w.summarise(venues(['closed']*3),directory_has_open_venues=True)['status'
 assert w.summarise(venues(['closed']*3,True),directory_has_open_venues=True)['status']=='closed'
 assert w.summarise(venues(['platform_closed','unknown','unknown']),directory_has_open_venues=False)['status']=='closed'
 print('PASS: observed three closed stores with no delivery estimates -> closed; ambiguous and individual closures stay guarded')
-page=Mock();page.evaluate.return_value='Basket. Sorry, we’re not taking orders right now'
-page.locator.return_value.all_inner_texts.return_value=['Everyone is a Hungry Monkey today! We will resume our deliveries at 19:25pm.']
-page.url='https://example.com';assert w.read_venue_page(page)['status']=='platform_closed'
-print('PASS: visible resume-deliveries popup takes precedence over generic basket closure')
+# Real DOM notice sequencing is exercised by test_dialog_regressions.py.
+assert w.classify_venue("Basket. Sorry, we’re not taking orders right now\nEveryone is a Hungry Monkey today! We will resume our deliveries at 19:25pm.")=="platform_closed"
+print('PASS: platform pause text takes precedence over generic basket closure')
 with tempfile.TemporaryDirectory() as tmp:
  w.STATE_FILE=Path(tmp)/'state.json';w.RECOVERY_FILE=Path(tmp)/'no-recovery.json';alerts=[]
  w.save_state({'status':'delays','since':'2026-09-25T19:07:00+02:00','alerted':True})

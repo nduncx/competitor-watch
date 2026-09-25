@@ -41,3 +41,12 @@ No OVH/OpenClaw changes have been made. A VPS and external heartbeat monitoring 
 ## Validation
 
 Run `python -m unittest discover -p "test_*.py" -v`. The containment tests cover the default two-check recovery rule, both disputed alert sequences, complete incident/recovery cycles, failed checks, long gaps, overnight skips, and notification failures/retries. The older notification tests use one-check recovery to isolate queue and transport behaviour. These are mocked tests; verify a live message in Slack separately.
+
+
+### Reading sequential notices
+
+The detector reads informational notices before dismissing OK / GOT IT / Close / Dismiss, then reads the next notice and the final basket. It retains every refusal and platform-pause notice found during the check; an estimated reopening time never changes status. Unresolved dialogs, failed dismissal and the action limit prevent a recovery inference.
+
+Reopening remains a reading of the ordering pages, not a completed or verified delivery order. The observed Delivery flow requests an address before presenting delivery times. No address, personal information, payment or order is submitted by this monitor.
+
+Local browser regression fixtures are in `test_dialog_regressions.py`. They exercise the real browser reader against simulated sequential notices; passing these tests does not itself verify the live service or Slack delivery.
