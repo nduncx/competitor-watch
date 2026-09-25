@@ -8,18 +8,18 @@
     "2026-09-25-missed-closure-reopening"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-25T21:43:09.894807+02:00",
+  "last_observed_at": "2026-09-25T21:48:09.895175+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
       "status": "delays"
     },
     {
-      "name": "El Kasbah",
+      "name": "Candy Castle",
       "status": "delays"
     },
     {
-      "name": "Candy Castle",
+      "name": "Cafetto Nostro",
       "status": "delays"
     }
   ],
@@ -128,9 +128,14 @@
       "id": "2026-09-25T21:43:09.894807+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:43)",
       "delivered_at": "2026-09-25T21:43:42.102480+02:00"
+    },
+    {
+      "id": "2026-09-25T21:48:09.895175+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (21:48)",
+      "delivered_at": "2026-09-25T21:48:42.930720+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-25T21:43:09.894807+02:00"
+  "last_confirmed_at": "2026-09-25T21:48:09.895175+02:00"
 }
