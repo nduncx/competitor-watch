@@ -1,7 +1,33 @@
 {
   "status": "delays",
-  "since": "2026-09-25T19:07:34.916845+02:00",
+  "since": "2026-09-25T19:32:34.854849+02:00",
   "alerted": true,
   "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-  "last_checked_date": "2026-09-25"
+  "last_checked_date": "2026-09-25",
+  "applied_recoveries": [
+    "2026-09-25-missed-closure-reopening"
+  ],
+  "pending_notifications": [],
+  "last_observed_at": "2026-09-25T19:52:34.917790+02:00",
+  "last_venues": [
+    {
+      "name": "Essaouira",
+      "status": "delays"
+    },
+    {
+      "name": "Era",
+      "status": "delays"
+    },
+    {
+      "name": "Royal Calpe",
+      "status": "delays"
+    }
+  ],
+  "notification_receipts": [
+    {
+      "id": "2026-09-25-missed-closure-reopening",
+      "subject": "Hungry Monkey \u2014 correction: earlier closure and reopening alerts were missed",
+      "delivered_at": "2026-09-25T19:53:08.669828+02:00"
+    }
+  ]
 }
