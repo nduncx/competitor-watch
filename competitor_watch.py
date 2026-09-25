@@ -82,6 +82,7 @@ ALERT_ON_REOPEN = setting("ALERT_ON_REOPEN", "true").strip().lower() == "true"
 ALERT_ON_DELAYS = setting("ALERT_ON_DELAYS", "true").strip().lower() == "true"
 
 STATE_FILE = Path(setting("STATE_FILE", "state.json"))
+RECOVERY_FILE = Path(setting("RECOVERY_FILE", "notification-recovery.json"))
 SCREENSHOT_FILE = Path(setting("SCREENSHOT_FILE", "evidence.png"))
 
 # Email. For Gmail: smtp.gmail.com, port 587, and an App Password (SETUP.md).
@@ -403,7 +404,9 @@ def load_state() -> dict:
 
 
 def save_state(state: dict) -> None:
-    STATE_FILE.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
+    temporary = STATE_FILE.with_suffix(STATE_FILE.suffix + ".tmp")
+    temporary.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
+    temporary.replace(STATE_FILE)
 
 
 # ---------------------------------------------------------------------------
@@ -483,47 +486,89 @@ def duration_text(since: str | None, now: dt.datetime) -> str:
     return f" after about {minutes} minutes"
 
 
-def send_closed_alert(now: dt.datetime, result: dict) -> None:
+def closed_notification(now: dt.datetime, result: dict) -> dict:
     subject = f"{TARGET_NAME} has STOPPED taking orders ({now:%H:%M})"
     body = (
         f"{TARGET_NAME} was detected as not taking orders at {now:%H:%M} on {now:%A %d %B %Y}.\n\n"
         f"Notice on their ordering page:\n\n{notice_block(result)}\n\n"
         f"Venues checked:\n{venue_lines(result)}\n\n"
         f"Directory: {DIRECTORY_URL}\n"
-        f"Page in the screenshot: {result.get('url') or '-'}\n\n"
-        "A screenshot is attached."
+        f"Ordering page: {result.get('url') or '-'}\n\n"
     )
     if ALERT_ON_REOPEN:
         body += " You'll get another notification when they start taking orders again."
-    send_email(subject, body + "\n", attach_screenshot=True)
+    return {"subject": subject, "body": body + "\n", "attach_screenshot": True}
 
 
-def send_reopen_alert(now: dt.datetime, closed_since: str | None, result: dict) -> None:
+def reopen_notification(now: dt.datetime, closed_since: str | None, result: dict) -> dict:
     subject = f"{TARGET_NAME} is taking orders again ({now:%H:%M})"
-    body = (f"{TARGET_NAME} started taking orders again at {now:%H:%M}"
+    body = (f"{TARGET_NAME} was detected taking orders again at {now:%H:%M}"
             f"{duration_text(closed_since, now)}.\n")
     if result["status"] == "delays":
         body += f"\nThey are still showing a long-delays warning:\n\n{notice_block(result)}\n"
     body += f"\nVenues checked:\n{venue_lines(result)}\n\nDirectory: {DIRECTORY_URL}\n"
-    send_email(subject, body, attach_screenshot=False)
+    return {"subject": subject, "body": body, "attach_screenshot": False}
 
 
-def send_delays_alert(now: dt.datetime, result: dict) -> None:
+def delays_notification(now: dt.datetime, result: dict) -> dict:
     subject = f"{TARGET_NAME} is warning of long delays ({now:%H:%M})"
     body = (
         f"At {now:%H:%M} on {now:%A %d %B %Y}, {TARGET_NAME} started showing this notice on "
         f"its ordering pages:\n\n{notice_block(result)}\n\n"
-        "They are still taking orders. You'll get an email if they stop.\n\n"
+        "They are still taking orders. You'll get another notification if they stop.\n\n"
         f"Venues checked:\n{venue_lines(result)}\n\nDirectory: {DIRECTORY_URL}\n"
     )
-    send_email(subject, body, attach_screenshot=True)
+    return {"subject": subject, "body": body, "attach_screenshot": True}
 
 
-def send_delays_cleared(now: dt.datetime, since: str | None) -> None:
+def delays_cleared_notification(now: dt.datetime, since: str | None) -> dict:
     subject = f"{TARGET_NAME}: long-delays warning cleared ({now:%H:%M})"
     body = (f"{TARGET_NAME} is no longer showing its long-delays notice as of {now:%H:%M}"
             f"{duration_text(since, now).replace('after', 'up for')}.\n")
-    send_email(subject, body, attach_screenshot=False)
+    return {"subject": subject, "body": body, "attach_screenshot": False}
+
+
+def import_recovery(state: dict) -> None:
+    """Queue a reviewed historical correction once, without falsifying current status."""
+    if not RECOVERY_FILE.exists():
+        return
+    correction = json.loads(RECOVERY_FILE.read_text(encoding="utf-8"))
+    key = correction["id"]
+    applied = state.setdefault("applied_recoveries", [])
+    if key in applied:
+        return
+    item = {"id": key, "subject": correction["subject"], "body": correction["body"],
+            "attach_screenshot": False, "historical": True}
+    if not all(isinstance(item[k], str) and item[k].strip() for k in ("id", "subject", "body")):
+        raise ValueError("Invalid reviewed notification recovery")
+    state.setdefault("pending_notifications", []).append(item)
+    reconciliation = correction.get("state_reconciliation", {})
+    if (reconciliation and state.get("status") == reconciliation.get("expected_status")
+            and state.get("since") == reconciliation.get("expected_since")):
+        state["since"] = reconciliation["corrected_since"]
+    applied.append(key)
+    save_state(state)
+
+
+def flush_notifications(state: dict) -> bool:
+    """Deliver in observation order, retaining failures for the next check."""
+    pending = state.setdefault("pending_notifications", [])
+    while pending:
+        item = pending[0]
+        try:
+            send_email(item["subject"], item["body"], item.get("attach_screenshot", False))
+        except Exception as exc:
+            # Never include transport exceptions that could contain credentials.
+            log(f"Notification delivery not confirmed ({type(exc).__name__}); retained for retry.")
+            save_state(state)
+            return False
+        pending.pop(0)
+        receipts = state.setdefault("notification_receipts", [])
+        receipts.append({"id": item["id"], "subject": item["subject"],
+                         "delivered_at": dt.datetime.now(ZoneInfo(TIMEZONE)).isoformat()})
+        state["notification_receipts"] = receipts[-100:]
+        save_state(state)
+    return True
 
 
 # ---------------------------------------------------------------------------
@@ -532,16 +577,20 @@ def send_delays_cleared(now: dt.datetime, since: str | None) -> None:
 def run_check(dry_run: bool = False) -> int:
     now = dt.datetime.now(ZoneInfo(TIMEZONE))
     state = load_state()
+    if not dry_run:
+        import_recovery(state)
     if not dry_run and not in_trading_hours(now):
         log(f"{now:%Y-%m-%d %H:%M %Z} | outside alert window; skipping")
         state["last_checked_date"] = now.date().isoformat()
         save_state(state)
-        return 0
+        return 0 if flush_notifications(state) else 3
 
     try:
         result = check_platform()
     except Exception as exc:
         log(f"ERROR during check: {exc}")
+        if not dry_run:
+            flush_notifications(state)
         return 2
 
     status = result["status"]
@@ -555,11 +604,15 @@ def run_check(dry_run: bool = False) -> int:
             log("Outside trading hours: expected overnight state; no availability inference.")
             return 0
         log("During trading hours: cannot establish platform availability.")
+        if not dry_run:
+            flush_notifications(state)
         return 2
 
     if status == "unknown":
         log("Could not tell whether they are open. " + result.get("detail", ""))
         log("Page text began: " + " ".join(result.get("text", "").split())[:400])
+        if not dry_run:
+            flush_notifications(state)
         return 2
 
     if dry_run:
@@ -568,38 +621,41 @@ def run_check(dry_run: bool = False) -> int:
             log("Notice found:\n" + notice_block(result))
         return 0
 
-    if status == state.get("status"):
-        state["last_checked_date"] = now.date().isoformat()
-        save_state(state)
-        return 0                               # nothing changed since the last check
-
-    previous = state
-    state = {"status": status, "since": now.isoformat(), "alerted": False,
-             "notice": result.get("notice", ""), "last_checked_date": now.date().isoformat()}
-
-    if status == "closed":
-        if trading:
-            send_closed_alert(now, result)
+    # Persist the observation and its notification together before contacting Slack.
+    # A failed delivery stays queued even if the site changes again next time.
+    previous = dict(state)
+    if status != previous.get("status"):
+        state.update(status=status, since=now.isoformat(), alerted=False)
+        notification = None
+        if status == "closed" and trading:
+            notification = closed_notification(now, result)
             state["alerted"] = True
-        else:
-            log("Closed outside trading hours: normal closure, no email.")
-    elif previous.get("status") == "closed":
-        if ALERT_ON_REOPEN and previous.get("alerted"):
-            send_reopen_alert(now, previous.get("since"), result)
-            state["alerted"] = status == "delays" and ALERT_ON_DELAYS
+        elif previous.get("status") == "closed":
+            if ALERT_ON_REOPEN and previous.get("alerted"):
+                notification = reopen_notification(now, previous.get("since"), result)
+                state["alerted"] = status == "delays" and ALERT_ON_DELAYS
+            elif status == "delays" and ALERT_ON_DELAYS and trading:
+                notification = delays_notification(now, result)
+                state["alerted"] = True
         elif status == "delays" and ALERT_ON_DELAYS and trading:
-            send_delays_alert(now, result)
+            notification = delays_notification(now, result)
             state["alerted"] = True
-    elif status == "delays":
-        if ALERT_ON_DELAYS and trading:
-            send_delays_alert(now, result)
-            state["alerted"] = True
-    elif status == "open" and previous.get("status") == "delays":
-        if ALERT_ON_DELAYS and previous.get("alerted"):
-            send_delays_cleared(now, previous.get("since"))
+        elif status == "open" and previous.get("status") == "delays":
+            if ALERT_ON_DELAYS and previous.get("alerted"):
+                notification = delays_cleared_notification(now, previous.get("since"))
+        if notification:
+            notification.update(id=now.isoformat() + ":" + status,
+                                observed_at=now.isoformat())
+            # A later retry could otherwise attach a screenshot from a different check.
+            notification["attach_screenshot"] = False
+            state.setdefault("pending_notifications", []).append(notification)
 
+    state.update(notice=result.get("notice", ""), last_observed_at=now.isoformat(),
+                 last_checked_date=now.date().isoformat(),
+                 last_venues=[{"name": v.get("name"), "status": v["status"]}
+                              for v in result.get("venues", [])])
     save_state(state)
-    return 0
+    return 0 if flush_notifications(state) else 3
 
 
 def main() -> int:
