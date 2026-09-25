@@ -127,6 +127,55 @@ class DialogRegressionTests(unittest.TestCase):
         result,_=self.inspect(html)
         self.assertEqual(result['status'],'unknown')
 
+    def test_semantic_dialog_retains_sibling_footer(self):
+        html=fixture([[DELAY,'OK'],[CLOSED,'GOT IT'],[PAUSE,'OK']])
+        html=html.replace('content.append(text,footer);dialog.append(content);',
+                          'content.append(text);dialog.append(content,footer);')
+        result,pressed=self.inspect(html)
+        self.assertEqual(result['status'],'platform_closed')
+        self.assertEqual(pressed,['OK','GOT IT','OK'])
+
+    def test_cookie_dialog_is_rejected_before_reading_status_queue(self):
+        html=fixture([[DELAY,'OK'],[CLOSED,'GOT IT'],[PAUSE,'OK']])+"""
+        <div role="dialog" id="cookies" style="position:fixed;inset:0;z-index:100;background:white">
+          We use cookies to improve your online experience. See our cookie policy.
+          <button onclick="window.pressed.push('Accept all')">Accept all</button>
+          <button onclick="window.pressed.push('Reject non-essential');document.getElementById('cookies').remove()">Reject non-essential</button>
+          <button>Manage cookies</button>
+        </div>"""
+        result,pressed=self.inspect(html)
+        self.assertEqual(result['status'],'platform_closed')
+        self.assertEqual(pressed,['Reject non-essential','OK','GOT IT','OK'])
+
+    def test_cookie_dismissal_failure_cannot_recover(self):
+        html=fixture([[DELAY,'OK']])+"""
+        <div role="dialog" style="position:fixed;inset:0;z-index:100;background:white">
+          We use cookies to improve your online experience. See our cookie policy.
+          <button onclick="window.pressed.push('Reject non-essential')">Reject non-essential</button>
+        </div>"""
+        result,_=self.inspect(html)
+        self.assertEqual(result['status'],'unknown')
+
+    def test_cookie_notice_can_arrive_after_delay_notice(self):
+        cookies='We use cookies to improve your online experience. See our cookie policy.'
+        result,pressed=self.inspect(fixture([[DELAY,'OK'],[cookies,'Reject non-essential'],[PAUSE,'OK']]))
+        self.assertEqual(result['status'],'platform_closed')
+        self.assertEqual(pressed,['OK','Reject non-essential','OK'])
+
+    def test_failed_cookie_dismissal_does_not_erase_visible_refusal(self):
+        html=fixture([[CLOSED,'GOT IT']])+"""
+        <div role="dialog" style="position:fixed;inset:0;z-index:100;background:white">
+          We use cookies to improve your online experience. See our cookie policy.
+          <button>Reject non-essential</button>
+        </div>"""
+        result,_=self.inspect(html)
+        self.assertEqual(result['status'],'closed')
+
+    def test_cookie_with_no_reject_option_is_not_accepted(self):
+        result,pressed=self.inspect(fixture([['We use cookies. See our cookie policy.','Accept all']]))
+        self.assertEqual(result['status'],'unknown')
+        self.assertEqual(pressed,[])
+
 
 if __name__=='__main__':
     unittest.main()

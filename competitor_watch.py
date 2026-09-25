@@ -280,21 +280,27 @@ def open_venue(context, page, card):
         return page, False
 
 
-NOTICE_SELECTOR = '[role="dialog"], [role="alertdialog"], md-dialog, .preo-modal, .mat-dialog-container, .modal-content'
+NOTICE_SELECTOR = '[role="dialog"], [role="alertdialog"], md-dialog'
+NOTICE_FALLBACK = '.preo-modal, .mat-dialog-container, .modal-content'
 DISMISS_LABEL = re.compile(r"^(?:got\s+it|ok|close|dismiss)$", re.IGNORECASE)
+NOTICE_SNAPSHOT = r"""() => {
+  const visible = e => e.getClientRects().length && getComputedStyle(e).visibility !== 'hidden';
+  let dialogs = [...document.querySelectorAll('[role="dialog"], [role="alertdialog"], md-dialog')].filter(visible);
+  if (!dialogs.length) dialogs = [...document.querySelectorAll('.preo-modal, .mat-dialog-container, .modal-content')].filter(visible);
+  // Keep semantic containers with their footer; a text-only nested wrapper is not a whole dialog.
+  const withButtons = dialogs.filter(e => [...e.querySelectorAll('button, [role="button"]')].some(visible));
+  const leaves = dialogs.filter(e => !dialogs.some(other => other !== e && e.contains(other)
+    && (withButtons.includes(other) || !withButtons.includes(e))));
+  return {text: document.body.innerText || '', notices: leaves.map(e => ({
+    text: e.innerText || '', buttons: [...e.querySelectorAll('button, [role="button"]')].filter(visible).map(b => b.innerText.trim()),
+    has_inputs: [...e.querySelectorAll('input, textarea, select, [contenteditable="true"]')].some(visible)
+  }))};
+}"""
 
 
 def notice_snapshot(page) -> dict:
     """Capture rendered evidence and leaf dialog containers, excluding duplicate wrappers."""
-    return page.evaluate(r"""selector => {
-      const visible = e => e.getClientRects().length && getComputedStyle(e).visibility !== 'hidden';
-      const dialogs = [...document.querySelectorAll(selector)].filter(visible);
-      const leaves = dialogs.filter(e => !dialogs.some(other => other !== e && e.contains(other)));
-      return {text: document.body.innerText || '', notices: leaves.map(e => ({
-        text: e.innerText || '', buttons: [...e.querySelectorAll('button')].filter(visible).map(b => b.innerText.trim()),
-        has_inputs: [...e.querySelectorAll('input, textarea, select, [contenteditable="true"]')].some(visible)
-      }))};
-    }""", NOTICE_SELECTOR)
+    return page.evaluate(NOTICE_SNAPSHOT)
 
 
 def read_venue_page(venue_page) -> dict:
@@ -308,7 +314,9 @@ def read_venue_page(venue_page) -> dict:
     transcript, texts, popups = [], [], []
     unresolved = False
     final_text = ""
-    for step in range(5):
+    notice_clicks = 0
+    cookie_clicks = 0
+    for step in range(6):
         try:
             snapshot = notice_snapshot(venue_page)
             final_text = snapshot["text"]
@@ -318,16 +326,29 @@ def read_venue_page(venue_page) -> dict:
             popups.extend(n["text"] for n in notices)
             if not notices:
                 break
-            # Only dismiss a known informational notice, never forms or generic confirmations.
-            if step == 4 or len(notices) != 1:
+            # Classify all visible overlays before acting, so an unfamiliar one cannot be hidden.
+            cookie_notices = [n for n in notices if 'we use cookies' in n['text'].lower()
+                              and 'cookie policy' in n['text'].lower()]
+            unknown_notices = [n for n in notices if n not in cookie_notices and not any(
+                p in n['text'].lower() for p in PLATFORM_CLOSED_PHRASES + CLOSED_PHRASES + DELAY_PHRASES)]
+            if step == 5 or unknown_notices or any(n['has_inputs'] for n in notices):
                 unresolved = True
                 break
-            notice = notices[0]
-            if (notice["has_inputs"] or not any(p in notice["text"].lower() for p in
-                    PLATFORM_CLOSED_PHRASES + CLOSED_PHRASES + DELAY_PHRASES)):
+            # Fresh GitHub contexts show consent above the operational notice. Reject it explicitly.
+            if cookie_notices:
+                if cookie_clicks or len(cookie_notices) != 1:
+                    unresolved = True
+                    break
+                notice = cookie_notices[0]
+                labels = [b for b in notice['buttons'] if b == 'Reject non-essential']
+                cookie_clicks += 1
+            elif len(notices) == 1 and notice_clicks < 4:
+                notice = notices[0]
+                labels = [b for b in notice["buttons"] if DISMISS_LABEL.fullmatch(b)]
+                notice_clicks += 1
+            else:
                 unresolved = True
                 break
-            labels = [b for b in notice["buttons"] if DISMISS_LABEL.fullmatch(b)]
             if len(labels) != 1:
                 unresolved = True
                 break
@@ -335,12 +356,9 @@ def read_venue_page(venue_page) -> dict:
             button = venue_page.get_by_role("button", name=labels[0], exact=True)
             button.click(timeout=2_000)
             transcript[-1]["action"] = labels[0]
-            venue_page.wait_for_function(r"""({selector, old}) => {
-              const visible = e => e.getClientRects().length && getComputedStyle(e).visibility !== 'hidden';
-              const dialogs = [...document.querySelectorAll(selector)].filter(visible);
-              const leaves = dialogs.filter(e => !dialogs.some(other => other !== e && e.contains(other)));
-              return JSON.stringify(leaves.map(e => e.innerText || '')) !== JSON.stringify(old);
-            }""", arg={"selector": NOTICE_SELECTOR, "old": [n["text"] for n in notices]}, timeout=2_500)
+            venue_page.wait_for_function(
+                'old => JSON.stringify((' + NOTICE_SNAPSHOT + ')().notices.map(n => n.text)) !== JSON.stringify(old)',
+                arg=[n['text'] for n in notices], timeout=2_500)
             venue_page.wait_for_timeout(500)
         except Exception as exc:
             transcript.append({"step": step, "error": type(exc).__name__})

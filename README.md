@@ -50,3 +50,5 @@ The detector reads informational notices before dismissing OK / GOT IT / Close /
 Reopening remains a reading of the ordering pages, not a completed or verified delivery order. The observed Delivery flow requests an address before presenting delivery times. No address, personal information, payment or order is submitted by this monitor.
 
 Local browser regression fixtures are in `test_dialog_regressions.py`. They exercise the real browser reader against simulated sequential notices; passing these tests does not itself verify the live service or Slack delivery.
+
+Fresh browser sessions can display a cookie dialog above an operational notice. The reader preserves both, presses only the exact “Reject non-essential” button on the recognized cookie notice, then resumes status reading. Semantic dialog containers keep their footer buttons in scope. Missing or failed consent dismissal remains uncertain; refusal evidence still wins.
