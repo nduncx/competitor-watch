@@ -3,6 +3,8 @@ from pathlib import Path
 from unittest.mock import patch,Mock
 spec=importlib.util.spec_from_file_location('watch',Path(__file__).with_name('competitor_watch.py'))
 w=importlib.util.module_from_spec(spec);spec.loader.exec_module(w)
+# Classification/closure tests isolate the notification guard; see test_containment.py.
+w.RECOVERY_CONFIRMATIONS = 1
 def venues(states,listed=False):
  return [{'name':n,'status':s,'listed_open':listed,'notice':"Sorry, we’re not taking orders right now" if s=='closed' else '', 'url':'https://example.com'} for n,s in zip(['Gela Ti Amo',"Jury`s",'Era'],states)]
 closed=w.summarise(venues(['closed']*3),directory_has_open_venues=False)

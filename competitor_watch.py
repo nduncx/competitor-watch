@@ -81,6 +81,14 @@ NOT_OPEN_HINTS = ["closed", "pre-order", "preorder", "opens at", "opening at", "
 ALERT_ON_REOPEN = setting("ALERT_ON_REOPEN", "true").strip().lower() == "true"
 ALERT_ON_DELAYS = setting("ALERT_ON_DELAYS", "true").strip().lower() == "true"
 
+# Consecutive checks that must read "taking orders" before an incident (closed
+# or delays) is declared over and a reopening / all-clear is posted. Closures
+# and delays warnings are still announced on the first check that shows them.
+RECOVERY_CONFIRMATIONS = int(setting("RECOVERY_CONFIRMATIONS", "2"))
+# The agreeing checks must be consecutive: any unreadable check, failed check,
+# skipped check or a gap longer than this starts the count again.
+RECOVERY_MAX_GAP_MINUTES = int(setting("RECOVERY_MAX_GAP_MINUTES", "12"))
+
 STATE_FILE = Path(setting("STATE_FILE", "state.json"))
 RECOVERY_FILE = Path(setting("RECOVERY_FILE", "notification-recovery.json"))
 SCREENSHOT_FILE = Path(setting("SCREENSHOT_FILE", "evidence.png"))
@@ -542,6 +550,50 @@ def ongoing_notification(now: dt.datetime, result: dict) -> dict:
     return {"subject": subject, "body": body, "attach_screenshot": False}
 
 
+def unconfirmed_update_notification(now: dt.datetime, state: dict, result: dict,
+                                    streak: int) -> dict:
+    """Per-check update when a check reads 'taking orders' during an incident
+    but has not yet been confirmed by the following check. The headline asserts
+    nothing about the present: it names the last confirmed status and when."""
+    confirmed_label = {"closed": "not taking orders",
+                       "delays": "taking orders with a long-delays warning"}.get(
+                           state.get("status"), state.get("status"))
+    confirmed_at = state.get("last_confirmed_at") or state.get("since")
+    confirmed_time = dt.datetime.fromisoformat(confirmed_at).strftime("%H:%M") if confirmed_at else "?"
+    subject = (f"{TARGET_NAME}: {now:%H:%M} check unconfirmed - last confirmed "
+               f"{confirmed_label} at {confirmed_time}")
+    seen = VENUE_LABELS.get(result["status"], result["status"])
+    body = (f"Check at {now:%H:%M} on {now:%A %d %B %Y} ({TIMEZONE}).\n\n"
+            f"This check read as: {seen}. That is an inference from the ordering page, and one "
+            f"check is not enough to end an incident ({streak} of {RECOVERY_CONFIRMATIONS} "
+            f"consecutive agreeing checks so far).\n\n"
+            f"Last confirmed status: {confirmed_label}, confirmed by the {confirmed_time} check.\n\n"
+            f"Notice seen:\n{notice_block(result)}\n\n"
+            f"Venues checked:\n{venue_lines(result)}\n\nDirectory: {DIRECTORY_URL}\n")
+    return {"subject": subject, "body": body, "attach_screenshot": False}
+
+
+def break_recovery_streak(state: dict, reason: str) -> None:
+    """Consecutive means consecutive: anything that is not an agreeing, readable
+    check in the normal cadence starts the recovery count again."""
+    if state.get("recovery_streak"):
+        log(f"Recovery count reset ({reason}).")
+    state["recovery_streak"] = 0
+    state.pop("recovery_candidate_at", None)
+
+
+def recovery_streak_after(state: dict, now: dt.datetime) -> int:
+    """The streak this check continues, or 0 if the last candidate is too old."""
+    last = state.get("recovery_candidate_at")
+    if not last or not state.get("recovery_streak"):
+        return 0
+    age = (now - dt.datetime.fromisoformat(last)).total_seconds() / 60
+    if age > RECOVERY_MAX_GAP_MINUTES:
+        break_recovery_streak(state, f"{age:.0f} min since the previous candidate")
+        return 0
+    return state["recovery_streak"]
+
+
 def import_recovery(state: dict) -> None:
     """Queue a reviewed historical correction once, without falsifying current status."""
     if not RECOVERY_FILE.exists():
@@ -596,6 +648,7 @@ def run_check(dry_run: bool = False) -> int:
     if not dry_run and not in_trading_hours(now):
         log(f"{now:%Y-%m-%d %H:%M %Z} | outside alert window; skipping")
         state["last_checked_date"] = now.date().isoformat()
+        break_recovery_streak(state, "outside alert window")
         save_state(state)
         return 0 if flush_notifications(state) else 3
 
@@ -604,6 +657,8 @@ def run_check(dry_run: bool = False) -> int:
     except Exception as exc:
         log(f"ERROR during check: {exc}")
         if not dry_run:
+            break_recovery_streak(state, "check failed")
+            save_state(state)
             flush_notifications(state)
         return 2
 
@@ -614,6 +669,9 @@ def run_check(dry_run: bool = False) -> int:
 
     if status == "no_open_venues":
         log(result["detail"])
+        if not dry_run:
+            break_recovery_streak(state, "no open venues")
+            save_state(state)
         if not trading:
             log("Outside trading hours: expected overnight state; no availability inference.")
             return 0
@@ -626,6 +684,8 @@ def run_check(dry_run: bool = False) -> int:
         log("Could not tell whether they are open. " + result.get("detail", ""))
         log("Page text began: " + " ".join(result.get("text", "").split())[:400])
         if not dry_run:
+            break_recovery_streak(state, "unreadable check")
+            save_state(state)
             flush_notifications(state)
         return 2
 
@@ -639,8 +699,22 @@ def run_check(dry_run: bool = False) -> int:
     # A failed delivery stays queued even if the site changes again next time.
     previous = dict(state)
     notification = None
-    if status != previous.get("status"):
-        state.update(status=status, since=now.isoformat(), alerted=False)
+    # closed -> open, closed -> delays and delays -> open all end an incident;
+    # they take effect only once RECOVERY_CONFIRMATIONS consecutive checks agree.
+    ends_incident = (previous.get("status") in ("closed", "delays")
+                     and status in ("open", "delays") and status != previous.get("status"))
+    if ends_incident and recovery_streak_after(state, now) + 1 < RECOVERY_CONFIRMATIONS:
+        state["recovery_streak"] = state.get("recovery_streak", 0) + 1
+        state["recovery_candidate_at"] = now.isoformat()
+        log(f"Read as {status} during a {previous.get('status')} incident: possible recovery "
+            f"{state['recovery_streak']}/{RECOVERY_CONFIRMATIONS}; not announced yet.")
+        if trading and not state.get("pending_notifications"):
+            notification = unconfirmed_update_notification(now, state, result, state["recovery_streak"])
+        status = previous.get("status")           # the incident stands for now
+    elif status != previous.get("status"):
+        break_recovery_streak(state, "status changed")
+        state.update(status=status, since=now.isoformat(), alerted=False,
+                     last_confirmed_at=now.isoformat())
         if status == "closed" and trading:
             notification = closed_notification(now, result)
             state["alerted"] = True
@@ -658,10 +732,15 @@ def run_check(dry_run: bool = False) -> int:
             if ALERT_ON_DELAYS and previous.get("alerted"):
                 notification = delays_cleared_notification(now, previous.get("since"))
     elif trading and (status == "closed" or (status == "delays" and ALERT_ON_DELAYS)):
+        break_recovery_streak(state, "status re-confirmed")
+        state["last_confirmed_at"] = now.isoformat()
         # Pending transitions are delivered first; don't pile repeated reminders on them.
         if not state.get("pending_notifications"):
             notification = ongoing_notification(now, result)
             state["alerted"] = True
+    else:
+        break_recovery_streak(state, "status re-confirmed")
+        state["last_confirmed_at"] = now.isoformat()
     if notification:
         notification.update(id=now.isoformat() + ":" + status,
                             observed_at=now.isoformat())
@@ -669,7 +748,8 @@ def run_check(dry_run: bool = False) -> int:
         notification["attach_screenshot"] = False
         state.setdefault("pending_notifications", []).append(notification)
 
-    state.update(notice=result.get("notice", ""), last_observed_at=now.isoformat(),
+    state.update(notice=result.get("notice", "") if status == result["status"] else state.get("notice", ""),
+                 last_observed_at=now.isoformat(), last_result=result["status"],
                  last_checked_date=now.date().isoformat(),
                  last_venues=[{"name": v.get("name"), "status": v["status"]}
                               for v in result.get("venues", [])])

@@ -7,9 +7,12 @@ Monitors Hungry Monkey delivery availability and posts availability updates to R
 - Alert window: **09:00–23:30 Europe/Gibraltar**, daily.
 - Checks three venues, including Essaouira when available, with the other two prioritising current delivery availability.
 - Sends a status message on every successful check while delays or closure continue.
-- Sends one reopening message, including any continuing delays. If delays remain, five-minute status updates continue.
+- Recovery requires two consecutive successful checks: this covers closed → delays/open and delays → normal. The first candidate posts an **unconfirmed check** message naming the last confirmed state, rather than announcing reopening.
+- Sends one reopening message after confirmation, including any continuing delays. If delays remain, five-minute status updates continue.
 - Sends one recovery message when normal service resumes, then stays quiet while normal.
-- Unreadable pages preserve the previous status. A generic closure does not establish its cause.
+- Unreadable/failed checks and checks outside the alert window reset recovery confirmation. A gap longer than 12 minutes also resets it. Prior incident state and queued notifications are preserved.
+- Closure and new delay alerts remain immediate. Confirmed recovery normally takes one additional five-minute check.
+- This is a safeguard against isolated false recovery readings, not independent proof that immediate delivery is available. The current page classifier remains under investigation. A generic closure does not establish its cause.
 
 ## Friday trial — 25 September 2026
 
@@ -34,3 +37,7 @@ Use Actions → Competitor watch → Run workflow with the test notification opt
 Screenshot evidence is kept for three days as a run artifact. During the continuous trial, the latest screenshot becomes available when each segment finishes.
 
 No OVH/OpenClaw changes have been made. A VPS and external heartbeat monitoring remain a later step after the live trial.
+
+## Validation
+
+Run `python -m unittest discover -p "test_*.py" -v`. The containment tests cover the default two-check recovery rule, both disputed alert sequences, complete incident/recovery cycles, failed checks, long gaps, overnight skips, and notification failures/retries. The older notification tests use one-check recovery to isolate queue and transport behaviour. These are mocked tests; verify a live message in Slack separately.

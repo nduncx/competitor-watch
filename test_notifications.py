@@ -20,6 +20,8 @@ class Notifications(unittest.TestCase):
         w.STATE_FILE = Path(self.tmp.name) / "state.json"
         w.RECOVERY_FILE = Path(self.tmp.name) / "recovery.json"
         w.ALERT_ON_DELAYS = w.ALERT_ON_REOPEN = True
+        # Isolate queue/transport behaviour; test_containment covers the production two-check guard.
+        w.RECOVERY_CONFIRMATIONS = 1
         self.sent = []
         self.stack = contextlib.ExitStack()
         self.addCleanup(self.stack.close)
