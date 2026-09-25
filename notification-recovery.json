@@ -1,10 +1,5 @@
 {
-  "id": "2026-09-25-missed-closure-reopening",
-  "subject": "Hungry Monkey \u2014 correction: earlier closure and reopening alerts were missed",
-  "body": "Historical update for Friday 25 September (Gibraltar time):\n\n19:27 check: all three sampled stores were refusing orders.\n19:32 check: Essaouira, Era and Royal Calpe were taking orders again, with a long-delays warning.\n\nThe closure and reopening alerts should have reached this channel at the time. A monitor fault suppressed both; that detection fault has now been corrected. This message reports those past observations, not a new closure now. The exact closure and reopening times are unknown.\n\nChecks continue every five minutes during tonight's trial. Reopening while delays remain will trigger its own alert, followed by a separate alert when delays clear.\n\nEvidence: https://github.com/nduncx/competitor-watch/actions/runs/36145304829/job/108104867241",
-  "state_reconciliation": {
-    "expected_status": "delays",
-    "expected_since": "2026-09-25T19:07:34.916845+02:00",
-    "corrected_since": "2026-09-25T19:32:34.854849+02:00"
-  }
+  "id": "2026-09-25-basket-rule-enabled",
+  "subject": "Competitor Watch updated: basket rule enabled",
+  "body": "The monitoring rule has been updated as requested.\n\nPre-order stores and products are excluded. After dismissing any delay/status notices, a simple item successfully appearing in the basket means OPEN for deliveries in these alerts. Items requiring extra choices are skipped.\n\nChecks remain every five minutes during the current trial, 09:00–23:30 Gibraltar time. Delay/closure updates continue on each successful check; recovery needs two agreeing checks and is announced once.\n\nThis is a setup confirmation, not a new observation of Hungry Monkey’s current status. The next status alert will be based on the live basket check. No order is placed by the monitor."
 }
