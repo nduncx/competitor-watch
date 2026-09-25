@@ -5,14 +5,14 @@ Monitors Hungry Monkey delivery availability and posts availability updates to R
 ## Alerts
 
 - Alert window: **09:00–23:30 Europe/Gibraltar**, daily.
-- Checks three venues, including Essaouira when available, with the other two prioritising current delivery availability.
+- Aims for three usable venues, including Essaouira when eligible. Pre-order stores are excluded and replaced; at most six venue candidates are inspected.
 - Sends a status message on every successful check while delays or closure continue.
 - Recovery requires two consecutive successful checks: this covers closed → delays/open and delays → normal. The first candidate posts an **unconfirmed check** message naming the last confirmed state, rather than announcing reopening.
 - Sends one reopening message after confirmation, including any continuing delays. If delays remain, five-minute status updates continue.
 - Sends one recovery message when normal service resumes, then stays quiet while normal.
 - Unreadable/failed checks and checks outside the alert window reset recovery confirmation. A gap longer than 12 minutes also resets it. Prior incident state and queued notifications are preserved.
 - Closure and new delay alerts remain immediate. Confirmed recovery normally takes one additional five-minute check.
-- This is a safeguard against isolated false recovery readings, not independent proof that immediate delivery is available. The current page classifier remains under investigation. A generic closure does not establish its cause.
+- This is a safeguard against isolated false recovery readings, not independent proof that immediate delivery is available. A generic closure does not establish its cause.
 
 ## Friday trial — 25 September 2026
 
@@ -52,3 +52,13 @@ Reopening remains a reading of the ordering pages, not a completed or verified d
 Local browser regression fixtures are in `test_dialog_regressions.py`. They exercise the real browser reader against simulated sequential notices; passing these tests does not itself verify the live service or Slack delivery.
 
 Fresh browser sessions can display a cookie dialog above an operational notice. The reader preserves both, presses only the exact “Reject non-essential” button on the recognized cookie notice, then resumes status reading. Semantic dialog containers keep their footer buttons in scope. Missing or failed consent dismissal remains uncertain; refusal evidence still wins.
+
+### User-defined basket test (25 September 2026)
+
+The user defines **open for deliveries** as a simple item successfully appearing in an anonymous basket after status notices have been dismissed. Checkout, login, an account, an address and a delivery slot are not part of this criterion. Slack identifies the result as a basket test. No order is submitted.
+
+A positive test requires a current delivery estimate in the directory. A venue saying “We are currently closed but you can still pre-order” is excluded and replaced, and does not establish platform closure or recovery. Explicit refusal/platform-pause notices still take precedence. Products marked pre-order, products requiring choices, and disabled Add buttons are skipped; no modifiers are selected. The actual basket must change from empty to containing the selected item. A failed test is unknown, not closed or open.
+
+Each venue uses an isolated disposable browser context. The detector tries up to six simple products and up to six venue candidates to obtain three usable readings. Probe work is bounded to 25 seconds per venue and total browser work to 180 seconds; existing workflow timeout remains 240 seconds. Evidence includes the item, probe result, reason and notice sequence. The two-check recovery guard and durable Slack retry queue are unchanged.
+
+`test_basket_regressions.py` covers successful addition without Checkout, pre-order exclusions and replacements, required options, unchanged/dirty baskets, refusals revealed after adding, unfamiliar popups, timeouts, and aggregation. These local fixtures do not prove the live site or Slack delivery.

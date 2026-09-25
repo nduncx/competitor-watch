@@ -70,6 +70,8 @@ PLATFORM_CLOSED_PHRASES = [       # Hungry Monkey's own "we're too busy" notice
     "everyone is a hungry monkey",
 ]
 CLOSED_PHRASES = ["not taking orders"]           # the standard closed pop-up + basket panel
+VENUE_CLOSED_LINE = re.compile(r"^we are currently closed(?: but you can still pre[- ]?order)?[.!]?$", re.I)
+PREORDER_ITEM = re.compile(r"\bpre[- ]?order\b", re.I)
 DELAY_PHRASES = ["long delays", "incur delays"]  # their "busy but still open" warning
 OPEN_PHRASES = ["collection or delivery"]        # the basket's order button when open
 PAGE_LOADED_PHRASES = ["basket", "search menu items"]
@@ -128,6 +130,8 @@ def classify_venue(page_text: str) -> str:
         return "platform_closed"
     if any(p in t for p in CLOSED_PHRASES):
         return "closed"
+    if any(VENUE_CLOSED_LINE.fullmatch(line.strip()) for line in page_text.splitlines()):
+        return "venue_closed"
     if any(p in t for p in DELAY_PHRASES):
         return "delays"
     if any(p in t for p in OPEN_PHRASES):
@@ -154,10 +158,11 @@ def extract_notice(page_text: str, popups: list[str]) -> str:
     """The notice a venue page is showing, for the email body."""
     phrases = PLATFORM_CLOSED_PHRASES + CLOSED_PHRASES + DELAY_PHRASES
     from_popups = [t for t in dedupe(popups) if any(p in t.lower() for p in phrases)]
+    closure_lines = [line.strip() for line in page_text.splitlines() if VENUE_CLOSED_LINE.fullmatch(line.strip())]
     if from_popups:
-        return "\n\n".join(from_popups)
+        return "\n\n".join(dedupe(from_popups + closure_lines))
     lines = (line.strip() for line in page_text.splitlines())
-    hits = [line for line in lines if any(p in line.lower() for p in phrases)]
+    hits = [line for line in lines if any(p in line.lower() for p in phrases) or VENUE_CLOSED_LINE.fullmatch(line)]
     return "\n".join(dict.fromkeys(hits))
 
 
@@ -235,17 +240,26 @@ def new_context(browser):
     )
 
 
-def load_directory(page) -> list[dict]:
+def budget_ms(deadline, maximum):
+    if deadline is None:
+        return maximum
+    left = int((deadline - time.monotonic()) * 1000)
+    if left <= 0:
+        raise TimeoutError("browser check budget exhausted")
+    return min(maximum, left)
+
+
+def load_directory(page, deadline=None) -> list[dict]:
     """Open the directory and return its venue cards, in page order."""
-    page.goto(DIRECTORY_URL, wait_until="domcontentloaded", timeout=60_000)
+    page.goto(DIRECTORY_URL, wait_until="domcontentloaded", timeout=budget_ms(deadline, 60_000))
     try:
-        page.wait_for_function(PAGE_HAS_TEXT, arg=[ORDER_BUTTON_TEXT.lower()], timeout=30_000)
+        page.wait_for_function(PAGE_HAS_TEXT, arg=[ORDER_BUTTON_TEXT.lower()], timeout=budget_ms(deadline, 30_000))
     except Exception:
         pass
-    page.wait_for_timeout(2_500)                  # let the venue list finish rendering
+    page.wait_for_timeout(budget_ms(deadline, 2_500))                  # let the venue list finish rendering
     for label in ("No thanks", "Accept"):         # app-download nag and cookie bar
         try:
-            page.get_by_text(label, exact=True).first.click(timeout=1_000)
+            page.get_by_text(label, exact=True).first.click(timeout=budget_ms(deadline, 1_000))
         except Exception:
             pass
     cards = page.evaluate(CARD_SCRIPT, ORDER_BUTTON_TEXT.upper())
@@ -255,28 +269,28 @@ def load_directory(page) -> list[dict]:
     return cards
 
 
-def open_venue(context, page, card):
+def open_venue(context, page, card, deadline=None):
     """Press ORDER NOW on a directory card. Returns (venue page, opened_new_tab)."""
     from playwright.sync_api import TimeoutError as PlaywrightTimeout
 
     if card.get("href"):                          # the button is a plain link: open it directly
         venue_page = context.new_page()
-        venue_page.goto(card["href"], wait_until="domcontentloaded", timeout=60_000)
+        venue_page.goto(card["href"], wait_until="domcontentloaded", timeout=budget_ms(deadline, 60_000))
         return venue_page, True
 
     button = page.locator(f'[data-cw-index="{card["index"]}"]').first
-    button.scroll_into_view_if_needed(timeout=5_000)
+    button.scroll_into_view_if_needed(timeout=budget_ms(deadline, 5_000))
     try:
-        with context.expect_page(timeout=10_000) as new_tab:
+        with context.expect_page(timeout=budget_ms(deadline, 10_000)) as new_tab:
             try:
-                button.click(timeout=5_000)
+                button.click(timeout=budget_ms(deadline, 5_000))
             except PlaywrightTimeout:            # something overlays it: fire the click directly
                 button.dispatch_event("click")
         venue_page = new_tab.value
-        venue_page.wait_for_load_state("domcontentloaded", timeout=60_000)
+        venue_page.wait_for_load_state("domcontentloaded", timeout=budget_ms(deadline, 60_000))
         return venue_page, True
     except PlaywrightTimeout:                     # no new tab: it navigated in the same tab
-        page.wait_for_load_state("domcontentloaded", timeout=60_000)
+        page.wait_for_load_state("domcontentloaded", timeout=budget_ms(deadline, 60_000))
         return page, False
 
 
@@ -303,14 +317,14 @@ def notice_snapshot(page) -> dict:
     return page.evaluate(NOTICE_SNAPSHOT)
 
 
-def read_venue_page(venue_page) -> dict:
+def read_venue_page(venue_page, deadline=None) -> dict:
     """Read the complete bounded sequence; never clear evidence by dismissing it."""
     needles = PLATFORM_CLOSED_PHRASES + CLOSED_PHRASES + OPEN_PHRASES + PAGE_LOADED_PHRASES
     try:
-        venue_page.wait_for_function(PAGE_HAS_TEXT, arg=needles, timeout=30_000)
+        venue_page.wait_for_function(PAGE_HAS_TEXT, arg=needles, timeout=budget_ms(deadline, 30_000))
     except Exception:
         pass
-    venue_page.wait_for_timeout(2_500)
+    venue_page.wait_for_timeout(budget_ms(deadline, 2_500))
     transcript, texts, popups = [], [], []
     unresolved = False
     final_text = ""
@@ -354,12 +368,12 @@ def read_venue_page(venue_page) -> dict:
                 break
             # The button may belong to nested wrappers; an exact role match identifies one DOM node.
             button = venue_page.get_by_role("button", name=labels[0], exact=True)
-            button.click(timeout=2_000)
+            button.click(timeout=budget_ms(deadline, 2_000))
             transcript[-1]["action"] = labels[0]
             venue_page.wait_for_function(
                 'old => JSON.stringify((' + NOTICE_SNAPSHOT + ')().notices.map(n => n.text)) !== JSON.stringify(old)',
-                arg=[n['text'] for n in notices], timeout=2_500)
-            venue_page.wait_for_timeout(500)
+                arg=[n['text'] for n in notices], timeout=budget_ms(deadline, 2_500))
+            venue_page.wait_for_timeout(budget_ms(deadline, 500))
         except Exception as exc:
             transcript.append({"step": step, "error": type(exc).__name__})
             unresolved = True
@@ -372,10 +386,10 @@ def read_venue_page(venue_page) -> dict:
                         and order_control.is_visible() and order_control.is_enabled())
         if order_button:
             # Check whether an overlay intercepts it, without actually clicking or progressing an order.
-            order_control.click(trial=True, timeout=1_000)
+            order_control.click(trial=True, timeout=budget_ms(deadline, 1_000))
     except Exception:
         order_button, unresolved = False, True
-    if status not in {"closed", "platform_closed"} and (unresolved or not order_button):
+    if status not in {"closed", "platform_closed", "venue_closed"} and (unresolved or not order_button):
         status = "unknown"
     result = {"status": status, "notice": extract_notice(combined, popups),
               "url": venue_page.url, "text": combined, "notice_transcript": transcript,
@@ -384,74 +398,184 @@ def read_venue_page(venue_page) -> dict:
     return result
 
 
+def probe_ordering(venue_page, result: dict, deadline=None) -> dict:
+    """User-defined open test: a simple non-preorder item actually appears in the basket."""
+    deadline = min(deadline or float("inf"), time.monotonic() + 25)
+    result = dict(result)
+    result["notice_transcript"] = list(result.get("notice_transcript", []))
+    proof = {"passed": False, "steps": [], "item": None}
+    result["basket_probe"] = proof
+    if result["status"] not in {"open", "delays"}:
+        proof["reason"] = "closure, pre-order, or unresolved page: no basket test"
+        return result
+
+    def observe(phase):
+        budget_ms(deadline, 1_000)
+        snapshot = notice_snapshot(venue_page)
+        proof["steps"].append({"phase": phase, "text": snapshot["text"][:1800],
+                               "notices": snapshot["notices"]})
+        result["text"] += "\n" + snapshot["text"]
+        classification = classify_venue(result["text"])
+        if classification in {"platform_closed", "closed", "venue_closed"}:
+            result["status"] = classification
+            result["notice"] = extract_notice(result["text"], [])
+            return False
+        return True
+
+    try:
+        if not venue_page.get_by_text("There are no items in your basket", exact=True).is_visible():
+            raise ValueError("probe requires an empty anonymous basket")
+        names = list(dict.fromkeys(venue_page.locator('h3.section-item__name').all_inner_texts()))
+        names = [n.strip() for n in names if n.strip() and not PREORDER_ITEM.search(n)]
+        # Prefer likely simple sides/drinks, but the actual dialog decides eligibility.
+        simple = re.compile(r"chicken strips|bottle of water|pepsi|coca cola|coke|7up|small chips", re.I)
+        names.sort(key=lambda n: not bool(simple.search(n)))
+        for name in names[:6]:
+            if not observe("before_item"):
+                return result
+            venue_page.get_by_role('heading', name=name, exact=True).first.click(timeout=budget_ms(deadline, 2_000))
+            dialog = venue_page.get_by_role('dialog').filter(
+                has=venue_page.get_by_role('button', name=re.compile(r'^Add to order', re.I)))
+            dialog.wait_for(state='visible', timeout=budget_ms(deadline, 2_000))
+            text = dialog.inner_text()
+            add = dialog.get_by_role('button', name=re.compile(r'^Add to order', re.I))
+            if not observe("item_dialog"):
+                return result
+            # Never choose a required option or a pre-order product.
+            if PREORDER_ITEM.search(text) or re.search(r'\bselect\s+\d+\s+option', text, re.I) or not add.is_enabled():
+                proof["steps"].append({"phase": "skip_item", "item": name,
+                                       "reason": "pre-order or required choices or disabled add"})
+                dialog.get_by_role('button', name='Close', exact=True).click(timeout=budget_ms(deadline, 1_000))
+                dialog.wait_for(state='hidden', timeout=budget_ms(deadline, 1_000))
+                continue
+            proof["item"] = name
+            add.click(timeout=budget_ms(deadline, 2_000))
+            # Retain any refusal revealed by adding. Use the same bounded notice walker.
+            after = read_venue_page(venue_page, deadline)
+            result["text"] += "\n" + after["text"]
+            result["notice_transcript"].extend(dict(step, phase="after_add") for step in after["notice_transcript"])
+            if after["status"] not in {"open", "delays"}:
+                result["status"] = after["status"]
+                result["notice"] = extract_notice(result["text"], [])
+                proof["reason"] = "notices or ordering unavailable after adding"
+                return result
+            venue_page.get_by_role('heading', name=name, exact=True, level=4).wait_for(state='visible', timeout=budget_ms(deadline, 2_000))
+            if not observe("basket_added"):
+                return result
+            final = notice_snapshot(venue_page)
+            if final['notices']:
+                proof['reason'] = 'unresolved notice after adding'
+                break
+            budget_ms(deadline, 1_000)
+            proof["passed"] = True
+            proof["reason"] = "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+            result["status"] = "delays" if any(p in result["text"].lower() for p in DELAY_PHRASES) else "open"
+            return result
+        proof.setdefault("reason", "no eligible simple item or addition to basket could not be verified")
+    except Exception as exc:
+        proof["reason"] = type(exc).__name__
+        # A refusal shown instead of the basket must still win, even after a wait timeout.
+        try:
+            if not observe("probe_stopped"):
+                return result
+        except Exception:
+            pass
+    result["status"] = "unknown"
+    return result
+
+
+def candidate_venues(cards: list[dict]) -> list[dict]:
+    """Bounded reserves let pre-order/untestable venues be replaced, without scanning all stores."""
+    eligible = [c for c in cards if not PREORDER_ITEM.search(c.get('text', ''))]
+    primary = select_venues(eligible)
+    reserves = [c for c in eligible if c not in primary and c['looks_open']]
+    reserves += [c for c in eligible if c not in primary and c not in reserves]
+    return (primary + reserves)[:6]
+
+
+def enough_samples(results: list[dict]) -> bool:
+    return sum(r['status'] in {'open', 'delays', 'closed', 'platform_closed'} for r in results) >= VENUES_TO_CHECK
+
+
 def check_platform() -> dict:
-    """Run one full check. Returns a result dict with an overall 'status'."""
+    """Three usable samples; pre-order/unusable samples get bounded replacements."""
     from playwright.sync_api import sync_playwright
 
     results: list[dict] = []
-    directory_text = ""
+    directory_text = ''
+    deadline = time.monotonic() + 180
     with sync_playwright() as p:
         browser = p.chromium.launch()
+        context = None
         try:
             context = new_context(browser)
             page = context.new_page()
-            cards = load_directory(page)
-            directory_text = page.evaluate("document.body.innerText") or ""
+            cards = load_directory(page, deadline)
+            directory_text = page.evaluate('document.body.innerText') or ''
             if not cards:
-                return {"status": "unknown", "venues": [], "notice": "",
-                        "detail": f"no '{ORDER_BUTTON_TEXT}' buttons found on the directory",
-                        "text": directory_text}
-
-            open_cards = [c for c in cards if c["looks_open"]]
-            chosen = select_venues(cards)
-            log(f"Directory lists {len(cards)} venues with an {ORDER_BUTTON_TEXT} button, "
-                f"{len(open_cards)} of them showing as open. Checking: "
-                + ", ".join(c["name"] for c in chosen))
-
-            on_directory = True
+                return {'status': 'unknown', 'venues': [], 'notice': '', 'text': directory_text}
+            open_cards = [c for c in cards if c['looks_open']]
+            chosen = candidate_venues(cards)
+            log('Candidate venues (up to 3 usable, max 6 attempts): ' + ', '.join(c['name'] for c in chosen))
             for n, card in enumerate(chosen, 1):
-                if not on_directory:              # last click navigated this tab away: go back
-                    fresh = load_directory(page)
-                    card = (next((c for c in fresh if c["name"] == card["name"]), None)
-                            or (fresh[card["index"]] if card["index"] < len(fresh) else None))
-                    on_directory = True
+                if time.monotonic() >= deadline:
+                    break
+                if n > 1:
+                    context = new_context(browser)
+                    page = context.new_page()
+                    fresh = load_directory(page, deadline)
+                    card = next((c for c in fresh if c['name'] == card['name']), None)
                     if card is None:
-                        results.append({"status": "unknown", "name": "?", "notice": "", "url": "",
-                                        "text": "venue card disappeared after reloading"})
+                        context.close()
+                        context = None
                         continue
-                venue_page, new_tab = open_venue(context, page, card)
-                result = read_venue_page(venue_page)
-                result["name"] = card["name"]
-                result["listed_open"] = card["looks_open"]
-                result["screenshot"] = f"evidence-{n}.png"
-                venue_page.screenshot(path=result["screenshot"])
-                results.append(result)
-                log(f"  {card['name']}: {result['status']}   {result['url']}")
-                if new_tab:
-                    venue_page.close()
-                else:
-                    on_directory = False
+                # Each venue uses a fresh disposable context. Test baskets never survive it.
+                try:
+                    venue_page, _ = open_venue(context, page, card, deadline)
+                    result = read_venue_page(venue_page, deadline)
+                    if result['status'] in {'open', 'delays'}:
+                        if card['looks_open']:
+                            result = probe_ordering(venue_page, result, deadline)
+                        else:
+                            result['status'] = 'unknown'
+                            result['detail'] = 'no current directory delivery estimate; excluded'
+                    result['name'] = card['name']
+                    result['listed_open'] = card['looks_open']
+                    result['screenshot'] = f'evidence-{n}.png'
+                    venue_page.screenshot(path=result['screenshot'], timeout=budget_ms(deadline, 3_000))
+                    results.append(result)
+                    log('Venue result: ' + json.dumps({k:v for k,v in result.items() if k != 'text'}, ensure_ascii=False))
+                except Exception as exc:
+                    results.append({'name': card['name'], 'status': 'unknown', 'notice': '',
+                                    'detail': type(exc).__name__, 'listed_open': card['looks_open']})
+                finally:
+                    context.close()
+                    context = None
+                if enough_samples(results):
+                    break
         finally:
+            if context:
+                context.close()
             browser.close()
-
     summary = summarise(results, directory_text, directory_has_open_venues=bool(open_cards))
-    if not open_cards and summary["status"] not in {"closed", "delays"}:
-        summary["status"] = "no_open_venues"
-        summary["detail"] = "Directory has no venues with current delivery estimates."
+    if not open_cards and summary['status'] not in {'closed', 'delays'}:
+        summary['status'] = 'no_open_venues'
+        summary['detail'] = 'Directory has no venues with current delivery estimates.'
     return summary
 
 
 def summarise(results: list[dict], directory_text: str = "", *,
               directory_has_open_venues: bool | None = None) -> dict:
     """Combine per-venue results into one platform status."""
-    statuses = [r["status"] for r in results]
-    known = [r for r in results if r["status"] != "unknown"]
+    active = [r for r in results if r["status"] != "venue_closed"]
+    statuses = [r["status"] for r in active]
+    known = [r for r in active if r["status"] != "unknown"]
     deciding = None
 
     if "platform_closed" in statuses:
         status, deciding = "closed", next(r for r in results if r["status"] == "platform_closed")
     elif known and all(r["status"] == "closed" for r in known) \
-            and len(known) == len(results) and len(known) >= 2 \
+            and len(known) == len(active) and len(known) >= 2 \
             and (sum(bool(r.get("listed_open", False)) for r in known) >= 2
                  or directory_has_open_venues is False):
         status, deciding = "closed", known[0]
@@ -550,15 +674,30 @@ def send_email(subject: str, body: str, attach_screenshot: bool) -> None:
 VENUE_LABELS = {
     "platform_closed": "refusing orders (Hungry Monkey's own notice)",
     "closed": "refusing orders",
+    "venue_closed": "closed / pre-order only; excluded from the test",
     "delays": "long-delays notice; ordering control shown, delivery not verified",
     "open": "ordering control shown; delivery not verified",
     "unknown": "could not read the page",
 }
 
 
+def basket_passed(result: dict) -> bool:
+    return any(v.get("basket_probe", {}).get("passed") for v in result.get("venues", []))
+
+
+OPEN_TEST_BASIS = ("Basket test passed: a simple item was successfully added after dismissing notices. "
+                   "Pre-order stores and products are excluded. No order was placed.")
+
+
 def venue_lines(result: dict) -> str:
-    lines = [f"  - {v.get('name', '?')}: {VENUE_LABELS.get(v['status'], v['status'])}"
-             for v in result.get("venues", [])]
+    lines = []
+    for v in result.get("venues", []):
+        label = VENUE_LABELS.get(v["status"], v["status"])
+        if v.get("basket_probe", {}).get("passed"):
+            label = "OPEN for deliveries (item added to basket)" + ("; long delays" if v["status"] == "delays" else "")
+        elif v.get("basket_probe") and v["status"] == "unknown":
+            label = "basket test inconclusive; not counted as open"
+        lines.append(f"  - {v.get('name', '?')}: {label}")
     return "\n".join(lines) or "  (none)"
 
 
@@ -591,11 +730,14 @@ def closed_notification(now: dt.datetime, result: dict) -> dict:
 
 
 def reopen_notification(now: dt.datetime, closed_since: str | None, result: dict) -> dict:
-    subject = f"{TARGET_NAME}: ordering pages read as taking orders again ({now:%H:%M}) - delivery not verified"
+    subject = (f"{TARGET_NAME} is taking orders again ({now:%H:%M}) - basket test passed" if basket_passed(result) else
+               f"{TARGET_NAME}: ordering pages read as taking orders again ({now:%H:%M}) - delivery not verified")
     body = (f"{RECOVERY_CONFIRMATIONS} consecutive checks found an ordering control without a refusal "
             f"on the deciding pages, as of {now:%H:%M}{duration_text(closed_since, now)}. "
             "This is a page-level reading. Delivery availability is not verified: "
             "the observed Delivery flow requires an address before offering delivery times.\n")
+    if basket_passed(result):
+        body = f"OPEN for deliveries after {RECOVERY_CONFIRMATIONS} consecutive basket checks. {OPEN_TEST_BASIS}\n"
     if result["status"] == "delays":
         body += f"\nThey are still showing a long-delays warning:\n\n{notice_block(result)}\n"
     body += f"\nVenues checked:\n{venue_lines(result)}\n\nDirectory: {DIRECTORY_URL}\n"
@@ -610,15 +752,22 @@ def delays_notification(now: dt.datetime, result: dict) -> dict:
         "An ordering control is shown, but delivery availability is not verified.\n\n"
         f"Venues checked:\n{venue_lines(result)}\n\nDirectory: {DIRECTORY_URL}\n"
     )
+    if basket_passed(result):
+        subject += " - OPEN (basket test)"
+        body = body.replace("An ordering control is shown, but delivery availability is not verified.",
+                            "OPEN for deliveries, with long delays. " + OPEN_TEST_BASIS)
     return {"subject": subject, "body": body, "attach_screenshot": True}
 
 
-def delays_cleared_notification(now: dt.datetime, since: str | None) -> dict:
+def delays_cleared_notification(now: dt.datetime, since: str | None, result: dict | None = None) -> dict:
     subject = f"{TARGET_NAME}: long-delays warning cleared ({now:%H:%M}) - page-level reading"
     body = (f"{TARGET_NAME} is no longer showing its long-delays notice as of {now:%H:%M}"
             f"{duration_text(since, now).replace('after', 'up for')}. "
             f"This follows {RECOVERY_CONFIRMATIONS} consecutive page-level readings. "
             "Delivery availability has not been verified.\n")
+    if result and basket_passed(result):
+        subject = f"{TARGET_NAME}: long-delays warning cleared ({now:%H:%M}) - basket test passed"
+        body = f"OPEN for deliveries; no long-delays notice shown on {RECOVERY_CONFIRMATIONS} consecutive checks. {OPEN_TEST_BASIS}\n"
     return {"subject": subject, "body": body, "attach_screenshot": False}
 
 
@@ -630,6 +779,9 @@ def ongoing_notification(now: dt.datetime, result: dict) -> dict:
     else:
         subject = f"{TARGET_NAME} is STILL warning of long delays ({now:%H:%M})"
         summary = "The long-delays warning remains. An ordering control is shown; delivery availability is not verified."
+        if basket_passed(result):
+            subject += " - OPEN (basket test)"
+            summary = "OPEN for deliveries, with long delays. " + OPEN_TEST_BASIS
     body = (f"Check at {now:%H:%M} on {now:%A %d %B %Y} ({TIMEZONE}).\n\n"
             f"{summary}\n\nNotice:\n{notice_block(result)}\n\n"
             f"Venues checked:\n{venue_lines(result)}\n\nDirectory: {DIRECTORY_URL}\n")
@@ -649,6 +801,8 @@ def unconfirmed_update_notification(now: dt.datetime, state: dict, result: dict,
     subject = (f"{TARGET_NAME}: {now:%H:%M} check unconfirmed - last confirmed "
                f"{confirmed_label} at {confirmed_time}")
     seen = VENUE_LABELS.get(result["status"], result["status"])
+    if basket_passed(result):
+        seen = "basket test passed; OPEN for deliveries" + (" with long delays" if result["status"] == "delays" else "")
     body = (f"Check at {now:%H:%M} on {now:%A %d %B %Y} ({TIMEZONE}).\n\n"
             f"This check read as: {seen}. That is an inference from the ordering page, and one "
             f"check is not enough to end an incident ({streak} of {RECOVERY_CONFIRMATIONS} "
@@ -816,7 +970,7 @@ def run_check(dry_run: bool = False) -> int:
             state["alerted"] = True
         elif status == "open" and previous.get("status") == "delays":
             if ALERT_ON_DELAYS and previous.get("alerted"):
-                notification = delays_cleared_notification(now, previous.get("since"))
+                notification = delays_cleared_notification(now, previous.get("since"), result)
     elif trading and (status == "closed" or (status == "delays" and ALERT_ON_DELAYS)):
         break_recovery_streak(state, "status re-confirmed")
         state["last_confirmed_at"] = now.isoformat()
@@ -841,7 +995,8 @@ def run_check(dry_run: bool = False) -> int:
                                "notice": v.get("notice", ""),
                                "notice_transcript": v.get("notice_transcript", []),
                                "unresolved_notice": v.get("unresolved_notice", False),
-                               "order_button_after_notices": v.get("order_button_after_notices", False)}
+                               "order_button_after_notices": v.get("order_button_after_notices", False),
+                               "basket_probe": v.get("basket_probe", {})}
                               for v in result.get("venues", [])])
     save_state(state)
     return 0 if flush_notifications(state) else 3
