@@ -8,7 +8,7 @@
     "2026-09-25-missed-closure-reopening"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-25T22:28:09.895651+02:00",
+  "last_observed_at": "2026-09-25T22:33:09.896421+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -60,7 +60,7 @@
       "order_button_after_notices": true
     },
     {
-      "name": "3Bros Takeout",
+      "name": "Mamma Mia",
       "status": "delays",
       "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
@@ -86,7 +86,7 @@
       "order_button_after_notices": true
     },
     {
-      "name": "AquaTerra",
+      "name": "Mr Noodles",
       "status": "delays",
       "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
@@ -247,9 +247,14 @@
       "id": "2026-09-25T22:28:09.895651+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (22:28)",
       "delivered_at": "2026-09-25T22:28:44.192915+02:00"
+    },
+    {
+      "id": "2026-09-25T22:33:09.896421+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (22:33)",
+      "delivered_at": "2026-09-25T22:33:45.761913+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-25T22:28:09.895651+02:00"
+  "last_confirmed_at": "2026-09-25T22:33:09.896421+02:00"
 }
