@@ -1,25 +1,25 @@
 {
-  "status": "delays",
-  "since": "2026-09-25T20:47:34.919709+02:00",
+  "status": "closed",
+  "since": "2026-09-25T21:08:10.025167+02:00",
   "alerted": true,
-  "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
   "last_checked_date": "2026-09-25",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-25T21:02:34.920654+02:00",
+  "last_observed_at": "2026-09-25T21:08:10.025167+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "delays"
+      "status": "closed"
+    },
+    {
+      "name": "Ramsons Supermarket",
+      "status": "closed"
     },
     {
       "name": "Panzerotto",
-      "status": "unknown"
-    },
-    {
-      "name": "Vinopolis Gastrobar",
       "status": "closed"
     }
   ],
@@ -88,6 +88,11 @@
       "id": "2026-09-25T21:02:34.920654+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:02)",
       "delivered_at": "2026-09-25T21:03:09.158979+02:00"
+    },
+    {
+      "id": "2026-09-25T21:08:10.025167+02:00:closed",
+      "subject": "Hungry Monkey has STOPPED taking orders (21:08)",
+      "delivered_at": "2026-09-25T21:08:40.152004+02:00"
     }
   ]
 }
