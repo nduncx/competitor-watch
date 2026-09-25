@@ -1,0 +1,107 @@
+name: Friday evening trial
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: competitor-watch
+  cancel-in-progress: false
+jobs:
+  watch:
+    name: Friday trial segment ${{ matrix.segment }}
+    strategy:
+      max-parallel: 1
+      fail-fast: false
+      matrix:
+        segment: [1, 2]
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      TRIAL_SEGMENT: ${{ matrix.segment }}
+      TRADING_HOURS: ${{ vars.TRADING_HOURS }}
+      ALERT_ON_DELAYS: ${{ vars.ALERT_ON_DELAYS }}
+      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install checker dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+          git config user.name "competitor-watch"
+          git config user.email "competitor-watch@users.noreply.github.com"
+      - name: Check every five minutes until tonight's cutoff
+        run: |
+          python - <<'PYTHON'
+          """Bounded Friday trial: five-minute checks, state persisted after every attempt."""
+          import datetime as dt
+          import json
+          import subprocess
+          import sys
+          import time
+          import os
+          from pathlib import Path
+          
+          END = dt.datetime(2026, 9, 25, 21, 30, tzinfo=dt.timezone.utc).timestamp()
+          INTERVAL = 300
+          MAX_SESSION_SECONDS = 5 * 60 * 60
+          
+          
+          def checkpoint(code):
+              now = dt.datetime.now(dt.timezone.utc).isoformat()
+              health_file = Path('trial-health.json')
+              previous = json.loads(health_file.read_text()) if health_file.exists() else {}
+              health = {'last_attempt_utc': now, 'last_exit_code': code,
+                        'last_success_utc': now if code == 0 else previous.get('last_success_utc'),
+                        'checks_completed': previous.get('checks_completed', 0) + 1,
+                        'run_id': os.environ.get('GITHUB_RUN_ID'),
+                        'segment': os.environ.get('TRIAL_SEGMENT'),
+                        'stop_at_utc': dt.datetime.fromtimestamp(END, dt.timezone.utc).isoformat()}
+              if Path('state.json').exists():
+                  health['last_known_status'] = json.loads(Path('state.json').read_text()).get('status')
+              health_file.write_text(json.dumps(health, indent=2) + '\n')
+              files = [str(p) for p in [Path('state.json'), health_file] if p.exists()]
+              subprocess.run(['git', 'add', *files], check=True)
+              if subprocess.run(['git', 'diff', '--cached', '--quiet']).returncode:
+                  subprocess.run(['git', 'commit', '-m', 'Friday trial checkpoint [skip ci]'], check=True)
+                  subprocess.run(['git', 'pull', '--rebase', 'origin', 'main'], check=True)
+                  subprocess.run(['git', 'push', 'origin', 'HEAD:main'], check=True)
+          
+          
+          def main():
+              deadline = min(END, time.time() + MAX_SESSION_SECONDS)
+              last_code = 0
+              print('Friday trial: five-minute check starts; final cutoff 23:30 Europe/Gibraltar.', flush=True)
+              while time.time() < deadline:
+                  started = time.time()
+                  print('Check started: ' + dt.datetime.now(dt.timezone.utc).isoformat(), flush=True)
+                  try:
+                      last_code = subprocess.run([sys.executable, '-u', 'competitor_watch.py'], timeout=240).returncode
+                  except subprocess.TimeoutExpired:
+                      last_code = 124
+                      print('Monitor check timed out; preserving prior status and retrying next interval.', flush=True)
+                  checkpoint(last_code)
+                  if last_code:
+                      print(f'::warning::Monitor check returned {last_code}; retrying next interval.', flush=True)
+                  delay = min(deadline, started + INTERVAL) - time.time()
+                  if delay > 0:
+                      time.sleep(delay)
+              print('Session segment finished; checkpoint saved for the next segment.', flush=True)
+              return last_code
+          
+          
+          if __name__ == '__main__':
+              raise SystemExit(main())
+          PYTHON
+      - name: Keep latest screenshot
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: friday-evidence-${{ matrix.segment }}
+          path: evidence.png
+          if-no-files-found: ignore
+          retention-days: 3
