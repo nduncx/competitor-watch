@@ -1,26 +1,26 @@
 {
-  "status": "closed",
-  "since": "2026-09-25T20:12:34.918643+02:00",
+  "status": "delays",
+  "since": "2026-09-25T20:27:34.919123+02:00",
   "alerted": true,
-  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+  "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
   "last_checked_date": "2026-09-25",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-25T20:22:34.920181+02:00",
+  "last_observed_at": "2026-09-25T20:27:34.919123+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "closed"
+      "status": "delays"
     },
     {
       "name": "OAKBERRY",
-      "status": "closed"
+      "status": "delays"
     },
     {
       "name": "Ramsons Watergardens",
-      "status": "closed"
+      "status": "delays"
     }
   ],
   "notification_receipts": [
@@ -48,6 +48,11 @@
       "id": "2026-09-25T20:22:34.920181+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:22)",
       "delivered_at": "2026-09-25T20:23:06.530851+02:00"
+    },
+    {
+      "id": "2026-09-25T20:27:34.919123+02:00:delays",
+      "subject": "Hungry Monkey is taking orders again (20:27)",
+      "delivered_at": "2026-09-25T20:28:08.216850+02:00"
     }
   ]
 }
