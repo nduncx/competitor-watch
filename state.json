@@ -8,7 +8,7 @@
     "2026-09-25-missed-closure-reopening"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-25T22:23:09.896071+02:00",
+  "last_observed_at": "2026-09-25T22:28:09.895651+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -242,9 +242,14 @@
       "id": "2026-09-25T22:23:09.896071+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (22:23)",
       "delivered_at": "2026-09-25T22:23:44.268896+02:00"
+    },
+    {
+      "id": "2026-09-25T22:28:09.895651+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (22:28)",
+      "delivered_at": "2026-09-25T22:28:44.192915+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-25T22:23:09.896071+02:00"
+  "last_confirmed_at": "2026-09-25T22:28:09.895651+02:00"
 }
