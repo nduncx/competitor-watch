@@ -1,6 +1,7 @@
 {
-  "status": "unknown",
-  "since": null,
+  "status": "open",
+  "since": "2026-09-25T14:40:34.464745+02:00",
   "alerted": false,
+  "notice": "",
   "last_checked_date": "2026-09-25"
 }
