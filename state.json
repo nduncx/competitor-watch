@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-26T22:12:48.393342+02:00",
+  "last_observed_at": "2026-09-26T22:17:48.394763+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -124,93 +124,6 @@
       }
     },
     {
-      "name": "Pollo Hermano's & Pollo Loco",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast on a Whole Chicken, Large Chips, Alioli & 4 Croquetas - all for just \u00a318.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHalf Chicken & rice and Ali Oli\n\u00a39.95\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.00, wrap \u00a35.50 or combo \u00a36.70\n\u00a35.00\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a318.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a318.00\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a318.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a318.50\nMini Cordon Bleu\nper unit\n\u00a30.90\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a318.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nPlain\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nGarlic\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nMojo Picon\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nCurry\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nTikka\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSerranito\nRoll \u00a35.00, wra",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast on a Whole Chicken, Large Chips, Alioli & 4 Croquetas - all for just \u00a318.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHalf Chicken & rice and Ali Oli\n\u00a39.95\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.00, wrap \u00a35.50 or combo \u00a36.70\n\u00a35.00\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a318.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a318.00\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a318.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a318.50\nMini Cordon Bleu\nper unit\n\u00a30.90\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a318.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nPlain\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nGarlic\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nMojo Picon\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nCurry\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nTikka\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSerranito\nRoll \u00a35.00, wra",
-            "notices": [
-              {
-                "text": "Small Menu - Half Chicken, Small Chips and Ali Oli\n1\nAdd to order\n\u00a39.95",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a39.95"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\n1\nSubtotal\n\u00a39.95\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a313.24\nAdd special instructions\nCheckout\nFeast on a Whole Chicken, Large Chips, Alioli & 4 Croquetas - all for just \u00a318.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHalf Chicken & rice and Ali Oli\n\u00a39.95\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\n1\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.00, wrap \u00a35.50 or combo \u00a36.70\n\u00a35.00\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a318.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a318.00\n1\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a318.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a318.50\nMini Cordon Bleu\nper unit\n\u00a30.90\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a318.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nPlain\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nGarlic\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nMojo Picon\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.",
-            "notices": []
-          }
-        ],
-        "item": "Small Menu - Half Chicken, Small Chips and Ali Oli",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "3Bros Takeout",
       "status": "open",
       "notice": "",
@@ -294,6 +207,93 @@
           }
         ],
         "item": "SFC Chicken Strips",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "AquaTerra",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nMeats\nStarters\nPrice Crash Offers!\nTapas and Bao Buns\nFish\nSalads\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nDesserts\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nMeats\nAvailable from 12pm\nDuck magret with cumberland sauce\n\u00a316.95\nCarrillada al Pedro Ximendez\nChef recommendation\n\u00a313.95\nIberian Abanico\n250g aprox\n\u00a314.50\nRib eye steak\n\u00a316.50\nBeef fillet steak\n\u00a319.95\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nHuevos rotos with morcilla de burgos\n\u00a39.95\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nTapa of Morcilla of Burgos\nBread, applesauce and Black Pudding from Burgos. Chef's recommendation\n\u00a33.50\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nTapas and Bao Buns\nAvailable from 12pm\nBao Buns of Prawns",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nMeats\nStarters\nPrice Crash Offers!\nTapas and Bao Buns\nFish\nSalads\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nDesserts\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nMeats\nAvailable from 12pm\nDuck magret with cumberland sauce\n\u00a316.95\nCarrillada al Pedro Ximendez\nChef recommendation\n\u00a313.95\nIberian Abanico\n250g aprox\n\u00a314.50\nRib eye steak\n\u00a316.50\nBeef fillet steak\n\u00a319.95\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nHuevos rotos with morcilla de burgos\n\u00a39.95\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nTapa of Morcilla of Burgos\nBread, applesauce and Black Pudding from Burgos. Chef's recommendation\n\u00a33.50\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nTapas and Bao Buns\nAvailable from 12pm\nBao Buns of Prawns",
+            "notices": [
+              {
+                "text": "Coca Cola\n\n33cl\n\n1\nAdd to order\n\u00a30.99",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a30.99"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a30.99\n1\nSubtotal\n\u00a30.99\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a34.28\nAdd special instructions\nCheckout\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nMeats\nStarters\nPrice Crash Offers!\nTapas and Bao Buns\nFish\nSalads\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nDesserts\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nMeats\nAvailable from 12pm\nDuck magret with cumberland sauce\n\u00a316.95\nCarrillada al Pedro Ximendez\nChef recommendation\n\u00a313.95\nIberian Abanico\n250g aprox\n\u00a314.50\nRib eye steak\n\u00a316.50\nBeef fillet steak\n\u00a319.95\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nHuevos rotos with morcilla de burgos\n\u00a39.95\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nTapa of Morcilla of Burgos\nBread, applesauce and Black Pudding from Burgos. Chef's recommendation\n\u00a33.50\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured c",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -497,5 +497,5 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-26T22:12:48.393342+02:00"
+  "last_confirmed_at": "2026-09-26T22:17:48.394763+02:00"
 }
