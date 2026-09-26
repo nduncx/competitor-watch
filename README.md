@@ -14,29 +14,31 @@ Monitors Hungry Monkey delivery availability and posts availability updates to R
 - Closure and new delay alerts remain immediate. Confirmed recovery normally takes one additional five-minute check.
 - This is a safeguard against isolated false recovery readings, not independent proof that immediate delivery is available. A generic closure does not establish its cause.
 
-## Friday trial — 25 September 2026
+## Continuous GitHub sessions (26 September 2026)
 
-[Follow the live trial](https://github.com/nduncx/competitor-watch/actions/runs/36145304829). It starts checks five minutes apart inside a running GitHub job, avoiding a new scheduled start for every check. Two sequential segments cover the evening and stop at **23:30 Gibraltar time**. There is a brief handover while the second segment starts. No manual restart is needed during a healthy trial.
+The regular workflow still requests a start every five minutes. Each start during the alert window now checks immediately, then every five minutes inside the running job for up to five hours or until 23:30 Europe/Gibraltar, whichever comes first. This applies on future dates too. A failed check is retried on the next tick. A queued GitHub start can take over after a session finishes; the concurrency lock prevents overlap.
 
-After every check, `trial-health.json` records the attempt time, result code, last successful check and last known competitor status. A zero result code means that check succeeded; an old timestamp means monitoring may have stalled. The existing `state.json` is saved after each check to preserve pending messages and avoid repeating recovery alerts at the segment handover. These records do not replace an independent outage alarm.
+**GitHub can still delay or skip starting jobs.** This improves cadence within an active session, but does not guarantee a maximum five-minute gap between sessions or at morning startup. A dedicated server and independent outage alarm remain future work; OVH/OpenClaw is unchanged.
 
-The trial and regular workflow share a concurrency lock to prevent overlapping checks or duplicate alerts. This dated trial will not restart monitoring on later days.
+`monitor-health.json` records each attempt, last successful check, exit code, consecutive failures and session end. Every attempt commits state and health. A checkpoint failure stops the job rather than discarding undelivered messages. Pending notifications are retried, including outside the alert window. Slack must acknowledge delivery before a notification is marked delivered.
 
-## Regular schedule
+A failed check queues one **monitoring problem** Slack message, separate from competitor status. The next successful check queues **monitoring restored**. Consecutive failures do not create repeated identical warnings; unacknowledged messages remain queued. A stopped or never-started GitHub job cannot send its own warning, so this is not an independent watchdog. GitHub failure notifications remain useful.
 
-The normal workflow requests a check every **five minutes** during a wider UTC window; the script applies the exact Gibraltar alert window. GitHub may delay or skip scheduled runs. Do not treat silence in Slack as proof the competitor is open—check the run history.
+The Friday 25 September trial finished successfully at 23:30 that night. Its `trial-health.json` file is historical. Use the regular workflow's current `monitor-health.json` and run history for current health.
 
-Slack delivery must return a successful acknowledgement before a notification is marked delivered. Unconfirmed messages remain queued for retry, and the state file retains delivery receipts. Website checks and mocked tests alone do not prove messages arrived in the office channel.
+## Recognized promotion
+
+The informational “Win your order for FREE / Busy Monkey Game” notice observed on 26 September is recorded and dismissed only through its lone OK button, without forms or entering the promotion. Cookies and subsequent status notices are then inspected. This popup never proves availability: the actual basket test is still required. Other unfamiliar notices remain unknown, with a monitoring-problem alert and retry.
 
 ## Settings and tests
 
 Secret: `SLACK_WEBHOOK_URL`. Never commit its value. The existing Slack secret, detector and alert hours are unchanged by the trial.
 
-Use Actions → Competitor watch → Run workflow with the test notification option to test Slack. With no options it runs a real check; the dry-run option checks the live site without alerts or state changes. Wait until the trial ends before dispatching a separate run because they share the concurrency lock.
+Use Actions → Competitor watch → Run workflow with the test notification option to test Slack. With no options it runs a real check; the dry-run option checks the live site without alerts or state changes. A manually dispatched run shares the concurrency lock and waits for any active session.
 
-Screenshot evidence is kept for three days as a run artifact. During the continuous trial, the latest screenshot becomes available when each segment finishes.
+Screenshot evidence is kept for three days as a run artifact. Current venue screenshots become available when the session finishes.
 
-No OVH/OpenClaw changes have been made. A VPS and external heartbeat monitoring remain a later step after the live trial.
+No OVH/OpenClaw changes have been made. A VPS and external heartbeat monitoring remain a later step.
 
 ## Validation
 
@@ -59,6 +61,8 @@ The user defines **open for deliveries** as a simple item successfully appearing
 
 A positive test requires a current delivery estimate in the directory. A venue saying “We are currently closed but you can still pre-order” is excluded and replaced, and does not establish platform closure or recovery. Explicit refusal/platform-pause notices still take precedence. Products marked pre-order, products requiring choices, and disabled Add buttons are skipped; no modifiers are selected. The actual basket must change from empty to containing the selected item. A failed test is unknown, not closed or open.
 
-Each venue uses an isolated disposable browser context. The detector tries up to six simple products and up to six venue candidates to obtain three usable readings. Probe work is bounded to 25 seconds per venue and total browser work to 180 seconds; existing workflow timeout remains 240 seconds. Evidence includes the item, probe result, reason and notice sequence. The two-check recovery guard and durable Slack retry queue are unchanged.
+Each venue uses an isolated disposable browser context. The detector tries up to six simple products and up to six venue candidates to obtain three usable readings. Probe work is bounded to 25 seconds per venue and total browser work to 180 seconds; each check subprocess is limited to 240 seconds. Evidence includes the item, probe result, reason and notice sequence. The two-check recovery guard and durable Slack retry queue are unchanged.
 
 `test_basket_regressions.py` covers successful addition without Checkout, pre-order exclusions and replacements, required options, unchanged/dirty baskets, refusals revealed after adding, unfamiliar popups, timeouts, and aggregation. These local fixtures do not prove the live site or Slack delivery.
+
+`test_continuous_watch.py` verifies five-minute retries, daily and overnight cutoff, five-hour session limits, failure/recovery messages, durable delivery retries and checkpoint failure handling.
