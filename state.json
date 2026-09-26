@@ -1,24 +1,31 @@
 {
-  "status": "open",
-  "since": "2026-09-25T22:48:09.898256+02:00",
-  "alerted": false,
-  "notice": "",
+  "status": "delays",
+  "since": "2026-09-26T21:16:49.895208+02:00",
+  "alerted": true,
+  "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
   "last_checked_date": "2026-09-26",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-25T23:28:09.902386+02:00",
+  "last_observed_at": "2026-09-26T21:16:49.895208+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "open",
-      "notice": "",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -34,6 +41,19 @@
         },
         {
           "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
           "notices": []
         },
         {
@@ -104,13 +124,20 @@
       }
     },
     {
-      "name": "Neha Curry House",
-      "status": "open",
-      "notice": "",
+      "name": "Panzerotto",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -126,6 +153,19 @@
         },
         {
           "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
           "notices": []
         },
         {
@@ -141,20 +181,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nB\nBooze Promos!\nVapes\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nBooze Promos!\n5 Cider Combo\nGet 5 Ciders for \u00a310.00\n\u00a310.00\n5 Breezer Combo\nMix & Match Breezers for \u00a312.00\n\u00a312.00\n5 + 1 San Miguel Bottles\nBuy 5 and Get 1 FREE!\n\u00a312.00\n6 x Corona Bottles\nSummer Promo!\n\u00a311.99\n10 + 2 Heineken Bottles\nBuy 10 and Get 2 FREE!\n\u00a325.00\nVapes\nVapes\n2 Bou Vape Combo for \u00a322\n\u00a322.00\nBou 7000: Blueberry Cranberry Cherry\n\u00a312.99\nBou 7000: Melon Pineapple Orange\n\u00a312.99\nBou 7000: Watermelon Kiwi\n\u00a312.99\nBou 7000: Strawberry Kiwi\n\u00a312.99\nBou 7000: Mango Ice\n\u00a311.99\nBou 7000: Mr Blue\n\u00a312.99\nBou 7000: Raspberry Lemon\n\u00a312.99\nBou 7000: Grape Cranberry Blueberry Raspberry\n\u00a312.99\nBou 7000: Melon Banana Pineapple\n\u00a312.99\nBou 7000: Cherry Cola\n\u00a312.99\nDesserts (Indian Sweets)\nIn-House Gulab Jamun\nA rich and delicious Indian dessert made of sweet and soft cheese balls, dipped in sugar syrup.\n\u00a32.50\nIn-House Mango Kulfi (Indian Mango Ice-Cream)\nThe premium mango ice-cream made in-house!\n\u00a33.50\nSoft Drinks\nNeha's Mango Lassi\nNeha's In-House made Mango Lassi!\n\u00a33.50\nCoca-Cola (Glass Bottle)\n330ml Bottle\n\u00a31.99\nCoke Zero (Glass Bottle)\n330ml Bottle\n\u00a31.99\nPepsi Can\n330ml Can\n\u00a31.50\nPepsi Max Can\n330ml Can\n\u00a31.50\nPepsi Max Cherry Can\n330ml Can\n\u00a31.50\nCoke Zero Can\n330ml Can\n\u00a31.50\nCoca Cola Can\n\u00a31.50\nDiet Coke Can\nCan 330ml\n\u00a31.50\nTango Cherry Can (Sugar Free)\n330ml Can\n\u00a31.50\nTang",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nSATURDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop pretending.\n\u00a311.99\nTHE HOLY TRINITY Panzerotto\nThree creams enter. One legend is born. Nutella. Pistac",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nBooze Promos!\nVapes\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nBooze Promos!\n5 Cider Combo\nGet 5 Ciders for \u00a310.00\n\u00a310.00\n5 Breezer Combo\nMix & Match Breezers for \u00a312.00\n\u00a312.00\n5 + 1 San Miguel Bottles\nBuy 5 and Get 1 FREE!\n\u00a312.00\n6 x Corona Bottles\nSummer Promo!\n\u00a311.99\n10 + 2 Heineken Bottles\nBuy 10 and Get 2 FREE!\n\u00a325.00\nVapes\nVapes\n2 Bou Vape Combo for \u00a322\n\u00a322.00\nBou 7000: Blueberry Cranberry Cherry\n\u00a312.99\nBou 7000: Melon Pineapple Orange\n\u00a312.99\nBou 7000: Watermelon Kiwi\n\u00a312.99\nBou 7000: Strawberry Kiwi\n\u00a312.99\nBou 7000: Mango Ice\n\u00a311.99\nBou 7000: Mr Blue\n\u00a312.99\nBou 7000: Raspberry Lemon\n\u00a312.99\nBou 7000: Grape Cranberry Blueberry Raspberry\n\u00a312.99\nBou 7000: Melon Banana Pineapple\n\u00a312.99\nBou 7000: Cherry Cola\n\u00a312.99\nDesserts (Indian Sweets)\nIn-House Gulab Jamun\nA rich and delicious Indian dessert made of sweet and soft cheese balls, dipped in sugar syrup.\n\u00a32.50\nIn-House Mango Kulfi (Indian Mango Ice-Cream)\nThe premium mango ice-cream made in-house!\n\u00a33.50\nSoft Drinks\nNeha's Mango Lassi\nNeha's In-House made Mango Lassi!\n\u00a33.50\nCoca-Cola (Glass Bottle)\n330ml Bottle\n\u00a31.99\nCoke Zero (Glass Bottle)\n330ml Bottle\n\u00a31.99\nPepsi Can\n330ml Can\n\u00a31.50\nPepsi Max Can\n330ml Can\n\u00a31.50\nPepsi Max Cherry Can\n330ml Can\n\u00a31.50\nCoke Zero Can\n330ml Can\n\u00a31.50\nCoca Cola Can\n\u00a31.50\nDiet Coke Can\nCan 330ml\n\u00a31.50\nTango Cherry Can (Sugar Free)\n330ml Can\n\u00a31.50\nTango ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nSATURDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop pretending.\n\u00a311.99\nTHE HOLY TRINITY Panzerotto\nThree creams enter. One legend is born. Nutella. Pistac",
             "notices": [
               {
-                "text": "Coke Zero (Glass Bottle)\n\n330ml Bottle\n\n1\nAdd to order\n\u00a31.99",
+                "text": "PEPSI - CAN\n\n33cl\n\n1\nAdd to order\n\u00a32.99",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.99"
+                  "Add to order\n\u00a32.99"
                 ],
                 "has_inputs": false
               }
@@ -162,22 +202,29 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero (Glass Bottle)\n\u00a31.99\n1\nSubtotal\n\u00a31.99\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.28\nAdd special instructions\nCheckout\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nBooze Promos!\nVapes\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nBooze Promos!\n5 Cider Combo\nGet 5 Ciders for \u00a310.00\n\u00a310.00\n5 Breezer Combo\nMix & Match Breezers for \u00a312.00\n\u00a312.00\n5 + 1 San Miguel Bottles\nBuy 5 and Get 1 FREE!\n\u00a312.00\n6 x Corona Bottles\nSummer Promo!\n\u00a311.99\n10 + 2 Heineken Bottles\nBuy 10 and Get 2 FREE!\n\u00a325.00\nVapes\nVapes\n2 Bou Vape Combo for \u00a322\n\u00a322.00\nBou 7000: Blueberry Cranberry Cherry\n\u00a312.99\nBou 7000: Melon Pineapple Orange\n\u00a312.99\nBou 7000: Watermelon Kiwi\n\u00a312.99\nBou 7000: Strawberry Kiwi\n\u00a312.99\nBou 7000: Mango Ice\n\u00a311.99\nBou 7000: Mr Blue\n\u00a312.99\nBou 7000: Raspberry Lemon\n\u00a312.99\nBou 7000: Grape Cranberry Blueberry Raspberry\n\u00a312.99\nBou 7000: Melon Banana Pineapple\n\u00a312.99\nBou 7000: Cherry Cola\n\u00a312.99\nDesserts (Indian Sweets)\nIn-House Gulab Jamun\nA rich and delicious Indian dessert made of sweet and soft cheese balls, dipped in sugar syrup.\n\u00a32.50\nIn-House Mango Kulfi (Indian Mango Ice-Cream)\nThe premium mango ice-cream made in-house!\n\u00a33.50\nSoft Drinks\nNeha's Mango Lassi\nNeha's In-House made Mango Lassi!\n\u00a33.50\nCoca-Cola (Glass Bottle)\n330ml Bottle\n\u00a31.99\n1\nCoke Zero (Glass Bottle)\n330ml Bottle\n\u00a31.99\nPepsi Can\n330ml Can\n\u00a31.50\nPepsi Max Can\n330ml Can\n\u00a31.50\nPepsi Max Cherry Can\n330ml Can\n\u00a31.50\nCoke Zero Can\n330ml Can\n\u00a31.",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPEPSI - CAN\n\u00a32.99\n1\nSubtotal\n\u00a32.99\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a36.28\nAdd special instructions\nCheckout\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nSATURDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop pretending.\n",
             "notices": []
           }
         ],
-        "item": "Coke Zero (Glass Bottle)",
+        "item": "PEPSI - CAN",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "The Shack",
-      "status": "open",
-      "notice": "",
+      "name": "Vinopolis Gastrobar",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -193,6 +240,19 @@
         },
         {
           "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
           "notices": []
         },
         {
@@ -208,20 +268,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry Shacks Big Order Burger: Double patties, cheesy fillet, mozzarella stick & more for \u00a312!\nEnjoy our delicious Kebab in a warm wrap or pitta, toasted in our house butter for \u00a39.20!\nTop Selling Items\nBurgers\nKebab\nChicken kebabs\nWraps\nKids Meals\nPinchitos\nSnacks\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMedium Kebab Box\nMedium Kebab Box served with your choice of chips salad and sauces.\n\u00a39.50\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nBurgers\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized onions!\n\u00a39.95\nNEW Shacks Bacon Xl\nDouble patties topped with crispy bacon\n\u00a39.00\nKebab\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nKeba",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nStart with our delicious Argentinean Pasties, served with tangy chimichurri sauce, for just \u00a38.14!\nIndulge in our Secreti Oberico, with mixed vegetables, chips & rich gaucha sauce just \u00a326.21!\nTop Selling Items\nTo Begin - Para Empezar\nVegetables - Vegetales\nFrom The Land - De La Tierra\nFrom the Sea - Del Mar\nDesserts - Postres\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nSelection of mini hamburgers\nSelecci\u00f3n de mini hamburguesas .\n\u00a320.00\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nGrilled octopus platter\nPulpo al piment\u00f3n.\n\u00a313.60\nTo Begin - Para Empezar\nAubergine mousse with bread\nMousse de berenjena con pan\n\u00a38.14\nTandoori wings with yogurt, mint and cucumber dip\nAlitas de pollo tandoori con salsa de yogur, menta y pepino.\n\u00a38.80\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nVeggie croquettes with sweet chili sauce\nCroquetas veganas con salsa de chili dulce.\n\u00a37.50\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nVegetables - Vegetales\nCauliflower with pomegranate and tahini sauce\nColiflor con granada y salsa de tahini.\n\u00a313.06\nGoat cheese walnut and apple salad\nEnsalada de queso de cabra con nueces y manzana.\n\u00a316.54\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nCourgette and onion tortilla with ali oli sauce\nTortilla de calabacin y cebolla con salsa ali oli\n\u00a38.14\nTomato salad with garlic and oregano\nEnsalada de tomate con ajo y ",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry Shacks Big Order Burger: Double patties, cheesy fillet, mozzarella stick & more for \u00a312!\nEnjoy our delicious Kebab in a warm wrap or pitta, toasted in our house butter for \u00a39.20!\nTop Selling Items\nBurgers\nKebab\nChicken kebabs\nWraps\nKids Meals\nPinchitos\nSnacks\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMedium Kebab Box\nMedium Kebab Box served with your choice of chips salad and sauces.\n\u00a39.50\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nBurgers\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized onions!\n\u00a39.95\nNEW Shacks Bacon Xl\nDouble patties topped with crispy bacon\n\u00a39.00\nKebab\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nKeba",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nStart with our delicious Argentinean Pasties, served with tangy chimichurri sauce, for just \u00a38.14!\nIndulge in our Secreti Oberico, with mixed vegetables, chips & rich gaucha sauce just \u00a326.21!\nTop Selling Items\nTo Begin - Para Empezar\nVegetables - Vegetales\nFrom The Land - De La Tierra\nFrom the Sea - Del Mar\nDesserts - Postres\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nSelection of mini hamburgers\nSelecci\u00f3n de mini hamburguesas .\n\u00a320.00\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nGrilled octopus platter\nPulpo al piment\u00f3n.\n\u00a313.60\nTo Begin - Para Empezar\nAubergine mousse with bread\nMousse de berenjena con pan\n\u00a38.14\nTandoori wings with yogurt, mint and cucumber dip\nAlitas de pollo tandoori con salsa de yogur, menta y pepino.\n\u00a38.80\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nVeggie croquettes with sweet chili sauce\nCroquetas veganas con salsa de chili dulce.\n\u00a37.50\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nVegetables - Vegetales\nCauliflower with pomegranate and tahini sauce\nColiflor con granada y salsa de tahini.\n\u00a313.06\nGoat cheese walnut and apple salad\nEnsalada de queso de cabra con nueces y manzana.\n\u00a316.54\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nCourgette and onion tortilla with ali oli sauce\nTortilla de calabacin y cebolla con salsa ali oli\n\u00a38.14\nTomato salad with garlic and oregano\nEnsalada de tomate con ajo y ",
             "notices": [
               {
-                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.50",
+                "text": "Pepsi\n1\nAdd to order\n\u00a33.10",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.50"
+                  "Add to order\n\u00a33.10"
                 ],
                 "has_inputs": false
               }
@@ -229,11 +289,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTry Shacks Big Order Burger: Double patties, cheesy fillet, mozzarella stick & more for \u00a312!\nEnjoy our delicious Kebab in a warm wrap or pitta, toasted in our house butter for \u00a39.20!\nTop Selling Items\nBurgers\nKebab\nChicken kebabs\nWraps\nKids Meals\nPinchitos\nSnacks\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMedium Kebab Box\nMedium Kebab Box served with your choice of chips salad and sauces.\n\u00a39.50\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nBurgers\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized onions!\n\u00a39.95\nNEW Shacks Bacon Xl\nDouble patties topped with crispy bacon\n\u00a39.00\nKebab\nKebab Wrap\nKebab wrap toasted with our house",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a33.10\n1\nSubtotal\n\u00a33.10\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a36.39\nAdd special instructions\nCheckout\nStart with our delicious Argentinean Pasties, served with tangy chimichurri sauce, for just \u00a38.14!\nIndulge in our Secreti Oberico, with mixed vegetables, chips & rich gaucha sauce just \u00a326.21!\nTop Selling Items\nTo Begin - Para Empezar\nVegetables - Vegetales\nFrom The Land - De La Tierra\nFrom the Sea - Del Mar\nDesserts - Postres\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nSelection of mini hamburgers\nSelecci\u00f3n de mini hamburguesas .\n\u00a320.00\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nGrilled octopus platter\nPulpo al piment\u00f3n.\n\u00a313.60\nTo Begin - Para Empezar\nAubergine mousse with bread\nMousse de berenjena con pan\n\u00a38.14\nTandoori wings with yogurt, mint and cucumber dip\nAlitas de pollo tandoori con salsa de yogur, menta y pepino.\n\u00a38.80\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nVeggie croquettes with sweet chili sauce\nCroquetas veganas con salsa de chili dulce.\n\u00a37.50\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nVegetables - Vegetales\nCauliflower with pomegranate and tahini sauce\nColiflor con granada y salsa de tahini.\n\u00a313.06\nGoat cheese walnut and apple salad\nEnsalada de queso de cabra con nueces y manzana.\n\u00a316.54\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nCourgette and onion tortilla with ali oli sauce\nTortilla de calabacin y cebolla con sa",
             "notices": []
           }
         ],
-        "item": "Coca Cola 33cl",
+        "item": "Pepsi",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -398,9 +458,14 @@
       "id": "2026-09-25-basket-rule-enabled",
       "subject": "Competitor Watch updated: basket rule enabled",
       "delivered_at": "2026-09-25T23:04:02.640431+02:00"
+    },
+    {
+      "id": "2026-09-26T21:16:49.895208+02:00:delays",
+      "subject": "Hungry Monkey is warning of long delays (21:16) - OPEN (basket test)",
+      "delivered_at": "2026-09-26T21:17:47.677848+02:00"
     }
   ],
   "recovery_streak": 0,
-  "last_result": "open",
-  "last_confirmed_at": "2026-09-25T23:28:09.902386+02:00"
+  "last_result": "delays",
+  "last_confirmed_at": "2026-09-26T21:16:49.895208+02:00"
 }
