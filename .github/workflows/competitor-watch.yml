@@ -24,7 +24,7 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 330
     env:
       TRADING_HOURS: ${{ vars.TRADING_HOURS }}
       ALERT_ON_DELAYS: ${{ vars.ALERT_ON_DELAYS }}
@@ -48,9 +48,13 @@ jobs:
       - name: Send test notification
         if: ${{ inputs.test_email == true }}
         run: python competitor_watch.py --test-notification
-      - name: Check whether Hungry Monkey is taking orders
+      - name: Configure checkpoint identity
+        run: |
+          git config user.name "competitor-watch"
+          git config user.email "competitor-watch@users.noreply.github.com"
+      - name: Check every five minutes in a bounded session
         if: ${{ inputs.test_email != true && inputs.dry_run != true }}
-        run: python competitor_watch.py
+        run: python continuous_watch.py
       - name: Validate live website without notifications
         if: ${{ inputs.test_email != true && inputs.dry_run == true }}
         run: python competitor_watch.py --dry-run
@@ -59,7 +63,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: screenshot
-          path: evidence.png
+          path: evidence*.png
           if-no-files-found: ignore
           retention-days: 3
       - name: Save state for the next run
@@ -69,8 +73,10 @@ jobs:
             git config user.name "competitor-watch"
             git config user.email "competitor-watch@users.noreply.github.com"
             git add state.json
+            if [ -f monitor-health.json ]; then git add monitor-health.json; fi
             if ! git diff --cached --quiet; then
               git commit -m "state: $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
-              git push
+              git pull --rebase origin main
+              git push origin HEAD:main
             fi
           fi
