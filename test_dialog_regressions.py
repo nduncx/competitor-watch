@@ -176,6 +176,31 @@ class DialogRegressionTests(unittest.TestCase):
         self.assertEqual(result['status'],'unknown')
         self.assertEqual(pressed,[])
 
+    def test_observed_promotion_then_delay_and_refusal_is_walked(self):
+        promo="Win your order for FREE! Busy Monkey Game! Go to www.hungrymonkey.gi/promos"
+        result,pressed=self.inspect(fixture([[promo,'OK'],[DELAY,'OK'],[CLOSED,'GOT IT']]))
+        self.assertEqual(pressed,['OK','OK','GOT IT'])
+        self.assertEqual(result['status'],'closed')
+
+    def test_observed_promotion_with_cookie_overlay_reaches_ordering_page(self):
+        promo="⭐Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! ⭐Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!"
+        html=fixture([[promo,'OK']])+"""
+        <div role="dialog" id="cookies" style="position:fixed;inset:0;z-index:100;background:white">
+        We use cookies to improve your online experience. See our cookie policy.
+        <button onclick="window.pressed.push('Reject non-essential');document.getElementById('cookies').remove()">Reject non-essential</button></div>"""
+        result,pressed=self.inspect(html)
+        self.assertEqual(pressed,['Reject non-essential','OK'])
+        self.assertEqual(result['status'],'open')
+        self.assertFalse(result['unresolved_notice'])
+
+    def test_promotion_never_submits_a_form_or_enters_the_game(self):
+        promo="Win your order for FREE! Busy Monkey Game! www.hungrymonkey.gi/promos"
+        result,pressed=self.inspect(fixture([[promo,'Enter competition']]))
+        self.assertEqual(result['status'],'unknown'); self.assertEqual(pressed,[])
+        html=fixture([[promo,'OK']])+"<script>document.querySelector('md-dialog').append(document.createElement('input'));</script>"
+        result,pressed=self.inspect(html)
+        self.assertEqual(result['status'],'unknown'); self.assertEqual(pressed,[])
+
 
 if __name__=='__main__':
     unittest.main()
