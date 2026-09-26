@@ -317,6 +317,16 @@ def notice_snapshot(page) -> dict:
     return page.evaluate(NOTICE_SNAPSHOT)
 
 
+def known_promotion(notice: dict) -> bool:
+    """Only dismiss the observed informational promotion; never enter the competition."""
+    text = " ".join(notice["text"].lower().split())
+    return (not notice.get("has_inputs")
+            and [b for b in notice.get("buttons", []) if b] == ["OK"]
+            and "win your order for free" in text
+            and "busy monkey game" in text
+            and "www.hungrymonkey.gi/promos" in text)
+
+
 def read_venue_page(venue_page, deadline=None) -> dict:
     """Read the complete bounded sequence; never clear evidence by dismissing it."""
     needles = PLATFORM_CLOSED_PHRASES + CLOSED_PHRASES + OPEN_PHRASES + PAGE_LOADED_PHRASES
@@ -343,7 +353,7 @@ def read_venue_page(venue_page, deadline=None) -> dict:
             # Classify all visible overlays before acting, so an unfamiliar one cannot be hidden.
             cookie_notices = [n for n in notices if 'we use cookies' in n['text'].lower()
                               and 'cookie policy' in n['text'].lower()]
-            unknown_notices = [n for n in notices if n not in cookie_notices and not any(
+            unknown_notices = [n for n in notices if n not in cookie_notices and not known_promotion(n) and not any(
                 p in n['text'].lower() for p in PLATFORM_CLOSED_PHRASES + CLOSED_PHRASES + DELAY_PHRASES)]
             if step == 5 or unknown_notices or any(n['has_inputs'] for n in notices):
                 unresolved = True
