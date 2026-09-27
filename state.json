@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T21:54:28.549614+02:00",
+  "last_observed_at": "2026-09-27T21:59:28.548749+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -104,73 +104,6 @@
       }
     },
     {
-      "name": "Burger King",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nLONG CHICKEN Served with Chips and Drink\nMayonnaise, Lettuce\n\u00a311.10\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips and Drink\n\u00a313.20\n2X LONG SPICY CHICKEN MEAL for \u00a316!\nYour favourite menu now in",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nLONG CHICKEN Served with Chips and Drink\nMayonnaise, Lettuce\n\u00a311.10\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips and Drink\n\u00a313.20\n2X LONG SPICY CHICKEN MEAL for \u00a316!\nYour favourite menu now in",
-            "notices": [
-              {
-                "text": "Coke\n1\nAdd to order\n\u00a33.30",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.30"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.30\n1\nSubtotal\n\u00a33.30\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a36.59\nAdd special instructions\nCheckout\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nLONG CHICKEN Served with Chips and Drink\nMayonnaise, Lettuce\n\u00a311.10\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Ch",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Cafetto Nostro",
       "status": "open",
       "notice": "",
@@ -234,6 +167,133 @@
           }
         ],
         "item": "ENGLAND BURGER",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Los Olivillos Grill",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "The Arena",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Pollo Hermano's & Pollo Loco",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast on a Whole Chicken, Large Chips, Alioli & 4 Croquetas - all for just \u00a318.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHalf Chicken & rice and Ali Oli\n\u00a39.95\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.00, wrap \u00a35.50 or combo \u00a36.70\n\u00a35.00\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a318.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a318.00\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a318.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a318.50\nMini Cordon Bleu\nper unit\n\u00a30.90\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a318.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nPlain\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nGarlic\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nMojo Picon\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nCurry\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nTikka\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSerranito\nRoll \u00a35.00, wra",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast on a Whole Chicken, Large Chips, Alioli & 4 Croquetas - all for just \u00a318.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHalf Chicken & rice and Ali Oli\n\u00a39.95\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.00, wrap \u00a35.50 or combo \u00a36.70\n\u00a35.00\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a318.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a318.00\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a318.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a318.50\nMini Cordon Bleu\nper unit\n\u00a30.90\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a318.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nPlain\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nGarlic\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nMojo Picon\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nCurry\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nTikka\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSerranito\nRoll \u00a35.00, wra",
+            "notices": [
+              {
+                "text": "Small Menu - Half Chicken, Small Chips and Ali Oli\n1\nAdd to order\n\u00a39.95",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a39.95"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\n1\nSubtotal\n\u00a39.95\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a313.24\nAdd special instructions\nCheckout\nFeast on a Whole Chicken, Large Chips, Alioli & 4 Croquetas - all for just \u00a318.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHalf Chicken & rice and Ali Oli\n\u00a39.95\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\n1\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.00, wrap \u00a35.50 or combo \u00a36.70\n\u00a35.00\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a318.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a318.00\n1\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a318.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a318.50\nMini Cordon Bleu\nper unit\n\u00a30.90\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a318.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nPlain\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nGarlic\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nMojo Picon\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.",
+            "notices": []
+          }
+        ],
+        "item": "Small Menu - Half Chicken, Small Chips and Ali Oli",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -677,5 +737,5 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-27T21:54:28.549614+02:00"
+  "last_confirmed_at": "2026-09-27T21:59:28.548749+02:00"
 }
