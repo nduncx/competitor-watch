@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T18:43:55.186105+02:00",
+  "last_observed_at": "2026-09-27T18:48:55.185680+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -306,6 +306,152 @@
     },
     {
       "name": "Jury`s",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Coke\n\n33cl\n\n1\nAdd to order\n\u00a33.10",
+              "buttons": [
+                "",
+                "",
+                "",
+                "Add to order\n\u00a33.10"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": false,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed Orange Juice\n\u00a33.00\nBrea",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed Orange Juice\n\u00a33.00\nBrea",
+            "notices": [
+              {
+                "text": "Coke\n\n33cl\n\n1\nAdd to order\n\u00a33.10",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a33.10"
+                ],
+                "has_inputs": false
+              }
+            ]
+          }
+        ],
+        "item": "Coke",
+        "reason": "notices or ordering unavailable after adding"
+      }
+    },
+    {
+      "name": "Candy Castle",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Pepsi Max\n\nPepsi Max 500ml bottle\n\n1\nAdd to order\n\u00a32.50",
+              "buttons": [
+                "",
+                "",
+                "",
+                "Add to order\n\u00a32.50"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": false,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nGelato\nBuild Your Gelato\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nGelato\nOne scoop of smooth, creamy gelato. The perfect sweet treat anytime.\nLemon Sorbet\nZesty lemon sorbet with a cool, refreshing finish.\n\u00a33.95\nDulce De Leche\nCaramelised milk with a rich, sweet taste.\n\u00a33.95\nVanilla Tahiti\nFragrant, Smooth, And Creamy Vanilla Flavour.\n\u00a33.95\nMilk Chocolate\nTraditional milk chocolate.\n\u00a33.95\nOreo\nVanilla ice cream with crunchy Oreo pieces.\n\u00a33.90\nHappy Hippo\nCrispy Happy Hippo wafer with creamy chocolate filling.\n\u00a33.95\nPr\u00edncipe\nCrunchy Pr\u00edncipe biscuits with smooth chocolate cream.\n\u00a33.95\nCheesecake\nCreamy cheesecake with biscuit and strawberry pieces.\n\u00a33.95\nAfter Eight\nRefreshing mint with crunchy chocolate chips.\n\u00a33.95\nPistachio\nNutty Sicilian pistachio with a creamy finish.\n\u00a34.95\nBanoffee Pie\nCreamy Banana & Toffee With Crunchy Biscuit\n\u00a33.95\nTiramisu\nCrea",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nGelato\nBuild Your Gelato\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nGelato\nOne scoop of smooth, creamy gelato. The perfect sweet treat anytime.\nLemon Sorbet\nZesty lemon sorbet with a cool, refreshing finish.\n\u00a33.95\nDulce De Leche\nCaramelised milk with a rich, sweet taste.\n\u00a33.95\nVanilla Tahiti\nFragrant, Smooth, And Creamy Vanilla Flavour.\n\u00a33.95\nMilk Chocolate\nTraditional milk chocolate.\n\u00a33.95\nOreo\nVanilla ice cream with crunchy Oreo pieces.\n\u00a33.90\nHappy Hippo\nCrispy Happy Hippo wafer with creamy chocolate filling.\n\u00a33.95\nPr\u00edncipe\nCrunchy Pr\u00edncipe biscuits with smooth chocolate cream.\n\u00a33.95\nCheesecake\nCreamy cheesecake with biscuit and strawberry pieces.\n\u00a33.95\nAfter Eight\nRefreshing mint with crunchy chocolate chips.\n\u00a33.95\nPistachio\nNutty Sicilian pistachio with a creamy finish.\n\u00a34.95\nBanoffee Pie\nCreamy Banana & Toffee With Crunchy Biscuit\n\u00a33.95\nTiramisu\nCrea",
+            "notices": [
+              {
+                "text": "Pepsi Max\n\nPepsi Max 500ml bottle\n\n1\nAdd to order\n\u00a32.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          }
+        ],
+        "item": "Pepsi Max",
+        "reason": "notices or ordering unavailable after adding"
+      }
+    },
+    {
+      "name": "OAKBERRY",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -342,20 +488,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed Orange Juice\n\u00a33.00\nBrea",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCreate your perfect blend with Acai Smoothies - Build Your Own from just \u00a310.70!\nExplore our Signature Bowls! Fuel up with our Tiger Bowls and more from only \u00a314.50!\nTop Selling Items\nAcai Bowls (Build Your Own)\nSignature Bowls\nAcai Smoothies (Build Your Own)\nSignature Smoothies (500ml)\nOAK Products\nP\nProtein Shakes\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\u00a311.90\nWorks Bowl (500ml)\nYour WORKS is custom made, so please pick unlimited toppings of your preference. For the WORKS size (500ml), we suggest up to 6 toppings for a perfect Acai/Toppings ratio.\n\u00a315.90\nThe OAK Bowl (650ml)\nYour OAK is custom made, so please pick unlimited toppings of your preference. For the OAK size (650ml), we suggest up to 7 toppings for a perfect Acai/Toppings ratio.\n\u00a318.90\nPistachio Bowl (500ml)\nA rich and nutty twist a\u00e7a\u00ed with chia pudding, strawberries, granola and a smooth pistachio cream.\n\u00a318.50\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nAcai Bowls (Build Your Own)\nBuild your own acai bowl\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest ",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed Orange Juice\n\u00a33.00\nBrea",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCreate your perfect blend with Acai Smoothies - Build Your Own from just \u00a310.70!\nExplore our Signature Bowls! Fuel up with our Tiger Bowls and more from only \u00a314.50!\nTop Selling Items\nAcai Bowls (Build Your Own)\nSignature Bowls\nAcai Smoothies (Build Your Own)\nSignature Smoothies (500ml)\nOAK Products\nP\nProtein Shakes\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\u00a311.90\nWorks Bowl (500ml)\nYour WORKS is custom made, so please pick unlimited toppings of your preference. For the WORKS size (500ml), we suggest up to 6 toppings for a perfect Acai/Toppings ratio.\n\u00a315.90\nThe OAK Bowl (650ml)\nYour OAK is custom made, so please pick unlimited toppings of your preference. For the OAK size (650ml), we suggest up to 7 toppings for a perfect Acai/Toppings ratio.\n\u00a318.90\nPistachio Bowl (500ml)\nA rich and nutty twist a\u00e7a\u00ed with chia pudding, strawberries, granola and a smooth pistachio cream.\n\u00a318.50\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nAcai Bowls (Build Your Own)\nBuild your own acai bowl\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest ",
             "notices": [
               {
-                "text": "Coke\n\n33cl\n\n1\nAdd to order\n\u00a33.10",
+                "text": "Classic Bowl (350ml)\n\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\nFruits\nSelect up to 9 options\n0/9\nBanana\nKiwi\nChopped Dates\n\u00a31.20\nMango Puree\nStrawberries\nGoji Berries\nRaspberries\n\u00a31.20\nPassion Fruit\n\u00a31.20\nNuts & Seeds\nSelect up to 5 options\n0/5\nPumpkin Seeds\nChia Seeds\nHemp Seeds\nSliced Almonds\nOut of stock\nPa\u00e7oca Zero\n\u00a31.20\nCreamy\nSelect up to 9 options\n0/9\nCondensed Milk\nPowdered Milk\nPeanut Butter\nAlmond Butter\n\u00a31.20\nChia Pudding\nNatural Yoghurt\nPistachio Cream\n\u00a32.50\nHazelnut Choco Cream\n\u00a31.20\nHoney\nCrunchy\nSelect up to 6 options\n0/6\nGranola\nGranola Signature\nCoconut Flakes\nCoconut Chips\n\u00a31.20\nCacao Nibs\n\u00a31.20\nOAK Boosters\nSelect up to 3 options\n0/3\nWhey Protein\n\u00a32.50\nVegan Protein\n\u00a32.50\nCollagen\n\u00a32.50\n1\nAdd to order\n\u00a311.90",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a33.10"
+                  "Add to order\n\u00a311.90"
                 ],
                 "has_inputs": false
               }
@@ -363,11 +509,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.10\n1\nSubtotal\n\u00a33.10\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a36.39\nAdd special instructions\nCheckout\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature bre",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nClassic Bowl (350ml)\n\u00a311.90\n1\nSubtotal\n\u00a311.90\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a315.19\nAdd special instructions\nCheckout\nCreate your perfect blend with Acai Smoothies - Build Your Own from just \u00a310.70!\nExplore our Signature Bowls! Fuel up with our Tiger Bowls and more from only \u00a314.50!\nTop Selling Items\nAcai Bowls (Build Your Own)\nSignature Bowls\nAcai Smoothies (Build Your Own)\nSignature Smoothies (500ml)\nOAK Products\nP\nProtein Shakes\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\u00a311.90\nWorks Bowl (500ml)\nYour WORKS is custom made, so please pick unlimited toppings of your preference. For the WORKS size (500ml), we suggest up to 6 toppings for a perfect Acai/Toppings ratio.\n\u00a315.90\nThe OAK Bowl (650ml)\nYour OAK is custom made, so please pick unlimited toppings of your preference. For the OAK size (650ml), we suggest up to 7 toppings for a perfect Acai/Toppings ratio.\n\u00a318.90\nPistachio Bowl (500ml)\nA rich and nutty twist a\u00e7a\u00ed with chia pudding, strawberries, granola and a smooth pistachio cream.\n\u00a318.50\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nAcai Bowls (Build Your Own)\nBuild your own acai bowl\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\n1\nClassic Bowl (350ml)\nYour CLASSIC is cu",
             "notices": []
           }
         ],
-        "item": "Coke",
+        "item": "Classic Bowl (350ml)",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -661,5 +807,5 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-27T18:43:55.186105+02:00"
+  "last_confirmed_at": "2026-09-27T18:48:55.185680+02:00"
 }
