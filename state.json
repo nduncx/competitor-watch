@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T14:53:55.181836+02:00",
+  "last_observed_at": "2026-09-27T14:58:55.179073+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -628,9 +628,14 @@
       "id": "2026-09-27T14:53:55.181836+02:00:delays",
       "subject": "Hungry Monkey is warning of long delays (14:53) - OPEN (basket test)",
       "delivered_at": "2026-09-27T14:54:54.199975+02:00"
+    },
+    {
+      "id": "2026-09-27T14:58:55.179073+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (14:58) - OPEN (basket test)",
+      "delivered_at": "2026-09-27T14:59:51.579742+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-27T14:53:55.181836+02:00"
+  "last_confirmed_at": "2026-09-27T14:58:55.179073+02:00"
 }
