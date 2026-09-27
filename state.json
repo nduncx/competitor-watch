@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T20:54:28.546512+02:00",
+  "last_observed_at": "2026-09-27T20:59:28.551017+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -212,8 +212,8 @@
     },
     {
       "name": "Panzerotto",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "venue_closed",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\n\nWe are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -254,48 +254,161 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nSUNDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop pretending.\n\u00a311.99\nTHE HOLY TRINITY Panzerotto\nThree creams enter. One legend is born. Nutella. Pistachi",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nSUNDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop pretending.\n\u00a311.99\nTHE HOLY TRINITY Panzerotto\nThree creams enter. One legend is born. Nutella. Pistachi",
-            "notices": [
-              {
-                "text": "PEPSI - CAN\n\n33cl\n\n1\nAdd to order\n\u00a32.99",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.99"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPEPSI - CAN\n\u00a32.99\n1\nSubtotal\n\u00a32.99\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a36.28\nAdd special instructions\nCheckout\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nSUNDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop pretending.\n\u00a31",
-            "notices": []
-          }
-        ],
-        "item": "PEPSI - CAN",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
+    },
+    {
+      "name": "Salt n Pepper Kitchen",
+      "status": "venue_closed",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\n\nWe are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Special Olympics Cafe",
+      "status": "venue_closed",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\n\nWe are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "The Hendrix",
+      "status": "venue_closed",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\n\nWe are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
@@ -688,9 +801,14 @@
       "id": "2026-09-27T20:54:28.546512+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (20:54) - OPEN (basket test)",
       "delivered_at": "2026-09-27T20:55:23.088547+02:00"
+    },
+    {
+      "id": "2026-09-27T20:59:28.551017+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (20:59) - OPEN (basket test)",
+      "delivered_at": "2026-09-27T21:01:00.862281+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-27T20:54:28.546512+02:00"
+  "last_confirmed_at": "2026-09-27T20:59:28.551017+02:00"
 }
