@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T16:48:55.182404+02:00",
+  "last_observed_at": "2026-09-27T16:53:55.181944+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -100,73 +100,6 @@
           }
         ],
         "item": "Southern Fried Chicken Strips",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "The Star Bar",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy two satisfying Full English Breakfasts for only \u00a325.95 - a great deal for a great meal!\nIndulge in a delicious Toastie with Three Fillings of your choice all for just \u00a36.90!\nTop Selling Items\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nBreakfast Menu\nStarters\nMains\nBurgers & Wraps\nPastas\nSalads\nHome Baked Rolls or Freshly Cut Sandwiches\nSide Dishes\nKids Menu\nHomemade Desserts\nSoft Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRos\u00e9 Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12pm\nAmerican Style Nachos\nJalapenos, Mexican tomato sauce & cheddar cheese\n\u00a39.50\nVegetarian\nChicken Wings\nWith sour cream - 7 pieces\n\u00a38.95\nBritish Fish & Chips - Our Most Popular Dish\n12 oz Atlantic cod fillet coated in a light beer batter, served with hand cut chips, peas & tartar sauce\n\u00a317.95\nSignature Star Burger\nFresh minced beef steak, Manchego cheese, Serrano ham, roast pepper & mayo served with hand cut chips.\n\u00a316.95\nCrispy Duck and Hoisin Wrap\nSpinach, red onion, cucumber, Hoisin mayo & hand cut chips\n\u00a315.95\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nIt's what we are famous for! Available All Day, Every day\n2 Full English Breakfasts Only for \u00a319.50\nTwo fried eggs, two rashers of Danish bacon, two pork sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans with traditional black pudding & toast.\n\u00a319.50\nBreakfast Menu\nAvailable until 12pm\nAward Winning Star Bar Breakfast\nTwo fried eggs, two rashers of Danish bacon, two Cumberland sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans & toast. Its what we are famous for!\n\u00a311.95\nEarly Starter\nHalf sized breakfast for the smaller app",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy two satisfying Full English Breakfasts for only \u00a325.95 - a great deal for a great meal!\nIndulge in a delicious Toastie with Three Fillings of your choice all for just \u00a36.90!\nTop Selling Items\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nBreakfast Menu\nStarters\nMains\nBurgers & Wraps\nPastas\nSalads\nHome Baked Rolls or Freshly Cut Sandwiches\nSide Dishes\nKids Menu\nHomemade Desserts\nSoft Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRos\u00e9 Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12pm\nAmerican Style Nachos\nJalapenos, Mexican tomato sauce & cheddar cheese\n\u00a39.50\nVegetarian\nChicken Wings\nWith sour cream - 7 pieces\n\u00a38.95\nBritish Fish & Chips - Our Most Popular Dish\n12 oz Atlantic cod fillet coated in a light beer batter, served with hand cut chips, peas & tartar sauce\n\u00a317.95\nSignature Star Burger\nFresh minced beef steak, Manchego cheese, Serrano ham, roast pepper & mayo served with hand cut chips.\n\u00a316.95\nCrispy Duck and Hoisin Wrap\nSpinach, red onion, cucumber, Hoisin mayo & hand cut chips\n\u00a315.95\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nIt's what we are famous for! Available All Day, Every day\n2 Full English Breakfasts Only for \u00a319.50\nTwo fried eggs, two rashers of Danish bacon, two pork sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans with traditional black pudding & toast.\n\u00a319.50\nBreakfast Menu\nAvailable until 12pm\nAward Winning Star Bar Breakfast\nTwo fried eggs, two rashers of Danish bacon, two Cumberland sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans & toast. Its what we are famous for!\n\u00a311.95\nEarly Starter\nHalf sized breakfast for the smaller app",
-            "notices": [
-              {
-                "text": "Coke 33cl\n1\nAdd to order\n\u00a32.60",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.60"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 33cl\n\u00a32.60\n1\nSubtotal\n\u00a32.60\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.89\nAdd special instructions\nCheckout\nEnjoy two satisfying Full English Breakfasts for only \u00a325.95 - a great deal for a great meal!\nIndulge in a delicious Toastie with Three Fillings of your choice all for just \u00a36.90!\nTop Selling Items\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nBreakfast Menu\nStarters\nMains\nBurgers & Wraps\nPastas\nSalads\nHome Baked Rolls or Freshly Cut Sandwiches\nSide Dishes\nKids Menu\nHomemade Desserts\nSoft Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRos\u00e9 Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12pm\nAmerican Style Nachos\nJalapenos, Mexican tomato sauce & cheddar cheese\n\u00a39.50\nVegetarian\nChicken Wings\nWith sour cream - 7 pieces\n\u00a38.95\nBritish Fish & Chips - Our Most Popular Dish\n12 oz Atlantic cod fillet coated in a light beer batter, served with hand cut chips, peas & tartar sauce\n\u00a317.95\nSignature Star Burger\nFresh minced beef steak, Manchego cheese, Serrano ham, roast pepper & mayo served with hand cut chips.\n\u00a316.95\nCrispy Duck and Hoisin Wrap\nSpinach, red onion, cucumber, Hoisin mayo & hand cut chips\n\u00a315.95\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nIt's what we are famous for! Available All Day, Every day\n2 Full English Breakfasts Only for \u00a319.50\nTwo fried eggs, two rashers of Danish bacon, two pork sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans with traditional black pudding & toast.\n\u00a319.50\nBreakfast Menu\nAvailable until 12pm\nAward Winning Star Bar Breakfast\nTwo fried eggs, two rashers of Danish bacon, two Cumberland sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans & toast. I",
-            "notices": []
-          }
-        ],
-        "item": "Coke 33cl",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
@@ -338,6 +271,73 @@
           }
         ],
         "item": "Ham & Cheese Croissant",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Jury`s",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed Orange Juice\n\u00a33.00\nBrea",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed Orange Juice\n\u00a33.00\nBrea",
+            "notices": [
+              {
+                "text": "Coke\n\n33cl\n\n1\nAdd to order\n\u00a33.10",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a33.10"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.10\n1\nSubtotal\n\u00a33.10\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a36.39\nAdd special instructions\nCheckout\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature bre",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -631,5 +631,5 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-27T16:48:55.182404+02:00"
+  "last_confirmed_at": "2026-09-27T16:53:55.181944+02:00"
 }
