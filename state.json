@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T19:13:55.187173+02:00",
+  "last_observed_at": "2026-09-27T19:18:55.186579+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -253,55 +253,20 @@
         },
         {
           "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
           "notices": [
             {
-              "text": "Pepsi Max\n\nPepsi Max 500ml bottle\n\n1\nAdd to order\n\u00a32.50",
+              "text": "Angel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nOK",
               "buttons": [
-                "",
-                "",
-                "",
-                "Add to order\n\u00a32.50"
+                "OK"
               ],
               "has_inputs": false
             }
-          ],
-          "phase": "after_add"
+          ]
         }
       ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": false,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nGelato\nBuild Your Gelato\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nGelato\nOne scoop of smooth, creamy gelato. The perfect sweet treat anytime.\nLemon Sorbet\nZesty lemon sorbet with a cool, refreshing finish.\n\u00a33.95\nDulce De Leche\nCaramelised milk with a rich, sweet taste.\n\u00a33.95\nVanilla Tahiti\nFragrant, Smooth, And Creamy Vanilla Flavour.\n\u00a33.95\nMilk Chocolate\nTraditional milk chocolate.\n\u00a33.95\nOreo\nVanilla ice cream with crunchy Oreo pieces.\n\u00a33.90\nHappy Hippo\nCrispy Happy Hippo wafer with creamy chocolate filling.\n\u00a33.95\nPr\u00edncipe\nCrunchy Pr\u00edncipe biscuits with smooth chocolate cream.\n\u00a33.95\nCheesecake\nCreamy cheesecake with biscuit and strawberry pieces.\n\u00a33.95\nAfter Eight\nRefreshing mint with crunchy chocolate chips.\n\u00a33.95\nPistachio\nNutty Sicilian pistachio with a creamy finish.\n\u00a34.95\nBanoffee Pie\nCreamy Banana & Toffee With Crunchy Biscuit\n\u00a33.95\nTiramisu\nCrea",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nGelato\nBuild Your Gelato\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nGelato\nOne scoop of smooth, creamy gelato. The perfect sweet treat anytime.\nLemon Sorbet\nZesty lemon sorbet with a cool, refreshing finish.\n\u00a33.95\nDulce De Leche\nCaramelised milk with a rich, sweet taste.\n\u00a33.95\nVanilla Tahiti\nFragrant, Smooth, And Creamy Vanilla Flavour.\n\u00a33.95\nMilk Chocolate\nTraditional milk chocolate.\n\u00a33.95\nOreo\nVanilla ice cream with crunchy Oreo pieces.\n\u00a33.90\nHappy Hippo\nCrispy Happy Hippo wafer with creamy chocolate filling.\n\u00a33.95\nPr\u00edncipe\nCrunchy Pr\u00edncipe biscuits with smooth chocolate cream.\n\u00a33.95\nCheesecake\nCreamy cheesecake with biscuit and strawberry pieces.\n\u00a33.95\nAfter Eight\nRefreshing mint with crunchy chocolate chips.\n\u00a33.95\nPistachio\nNutty Sicilian pistachio with a creamy finish.\n\u00a34.95\nBanoffee Pie\nCreamy Banana & Toffee With Crunchy Biscuit\n\u00a33.95\nTiramisu\nCrea",
-            "notices": [
-              {
-                "text": "Pepsi Max\n\nPepsi Max 500ml bottle\n\n1\nAdd to order\n\u00a32.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          }
-        ],
-        "item": "Pepsi Max",
-        "reason": "notices or ordering unavailable after adding"
-      }
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "basket_probe": {}
     },
     {
       "name": "OAKBERRY",
@@ -681,9 +646,14 @@
       "id": "2026-09-27T19:13:55.187173+02:00:delays",
       "subject": "Hungry Monkey is warning of long delays (19:13) - OPEN (basket test)",
       "delivered_at": "2026-09-27T19:15:06.843440+02:00"
+    },
+    {
+      "id": "2026-09-27T19:18:55.186579+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (19:18) - OPEN (basket test)",
+      "delivered_at": "2026-09-27T19:20:01.567154+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-27T19:13:55.187173+02:00"
+  "last_confirmed_at": "2026-09-27T19:18:55.186579+02:00"
 }
