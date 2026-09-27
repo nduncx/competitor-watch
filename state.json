@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T19:48:55.187022+02:00",
+  "last_observed_at": "2026-09-27T19:54:28.545126+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -48,7 +48,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Candy Castle",
+      "name": "OAKBERRY",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -84,7 +84,7 @@
       "basket_probe": {}
     },
     {
-      "name": "OAKBERRY",
+      "name": "Ramsons Watergardens",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -445,9 +445,14 @@
       "id": "2026-09-27T19:48:55.187022+02:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (19:48)",
       "delivered_at": "2026-09-27T19:49:34.393569+02:00"
+    },
+    {
+      "id": "2026-09-27T19:54:28.545126+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (19:54)",
+      "delivered_at": "2026-09-27T19:55:08.588595+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-09-27T19:48:55.187022+02:00"
+  "last_confirmed_at": "2026-09-27T19:54:28.545126+02:00"
 }
