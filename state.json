@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T21:09:28.547706+02:00",
+  "last_observed_at": "2026-09-27T21:14:28.547195+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -48,7 +48,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Ramsons Supermarket",
+      "name": "The Ocean",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -84,7 +84,7 @@
       "basket_probe": {}
     },
     {
-      "name": "The Ocean",
+      "name": "Monique's",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -525,9 +525,14 @@
       "id": "2026-09-27T21:09:28.547706+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (21:09)",
       "delivered_at": "2026-09-27T21:10:10.206622+02:00"
+    },
+    {
+      "id": "2026-09-27T21:14:28.547195+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (21:14)",
+      "delivered_at": "2026-09-27T21:15:10.781188+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-09-27T21:09:28.547706+02:00"
+  "last_confirmed_at": "2026-09-27T21:14:28.547195+02:00"
 }
