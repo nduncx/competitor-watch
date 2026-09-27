@@ -741,6 +741,11 @@
       "id": "2026-09-27T21:39:28.547589+02:00:open",
       "subject": "Hungry Monkey: long-delays warning cleared (21:39) - basket test passed",
       "delivered_at": "2026-09-27T21:40:20.716782+02:00"
+    },
+    {
+      "id": "monitor:2026-09-27T23:04:28.482964+02:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-09-27T23:05:53.088741+02:00"
     }
   ],
   "recovery_streak": 0,
