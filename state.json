@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T22:39:28.550095+02:00",
+  "last_observed_at": "2026-09-27T22:44:28.550196+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -172,6 +172,66 @@
     },
     {
       "name": "Pizza Hut",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Taco Bell",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Smash & Stack",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -208,20 +268,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover the Triple Box Medium for just \u00a337.50 - 2 pizzas, sides, and sauces for the ultimate feast!\nCraving more? Go LARGE! Any 2 Large Pizzas from just \u00a331.20!\nTop Selling Items\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nNEW! Melts\nTriple Box only for \u00a337.50!\nPrice Crash Offer! Hut Three!\nDouble Hut Mediums only form \u00a322.40!\nDouble Hut Family only from \u00a331.20!\nStarters\nSmall Pizzas\nMedium Pizzas\nLarge Pizzas\nGluten Free Pizzas\nDesserts\nDips\nSoft Drinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble Hut Medium Pizzas only from \u00a322.40!\nChoose any 2 medium pizzas\n\u00a322.40\nAny 2 Large Pizzas only from \u00a331.20!\nChoose any 2 large pizzas\n\u00a331.20\nMedium Meat Lovers\nBeef, pepperoni, ham and spicy pork\n\u00a313.70\nChicken Wings\nSucculent chicken wings lightly marinated and accompanied by BBQ or Garlic Sauce\n\u00a38.10\nTriple Box Medium only for \u00a337.50!\nIncludes any 2 medium pizzas, 5 onion rings, grill fries, 4 garlic bread, 5 chicken delights and 2 sauces (garlic or BBQ)\n\u00a337.50\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nAvailable Monday to Thursday\nGo Large Americana\nPepperoni, bacon and onion\n\u00a313.70\nGo Large Kebab\nFresh tomato, onion, chicken kebab and kebab sauce\n\u00a313.70\nGo Large Pepperoni Lovers\nClassic pepperoni pizza topped with over 50% pepperoni\n\u00a313.70\nGo Large Hawaiana\nHam and pineapple\n\u00a313.70\nGo Large Veggie Lovers\nOnion, sweet corn, green pepper, mushroom and fresh tomato\n\u00a313.70\nGo Large Margherita\nWith tomato sauce and mozzarella\n\u00a313.70\nGo Large Cheese & Ham\nClassic pizza topped with cheese and ham\n\u00a313.70\nNEW! Melts\nNEW! Melts Bourbon BBQ\nBourbon sauce, mozzarella, bacon, veal, chicken kebab & your choice of sauce\n\u00a3",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTurn up the vibes! Our Jerk Chicken Burger is here for a limited time only at just \u00a314.95!\nBig flavor, no compromise! Grab our plant-based beef & chicken-style burgers for just \u00a312.95!\nTop Selling Items\nStarters\nSmash Burgers\nVegan & Vegetarian\nKids Menu\nSauces\nDesserts\nShakes\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Cheese & Bacon Burger\nTopped with melted American cheddar, crispy bacon, fresh lettuce, pickles, mayo, and ketchup.\n\u00a313.95\nNEW! Volcano Burger\n2 Smashed beef patty, fiery Sriracha mayo, sliced jalape\u00f1os, melted cheddar, fresh pico de gallo, a drizzle of honey mustard and crunchy shredded nachos. Served with fries\n\u00a314.95\nWestern Burger\nCrispy bacon, Emmental cheese, fried onions, fresh lettuce, and smoky BBQ sauce.\n\u00a315.95\nNEW! Kentucky Chicken Bucket (For 2)\nA sharing bucket loaded with crispy Kentucky-style chicken and golden fries, served with BBQ sauce and honey mustard dip. Perfect for two\n\u00a319.95\nStarters\nNEW! Mini Duck Spring Rolls\nServed With Hoin Sin Sauce\n\u00a39.95\nNEW! Mac & Cheese Balls\nServed With Garlic Mayo\n\u00a39.95\nNEW! Corn Dogs (4 pcs)\nFour golden-fried corn dogs with a crispy cornmeal coating, topped with ketchup, mustard sauce, and crispy onions.\n\u00a39.95\nNEW! Pork Belly Chunks\nCrispy pork belly chunks, slow-cooked for maximum flavour and served with BBQ sauce and sriracha dip.\n\u00a39.95\nNEW! Pork Rib Bites\nTender, slow-cooked pork rib bites, crispy on the outside and juicy inside, served with BBQ sauce and sriracha mayo\n\u00a39.95\nBBQ American Buffalo Wings\nSmokey BBQ\n\u00a38.95\nHot & Spicy American Buffalo Wings\nHot & Spicy\n\u00a38.95\nAmerican Chicken Tenders\nCrispy golden and bursting with flavour, served with a side of hon",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover the Triple Box Medium for just \u00a337.50 - 2 pizzas, sides, and sauces for the ultimate feast!\nCraving more? Go LARGE! Any 2 Large Pizzas from just \u00a331.20!\nTop Selling Items\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nNEW! Melts\nTriple Box only for \u00a337.50!\nPrice Crash Offer! Hut Three!\nDouble Hut Mediums only form \u00a322.40!\nDouble Hut Family only from \u00a331.20!\nStarters\nSmall Pizzas\nMedium Pizzas\nLarge Pizzas\nGluten Free Pizzas\nDesserts\nDips\nSoft Drinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble Hut Medium Pizzas only from \u00a322.40!\nChoose any 2 medium pizzas\n\u00a322.40\nAny 2 Large Pizzas only from \u00a331.20!\nChoose any 2 large pizzas\n\u00a331.20\nMedium Meat Lovers\nBeef, pepperoni, ham and spicy pork\n\u00a313.70\nChicken Wings\nSucculent chicken wings lightly marinated and accompanied by BBQ or Garlic Sauce\n\u00a38.10\nTriple Box Medium only for \u00a337.50!\nIncludes any 2 medium pizzas, 5 onion rings, grill fries, 4 garlic bread, 5 chicken delights and 2 sauces (garlic or BBQ)\n\u00a337.50\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nAvailable Monday to Thursday\nGo Large Americana\nPepperoni, bacon and onion\n\u00a313.70\nGo Large Kebab\nFresh tomato, onion, chicken kebab and kebab sauce\n\u00a313.70\nGo Large Pepperoni Lovers\nClassic pepperoni pizza topped with over 50% pepperoni\n\u00a313.70\nGo Large Hawaiana\nHam and pineapple\n\u00a313.70\nGo Large Veggie Lovers\nOnion, sweet corn, green pepper, mushroom and fresh tomato\n\u00a313.70\nGo Large Margherita\nWith tomato sauce and mozzarella\n\u00a313.70\nGo Large Cheese & Ham\nClassic pizza topped with cheese and ham\n\u00a313.70\nNEW! Melts\nNEW! Melts Bourbon BBQ\nBourbon sauce, mozzarella, bacon, veal, chicken kebab & your choice of sauce\n\u00a3",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTurn up the vibes! Our Jerk Chicken Burger is here for a limited time only at just \u00a314.95!\nBig flavor, no compromise! Grab our plant-based beef & chicken-style burgers for just \u00a312.95!\nTop Selling Items\nStarters\nSmash Burgers\nVegan & Vegetarian\nKids Menu\nSauces\nDesserts\nShakes\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Cheese & Bacon Burger\nTopped with melted American cheddar, crispy bacon, fresh lettuce, pickles, mayo, and ketchup.\n\u00a313.95\nNEW! Volcano Burger\n2 Smashed beef patty, fiery Sriracha mayo, sliced jalape\u00f1os, melted cheddar, fresh pico de gallo, a drizzle of honey mustard and crunchy shredded nachos. Served with fries\n\u00a314.95\nWestern Burger\nCrispy bacon, Emmental cheese, fried onions, fresh lettuce, and smoky BBQ sauce.\n\u00a315.95\nNEW! Kentucky Chicken Bucket (For 2)\nA sharing bucket loaded with crispy Kentucky-style chicken and golden fries, served with BBQ sauce and honey mustard dip. Perfect for two\n\u00a319.95\nStarters\nNEW! Mini Duck Spring Rolls\nServed With Hoin Sin Sauce\n\u00a39.95\nNEW! Mac & Cheese Balls\nServed With Garlic Mayo\n\u00a39.95\nNEW! Corn Dogs (4 pcs)\nFour golden-fried corn dogs with a crispy cornmeal coating, topped with ketchup, mustard sauce, and crispy onions.\n\u00a39.95\nNEW! Pork Belly Chunks\nCrispy pork belly chunks, slow-cooked for maximum flavour and served with BBQ sauce and sriracha dip.\n\u00a39.95\nNEW! Pork Rib Bites\nTender, slow-cooked pork rib bites, crispy on the outside and juicy inside, served with BBQ sauce and sriracha mayo\n\u00a39.95\nBBQ American Buffalo Wings\nSmokey BBQ\n\u00a38.95\nHot & Spicy American Buffalo Wings\nHot & Spicy\n\u00a38.95\nAmerican Chicken Tenders\nCrispy golden and bursting with flavour, served with a side of hon",
             "notices": [
               {
-                "text": "Pepsi 2 Litre Bottle\n1\nAdd to order\n\u00a33.80",
+                "text": "Coke Can\n1\nAdd to order\n\u00a32.50",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a33.80"
+                  "Add to order\n\u00a32.50"
                 ],
                 "has_inputs": false
               }
@@ -229,11 +289,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi 2 Litre Bottle\n\u00a33.80\n1\nSubtotal\n\u00a33.80\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a37.09\nAdd special instructions\nCheckout\nDiscover the Triple Box Medium for just \u00a337.50 - 2 pizzas, sides, and sauces for the ultimate feast!\nCraving more? Go LARGE! Any 2 Large Pizzas from just \u00a331.20!\nTop Selling Items\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nNEW! Melts\nTriple Box only for \u00a337.50!\nPrice Crash Offer! Hut Three!\nDouble Hut Mediums only form \u00a322.40!\nDouble Hut Family only from \u00a331.20!\nStarters\nSmall Pizzas\nMedium Pizzas\nLarge Pizzas\nGluten Free Pizzas\nDesserts\nDips\nSoft Drinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble Hut Medium Pizzas only from \u00a322.40!\nChoose any 2 medium pizzas\n\u00a322.40\nAny 2 Large Pizzas only from \u00a331.20!\nChoose any 2 large pizzas\n\u00a331.20\nMedium Meat Lovers\nBeef, pepperoni, ham and spicy pork\n\u00a313.70\nChicken Wings\nSucculent chicken wings lightly marinated and accompanied by BBQ or Garlic Sauce\n\u00a38.10\nTriple Box Medium only for \u00a337.50!\nIncludes any 2 medium pizzas, 5 onion rings, grill fries, 4 garlic bread, 5 chicken delights and 2 sauces (garlic or BBQ)\n\u00a337.50\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nAvailable Monday to Thursday\nGo Large Americana\nPepperoni, bacon and onion\n\u00a313.70\nGo Large Kebab\nFresh tomato, onion, chicken kebab and kebab sauce\n\u00a313.70\nGo Large Pepperoni Lovers\nClassic pepperoni pizza topped with over 50% pepperoni\n\u00a313.70\nGo Large Hawaiana\nHam and pineapple\n\u00a313.70\nGo Large Veggie Lovers\nOnion, sweet corn, green pepper, mushroom and fresh tomato\n\u00a313.70\nGo Large Margherita\nWith tomato sauce and mozzarella\n\u00a313.70\nGo Large Cheese & Ham\nClassic pizza topped with cheese and ham\n\u00a313.70\nNEW! Melts\nNE",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Can\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nTurn up the vibes! Our Jerk Chicken Burger is here for a limited time only at just \u00a314.95!\nBig flavor, no compromise! Grab our plant-based beef & chicken-style burgers for just \u00a312.95!\nTop Selling Items\nStarters\nSmash Burgers\nVegan & Vegetarian\nKids Menu\nSauces\nDesserts\nShakes\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Cheese & Bacon Burger\nTopped with melted American cheddar, crispy bacon, fresh lettuce, pickles, mayo, and ketchup.\n\u00a313.95\nNEW! Volcano Burger\n2 Smashed beef patty, fiery Sriracha mayo, sliced jalape\u00f1os, melted cheddar, fresh pico de gallo, a drizzle of honey mustard and crunchy shredded nachos. Served with fries\n\u00a314.95\nWestern Burger\nCrispy bacon, Emmental cheese, fried onions, fresh lettuce, and smoky BBQ sauce.\n\u00a315.95\nNEW! Kentucky Chicken Bucket (For 2)\nA sharing bucket loaded with crispy Kentucky-style chicken and golden fries, served with BBQ sauce and honey mustard dip. Perfect for two\n\u00a319.95\nStarters\nNEW! Mini Duck Spring Rolls\nServed With Hoin Sin Sauce\n\u00a39.95\nNEW! Mac & Cheese Balls\nServed With Garlic Mayo\n\u00a39.95\nNEW! Corn Dogs (4 pcs)\nFour golden-fried corn dogs with a crispy cornmeal coating, topped with ketchup, mustard sauce, and crispy onions.\n\u00a39.95\nNEW! Pork Belly Chunks\nCrispy pork belly chunks, slow-cooked for maximum flavour and served with BBQ sauce and sriracha dip.\n\u00a39.95\nNEW! Pork Rib Bites\nTender, slow-cooked pork rib bites, crispy on the outside and juicy inside, served with BBQ sauce and sriracha mayo\n\u00a39.95\nBBQ American Buffalo Wings\nSmokey BBQ\n\u00a38.95\nHot & Spicy American Buffalo Wings\nHot & Spicy\n\u00a38.95\nAmer",
             "notices": []
           }
         ],
-        "item": "Pepsi 2 Litre Bottle",
+        "item": "Coke Can",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -677,5 +737,5 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-27T22:39:28.550095+02:00"
+  "last_confirmed_at": "2026-09-27T22:44:28.550196+02:00"
 }
