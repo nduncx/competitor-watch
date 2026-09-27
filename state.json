@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T22:29:28.549419+02:00",
+  "last_observed_at": "2026-09-27T22:34:28.549386+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "name": "3Bros Takeout",
+      "name": "Mr Noodles",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -141,20 +141,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCheck out Our delicious 3Bros SFC Boneless Bucket only for \u00a322.95\nNEW sides for just \u00a36.90! Pulled Pork Bites and Mac & Cheese bites!!\nTop Selling Items\nBurgers\n3Bros SFC Boneless Bucket only for \u00a322.95!\nSides\n3 Bros Fries\nKids Meals\nDesserts\nDrinks\nIce Creams\nSauces\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nSFC Chicken Strips\n\u00a37.20\nThe SFC Bro + Fries\nBrioche bun, SFC chicken breast, American cheese, sliced tomato, chopped lettuce, red onion & 3Bros sauce.\n\u00a311.80\nBurgers\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nEL Mex Bro + Fries\nBrioche Bun, Double beef patties, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nEL Mex SFC + Fries\nBrioche Bun, SFC Chicken breast, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\nThe Big Bro + Fries\nBrioche bun, four beef patties,double American cheese, red onions, chopped lettuce, sliced ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGrab an Indonesian Noodle Lunch Box from just \u00a37 - available until 4pm!\nIndulge in our Amazing Pad Thai Rice Noodle Lunch Boxes from \u00a37!\nTop Selling Items\nStarters\nIndonesian Noodle Lunch Boxes (Until 4pm)\nIndonesian Noodle (Large)\nAmazing Pad Thai Rice Noodle Lunch Boxes\nAmazing Pad Thai Rice Noodle (Large boxes)\nJasmine Rice Lunch Boxes (Until 4pm)\nJasmine Rice Dishes (Large Box)\nThai Wok\nThai Curry (Choice of green, read or yellow curry)\nThai Wraps\nSides\nDrinks\nBeers\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIndonesian Chicken Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nPad Thai with Chicken - Large\nRice Noodle. Vegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nIndonesian Beef Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.00\nIndonesian Prawn Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.90\nIndonesian Chicken, Beef & Prawn Noodle Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a314.50\nStarters\nLarge Prawn Crackers\n\u00a33.95\nLarge Vegetable Spring Rolls\n2 pieces\n\u00a34.50\nPrawn Spring Rolls\n3 pieces\n\u00a34.95\nChicken Nuggets\n6 pieces\n\u00a34.95\nThai Fish Cake\n1 piece\n\u00a34.75\nChicken Wings\n6 pieces\n\u00a37.50\nChicken Sesames\nBreadcrumb Chicken Strips with Sesame Seeds (6 pieces)\n\u00a37.75\nPrawn Sesames\n6 pieces\n\u00a38.20\nPlain Rice\n\u00a33.75\nEgg Fried Rice\n\u00a34.75\nSweet Chili Dip\n\u00a30.7",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCheck out Our delicious 3Bros SFC Boneless Bucket only for \u00a322.95\nNEW sides for just \u00a36.90! Pulled Pork Bites and Mac & Cheese bites!!\nTop Selling Items\nBurgers\n3Bros SFC Boneless Bucket only for \u00a322.95!\nSides\n3 Bros Fries\nKids Meals\nDesserts\nDrinks\nIce Creams\nSauces\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nSFC Chicken Strips\n\u00a37.20\nThe SFC Bro + Fries\nBrioche bun, SFC chicken breast, American cheese, sliced tomato, chopped lettuce, red onion & 3Bros sauce.\n\u00a311.80\nBurgers\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nEL Mex Bro + Fries\nBrioche Bun, Double beef patties, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nEL Mex SFC + Fries\nBrioche Bun, SFC Chicken breast, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\nThe Big Bro + Fries\nBrioche bun, four beef patties,double American cheese, red onions, chopped lettuce, sliced ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGrab an Indonesian Noodle Lunch Box from just \u00a37 - available until 4pm!\nIndulge in our Amazing Pad Thai Rice Noodle Lunch Boxes from \u00a37!\nTop Selling Items\nStarters\nIndonesian Noodle Lunch Boxes (Until 4pm)\nIndonesian Noodle (Large)\nAmazing Pad Thai Rice Noodle Lunch Boxes\nAmazing Pad Thai Rice Noodle (Large boxes)\nJasmine Rice Lunch Boxes (Until 4pm)\nJasmine Rice Dishes (Large Box)\nThai Wok\nThai Curry (Choice of green, read or yellow curry)\nThai Wraps\nSides\nDrinks\nBeers\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIndonesian Chicken Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nPad Thai with Chicken - Large\nRice Noodle. Vegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nIndonesian Beef Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.00\nIndonesian Prawn Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.90\nIndonesian Chicken, Beef & Prawn Noodle Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a314.50\nStarters\nLarge Prawn Crackers\n\u00a33.95\nLarge Vegetable Spring Rolls\n2 pieces\n\u00a34.50\nPrawn Spring Rolls\n3 pieces\n\u00a34.95\nChicken Nuggets\n6 pieces\n\u00a34.95\nThai Fish Cake\n1 piece\n\u00a34.75\nChicken Wings\n6 pieces\n\u00a37.50\nChicken Sesames\nBreadcrumb Chicken Strips with Sesame Seeds (6 pieces)\n\u00a37.75\nPrawn Sesames\n6 pieces\n\u00a38.20\nPlain Rice\n\u00a33.75\nEgg Fried Rice\n\u00a34.75\nSweet Chili Dip\n\u00a30.7",
             "notices": [
               {
-                "text": "SFC Chicken Strips\n1\nAdd to order\n\u00a37.20",
+                "text": "Coke 330ml\n1\nAdd to order\n\u00a31.75",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a37.20"
+                  "Add to order\n\u00a31.75"
                 ],
                 "has_inputs": false
               }
@@ -162,18 +162,18 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSFC Chicken Strips\n\u00a37.20\n1\nSubtotal\n\u00a37.20\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a310.49\nAdd special instructions\nCheckout\nCheck out Our delicious 3Bros SFC Boneless Bucket only for \u00a322.95\nNEW sides for just \u00a36.90! Pulled Pork Bites and Mac & Cheese bites!!\nTop Selling Items\nBurgers\n3Bros SFC Boneless Bucket only for \u00a322.95!\nSides\n3 Bros Fries\nKids Meals\nDesserts\nDrinks\nIce Creams\nSauces\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\n1\nSFC Chicken Strips\n\u00a37.20\nThe SFC Bro + Fries\nBrioche bun, SFC chicken breast, American cheese, sliced tomato, chopped lettuce, red onion & 3Bros sauce.\n\u00a311.80\nBurgers\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nEL Mex Bro + Fries\nBrioche Bun, Double beef patties, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nEL Mex SFC + Fries\nBrioche Bun, SFC Chicken breast, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\nThe Big Bro",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 330ml\n\u00a31.75\n1\nSubtotal\n\u00a31.75\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.04\nAdd special instructions\nCheckout\nGrab an Indonesian Noodle Lunch Box from just \u00a37 - available until 4pm!\nIndulge in our Amazing Pad Thai Rice Noodle Lunch Boxes from \u00a37!\nTop Selling Items\nStarters\nIndonesian Noodle Lunch Boxes (Until 4pm)\nIndonesian Noodle (Large)\nAmazing Pad Thai Rice Noodle Lunch Boxes\nAmazing Pad Thai Rice Noodle (Large boxes)\nJasmine Rice Lunch Boxes (Until 4pm)\nJasmine Rice Dishes (Large Box)\nThai Wok\nThai Curry (Choice of green, read or yellow curry)\nThai Wraps\nSides\nDrinks\nBeers\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIndonesian Chicken Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nPad Thai with Chicken - Large\nRice Noodle. Vegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nIndonesian Beef Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.00\nIndonesian Prawn Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.90\nIndonesian Chicken, Beef & Prawn Noodle Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a314.50\nStarters\nLarge Prawn Crackers\n\u00a33.95\nLarge Vegetable Spring Rolls\n2 pieces\n\u00a34.50\nPrawn Spring Rolls\n3 pieces\n\u00a34.95\nChicken Nuggets\n6 pieces\n\u00a34.95\nThai Fish Cake\n1 piece\n\u00a34.75\nChicken Wings\n6 pieces\n\u00a37.50\nChicken Sesames\nBreadcrumb Chicken Strips with Sesame Seeds (6 pieces)\n\u00a37.7",
             "notices": []
           }
         ],
-        "item": "SFC Chicken Strips",
+        "item": "Coke 330ml",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "BABA",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
+      "name": "Pizza Hut",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
@@ -194,101 +194,48 @@
         {
           "step": 1,
           "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {}
-    },
-    {
-      "name": "Dirty Burger",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
         },
         {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {}
-    },
-    {
-      "name": "Firefly",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
           "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
-      "basket_probe": {}
-    },
-    {
-      "name": "Poptata Chicken",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover the Triple Box Medium for just \u00a337.50 - 2 pizzas, sides, and sauces for the ultimate feast!\nCraving more? Go LARGE! Any 2 Large Pizzas from just \u00a331.20!\nTop Selling Items\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nNEW! Melts\nTriple Box only for \u00a337.50!\nPrice Crash Offer! Hut Three!\nDouble Hut Mediums only form \u00a322.40!\nDouble Hut Family only from \u00a331.20!\nStarters\nSmall Pizzas\nMedium Pizzas\nLarge Pizzas\nGluten Free Pizzas\nDesserts\nDips\nSoft Drinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble Hut Medium Pizzas only from \u00a322.40!\nChoose any 2 medium pizzas\n\u00a322.40\nAny 2 Large Pizzas only from \u00a331.20!\nChoose any 2 large pizzas\n\u00a331.20\nMedium Meat Lovers\nBeef, pepperoni, ham and spicy pork\n\u00a313.70\nChicken Wings\nSucculent chicken wings lightly marinated and accompanied by BBQ or Garlic Sauce\n\u00a38.10\nTriple Box Medium only for \u00a337.50!\nIncludes any 2 medium pizzas, 5 onion rings, grill fries, 4 garlic bread, 5 chicken delights and 2 sauces (garlic or BBQ)\n\u00a337.50\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nAvailable Monday to Thursday\nGo Large Americana\nPepperoni, bacon and onion\n\u00a313.70\nGo Large Kebab\nFresh tomato, onion, chicken kebab and kebab sauce\n\u00a313.70\nGo Large Pepperoni Lovers\nClassic pepperoni pizza topped with over 50% pepperoni\n\u00a313.70\nGo Large Hawaiana\nHam and pineapple\n\u00a313.70\nGo Large Veggie Lovers\nOnion, sweet corn, green pepper, mushroom and fresh tomato\n\u00a313.70\nGo Large Margherita\nWith tomato sauce and mozzarella\n\u00a313.70\nGo Large Cheese & Ham\nClassic pizza topped with cheese and ham\n\u00a313.70\nNEW! Melts\nNEW! Melts Bourbon BBQ\nBourbon sauce, mozzarella, bacon, veal, chicken kebab & your choice of sauce\n\u00a3",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover the Triple Box Medium for just \u00a337.50 - 2 pizzas, sides, and sauces for the ultimate feast!\nCraving more? Go LARGE! Any 2 Large Pizzas from just \u00a331.20!\nTop Selling Items\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nNEW! Melts\nTriple Box only for \u00a337.50!\nPrice Crash Offer! Hut Three!\nDouble Hut Mediums only form \u00a322.40!\nDouble Hut Family only from \u00a331.20!\nStarters\nSmall Pizzas\nMedium Pizzas\nLarge Pizzas\nGluten Free Pizzas\nDesserts\nDips\nSoft Drinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble Hut Medium Pizzas only from \u00a322.40!\nChoose any 2 medium pizzas\n\u00a322.40\nAny 2 Large Pizzas only from \u00a331.20!\nChoose any 2 large pizzas\n\u00a331.20\nMedium Meat Lovers\nBeef, pepperoni, ham and spicy pork\n\u00a313.70\nChicken Wings\nSucculent chicken wings lightly marinated and accompanied by BBQ or Garlic Sauce\n\u00a38.10\nTriple Box Medium only for \u00a337.50!\nIncludes any 2 medium pizzas, 5 onion rings, grill fries, 4 garlic bread, 5 chicken delights and 2 sauces (garlic or BBQ)\n\u00a337.50\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nAvailable Monday to Thursday\nGo Large Americana\nPepperoni, bacon and onion\n\u00a313.70\nGo Large Kebab\nFresh tomato, onion, chicken kebab and kebab sauce\n\u00a313.70\nGo Large Pepperoni Lovers\nClassic pepperoni pizza topped with over 50% pepperoni\n\u00a313.70\nGo Large Hawaiana\nHam and pineapple\n\u00a313.70\nGo Large Veggie Lovers\nOnion, sweet corn, green pepper, mushroom and fresh tomato\n\u00a313.70\nGo Large Margherita\nWith tomato sauce and mozzarella\n\u00a313.70\nGo Large Cheese & Ham\nClassic pizza topped with cheese and ham\n\u00a313.70\nNEW! Melts\nNEW! Melts Bourbon BBQ\nBourbon sauce, mozzarella, bacon, veal, chicken kebab & your choice of sauce\n\u00a3",
+            "notices": [
+              {
+                "text": "Pepsi 2 Litre Bottle\n1\nAdd to order\n\u00a33.80",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a33.80"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi 2 Litre Bottle\n\u00a33.80\n1\nSubtotal\n\u00a33.80\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a37.09\nAdd special instructions\nCheckout\nDiscover the Triple Box Medium for just \u00a337.50 - 2 pizzas, sides, and sauces for the ultimate feast!\nCraving more? Go LARGE! Any 2 Large Pizzas from just \u00a331.20!\nTop Selling Items\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nNEW! Melts\nTriple Box only for \u00a337.50!\nPrice Crash Offer! Hut Three!\nDouble Hut Mediums only form \u00a322.40!\nDouble Hut Family only from \u00a331.20!\nStarters\nSmall Pizzas\nMedium Pizzas\nLarge Pizzas\nGluten Free Pizzas\nDesserts\nDips\nSoft Drinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble Hut Medium Pizzas only from \u00a322.40!\nChoose any 2 medium pizzas\n\u00a322.40\nAny 2 Large Pizzas only from \u00a331.20!\nChoose any 2 large pizzas\n\u00a331.20\nMedium Meat Lovers\nBeef, pepperoni, ham and spicy pork\n\u00a313.70\nChicken Wings\nSucculent chicken wings lightly marinated and accompanied by BBQ or Garlic Sauce\n\u00a38.10\nTriple Box Medium only for \u00a337.50!\nIncludes any 2 medium pizzas, 5 onion rings, grill fries, 4 garlic bread, 5 chicken delights and 2 sauces (garlic or BBQ)\n\u00a337.50\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nAvailable Monday to Thursday\nGo Large Americana\nPepperoni, bacon and onion\n\u00a313.70\nGo Large Kebab\nFresh tomato, onion, chicken kebab and kebab sauce\n\u00a313.70\nGo Large Pepperoni Lovers\nClassic pepperoni pizza topped with over 50% pepperoni\n\u00a313.70\nGo Large Hawaiana\nHam and pineapple\n\u00a313.70\nGo Large Veggie Lovers\nOnion, sweet corn, green pepper, mushroom and fresh tomato\n\u00a313.70\nGo Large Margherita\nWith tomato sauce and mozzarella\n\u00a313.70\nGo Large Cheese & Ham\nClassic pizza topped with cheese and ham\n\u00a313.70\nNEW! Melts\nNE",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi 2 Litre Bottle",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
@@ -730,5 +677,5 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-27T22:29:28.549419+02:00"
+  "last_confirmed_at": "2026-09-27T22:34:28.549386+02:00"
 }
