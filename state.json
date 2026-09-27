@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T22:44:28.550196+02:00",
+  "last_observed_at": "2026-09-27T22:49:28.550288+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -104,133 +104,6 @@
       }
     },
     {
-      "name": "Mr Noodles",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGrab an Indonesian Noodle Lunch Box from just \u00a37 - available until 4pm!\nIndulge in our Amazing Pad Thai Rice Noodle Lunch Boxes from \u00a37!\nTop Selling Items\nStarters\nIndonesian Noodle Lunch Boxes (Until 4pm)\nIndonesian Noodle (Large)\nAmazing Pad Thai Rice Noodle Lunch Boxes\nAmazing Pad Thai Rice Noodle (Large boxes)\nJasmine Rice Lunch Boxes (Until 4pm)\nJasmine Rice Dishes (Large Box)\nThai Wok\nThai Curry (Choice of green, read or yellow curry)\nThai Wraps\nSides\nDrinks\nBeers\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIndonesian Chicken Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nPad Thai with Chicken - Large\nRice Noodle. Vegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nIndonesian Beef Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.00\nIndonesian Prawn Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.90\nIndonesian Chicken, Beef & Prawn Noodle Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a314.50\nStarters\nLarge Prawn Crackers\n\u00a33.95\nLarge Vegetable Spring Rolls\n2 pieces\n\u00a34.50\nPrawn Spring Rolls\n3 pieces\n\u00a34.95\nChicken Nuggets\n6 pieces\n\u00a34.95\nThai Fish Cake\n1 piece\n\u00a34.75\nChicken Wings\n6 pieces\n\u00a37.50\nChicken Sesames\nBreadcrumb Chicken Strips with Sesame Seeds (6 pieces)\n\u00a37.75\nPrawn Sesames\n6 pieces\n\u00a38.20\nPlain Rice\n\u00a33.75\nEgg Fried Rice\n\u00a34.75\nSweet Chili Dip\n\u00a30.7",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGrab an Indonesian Noodle Lunch Box from just \u00a37 - available until 4pm!\nIndulge in our Amazing Pad Thai Rice Noodle Lunch Boxes from \u00a37!\nTop Selling Items\nStarters\nIndonesian Noodle Lunch Boxes (Until 4pm)\nIndonesian Noodle (Large)\nAmazing Pad Thai Rice Noodle Lunch Boxes\nAmazing Pad Thai Rice Noodle (Large boxes)\nJasmine Rice Lunch Boxes (Until 4pm)\nJasmine Rice Dishes (Large Box)\nThai Wok\nThai Curry (Choice of green, read or yellow curry)\nThai Wraps\nSides\nDrinks\nBeers\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIndonesian Chicken Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nPad Thai with Chicken - Large\nRice Noodle. Vegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nIndonesian Beef Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.00\nIndonesian Prawn Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.90\nIndonesian Chicken, Beef & Prawn Noodle Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a314.50\nStarters\nLarge Prawn Crackers\n\u00a33.95\nLarge Vegetable Spring Rolls\n2 pieces\n\u00a34.50\nPrawn Spring Rolls\n3 pieces\n\u00a34.95\nChicken Nuggets\n6 pieces\n\u00a34.95\nThai Fish Cake\n1 piece\n\u00a34.75\nChicken Wings\n6 pieces\n\u00a37.50\nChicken Sesames\nBreadcrumb Chicken Strips with Sesame Seeds (6 pieces)\n\u00a37.75\nPrawn Sesames\n6 pieces\n\u00a38.20\nPlain Rice\n\u00a33.75\nEgg Fried Rice\n\u00a34.75\nSweet Chili Dip\n\u00a30.7",
-            "notices": [
-              {
-                "text": "Coke 330ml\n1\nAdd to order\n\u00a31.75",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.75"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 330ml\n\u00a31.75\n1\nSubtotal\n\u00a31.75\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.04\nAdd special instructions\nCheckout\nGrab an Indonesian Noodle Lunch Box from just \u00a37 - available until 4pm!\nIndulge in our Amazing Pad Thai Rice Noodle Lunch Boxes from \u00a37!\nTop Selling Items\nStarters\nIndonesian Noodle Lunch Boxes (Until 4pm)\nIndonesian Noodle (Large)\nAmazing Pad Thai Rice Noodle Lunch Boxes\nAmazing Pad Thai Rice Noodle (Large boxes)\nJasmine Rice Lunch Boxes (Until 4pm)\nJasmine Rice Dishes (Large Box)\nThai Wok\nThai Curry (Choice of green, read or yellow curry)\nThai Wraps\nSides\nDrinks\nBeers\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIndonesian Chicken Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nPad Thai with Chicken - Large\nRice Noodle. Vegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nIndonesian Beef Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.00\nIndonesian Prawn Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.90\nIndonesian Chicken, Beef & Prawn Noodle Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a314.50\nStarters\nLarge Prawn Crackers\n\u00a33.95\nLarge Vegetable Spring Rolls\n2 pieces\n\u00a34.50\nPrawn Spring Rolls\n3 pieces\n\u00a34.95\nChicken Nuggets\n6 pieces\n\u00a34.95\nThai Fish Cake\n1 piece\n\u00a34.75\nChicken Wings\n6 pieces\n\u00a37.50\nChicken Sesames\nBreadcrumb Chicken Strips with Sesame Seeds (6 pieces)\n\u00a37.7",
-            "notices": []
-          }
-        ],
-        "item": "Coke 330ml",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Pizza Hut",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {}
-    },
-    {
-      "name": "Taco Bell",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {}
-    },
-    {
       "name": "Smash & Stack",
       "status": "open",
       "notice": "",
@@ -294,6 +167,73 @@
           }
         ],
         "item": "Coke Can",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Chinese Kitchen",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Price Crash Offers - whether you're dining solo or in a group, a meal waiting for you!\nExperience our Special Meals: Braised Eggplant, Assorted Shrimp & more from 8.50!\nTop Selling Items\nPrice Crash Offers!\nSpecial Meals (new menu)\nBubble Milk Tea\nZang Zang Tea\nFruit Tea\nDragon Boat Festival zongzi\nSoup\nAppetiser\nSeafood\nDuck Specials\nMeat\nChicken\nNoodles\nRice Dishes\nVegetarian\nTomato Dishes\nRice Noodles\nChinese Dim Sum\nLunch Menu\nDrinks\nSauces\nDesserts\nSoft Drinks\nBeer & Cider\nBeers and Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\n66. Chicken Noodles\n\u00a37.20\n11. Salt & Pepper Spare Ribs\n\u00a39.00\nHot\n40. Peking Duck (Half) No Bone\nServed with 10 Pancakes, Cucumber & Sauce\n\u00a321.00\n61A. Sweet and Sour Chicken Hong Kong Style\nPineapple, Peppers, Sweet and sour\n\u00a38.50\n10. Spare Ribs Peking Style\n\u00a39.50\nPrice Crash Offers!\nA. Meal For One Person - Low Fat Dishes\nMixed Chinese Vegetables + Plain Soft Noodles\n\u00a313.80\nB. Meal For Two People - Low Fat Dishes\nSliced Beef with Mushrooms + Chicken Soft Noodles + Boiled Rice + Kung Po Chilli Chicken. ( \u00a310.50 p.person )\n\u00a326.80\nC. Meal for a Minimum or Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken Peking Style + Fried Mixed Vegetables + Egg Fried Rice.\n\u00a329.00\nD. Meal for a Minimum of Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken with Mushrooms + Vegetable Noodle + Special Fried Rice.\n\u00a337.00\nE. Meals for Three People or More\nPrawn Crackers + Crispy Beef Szechuan Style + Sweet and Sour Pork Peking Style + Roast Pork with Mushrooms + Chicken in Pepper and Black Bean Sauce + Mixed Vegetable + Beef Noodles & Special Fried Rice\n\u00a360.00\nF. Meal for Three People",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Price Crash Offers - whether you're dining solo or in a group, a meal waiting for you!\nExperience our Special Meals: Braised Eggplant, Assorted Shrimp & more from 8.50!\nTop Selling Items\nPrice Crash Offers!\nSpecial Meals (new menu)\nBubble Milk Tea\nZang Zang Tea\nFruit Tea\nDragon Boat Festival zongzi\nSoup\nAppetiser\nSeafood\nDuck Specials\nMeat\nChicken\nNoodles\nRice Dishes\nVegetarian\nTomato Dishes\nRice Noodles\nChinese Dim Sum\nLunch Menu\nDrinks\nSauces\nDesserts\nSoft Drinks\nBeer & Cider\nBeers and Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\n66. Chicken Noodles\n\u00a37.20\n11. Salt & Pepper Spare Ribs\n\u00a39.00\nHot\n40. Peking Duck (Half) No Bone\nServed with 10 Pancakes, Cucumber & Sauce\n\u00a321.00\n61A. Sweet and Sour Chicken Hong Kong Style\nPineapple, Peppers, Sweet and sour\n\u00a38.50\n10. Spare Ribs Peking Style\n\u00a39.50\nPrice Crash Offers!\nA. Meal For One Person - Low Fat Dishes\nMixed Chinese Vegetables + Plain Soft Noodles\n\u00a313.80\nB. Meal For Two People - Low Fat Dishes\nSliced Beef with Mushrooms + Chicken Soft Noodles + Boiled Rice + Kung Po Chilli Chicken. ( \u00a310.50 p.person )\n\u00a326.80\nC. Meal for a Minimum or Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken Peking Style + Fried Mixed Vegetables + Egg Fried Rice.\n\u00a329.00\nD. Meal for a Minimum of Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken with Mushrooms + Vegetable Noodle + Special Fried Rice.\n\u00a337.00\nE. Meals for Three People or More\nPrawn Crackers + Crispy Beef Szechuan Style + Sweet and Sour Pork Peking Style + Roast Pork with Mushrooms + Chicken in Pepper and Black Bean Sauce + Mixed Vegetable + Beef Noodles & Special Fried Rice\n\u00a360.00\nF. Meal for Three People",
+            "notices": [
+              {
+                "text": "Coke\n1\nAdd to order\n\u00a31.80",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.80"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.80\n1\nSubtotal\n\u00a31.80\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.09\nAdd special instructions\nCheckout\nEnjoy our Price Crash Offers - whether you're dining solo or in a group, a meal waiting for you!\nExperience our Special Meals: Braised Eggplant, Assorted Shrimp & more from 8.50!\nTop Selling Items\nPrice Crash Offers!\nSpecial Meals (new menu)\nBubble Milk Tea\nZang Zang Tea\nFruit Tea\nDragon Boat Festival zongzi\nSoup\nAppetiser\nSeafood\nDuck Specials\nMeat\nChicken\nNoodles\nRice Dishes\nVegetarian\nTomato Dishes\nRice Noodles\nChinese Dim Sum\nLunch Menu\nDrinks\nSauces\nDesserts\nSoft Drinks\nBeer & Cider\nBeers and Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\n66. Chicken Noodles\n\u00a37.20\n11. Salt & Pepper Spare Ribs\n\u00a39.00\nHot\n40. Peking Duck (Half) No Bone\nServed with 10 Pancakes, Cucumber & Sauce\n\u00a321.00\n61A. Sweet and Sour Chicken Hong Kong Style\nPineapple, Peppers, Sweet and sour\n\u00a38.50\n10. Spare Ribs Peking Style\n\u00a39.50\nPrice Crash Offers!\nA. Meal For One Person - Low Fat Dishes\nMixed Chinese Vegetables + Plain Soft Noodles\n\u00a313.80\nB. Meal For Two People - Low Fat Dishes\nSliced Beef with Mushrooms + Chicken Soft Noodles + Boiled Rice + Kung Po Chilli Chicken. ( \u00a310.50 p.person )\n\u00a326.80\nC. Meal for a Minimum or Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken Peking Style + Fried Mixed Vegetables + Egg Fried Rice.\n\u00a329.00\nD. Meal for a Minimum of Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken with Mushrooms + Vegetable Noodle + Special Fried Rice.\n\u00a337.00\nE. Meals for Three People or More\nPrawn Crackers + Crispy Beef Szechuan Style + Sweet and Sour Pork Peking Style + Roast Pork with Mushrooms + Chicken in Pepper and Black Bean Sauce + ",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -737,5 +677,5 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-27T22:44:28.550196+02:00"
+  "last_confirmed_at": "2026-09-27T22:49:28.550288+02:00"
 }
