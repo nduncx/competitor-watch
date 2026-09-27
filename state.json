@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T19:28:55.187902+02:00",
+  "last_observed_at": "2026-09-27T19:33:55.186732+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -124,93 +124,6 @@
       }
     },
     {
-      "name": "Jury`s",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed Orange Juice\n\u00a33.00\nBrea",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed Orange Juice\n\u00a33.00\nBrea",
-            "notices": [
-              {
-                "text": "Coke\n\n33cl\n\n1\nAdd to order\n\u00a33.10",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.10"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.10\n1\nSubtotal\n\u00a33.10\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a36.39\nAdd special instructions\nCheckout\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature bre",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Candy Castle",
       "status": "unknown",
       "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
@@ -253,55 +166,20 @@
         },
         {
           "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
           "notices": [
             {
-              "text": "Pepsi Max\n\nPepsi Max 500ml bottle\n\n1\nAdd to order\n\u00a32.50",
+              "text": "Angel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nOK",
               "buttons": [
-                "",
-                "",
-                "",
-                "Add to order\n\u00a32.50"
+                "OK"
               ],
               "has_inputs": false
             }
-          ],
-          "phase": "after_add"
+          ]
         }
       ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": false,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nGelato\nBuild Your Gelato\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nGelato\nOne scoop of smooth, creamy gelato. The perfect sweet treat anytime.\nLemon Sorbet\nZesty lemon sorbet with a cool, refreshing finish.\n\u00a33.95\nDulce De Leche\nCaramelised milk with a rich, sweet taste.\n\u00a33.95\nVanilla Tahiti\nFragrant, Smooth, And Creamy Vanilla Flavour.\n\u00a33.95\nMilk Chocolate\nTraditional milk chocolate.\n\u00a33.95\nOreo\nVanilla ice cream with crunchy Oreo pieces.\n\u00a33.90\nHappy Hippo\nCrispy Happy Hippo wafer with creamy chocolate filling.\n\u00a33.95\nPr\u00edncipe\nCrunchy Pr\u00edncipe biscuits with smooth chocolate cream.\n\u00a33.95\nCheesecake\nCreamy cheesecake with biscuit and strawberry pieces.\n\u00a33.95\nAfter Eight\nRefreshing mint with crunchy chocolate chips.\n\u00a33.95\nPistachio\nNutty Sicilian pistachio with a creamy finish.\n\u00a34.95\nBanoffee Pie\nCreamy Banana & Toffee With Crunchy Biscuit\n\u00a33.95\nTiramisu\nCrea",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nGelato\nBuild Your Gelato\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nGelato\nOne scoop of smooth, creamy gelato. The perfect sweet treat anytime.\nLemon Sorbet\nZesty lemon sorbet with a cool, refreshing finish.\n\u00a33.95\nDulce De Leche\nCaramelised milk with a rich, sweet taste.\n\u00a33.95\nVanilla Tahiti\nFragrant, Smooth, And Creamy Vanilla Flavour.\n\u00a33.95\nMilk Chocolate\nTraditional milk chocolate.\n\u00a33.95\nOreo\nVanilla ice cream with crunchy Oreo pieces.\n\u00a33.90\nHappy Hippo\nCrispy Happy Hippo wafer with creamy chocolate filling.\n\u00a33.95\nPr\u00edncipe\nCrunchy Pr\u00edncipe biscuits with smooth chocolate cream.\n\u00a33.95\nCheesecake\nCreamy cheesecake with biscuit and strawberry pieces.\n\u00a33.95\nAfter Eight\nRefreshing mint with crunchy chocolate chips.\n\u00a33.95\nPistachio\nNutty Sicilian pistachio with a creamy finish.\n\u00a34.95\nBanoffee Pie\nCreamy Banana & Toffee With Crunchy Biscuit\n\u00a33.95\nTiramisu\nCrea",
-            "notices": [
-              {
-                "text": "Pepsi Max\n\nPepsi Max 500ml bottle\n\n1\nAdd to order\n\u00a32.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          }
-        ],
-        "item": "Pepsi Max",
-        "reason": "notices or ordering unavailable after adding"
-      }
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "basket_probe": {}
     },
     {
       "name": "OAKBERRY",
@@ -387,6 +265,93 @@
           }
         ],
         "item": "Classic Bowl (350ml)",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Ramsons Watergardens",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nRolito Tikka(NEW)\n\u00a32.20\nSmall Chips\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\u00a32.20\nLarge Chips\nCrunchy exter",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nRolito Tikka(NEW)\n\u00a32.20\nSmall Chips\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\u00a32.20\nLarge Chips\nCrunchy exter",
+            "notices": [
+              {
+                "text": "Small Chips\n\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\nSauce It Up!\nSelect up to 2 options\n0/2\nKetchup\nMayonnaise\nCocktail\nBBQ Sauce\nAlioli\n\u00a31.00\nMustard\nSriracha Chilli Sauce\nSalsa Pimienta [NEW]\n\u00a31.00\nSriracha Spicy Mayo Sauce [NEW]\nPiri Piri\nThai Sweet Chilli\nGaucha\nYoghurt Sauce\nPiccalilly\nBranston Pickle\nHoney Mustard\nSalt\nVinegar\nOlive Oil\nOlive Oil, Salt & Vinegar\nButter\nWould You Like Salt & Vinegar On Them Fries?\nSelect up to 2 options\n0/2\nAdd Salt\nAdd Vinegar\nFancy Any Sides?!\nSelect up to 1 option\n- - Small Chips\n\u00a32.20\n- - Large Chips\n\u00a33.75\n- - Small Sweet Potato Fries\n\u00a33.70\n- - Chicken Nuggets [Portion of 6]\n\u00a34.99\n- - Popcorn Chicken [Portion of 10]\n\u00a32.50\n- - Sweet Chilli Chicken Bites [Portion Of 6]\n\u00a34.81\n- - Chilli Cheese Poppers [Portion of 3]\n\u00a33.50\n- - Nacho Cheese Triangles [Portion Of 4]\n\u00a34.81\n- - Mozzarella Sticks [Portion of 6]\n\u00a35.40\n- - Rolito Tikka (NEW!!!)\n\u00a32.20\n- - x1 Chicken Samosa\n\u00a31.25\n- - x2 Chicken Samosa [ OFFER!!! ]\n\u00a32.25\n1\nAdd to order\n\u00a32.20",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.20"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Chips\n\u00a32.20\n1\nSubtotal\n\u00a32.20\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.49\nAdd special instructions\nCheckout\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nRolito Tikka(NEW)\n\u00a32.20\n1\nSmall Chips\nCrunchy ext",
+            "notices": []
+          }
+        ],
+        "item": "Small Chips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -696,9 +661,14 @@
       "id": "2026-09-27T19:28:55.187902+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (19:28) - OPEN (basket test)",
       "delivered_at": "2026-09-27T19:30:15.805562+02:00"
+    },
+    {
+      "id": "2026-09-27T19:33:55.186732+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (19:33) - OPEN (basket test)",
+      "delivered_at": "2026-09-27T19:35:02.493363+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-27T19:28:55.187902+02:00"
+  "last_confirmed_at": "2026-09-27T19:33:55.186732+02:00"
 }
