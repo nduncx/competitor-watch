@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T15:58:55.180966+02:00",
+  "last_observed_at": "2026-09-27T16:03:55.180668+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -48,7 +48,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Babu Takeaway & Restaurant 1947",
+      "name": "Cluckers",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -84,7 +84,7 @@
       "basket_probe": {}
     },
     {
-      "name": "La Piedra",
+      "name": "Costa Coffee",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -385,9 +385,14 @@
       "id": "2026-09-27T15:58:55.180966+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (15:58)",
       "delivered_at": "2026-09-27T15:59:37.040547+02:00"
+    },
+    {
+      "id": "2026-09-27T16:03:55.180668+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (16:03)",
+      "delivered_at": "2026-09-27T16:04:35.378391+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-09-27T15:58:55.180966+02:00"
+  "last_confirmed_at": "2026-09-27T16:03:55.180668+02:00"
 }
