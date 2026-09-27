@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-27T21:59:28.548749+02:00",
+  "last_observed_at": "2026-09-27T22:04:28.549149+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -104,133 +104,6 @@
       }
     },
     {
-      "name": "Cafetto Nostro",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURGER\nSpicy Chicken Breast Patty, Cheddar Cheese, Guacamole, Jalape\u00f1os, Lettuce & Tomato\n\u00a310.80\nENGLAND BAGUETTE\nR",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURGER\nSpicy Chicken Breast Patty, Cheddar Cheese, Guacamole, Jalape\u00f1os, Lettuce & Tomato\n\u00a310.80\nENGLAND BAGUETTE\nR",
-            "notices": [
-              {
-                "text": "ENGLAND BURGER\n\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\nMAKE IT A MEAL\nSelect up to 1 option\nADD HAND-CUT FRIES AND SOFT DRINK\n\u00a32.30\n1\nAdd to order\n\u00a310.80",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a310.80"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nENGLAND BURGER\n\u00a310.80\n1\nSubtotal\n\u00a310.80\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a314.09\nAdd special instructions\nCheckout\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\n1\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURGER\nSpicy Chic",
-            "notices": []
-          }
-        ],
-        "item": "ENGLAND BURGER",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Los Olivillos Grill",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {}
-    },
-    {
-      "name": "The Arena",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {}
-    },
-    {
       "name": "Pollo Hermano's & Pollo Loco",
       "status": "open",
       "notice": "",
@@ -294,6 +167,73 @@
           }
         ],
         "item": "Small Menu - Half Chicken, Small Chips and Ali Oli",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "3Bros Takeout",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCheck out Our delicious 3Bros SFC Boneless Bucket only for \u00a322.95\nNEW sides for just \u00a36.90! Pulled Pork Bites and Mac & Cheese bites!!\nTop Selling Items\nBurgers\n3Bros SFC Boneless Bucket only for \u00a322.95!\nSides\n3 Bros Fries\nKids Meals\nDesserts\nDrinks\nIce Creams\nSauces\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nSFC Chicken Strips\n\u00a37.20\nThe SFC Bro + Fries\nBrioche bun, SFC chicken breast, American cheese, sliced tomato, chopped lettuce, red onion & 3Bros sauce.\n\u00a311.80\nBurgers\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nEL Mex Bro + Fries\nBrioche Bun, Double beef patties, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nEL Mex SFC + Fries\nBrioche Bun, SFC Chicken breast, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\nThe Big Bro + Fries\nBrioche bun, four beef patties,double American cheese, red onions, chopped lettuce, sliced ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCheck out Our delicious 3Bros SFC Boneless Bucket only for \u00a322.95\nNEW sides for just \u00a36.90! Pulled Pork Bites and Mac & Cheese bites!!\nTop Selling Items\nBurgers\n3Bros SFC Boneless Bucket only for \u00a322.95!\nSides\n3 Bros Fries\nKids Meals\nDesserts\nDrinks\nIce Creams\nSauces\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nSFC Chicken Strips\n\u00a37.20\nThe SFC Bro + Fries\nBrioche bun, SFC chicken breast, American cheese, sliced tomato, chopped lettuce, red onion & 3Bros sauce.\n\u00a311.80\nBurgers\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nEL Mex Bro + Fries\nBrioche Bun, Double beef patties, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nEL Mex SFC + Fries\nBrioche Bun, SFC Chicken breast, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\nThe Big Bro + Fries\nBrioche bun, four beef patties,double American cheese, red onions, chopped lettuce, sliced ",
+            "notices": [
+              {
+                "text": "SFC Chicken Strips\n1\nAdd to order\n\u00a37.20",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a37.20"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSFC Chicken Strips\n\u00a37.20\n1\nSubtotal\n\u00a37.20\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a310.49\nAdd special instructions\nCheckout\nCheck out Our delicious 3Bros SFC Boneless Bucket only for \u00a322.95\nNEW sides for just \u00a36.90! Pulled Pork Bites and Mac & Cheese bites!!\nTop Selling Items\nBurgers\n3Bros SFC Boneless Bucket only for \u00a322.95!\nSides\n3 Bros Fries\nKids Meals\nDesserts\nDrinks\nIce Creams\nSauces\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\n1\nSFC Chicken Strips\n\u00a37.20\nThe SFC Bro + Fries\nBrioche bun, SFC chicken breast, American cheese, sliced tomato, chopped lettuce, red onion & 3Bros sauce.\n\u00a311.80\nBurgers\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nEL Mex Bro + Fries\nBrioche Bun, Double beef patties, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nEL Mex SFC + Fries\nBrioche Bun, SFC Chicken breast, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\nThe Big Bro",
+            "notices": []
+          }
+        ],
+        "item": "SFC Chicken Strips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -737,5 +677,5 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-27T21:59:28.548749+02:00"
+  "last_confirmed_at": "2026-09-27T22:04:28.549149+02:00"
 }
