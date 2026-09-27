@@ -1,12 +1,12 @@
 {
-  "last_attempt_started_at": "2026-09-27T23:24:28.483645+02:00",
-  "last_attempt_finished_at": "2026-09-27T23:25:57.343818+02:00",
+  "last_attempt_started_at": "2026-09-27T23:29:28.483843+02:00",
+  "last_attempt_finished_at": "2026-09-27T23:30:53.332768+02:00",
   "last_exit_code": 2,
   "run_id": "36336722520",
   "status": "impaired",
   "session_stops_at": "2026-09-27T23:30:00+02:00",
-  "next_check_at": "2026-09-27T23:29:28.483645+02:00",
-  "consecutive_failures": 5,
+  "next_check_at": "2026-09-27T23:30:00+02:00",
+  "consecutive_failures": 6,
   "last_success_at": "2026-09-27T23:00:57.259371+02:00",
   "notification_delivery_confirmed": true,
   "incident_since": "2026-09-27T23:04:28.482964+02:00"
