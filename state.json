@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-28T14:42:49.258666+02:00",
+  "last_observed_at": "2026-09-28T14:47:49.261522+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -211,7 +211,7 @@
       }
     },
     {
-      "name": "Chinese Kitchen",
+      "name": "Dirty Burger",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -268,20 +268,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Price Crash Offers - whether you're dining solo or in a group, a meal waiting for you!\nExperience our Special Meals: Braised Eggplant, Assorted Shrimp & more from 8.50!\nTop Selling Items\nPrice Crash Offers!\nSpecial Meals (new menu)\nBubble Milk Tea\nZang Zang Tea\nFruit Tea\nDragon Boat Festival zongzi\nSoup\nAppetiser\nSeafood\nDuck Specials\nMeat\nChicken\nNoodles\nRice Dishes\nVegetarian\nTomato Dishes\nRice Noodles\nChinese Dim Sum\nLunch Menu\nDrinks\nSauces\nDesserts\nSoft Drinks\nBeer & Cider\nBeers and Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\n66. Chicken Noodles\n\u00a37.20\n11. Salt & Pepper Spare Ribs\n\u00a39.00\nHot\n40. Peking Duck (Half) No Bone\nServed with 10 Pancakes, Cucumber & Sauce\n\u00a321.00\n61A. Sweet and Sour Chicken Hong Kong Style\nPineapple, Peppers, Sweet and sour\n\u00a38.50\n10. Spare Ribs Peking Style\n\u00a39.50\nPrice Crash Offers!\nA. Meal For One Person - Low Fat Dishes\nMixed Chinese Vegetables + Plain Soft Noodles\n\u00a313.80\nB. Meal For Two People - Low Fat Dishes\nSliced Beef with Mushrooms + Chicken Soft Noodles + Boiled Rice + Kung Po Chilli Chicken. ( \u00a310.50 p.person )\n\u00a326.80\nC. Meal for a Minimum or Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken Peking Style + Fried Mixed Vegetables + Egg Fried Rice.\n\u00a329.00\nD. Meal for a Minimum of Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken with Mushrooms + Vegetable Noodle + Special Fried Rice.\n\u00a337.00\nE. Meals for Three People or More\nPrawn Crackers + Crispy Beef Szechuan Style + Sweet and Sour Pork Peking Style + Roast Pork with Mushrooms + Chicken in Pepper and Black Bean Sauce + Mixed Vegetable + Beef Noodles & Special Fried Rice\n\u00a360.00\nF. Meal for Three People",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nKopy Katz Pastrami\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Price Crash Offers - whether you're dining solo or in a group, a meal waiting for you!\nExperience our Special Meals: Braised Eggplant, Assorted Shrimp & more from 8.50!\nTop Selling Items\nPrice Crash Offers!\nSpecial Meals (new menu)\nBubble Milk Tea\nZang Zang Tea\nFruit Tea\nDragon Boat Festival zongzi\nSoup\nAppetiser\nSeafood\nDuck Specials\nMeat\nChicken\nNoodles\nRice Dishes\nVegetarian\nTomato Dishes\nRice Noodles\nChinese Dim Sum\nLunch Menu\nDrinks\nSauces\nDesserts\nSoft Drinks\nBeer & Cider\nBeers and Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\n66. Chicken Noodles\n\u00a37.20\n11. Salt & Pepper Spare Ribs\n\u00a39.00\nHot\n40. Peking Duck (Half) No Bone\nServed with 10 Pancakes, Cucumber & Sauce\n\u00a321.00\n61A. Sweet and Sour Chicken Hong Kong Style\nPineapple, Peppers, Sweet and sour\n\u00a38.50\n10. Spare Ribs Peking Style\n\u00a39.50\nPrice Crash Offers!\nA. Meal For One Person - Low Fat Dishes\nMixed Chinese Vegetables + Plain Soft Noodles\n\u00a313.80\nB. Meal For Two People - Low Fat Dishes\nSliced Beef with Mushrooms + Chicken Soft Noodles + Boiled Rice + Kung Po Chilli Chicken. ( \u00a310.50 p.person )\n\u00a326.80\nC. Meal for a Minimum or Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken Peking Style + Fried Mixed Vegetables + Egg Fried Rice.\n\u00a329.00\nD. Meal for a Minimum of Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken with Mushrooms + Vegetable Noodle + Special Fried Rice.\n\u00a337.00\nE. Meals for Three People or More\nPrawn Crackers + Crispy Beef Szechuan Style + Sweet and Sour Pork Peking Style + Roast Pork with Mushrooms + Chicken in Pepper and Black Bean Sauce + Mixed Vegetable + Beef Noodles & Special Fried Rice\n\u00a360.00\nF. Meal for Three People",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nKopy Katz Pastrami\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!",
             "notices": [
               {
-                "text": "Coke\n1\nAdd to order\n\u00a31.80",
+                "text": "Coke Zero\n\nCan 33cl\n\n1\nAdd to order\n\u00a32.00",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.80"
+                  "Add to order\n\u00a32.00"
                 ],
                 "has_inputs": false
               }
@@ -289,11 +289,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.80\n1\nSubtotal\n\u00a31.80\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.09\nAdd special instructions\nCheckout\nEnjoy our Price Crash Offers - whether you're dining solo or in a group, a meal waiting for you!\nExperience our Special Meals: Braised Eggplant, Assorted Shrimp & more from 8.50!\nTop Selling Items\nPrice Crash Offers!\nSpecial Meals (new menu)\nBubble Milk Tea\nZang Zang Tea\nFruit Tea\nDragon Boat Festival zongzi\nSoup\nAppetiser\nSeafood\nDuck Specials\nMeat\nChicken\nNoodles\nRice Dishes\nVegetarian\nTomato Dishes\nRice Noodles\nChinese Dim Sum\nLunch Menu\nDrinks\nSauces\nDesserts\nSoft Drinks\nBeer & Cider\nBeers and Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\n66. Chicken Noodles\n\u00a37.20\n11. Salt & Pepper Spare Ribs\n\u00a39.00\nHot\n40. Peking Duck (Half) No Bone\nServed with 10 Pancakes, Cucumber & Sauce\n\u00a321.00\n61A. Sweet and Sour Chicken Hong Kong Style\nPineapple, Peppers, Sweet and sour\n\u00a38.50\n10. Spare Ribs Peking Style\n\u00a39.50\nPrice Crash Offers!\nA. Meal For One Person - Low Fat Dishes\nMixed Chinese Vegetables + Plain Soft Noodles\n\u00a313.80\nB. Meal For Two People - Low Fat Dishes\nSliced Beef with Mushrooms + Chicken Soft Noodles + Boiled Rice + Kung Po Chilli Chicken. ( \u00a310.50 p.person )\n\u00a326.80\nC. Meal for a Minimum or Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken Peking Style + Fried Mixed Vegetables + Egg Fried Rice.\n\u00a329.00\nD. Meal for a Minimum of Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken with Mushrooms + Vegetable Noodle + Special Fried Rice.\n\u00a337.00\nE. Meals for Three People or More\nPrawn Crackers + Crispy Beef Szechuan Style + Sweet and Sour Pork Peking Style + Roast Pork with Mushrooms + Chicken in Pepper and Black Bean Sauce + ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nKopy Katz Pastrami\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions",
             "notices": []
           }
         ],
-        "item": "Coke",
+        "item": "Coke Zero",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -747,9 +747,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-28T14:42:49.258666+02:00",
+  "last_confirmed_at": "2026-09-28T14:47:49.261522+02:00",
   "last_sample_check": {
-    "at": "2026-09-28T14:42:49.258666+02:00",
+    "at": "2026-09-28T14:47:49.261522+02:00",
     "eligible": true
   }
 }
