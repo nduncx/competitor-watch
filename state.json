@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-28T14:57:49.259004+02:00",
+  "last_observed_at": "2026-09-28T15:02:49.260741+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -124,7 +124,7 @@
       }
     },
     {
-      "name": "Dirty Burger",
+      "name": "Firefly",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -181,15 +181,102 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nKopy Katz Pastrami\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a feast for the family with our Family Comfort Pack: 4 mains, 2 rice, 2 naans & 2 sauces \u00a349!\nSatisfy your midweek cravings with a starter, main, and choice of naan or rice for only \u00a310.95!\nSavor the Veggie Lover's Deal vegetarian starters, mains, biryani rice & chapati for just \u00a314.95!\nTop Selling Items\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nSpecial Offer! Family Comfort Pack for only \u00a349!\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nSpecial Offer! Veggie Lover's Deal only for \u00a314.95!\nLUNCH Meal Deal of the Day Non Vegetarian\nLUNCH Meal Deal of the Day Vegetarian\nSunday Lunch Specials\nStarters\nBiryani Dishes\nNaan\nRice\nChips\nChicken\nLamb\nFish\nVegetarian\nSouth Indian\nIndo-Chinese\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Korma\n\u00a38.25\nChicken Tikka Masala\n\u00a38.25\nCreamy Butter Chicken\n\u00a38.25\nKing Prawn Haka Noodles\n\u00a310.95\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Family Comfort Pack for only \u00a349!\nFeeds 4-5 people\nFamily Comfort Pack (feeds 4/5) for only \u00a349!\nIncludes 4 mains: chicken, lamb, veg, south Indian and fish dishes, 2 naans, 2 rice and 2small sauces\n\u00a349.00\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nAvailable only from Monday to Thursday\nMidweek Curry Cravings only for \u00a310.95!\nIncludes 1 starter, 1 main: chicken, lamb, veg, south Indian and fish dishes and 1 naan or 1 rice\n\u00a310.95\n",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nKopy Katz Pastrami\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a feast for the family with our Family Comfort Pack: 4 mains, 2 rice, 2 naans & 2 sauces \u00a349!\nSatisfy your midweek cravings with a starter, main, and choice of naan or rice for only \u00a310.95!\nSavor the Veggie Lover's Deal vegetarian starters, mains, biryani rice & chapati for just \u00a314.95!\nTop Selling Items\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nSpecial Offer! Family Comfort Pack for only \u00a349!\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nSpecial Offer! Veggie Lover's Deal only for \u00a314.95!\nLUNCH Meal Deal of the Day Non Vegetarian\nLUNCH Meal Deal of the Day Vegetarian\nSunday Lunch Specials\nStarters\nBiryani Dishes\nNaan\nRice\nChips\nChicken\nLamb\nFish\nVegetarian\nSouth Indian\nIndo-Chinese\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Korma\n\u00a38.25\nChicken Tikka Masala\n\u00a38.25\nCreamy Butter Chicken\n\u00a38.25\nKing Prawn Haka Noodles\n\u00a310.95\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Family Comfort Pack for only \u00a349!\nFeeds 4-5 people\nFamily Comfort Pack (feeds 4/5) for only \u00a349!\nIncludes 4 mains: chicken, lamb, veg, south Indian and fish dishes, 2 naans, 2 rice and 2small sauces\n\u00a349.00\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nAvailable only from Monday to Thursday\nMidweek Curry Cravings only for \u00a310.95!\nIncludes 1 starter, 1 main: chicken, lamb, veg, south Indian and fish dishes and 1 naan or 1 rice\n\u00a310.95\n",
             "notices": [
               {
-                "text": "Coke Zero\n\nCan 33cl\n\n1\nAdd to order\n\u00a32.00",
+                "text": "Coke\n1\nAdd to order\n\u00a31.25",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.25"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.25\n1\nSubtotal\n\u00a31.25\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a34.54\nAdd special instructions\nCheckout\nEnjoy a feast for the family with our Family Comfort Pack: 4 mains, 2 rice, 2 naans & 2 sauces \u00a349!\nSatisfy your midweek cravings with a starter, main, and choice of naan or rice for only \u00a310.95!\nSavor the Veggie Lover's Deal vegetarian starters, mains, biryani rice & chapati for just \u00a314.95!\nTop Selling Items\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nSpecial Offer! Family Comfort Pack for only \u00a349!\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nSpecial Offer! Veggie Lover's Deal only for \u00a314.95!\nLUNCH Meal Deal of the Day Non Vegetarian\nLUNCH Meal Deal of the Day Vegetarian\nSunday Lunch Specials\nStarters\nBiryani Dishes\nNaan\nRice\nChips\nChicken\nLamb\nFish\nVegetarian\nSouth Indian\nIndo-Chinese\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Korma\n\u00a38.25\nChicken Tikka Masala\n\u00a38.25\nCreamy Butter Chicken\n\u00a38.25\nKing Prawn Haka Noodles\n\u00a310.95\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Family Comfort Pack for only \u00a349!\nFeeds 4-5 people\nFamily Comfort Pack (feeds 4/5) for only \u00a349!\nIncludes 4 mains: chicken, lamb, veg, south Indian and fish dishes, 2 naans, 2 rice and 2small sauces\n\u00a349.00\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nAvailable only from Monday to Thursday\nMidweek Curry Cravings only for \u00a310.95!\nIncludes 1 starter, 1 ",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Flame Grill & Indian Tex Mex",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Tandoori Specials from Chicken Shaslik to Lamb Chops! Add just \u00a34 to make it a main!\nDiscover our All-Time Favourites from \u00a315.95! Savour classics like Beef Stroganoff & Thai Red Curry!\nTop Selling Items\nStarters\nIndian Starters\nTandoori Specials\nIndian Mains\nFlame's Indian Specials\nFlame's All Time Favorite\nVegetarian Dishes\nAsian Mains (Indo-Chinese)\nNaan Bread\nFlame Grill Special\nHomemade Burgers\nOur Noodles\nFish\nSide Winders\nRice (Basmati)\nSalads\nKids Menu\nSoft Drinks\nBottled / Can Beer\nCider\nRed Wine\nWhite Wine\nRose Wine\nRubbles / Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Pasanda\nChicken stuffed with cheese & spinach cooked with a creamy pepper sauce. Can be ordered either mild, medium or hot.\n\u00a314.95\nTeryaki\nYour choice of meat stir fry with peppers and onions in a teriyaki sauce. Served with rice or noodles.\n\u00a315.95\nBBQ Ribs\nSlow cooked pork ribs with bbq sauce served with homemade fries and coleslaw & corn cob.\n\u00a317.95\nChicken Fajita\nChicken cooked in fajita spices served on a sizzling plate with onion, peppers & warm tortilla on the side with onion, tomato salad, cheese, guacamole & sour cream.\n\u00a315.95\nThai Green Curry\nA rich, fragrant & mildly curry with homemade mild green curry past coconut milk and your choice of meat, served with rice.\n\u00a315.95\nStarters\nAsian Spring Rolls\nHomemade spring roll stuffed with mix vegetable with asian spices served with sweet chilli.\n\u00a37.95\nNachos\nNachos sauce with cheese baked on the oven served with guacamole and sour cream.\n\u00a37.95\nChilli Cheese Bite\nServed with sweet chili sauce.\n\u00a37.95\nKorean Chicken\nCrispy deep fried chicken marinated in a flavorful blend of spices & fried to p",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Tandoori Specials from Chicken Shaslik to Lamb Chops! Add just \u00a34 to make it a main!\nDiscover our All-Time Favourites from \u00a315.95! Savour classics like Beef Stroganoff & Thai Red Curry!\nTop Selling Items\nStarters\nIndian Starters\nTandoori Specials\nIndian Mains\nFlame's Indian Specials\nFlame's All Time Favorite\nVegetarian Dishes\nAsian Mains (Indo-Chinese)\nNaan Bread\nFlame Grill Special\nHomemade Burgers\nOur Noodles\nFish\nSide Winders\nRice (Basmati)\nSalads\nKids Menu\nSoft Drinks\nBottled / Can Beer\nCider\nRed Wine\nWhite Wine\nRose Wine\nRubbles / Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Pasanda\nChicken stuffed with cheese & spinach cooked with a creamy pepper sauce. Can be ordered either mild, medium or hot.\n\u00a314.95\nTeryaki\nYour choice of meat stir fry with peppers and onions in a teriyaki sauce. Served with rice or noodles.\n\u00a315.95\nBBQ Ribs\nSlow cooked pork ribs with bbq sauce served with homemade fries and coleslaw & corn cob.\n\u00a317.95\nChicken Fajita\nChicken cooked in fajita spices served on a sizzling plate with onion, peppers & warm tortilla on the side with onion, tomato salad, cheese, guacamole & sour cream.\n\u00a315.95\nThai Green Curry\nA rich, fragrant & mildly curry with homemade mild green curry past coconut milk and your choice of meat, served with rice.\n\u00a315.95\nStarters\nAsian Spring Rolls\nHomemade spring roll stuffed with mix vegetable with asian spices served with sweet chilli.\n\u00a37.95\nNachos\nNachos sauce with cheese baked on the oven served with guacamole and sour cream.\n\u00a37.95\nChilli Cheese Bite\nServed with sweet chili sauce.\n\u00a37.95\nKorean Chicken\nCrispy deep fried chicken marinated in a flavorful blend of spices & fried to p",
+            "notices": [
+              {
+                "text": "Pepsi Cola (33cl.)\n1\nAdd to order\n\u00a32.00",
                 "buttons": [
                   "",
                   "",
@@ -202,228 +289,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nKopy Katz Pastrami\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Cola (33cl.)\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nEnjoy our Tandoori Specials from Chicken Shaslik to Lamb Chops! Add just \u00a34 to make it a main!\nDiscover our All-Time Favourites from \u00a315.95! Savour classics like Beef Stroganoff & Thai Red Curry!\nTop Selling Items\nStarters\nIndian Starters\nTandoori Specials\nIndian Mains\nFlame's Indian Specials\nFlame's All Time Favorite\nVegetarian Dishes\nAsian Mains (Indo-Chinese)\nNaan Bread\nFlame Grill Special\nHomemade Burgers\nOur Noodles\nFish\nSide Winders\nRice (Basmati)\nSalads\nKids Menu\nSoft Drinks\nBottled / Can Beer\nCider\nRed Wine\nWhite Wine\nRose Wine\nRubbles / Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Pasanda\nChicken stuffed with cheese & spinach cooked with a creamy pepper sauce. Can be ordered either mild, medium or hot.\n\u00a314.95\nTeryaki\nYour choice of meat stir fry with peppers and onions in a teriyaki sauce. Served with rice or noodles.\n\u00a315.95\nBBQ Ribs\nSlow cooked pork ribs with bbq sauce served with homemade fries and coleslaw & corn cob.\n\u00a317.95\nChicken Fajita\nChicken cooked in fajita spices served on a sizzling plate with onion, peppers & warm tortilla on the side with onion, tomato salad, cheese, guacamole & sour cream.\n\u00a315.95\nThai Green Curry\nA rich, fragrant & mildly curry with homemade mild green curry past coconut milk and your choice of meat, served with rice.\n\u00a315.95\nStarters\nAsian Spring Rolls\nHomemade spring roll stuffed with mix vegetable with asian spices served with sweet chilli.\n\u00a37.95\nNachos\nNachos sauce with cheese baked on the oven served with guacamole and sour cream.\n\u00a37.95\nChilli Cheese Bite\nServed with sweet chili sauce.\n\u00a37.",
             "notices": []
           }
         ],
-        "item": "Coke Zero",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Little Bay",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nStarters / Tapas\nNaans, Rotis & Paranthas\nStarter Sharing Platters\nMains - Served from 12:00 - 3:00 / 6:30pm-10:30pm\nSalads-Vegetarian\nRice Dishes\nSide Dishes\nBay Kids\nDesserts\nWhite Wines\nRose Wines\nRed Wines\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN MURGH MAKHANI\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\u00a318.75\nMURGH KORMA ~ Chicken\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\u00a317.95\nDHABA LAMB CURRY\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\u00a319.95\nTANDOORI ACHARI CHICKEN TIKKA\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\u00a315.95\nPUNJABI MURGH CURRY\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\u00a317.55\nStarters / Tapas\nMurgh Kalimiri Shorba\nSAMOSA - VEG Starter\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\u00a38.50\nVegetarian\nLAMB MEAT SAMOSA - Starter\nA deliciously fragrant dish of ground lamb and spiced peas wrapped in our homemade pastry cone, fried until crisp & golden brown.\n\u00a38.95\nPUDINA MURGH TIKKA ~ Chicken - Starter\nPieces of boneless chicken marinated in a yoghurt, mint & coriander dressing then chargrilled to perfection in the tandoor and served sizzling\n\u00a314.65\nGluten Free\nMURGH 65 ~ Chicken - Starter\nCoated tender pieces of chicken marinated in a blend of special spices & tossed in spring onions, capsicum & coriander.\n\u00a312.55\nTOFU 65 - MURGH - Starter",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nStarters / Tapas\nNaans, Rotis & Paranthas\nStarter Sharing Platters\nMains - Served from 12:00 - 3:00 / 6:30pm-10:30pm\nSalads-Vegetarian\nRice Dishes\nSide Dishes\nBay Kids\nDesserts\nWhite Wines\nRose Wines\nRed Wines\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN MURGH MAKHANI\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\u00a318.75\nMURGH KORMA ~ Chicken\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\u00a317.95\nDHABA LAMB CURRY\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\u00a319.95\nTANDOORI ACHARI CHICKEN TIKKA\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\u00a315.95\nPUNJABI MURGH CURRY\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\u00a317.55\nStarters / Tapas\nMurgh Kalimiri Shorba\nSAMOSA - VEG Starter\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\u00a38.50\nVegetarian\nLAMB MEAT SAMOSA - Starter\nA deliciously fragrant dish of ground lamb and spiced peas wrapped in our homemade pastry cone, fried until crisp & golden brown.\n\u00a38.95\nPUDINA MURGH TIKKA ~ Chicken - Starter\nPieces of boneless chicken marinated in a yoghurt, mint & coriander dressing then chargrilled to perfection in the tandoor and served sizzling\n\u00a314.65\nGluten Free\nMURGH 65 ~ Chicken - Starter\nCoated tender pieces of chicken marinated in a blend of special spices & tossed in spring onions, capsicum & coriander.\n\u00a312.55\nTOFU 65 - MURGH - Starter",
-            "notices": [
-              {
-                "text": "CHICKEN MURGH MAKHANI\n\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\nChoose a heat\nSelect 1 option\nMild\nMedium\nMedium Spicy\nMadras\nVindaloo\nPhall\n1\nAdd to order\n\u00a318.75",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a318.75"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "CHICKEN MURGH MAKHANI",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nStarters / Tapas\nNaans, Rotis & Paranthas\nStarter Sharing Platters\nMains - Served from 12:00 - 3:00 / 6:30pm-10:30pm\nSalads-Vegetarian\nRice Dishes\nSide Dishes\nBay Kids\nDesserts\nWhite Wines\nRose Wines\nRed Wines\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN MURGH MAKHANI\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\u00a318.75\nMURGH KORMA ~ Chicken\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\u00a317.95\nDHABA LAMB CURRY\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\u00a319.95\nTANDOORI ACHARI CHICKEN TIKKA\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\u00a315.95\nPUNJABI MURGH CURRY\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\u00a317.55\nStarters / Tapas\nMurgh Kalimiri Shorba\nSAMOSA - VEG Starter\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\u00a38.50\nVegetarian\nLAMB MEAT SAMOSA - Starter\nA deliciously fragrant dish of ground lamb and spiced peas wrapped in our homemade pastry cone, fried until crisp & golden brown.\n\u00a38.95\nPUDINA MURGH TIKKA ~ Chicken - Starter\nPieces of boneless chicken marinated in a yoghurt, mint & coriander dressing then chargrilled to perfection in the tandoor and served sizzling\n\u00a314.65\nGluten Free\nMURGH 65 ~ Chicken - Starter\nCoated tender pieces of chicken marinated in a blend of special spices & tossed in spring onions, capsicum & coriander.\n\u00a312.55\nTOFU 65 - MURGH - Starter",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nStarters / Tapas\nNaans, Rotis & Paranthas\nStarter Sharing Platters\nMains - Served from 12:00 - 3:00 / 6:30pm-10:30pm\nSalads-Vegetarian\nRice Dishes\nSide Dishes\nBay Kids\nDesserts\nWhite Wines\nRose Wines\nRed Wines\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN MURGH MAKHANI\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\u00a318.75\nMURGH KORMA ~ Chicken\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\u00a317.95\nDHABA LAMB CURRY\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\u00a319.95\nTANDOORI ACHARI CHICKEN TIKKA\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\u00a315.95\nPUNJABI MURGH CURRY\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\u00a317.55\nStarters / Tapas\nMurgh Kalimiri Shorba\nSAMOSA - VEG Starter\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\u00a38.50\nVegetarian\nLAMB MEAT SAMOSA - Starter\nA deliciously fragrant dish of ground lamb and spiced peas wrapped in our homemade pastry cone, fried until crisp & golden brown.\n\u00a38.95\nPUDINA MURGH TIKKA ~ Chicken - Starter\nPieces of boneless chicken marinated in a yoghurt, mint & coriander dressing then chargrilled to perfection in the tandoor and served sizzling\n\u00a314.65\nGluten Free\nMURGH 65 ~ Chicken - Starter\nCoated tender pieces of chicken marinated in a blend of special spices & tossed in spring onions, capsicum & coriander.\n\u00a312.55\nTOFU 65 - MURGH - Starter",
-            "notices": [
-              {
-                "text": "MURGH KORMA ~ Chicken\n\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\nChoose a heat\nSelect 1 option\nMild\nMedium\nMedium Spicy\nMadras\nVindaloo\nPhall\n1\nAdd to order\n\u00a317.95",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a317.95"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "MURGH KORMA ~ Chicken",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nStarters / Tapas\nNaans, Rotis & Paranthas\nStarter Sharing Platters\nMains - Served from 12:00 - 3:00 / 6:30pm-10:30pm\nSalads-Vegetarian\nRice Dishes\nSide Dishes\nBay Kids\nDesserts\nWhite Wines\nRose Wines\nRed Wines\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN MURGH MAKHANI\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\u00a318.75\nMURGH KORMA ~ Chicken\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\u00a317.95\nDHABA LAMB CURRY\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\u00a319.95\nTANDOORI ACHARI CHICKEN TIKKA\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\u00a315.95\nPUNJABI MURGH CURRY\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\u00a317.55\nStarters / Tapas\nMurgh Kalimiri Shorba\nSAMOSA - VEG Starter\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\u00a38.50\nVegetarian\nLAMB MEAT SAMOSA - Starter\nA deliciously fragrant dish of ground lamb and spiced peas wrapped in our homemade pastry cone, fried until crisp & golden brown.\n\u00a38.95\nPUDINA MURGH TIKKA ~ Chicken - Starter\nPieces of boneless chicken marinated in a yoghurt, mint & coriander dressing then chargrilled to perfection in the tandoor and served sizzling\n\u00a314.65\nGluten Free\nMURGH 65 ~ Chicken - Starter\nCoated tender pieces of chicken marinated in a blend of special spices & tossed in spring onions, capsicum & coriander.\n\u00a312.55\nTOFU 65 - MURGH - Starter",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nStarters / Tapas\nNaans, Rotis & Paranthas\nStarter Sharing Platters\nMains - Served from 12:00 - 3:00 / 6:30pm-10:30pm\nSalads-Vegetarian\nRice Dishes\nSide Dishes\nBay Kids\nDesserts\nWhite Wines\nRose Wines\nRed Wines\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN MURGH MAKHANI\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\u00a318.75\nMURGH KORMA ~ Chicken\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\u00a317.95\nDHABA LAMB CURRY\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\u00a319.95\nTANDOORI ACHARI CHICKEN TIKKA\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\u00a315.95\nPUNJABI MURGH CURRY\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\u00a317.55\nStarters / Tapas\nMurgh Kalimiri Shorba\nSAMOSA - VEG Starter\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\u00a38.50\nVegetarian\nLAMB MEAT SAMOSA - Starter\nA deliciously fragrant dish of ground lamb and spiced peas wrapped in our homemade pastry cone, fried until crisp & golden brown.\n\u00a38.95\nPUDINA MURGH TIKKA ~ Chicken - Starter\nPieces of boneless chicken marinated in a yoghurt, mint & coriander dressing then chargrilled to perfection in the tandoor and served sizzling\n\u00a314.65\nGluten Free\nMURGH 65 ~ Chicken - Starter\nCoated tender pieces of chicken marinated in a blend of special spices & tossed in spring onions, capsicum & coriander.\n\u00a312.55\nTOFU 65 - MURGH - Starter",
-            "notices": [
-              {
-                "text": "DHABA LAMB CURRY\n\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\nChoose a heat\nSelect 1 option\nMild\nMedium\nMedium Spicy\nMadras\nVindaloo\nPhall\n1\nAdd to order\n\u00a319.95",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a319.95"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "DHABA LAMB CURRY",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nStarters / Tapas\nNaans, Rotis & Paranthas\nStarter Sharing Platters\nMains - Served from 12:00 - 3:00 / 6:30pm-10:30pm\nSalads-Vegetarian\nRice Dishes\nSide Dishes\nBay Kids\nDesserts\nWhite Wines\nRose Wines\nRed Wines\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN MURGH MAKHANI\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\u00a318.75\nMURGH KORMA ~ Chicken\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\u00a317.95\nDHABA LAMB CURRY\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\u00a319.95\nTANDOORI ACHARI CHICKEN TIKKA\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\u00a315.95\nPUNJABI MURGH CURRY\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\u00a317.55\nStarters / Tapas\nMurgh Kalimiri Shorba\nSAMOSA - VEG Starter\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\u00a38.50\nVegetarian\nLAMB MEAT SAMOSA - Starter\nA deliciously fragrant dish of ground lamb and spiced peas wrapped in our homemade pastry cone, fried until crisp & golden brown.\n\u00a38.95\nPUDINA MURGH TIKKA ~ Chicken - Starter\nPieces of boneless chicken marinated in a yoghurt, mint & coriander dressing then chargrilled to perfection in the tandoor and served sizzling\n\u00a314.65\nGluten Free\nMURGH 65 ~ Chicken - Starter\nCoated tender pieces of chicken marinated in a blend of special spices & tossed in spring onions, capsicum & coriander.\n\u00a312.55\nTOFU 65 - MURGH - Starter",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nStarters / Tapas\nNaans, Rotis & Paranthas\nStarter Sharing Platters\nMains - Served from 12:00 - 3:00 / 6:30pm-10:30pm\nSalads-Vegetarian\nRice Dishes\nSide Dishes\nBay Kids\nDesserts\nWhite Wines\nRose Wines\nRed Wines\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN MURGH MAKHANI\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\u00a318.75\nMURGH KORMA ~ Chicken\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\u00a317.95\nDHABA LAMB CURRY\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\u00a319.95\nTANDOORI ACHARI CHICKEN TIKKA\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\u00a315.95\nPUNJABI MURGH CURRY\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\u00a317.55\nStarters / Tapas\nMurgh Kalimiri Shorba\nSAMOSA - VEG Starter\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\u00a38.50\nVegetarian\nLAMB MEAT SAMOSA - Starter\nA deliciously fragrant dish of ground lamb and spiced peas wrapped in our homemade pastry cone, fried until crisp & golden brown.\n\u00a38.95\nPUDINA MURGH TIKKA ~ Chicken - Starter\nPieces of boneless chicken marinated in a yoghurt, mint & coriander dressing then chargrilled to perfection in the tandoor and served sizzling\n\u00a314.65\nGluten Free\nMURGH 65 ~ Chicken - Starter\nCoated tender pieces of chicken marinated in a blend of special spices & tossed in spring onions, capsicum & coriander.\n\u00a312.55\nTOFU 65 - MURGH - Starter",
-            "notices": [
-              {
-                "text": "TANDOORI ACHARI CHICKEN TIKKA\n\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\nChoose a heat\nSelect 1 option\nMild\nMedium\nMedium Spicy\nMadras\nVindaloo\nPhall\n1\nAdd to order\n\u00a315.95",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a315.95"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "TANDOORI ACHARI CHICKEN TIKKA",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nStarters / Tapas\nNaans, Rotis & Paranthas\nStarter Sharing Platters\nMains - Served from 12:00 - 3:00 / 6:30pm-10:30pm\nSalads-Vegetarian\nRice Dishes\nSide Dishes\nBay Kids\nDesserts\nWhite Wines\nRose Wines\nRed Wines\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN MURGH MAKHANI\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\u00a318.75\nMURGH KORMA ~ Chicken\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\u00a317.95\nDHABA LAMB CURRY\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\u00a319.95\nTANDOORI ACHARI CHICKEN TIKKA\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\u00a315.95\nPUNJABI MURGH CURRY\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\u00a317.55\nStarters / Tapas\nMurgh Kalimiri Shorba\nSAMOSA - VEG Starter\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\u00a38.50\nVegetarian\nLAMB MEAT SAMOSA - Starter\nA deliciously fragrant dish of ground lamb and spiced peas wrapped in our homemade pastry cone, fried until crisp & golden brown.\n\u00a38.95\nPUDINA MURGH TIKKA ~ Chicken - Starter\nPieces of boneless chicken marinated in a yoghurt, mint & coriander dressing then chargrilled to perfection in the tandoor and served sizzling\n\u00a314.65\nGluten Free\nMURGH 65 ~ Chicken - Starter\nCoated tender pieces of chicken marinated in a blend of special spices & tossed in spring onions, capsicum & coriander.\n\u00a312.55\nTOFU 65 - MURGH - Starter",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nStarters / Tapas\nNaans, Rotis & Paranthas\nStarter Sharing Platters\nMains - Served from 12:00 - 3:00 / 6:30pm-10:30pm\nSalads-Vegetarian\nRice Dishes\nSide Dishes\nBay Kids\nDesserts\nWhite Wines\nRose Wines\nRed Wines\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN MURGH MAKHANI\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\u00a318.75\nMURGH KORMA ~ Chicken\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\u00a317.95\nDHABA LAMB CURRY\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\u00a319.95\nTANDOORI ACHARI CHICKEN TIKKA\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\u00a315.95\nPUNJABI MURGH CURRY\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\u00a317.55\nStarters / Tapas\nMurgh Kalimiri Shorba\nSAMOSA - VEG Starter\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\u00a38.50\nVegetarian\nLAMB MEAT SAMOSA - Starter\nA deliciously fragrant dish of ground lamb and spiced peas wrapped in our homemade pastry cone, fried until crisp & golden brown.\n\u00a38.95\nPUDINA MURGH TIKKA ~ Chicken - Starter\nPieces of boneless chicken marinated in a yoghurt, mint & coriander dressing then chargrilled to perfection in the tandoor and served sizzling\n\u00a314.65\nGluten Free\nMURGH 65 ~ Chicken - Starter\nCoated tender pieces of chicken marinated in a blend of special spices & tossed in spring onions, capsicum & coriander.\n\u00a312.55\nTOFU 65 - MURGH - Starter",
-            "notices": [
-              {
-                "text": "PUNJABI MURGH CURRY\n\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\nChoose a heat\nSelect 1 option\nMild\nMedium\nMedium Spicy\nMadras\nVindaloo\nPhall\n1\nAdd to order\n\u00a317.55",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a317.55"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "PUNJABI MURGH CURRY",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nStarters / Tapas\nNaans, Rotis & Paranthas\nStarter Sharing Platters\nMains - Served from 12:00 - 3:00 / 6:30pm-10:30pm\nSalads-Vegetarian\nRice Dishes\nSide Dishes\nBay Kids\nDesserts\nWhite Wines\nRose Wines\nRed Wines\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN MURGH MAKHANI\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\u00a318.75\nMURGH KORMA ~ Chicken\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\u00a317.95\nDHABA LAMB CURRY\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\u00a319.95\nTANDOORI ACHARI CHICKEN TIKKA\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\u00a315.95\nPUNJABI MURGH CURRY\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\u00a317.55\nStarters / Tapas\nMurgh Kalimiri Shorba\nSAMOSA - VEG Starter\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\u00a38.50\nVegetarian\nLAMB MEAT SAMOSA - Starter\nA deliciously fragrant dish of ground lamb and spiced peas wrapped in our homemade pastry cone, fried until crisp & golden brown.\n\u00a38.95\nPUDINA MURGH TIKKA ~ Chicken - Starter\nPieces of boneless chicken marinated in a yoghurt, mint & coriander dressing then chargrilled to perfection in the tandoor and served sizzling\n\u00a314.65\nGluten Free\nMURGH 65 ~ Chicken - Starter\nCoated tender pieces of chicken marinated in a blend of special spices & tossed in spring onions, capsicum & coriander.\n\u00a312.55\nTOFU 65 - MURGH - Starter",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nStarters / Tapas\nNaans, Rotis & Paranthas\nStarter Sharing Platters\nMains - Served from 12:00 - 3:00 / 6:30pm-10:30pm\nSalads-Vegetarian\nRice Dishes\nSide Dishes\nBay Kids\nDesserts\nWhite Wines\nRose Wines\nRed Wines\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN MURGH MAKHANI\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\u00a318.75\nMURGH KORMA ~ Chicken\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\u00a317.95\nDHABA LAMB CURRY\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\u00a319.95\nTANDOORI ACHARI CHICKEN TIKKA\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\u00a315.95\nPUNJABI MURGH CURRY\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\u00a317.55\nStarters / Tapas\nMurgh Kalimiri Shorba\nSAMOSA - VEG Starter\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\u00a38.50\nVegetarian\nLAMB MEAT SAMOSA - Starter\nA deliciously fragrant dish of ground lamb and spiced peas wrapped in our homemade pastry cone, fried until crisp & golden brown.\n\u00a38.95\nPUDINA MURGH TIKKA ~ Chicken - Starter\nPieces of boneless chicken marinated in a yoghurt, mint & coriander dressing then chargrilled to perfection in the tandoor and served sizzling\n\u00a314.65\nGluten Free\nMURGH 65 ~ Chicken - Starter\nCoated tender pieces of chicken marinated in a blend of special spices & tossed in spring onions, capsicum & coriander.\n\u00a312.55\nTOFU 65 - MURGH - Starter",
-            "notices": [
-              {
-                "text": "SAMOSA - VEG Starter\n\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\nVegetarian\n1\nAdd to order\n\u00a38.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a38.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSAMOSA - VEG Starter\n\u00a38.50\n1\nSubtotal\n\u00a38.50\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a311.79\nAdd special instructions\nCheckout\nTop Selling Items\nStarters / Tapas\nNaans, Rotis & Paranthas\nStarter Sharing Platters\nMains - Served from 12:00 - 3:00 / 6:30pm-10:30pm\nSalads-Vegetarian\nRice Dishes\nSide Dishes\nBay Kids\nDesserts\nWhite Wines\nRose Wines\nRed Wines\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN MURGH MAKHANI\nLittle Bay recommends. Traditional North Indian style butter chicken simmered in a rich gravy of tomatoes, cream, butter and spices.\n\u00a318.75\nMURGH KORMA ~ Chicken\nTender pieces of chicken tempered by a cool coconut milk & fresh cream curry.\n\u00a317.95\nDHABA LAMB CURRY\nSlow braised lamb chunks marinated in whole spices and slow cooked to perfection in our homemade tomato and onion curry.\n\u00a319.95\nTANDOORI ACHARI CHICKEN TIKKA\nBoneless chicken pieces marinated in a zesty, tangy pickle and chargrilled to perfection.\n\u00a315.95\nPUNJABI MURGH CURRY\nOld Delhi chicken curry simmered in a sauce of browned garlic, tomato, onions & spices.\n\u00a317.55\nStarters / Tapas\nMurgh Kalimiri Shorba\n1\nSAMOSA - VEG Starter\nA blend of spiced potatoes and green peas wrapped in our homemade pastry cone and fried until golden brown.\n\u00a38.50\nVegetarian\nLAMB MEAT SAMOSA - Starter\nA deliciously fragrant dish of ground lamb and spiced peas wrapped in our homemade pastry cone, fried until crisp & golden brown.\n\u00a38.95\nPUDINA MURGH TIKKA ~ Chicken - Starter\nPieces of boneless chicken marinated in a yoghurt, mint & coriander dressing then chargrilled to perfection in the tandoor and served sizzling\n\u00a314.65\nGluten Free\nMURGH 65 ~ Chicken - Starter\nCoated tender pieces of chicken marinated in a ble",
-            "notices": []
-          }
-        ],
-        "item": "SAMOSA - VEG Starter",
+        "item": "Pepsi Cola (33cl.)",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -877,9 +747,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-28T14:57:49.259004+02:00",
+  "last_confirmed_at": "2026-09-28T15:02:49.260741+02:00",
   "last_sample_check": {
-    "at": "2026-09-28T14:57:49.259004+02:00",
+    "at": "2026-09-28T15:02:49.260741+02:00",
     "eligible": true
   }
 }
