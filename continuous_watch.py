@@ -30,14 +30,28 @@ def update_health(state, previous, code, started, finished, session_end):
     """Queue monitor failures/recovery separately from competitor availability."""
     health = dict(previous)
     failed_before = previous.get('consecutive_failures', 0)
+    no_samples = code == 4
+    failed = code not in (0, 4)
     health.update(last_attempt_started_at=started.isoformat(),
                   last_attempt_finished_at=finished.isoformat(), last_exit_code=code,
-                  run_id=os.getenv('GITHUB_RUN_ID'), status='healthy' if code == 0 else 'impaired',
+                  run_id=os.getenv('GITHUB_RUN_ID'),
+                  status='no_eligible_venues' if no_samples else ('impaired' if failed else 'healthy'),
                   session_stops_at=session_end.isoformat(),
                   next_check_at=min(started + dt.timedelta(seconds=INTERVAL), session_end).isoformat(),
-                  consecutive_failures=failed_before + 1 if code else 0)
+                  consecutive_failures=failed_before + 1 if failed else 0)
     message = None
-    if code:
+    if no_samples:
+        health.pop('incident_since', None)
+        health['last_website_read_at'] = finished.isoformat()
+        if previous.get('last_exit_code') != 4:
+            message = ('Competitor Watch: no suitable stores available to test',
+                       f'At {finished:%H:%M} ({monitor.TIMEZONE}), the website loaded successfully. '
+                       'The directory showed no current delivery estimates, and all sampled stores '
+                       'said they were closed but accepting pre-orders. They were excluded from basket tests.'
+                       '\nThe monitor is running and will check again in five minutes. '
+                       'This does not confirm that Hungry Monkey as a whole is open or closed. '
+                       'The previous availability reading is historical, not a current confirmation.')
+    elif failed:
         if not failed_before:
             health['incident_since'] = started.isoformat()
             reasons = {2: 'The website could not be read reliably.',
@@ -51,15 +65,22 @@ def update_health(state, previous, code, started, finished, session_end):
                        'Queued notifications are retained. Do not treat silence as normal service.')
     else:
         health['last_success_at'] = finished.isoformat()
+        health['last_website_read_at'] = finished.isoformat()
         health.pop('incident_since', None)
         if failed_before:
             message = ('Competitor Watch: monitoring restored',
                        f'A complete check succeeded at {finished:%H:%M} ({monitor.TIMEZONE}). '
                        'Five-minute checks have resumed inside the running GitHub job. '
                        'Hungry Monkey status changes are reported separately.')
+        elif previous.get('last_exit_code') == 4:
+            message = ('Competitor Watch: suitable stores available again',
+                       f'A complete check succeeded at {finished:%H:%M} ({monitor.TIMEZONE}). '
+                       'The monitor can assess suitable stores again. This is a monitoring-coverage '
+                       'update, not a competitor reopening announcement; status alerts keep their '
+                       'existing confirmation rules.')
     if message:
         state.setdefault('pending_notifications', []).append({
-            'id': 'monitor:' + started.isoformat() + ':' + ('failed' if code else 'restored'),
+            'id': 'monitor:' + started.isoformat() + ':' + ('no_samples' if no_samples else ('failed' if failed else 'restored')),
             'subject': message[0], 'body': message[1], 'attach_screenshot': False,
             'observed_at': started.isoformat()})
     return health
@@ -90,7 +111,7 @@ def attempt(session_end):
         health['status'] = 'delivery_pending'
     temporary.write_text(json.dumps(health, indent=2) + '\n')
     temporary.replace(HEALTH_FILE)
-    return code if delivered else 3
+    return (0 if code == 4 else code) if delivered else 3
 
 
 def checkpoint():
