@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-28T22:33:28.774586+02:00",
+  "last_observed_at": "2026-09-28T22:38:28.774702+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -105,73 +105,6 @@
       }
     },
     {
-      "name": "Kebab House",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious meal with Chicken Pinchito Wrap, with cheese, egg, chips, salad & drink for \u00a37.50!\nDig into our Special Chicken Burger with chips & a drink, all for just \u00a37.00!\nTop Selling Items\nPrice Crash Meal Deals!\nKebabs\nPinchitos\nChicken\nSnacks\nBurgers\nKids Menu\nFish\nSalads\nSauces\nExtras\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nCheeseburger\n\u00a34.50\nMixed Grill Kebab\n\u00a39.50\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a35.00\nPrice Crash Meal Deals!\nChicken, Burger, Wrap & Kebab Meal Deals from \u00a37.00\n4x Chicken Tender + Chips & Drink for \u00a37.00!\n\u00a37.00\nSpecial Chicken Burger + Chips & Drinks for \u00a37.00!\nSpecial chicken burger with kebab, cheese salad chips drinks\n\u00a37.00\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Tikka Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nTandoori Chicken Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nChicken Pinchito Wrap with Cheese, Egg, Chips, Salad & Drink\n\u00a37.50\nKebabs\nServed in Wrap, Tray or Pita Bread\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nHalf Donner/ Half Chicken Kebab\n\u00a39.00\nMixed Grill Kebab\n\u00a39.50\nDonner Kebab in Wrap\n\u00a36.50\nChicken Shawarma\nServed in Pita or Wrap\n\u00a36.50\nPinchitos\nServed in Wrap, Pita or Tray\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a3",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious meal with Chicken Pinchito Wrap, with cheese, egg, chips, salad & drink for \u00a37.50!\nDig into our Special Chicken Burger with chips & a drink, all for just \u00a37.00!\nTop Selling Items\nPrice Crash Meal Deals!\nKebabs\nPinchitos\nChicken\nSnacks\nBurgers\nKids Menu\nFish\nSalads\nSauces\nExtras\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nCheeseburger\n\u00a34.50\nMixed Grill Kebab\n\u00a39.50\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a35.00\nPrice Crash Meal Deals!\nChicken, Burger, Wrap & Kebab Meal Deals from \u00a37.00\n4x Chicken Tender + Chips & Drink for \u00a37.00!\n\u00a37.00\nSpecial Chicken Burger + Chips & Drinks for \u00a37.00!\nSpecial chicken burger with kebab, cheese salad chips drinks\n\u00a37.00\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Tikka Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nTandoori Chicken Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nChicken Pinchito Wrap with Cheese, Egg, Chips, Salad & Drink\n\u00a37.50\nKebabs\nServed in Wrap, Tray or Pita Bread\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nHalf Donner/ Half Chicken Kebab\n\u00a39.00\nMixed Grill Kebab\n\u00a39.50\nDonner Kebab in Wrap\n\u00a36.50\nChicken Shawarma\nServed in Pita or Wrap\n\u00a36.50\nPinchitos\nServed in Wrap, Pita or Tray\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a3",
-            "notices": [
-              {
-                "text": "Coke Zero\n\nCan\n\n1\nAdd to order\n\u00a31.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nEnjoy a delicious meal with Chicken Pinchito Wrap, with cheese, egg, chips, salad & drink for \u00a37.50!\nDig into our Special Chicken Burger with chips & a drink, all for just \u00a37.00!\nTop Selling Items\nPrice Crash Meal Deals!\nKebabs\nPinchitos\nChicken\nSnacks\nBurgers\nKids Menu\nFish\nSalads\nSauces\nExtras\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nCheeseburger\n\u00a34.50\nMixed Grill Kebab\n\u00a39.50\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a35.00\nPrice Crash Meal Deals!\nChicken, Burger, Wrap & Kebab Meal Deals from \u00a37.00\n4x Chicken Tender + Chips & Drink for \u00a37.00!\n\u00a37.00\nSpecial Chicken Burger + Chips & Drinks for \u00a37.00!\nSpecial chicken burger with kebab, cheese salad chips drinks\n\u00a37.00\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Tikka Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nTandoori Chicken Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nChicken Pinchito Wrap with Cheese, Egg, Chips, Salad & Drink\n\u00a37.50\nKebabs\nServed in Wrap, Tray or Pita Bread\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nHalf Donner/ Half Chicken Kebab\n\u00a39.00\nMixed Grill Kebab\n\u00a39.50\nDonner Kebab in Wrap\n\u00a36.50\nChicken Shawarma\nServed in Pita or Wrap\n\u00a36.50\nPinchit",
-            "notices": []
-          }
-        ],
-        "item": "Coke Zero",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Mr Noodles",
       "status": "open",
       "notice": "",
@@ -235,6 +168,73 @@
           }
         ],
         "item": "Coke 330ml",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Taco Bell",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nValue Pack for 2! Enjoy 1 Crunchywrap, 1 Quesarito, 6 Chicken Nachos, & 2 Fries for only \u00a322.50!\nEnjoy our 3 Tacos Supreme Meal with meat of your choice, side & drink only \u00a311.60!\nGrab a Beef or Chicken Taco! Now just \u00a31.49!\nNEW ITEMS\nVALUE PACKS\nDeluxe\nMeals\nCompletes Meals\nBurritos\nQuesadillas\nCrunchywraps\nTacos\nSalads\nSides\nDesserts\nSauces\nDrinks\nNEW ITEMS\nBurrito XL Meal\nBurrito XL served with nachos, fries or salad and a drink\n\u00a312.95\nXL Burrito\nExtra-large burrito filled with minced beef, Mexican potatoes, guacamole, tomato, creamy jalape\u00f1o sauce, sour cream and a three-cheese blend, served with an 80 g tub of nacho sauce.\n\u00a38.10\nVALUE PACKS\nFor 2: Quesarito and Crunchywrap with Chicken Nachos\n1x Crunchywrap + 1x Quesarito + Chicken Nachos 6 units. + 2x Seasoned Fries\n\u00a322.50\nFor 2: Chicken Burrito and Crunchywrap with Nachos Supreme\n1x Chicken Burrito + 1x Crunchywrap + 1x Nachos Supreme + 2x medium Seasoned Fries\n\u00a322.50\nFor 2: Quesarito and Crunchywrap with Nachos with meat and cheese or spicy chicken\n1x Quesarito + 1x Crunchywrap + 1x Nachos with meat and cheese or 1x Spicy Chicken Nachos + 2x small Seasoned Fries\n\u00a326.50\nDeluxe\nQuesadilla Deluxe Cheese + Bacon Meal\nQuesadilla Deluxe Cheese + Bacon with your choice of meat, accompanied by nachos with cheese or seasoned fries or salad and a drink. (The image shows a Quesadilla Deluxe cut into 4 pieces).\n\u00a313.75\nQuesadilla Deluxe Cheese Meal\nQuesadilla Deluxe Cheese with your choice of meat, accompanied by nachos with cheese or chips or salad and a drink. (The image shows a Quesadilla Deluxe cut into 4 pieces).\n\u00a312.95\nBurrito Deluxe Cheese + Bacon Meal\nBurrito Deluxe Cheese + Bacon accompanied by nachos with chees",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nValue Pack for 2! Enjoy 1 Crunchywrap, 1 Quesarito, 6 Chicken Nachos, & 2 Fries for only \u00a322.50!\nEnjoy our 3 Tacos Supreme Meal with meat of your choice, side & drink only \u00a311.60!\nGrab a Beef or Chicken Taco! Now just \u00a31.49!\nNEW ITEMS\nVALUE PACKS\nDeluxe\nMeals\nCompletes Meals\nBurritos\nQuesadillas\nCrunchywraps\nTacos\nSalads\nSides\nDesserts\nSauces\nDrinks\nNEW ITEMS\nBurrito XL Meal\nBurrito XL served with nachos, fries or salad and a drink\n\u00a312.95\nXL Burrito\nExtra-large burrito filled with minced beef, Mexican potatoes, guacamole, tomato, creamy jalape\u00f1o sauce, sour cream and a three-cheese blend, served with an 80 g tub of nacho sauce.\n\u00a38.10\nVALUE PACKS\nFor 2: Quesarito and Crunchywrap with Chicken Nachos\n1x Crunchywrap + 1x Quesarito + Chicken Nachos 6 units. + 2x Seasoned Fries\n\u00a322.50\nFor 2: Chicken Burrito and Crunchywrap with Nachos Supreme\n1x Chicken Burrito + 1x Crunchywrap + 1x Nachos Supreme + 2x medium Seasoned Fries\n\u00a322.50\nFor 2: Quesarito and Crunchywrap with Nachos with meat and cheese or spicy chicken\n1x Quesarito + 1x Crunchywrap + 1x Nachos with meat and cheese or 1x Spicy Chicken Nachos + 2x small Seasoned Fries\n\u00a326.50\nDeluxe\nQuesadilla Deluxe Cheese + Bacon Meal\nQuesadilla Deluxe Cheese + Bacon with your choice of meat, accompanied by nachos with cheese or seasoned fries or salad and a drink. (The image shows a Quesadilla Deluxe cut into 4 pieces).\n\u00a313.75\nQuesadilla Deluxe Cheese Meal\nQuesadilla Deluxe Cheese with your choice of meat, accompanied by nachos with cheese or chips or salad and a drink. (The image shows a Quesadilla Deluxe cut into 4 pieces).\n\u00a312.95\nBurrito Deluxe Cheese + Bacon Meal\nBurrito Deluxe Cheese + Bacon accompanied by nachos with chees",
+            "notices": [
+              {
+                "text": "2 Chicken Strips with Barbecue Sauce\n\nCrispy chicken pieces, perfect for dipping in Barbecue Sauce.\n\nDo you want to remove any ingredients?\nSelect up to 1 option\nNO BBQ Sauce\nOut of stock\n1\nAdd to order\n\u00a33.80",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a33.80"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n2 Chicken Strips with Barbecue Sauce\n\u00a33.80\n1\nSubtotal\n\u00a33.80\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a37.09\nAdd special instructions\nCheckout\nValue Pack for 2! Enjoy 1 Crunchywrap, 1 Quesarito, 6 Chicken Nachos, & 2 Fries for only \u00a322.50!\nEnjoy our 3 Tacos Supreme Meal with meat of your choice, side & drink only \u00a311.60!\nGrab a Beef or Chicken Taco! Now just \u00a31.49!\nNEW ITEMS\nVALUE PACKS\nDeluxe\nMeals\nCompletes Meals\nBurritos\nQuesadillas\nCrunchywraps\nTacos\nSalads\nSides\nDesserts\nSauces\nDrinks\nNEW ITEMS\nBurrito XL Meal\nBurrito XL served with nachos, fries or salad and a drink\n\u00a312.95\nXL Burrito\nExtra-large burrito filled with minced beef, Mexican potatoes, guacamole, tomato, creamy jalape\u00f1o sauce, sour cream and a three-cheese blend, served with an 80 g tub of nacho sauce.\n\u00a38.10\nVALUE PACKS\nFor 2: Quesarito and Crunchywrap with Chicken Nachos\n1x Crunchywrap + 1x Quesarito + Chicken Nachos 6 units. + 2x Seasoned Fries\n\u00a322.50\nFor 2: Chicken Burrito and Crunchywrap with Nachos Supreme\n1x Chicken Burrito + 1x Crunchywrap + 1x Nachos Supreme + 2x medium Seasoned Fries\n\u00a322.50\nFor 2: Quesarito and Crunchywrap with Nachos with meat and cheese or spicy chicken\n1x Quesarito + 1x Crunchywrap + 1x Nachos with meat and cheese or 1x Spicy Chicken Nachos + 2x small Seasoned Fries\n\u00a326.50\nDeluxe\nQuesadilla Deluxe Cheese + Bacon Meal\nQuesadilla Deluxe Cheese + Bacon with your choice of meat, accompanied by nachos with cheese or seasoned fries or salad and a drink. (The image shows a Quesadilla Deluxe cut into 4 pieces).\n\u00a313.75\nQuesadilla Deluxe Cheese Meal\nQuesadilla Deluxe Cheese with your choice of meat, accompanied by nachos with cheese or chips or salad and a drink. (The image shows a Quesadilla Deluxe cut into ",
+            "notices": []
+          }
+        ],
+        "item": "2 Chicken Strips with Barbecue Sauce",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -743,9 +743,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-28T22:33:28.774586+02:00",
+  "last_confirmed_at": "2026-09-28T22:38:28.774702+02:00",
   "last_sample_check": {
-    "at": "2026-09-28T22:33:28.774586+02:00",
+    "at": "2026-09-28T22:38:28.774702+02:00",
     "eligible": true
   }
 }
