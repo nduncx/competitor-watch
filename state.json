@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-28T22:48:28.775817+02:00",
+  "last_observed_at": "2026-09-28T22:53:28.775038+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -103,36 +103,6 @@
         "item": "Southern Fried Chicken Strips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
-    },
-    {
-      "name": "Smash & Stack",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": false,
-      "basket_probe": {}
     },
     {
       "name": "Chinese Kitchen",
@@ -773,9 +743,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-28T22:48:28.775817+02:00",
+  "last_confirmed_at": "2026-09-28T22:53:28.775038+02:00",
   "last_sample_check": {
-    "at": "2026-09-28T22:48:28.775817+02:00",
+    "at": "2026-09-28T22:53:28.775038+02:00",
     "eligible": true
   }
 }
