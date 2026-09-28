@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-28T18:58:28.767332+02:00",
+  "last_observed_at": "2026-09-28T19:03:28.767897+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -48,7 +48,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Eroski VIP",
+      "name": "Jury`s",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -84,7 +84,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Lord Nelson",
+      "name": "Candy Castle",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -610,13 +610,18 @@
       "id": "2026-09-28T18:58:28.767332+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (18:58)",
       "delivered_at": "2026-09-28T18:59:09.539904+02:00"
+    },
+    {
+      "id": "2026-09-28T19:03:28.767897+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (19:03)",
+      "delivered_at": "2026-09-28T19:04:08.587328+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-09-28T18:58:28.767332+02:00",
+  "last_confirmed_at": "2026-09-28T19:03:28.767897+02:00",
   "last_sample_check": {
-    "at": "2026-09-28T18:58:28.767332+02:00",
+    "at": "2026-09-28T19:03:28.767897+02:00",
     "eligible": true
   }
 }
