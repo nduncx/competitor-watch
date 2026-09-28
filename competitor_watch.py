@@ -652,13 +652,8 @@ def save_state(state: dict) -> None:
 # ---------------------------------------------------------------------------
 def send_email(subject: str, body: str, attach_screenshot: bool) -> None:
     if SLACK_WEBHOOK_URL:
-        # Plain text avoids interpreting page text as Slack mentions or markup.
-        text = subject + "\n\n" + body.replace("A screenshot is attached.", "")
-        run_id = os.getenv("GITHUB_RUN_ID")
-        repository = os.getenv("GITHUB_REPOSITORY")
-        if attach_screenshot and run_id and repository:
-            text += f"\nScreenshot: https://github.com/{repository}/actions/runs/{run_id} (Artifacts)"
-        payload = {"text": text, "mrkdwn": False, "unfurl_links": False, "unfurl_media": False}
+        from slack_presentation import slack_payload
+        payload = slack_payload(subject, body, TARGET_NAME, TIMEZONE)
         request = urllib.request.Request(SLACK_WEBHOOK_URL,
             data=json.dumps(payload).encode(), headers={"Content-Type": "application/json"})
         try:
