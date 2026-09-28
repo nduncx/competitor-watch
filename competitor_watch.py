@@ -615,6 +615,20 @@ def summarise(results: list[dict], directory_text: str = "", *,
     }
 
 
+def only_excluded_venues(result: dict) -> bool:
+    """A readable directory plus three explicit pre-order exclusions is not a crash.
+
+    Never use this to infer that the platform itself is closed or open.
+    Unknown pages, missing samples and explicit refusals do not qualify.
+    """
+    venues = result.get("venues", [])
+    return (result.get("status") == "no_open_venues" and len(venues) >= 3
+            and all(v.get("status") == "venue_closed"
+                    and v.get("listed_open") is False
+                    and not v.get("unresolved_notice", False)
+                    for v in venues))
+
+
 # ---------------------------------------------------------------------------
 # State (observations, pending notifications, and delivery receipts)
 # ---------------------------------------------------------------------------
@@ -919,16 +933,23 @@ def run_check(dry_run: bool = False) -> int:
 
     if status == "no_open_venues":
         log(result["detail"])
+        excluded = only_excluded_venues(result)
         if not dry_run:
             break_recovery_streak(state, "no open venues")
+            state["last_sample_check"] = {
+                "at": now.isoformat(), "eligible": False,
+                "exclusions_confirmed": excluded,
+                "venues": [{"name": v.get("name"), "status": v.get("status")}
+                           for v in result.get("venues", [])]}
             save_state(state)
         if not trading:
             log("Outside trading hours: expected overnight state; no availability inference.")
             return 0
         log("During trading hours: cannot establish platform availability.")
-        if not dry_run:
-            flush_notifications(state)
-        return 2
+        if not dry_run and not flush_notifications(state):
+            return 3
+        # Worker exit 4 means readable site but no eligible sample, not an outage.
+        return 4 if excluded else 2
 
     if status == "unknown":
         log("Could not tell whether they are open. " + result.get("detail", ""))
@@ -999,6 +1020,7 @@ def run_check(dry_run: bool = False) -> int:
         state.setdefault("pending_notifications", []).append(notification)
 
     state.update(notice=result.get("notice", "") if status == result["status"] else state.get("notice", ""),
+                 last_sample_check={"at": now.isoformat(), "eligible": True},
                  last_observed_at=now.isoformat(), last_result=result["status"],
                  last_checked_date=now.date().isoformat(),
                  last_venues=[{"name": v.get("name"), "status": v["status"],
