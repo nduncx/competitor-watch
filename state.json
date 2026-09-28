@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-28T18:53:28.767902+02:00",
+  "last_observed_at": "2026-09-28T18:58:28.767332+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -605,13 +605,18 @@
       "id": "2026-09-28T18:53:28.767902+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (18:53)",
       "delivered_at": "2026-09-28T18:54:09.660851+02:00"
+    },
+    {
+      "id": "2026-09-28T18:58:28.767332+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (18:58)",
+      "delivered_at": "2026-09-28T18:59:09.539904+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-09-28T18:53:28.767902+02:00",
+  "last_confirmed_at": "2026-09-28T18:58:28.767332+02:00",
   "last_sample_check": {
-    "at": "2026-09-28T18:53:28.767902+02:00",
+    "at": "2026-09-28T18:58:28.767332+02:00",
     "eligible": true
   }
 }
