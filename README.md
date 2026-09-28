@@ -24,6 +24,8 @@ The regular workflow still requests a start every five minutes. Each start durin
 
 A failed check queues one **monitoring problem** Slack message, separate from competitor status. The next successful check queues **monitoring restored**. Consecutive failures do not create repeated identical warnings; unacknowledged messages remain queued. A stopped or never-started GitHub job cannot send its own warning, so this is not an independent watchdog. GitHub failure notifications remain useful.
 
+As of 28 September, a readable directory with no current delivery estimates and at least three sampled venues explicitly excluded as closed/pre-order is a separate **no suitable stores available to test** condition. It sends one coverage notice and continues checking. This is neither a technical outage nor proof that the platform is open or closed. The previous incident state, pending messages and two-check recovery rule remain intact. Missing, unresolved or failed samples still raise a monitoring problem. The worker treats detector exit 4 as this expected sampling limitation; Slack delivery failure still returns an error.
+
 The Friday 25 September trial finished successfully at 23:30 that night. Its `trial-health.json` file is historical. Use the regular workflow's current `monitor-health.json` and run history for current health.
 
 ## Recognized promotion
