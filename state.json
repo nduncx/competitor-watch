@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-28T22:28:28.774876+02:00",
+  "last_observed_at": "2026-09-28T22:33:28.774586+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -105,7 +105,7 @@
       }
     },
     {
-      "name": "BABA",
+      "name": "Kebab House",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -142,20 +142,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in every bite.\n\u00a37.50\nBABA Korean Wings x10\nDouble-fried for extra crunch, then coated in a glossy Ko",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious meal with Chicken Pinchito Wrap, with cheese, egg, chips, salad & drink for \u00a37.50!\nDig into our Special Chicken Burger with chips & a drink, all for just \u00a37.00!\nTop Selling Items\nPrice Crash Meal Deals!\nKebabs\nPinchitos\nChicken\nSnacks\nBurgers\nKids Menu\nFish\nSalads\nSauces\nExtras\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nCheeseburger\n\u00a34.50\nMixed Grill Kebab\n\u00a39.50\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a35.00\nPrice Crash Meal Deals!\nChicken, Burger, Wrap & Kebab Meal Deals from \u00a37.00\n4x Chicken Tender + Chips & Drink for \u00a37.00!\n\u00a37.00\nSpecial Chicken Burger + Chips & Drinks for \u00a37.00!\nSpecial chicken burger with kebab, cheese salad chips drinks\n\u00a37.00\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Tikka Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nTandoori Chicken Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nChicken Pinchito Wrap with Cheese, Egg, Chips, Salad & Drink\n\u00a37.50\nKebabs\nServed in Wrap, Tray or Pita Bread\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nHalf Donner/ Half Chicken Kebab\n\u00a39.00\nMixed Grill Kebab\n\u00a39.50\nDonner Kebab in Wrap\n\u00a36.50\nChicken Shawarma\nServed in Pita or Wrap\n\u00a36.50\nPinchitos\nServed in Wrap, Pita or Tray\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a3",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in every bite.\n\u00a37.50\nBABA Korean Wings x10\nDouble-fried for extra crunch, then coated in a glossy Ko",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious meal with Chicken Pinchito Wrap, with cheese, egg, chips, salad & drink for \u00a37.50!\nDig into our Special Chicken Burger with chips & a drink, all for just \u00a37.00!\nTop Selling Items\nPrice Crash Meal Deals!\nKebabs\nPinchitos\nChicken\nSnacks\nBurgers\nKids Menu\nFish\nSalads\nSauces\nExtras\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nCheeseburger\n\u00a34.50\nMixed Grill Kebab\n\u00a39.50\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a35.00\nPrice Crash Meal Deals!\nChicken, Burger, Wrap & Kebab Meal Deals from \u00a37.00\n4x Chicken Tender + Chips & Drink for \u00a37.00!\n\u00a37.00\nSpecial Chicken Burger + Chips & Drinks for \u00a37.00!\nSpecial chicken burger with kebab, cheese salad chips drinks\n\u00a37.00\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Tikka Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nTandoori Chicken Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nChicken Pinchito Wrap with Cheese, Egg, Chips, Salad & Drink\n\u00a37.50\nKebabs\nServed in Wrap, Tray or Pita Bread\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nHalf Donner/ Half Chicken Kebab\n\u00a39.00\nMixed Grill Kebab\n\u00a39.50\nDonner Kebab in Wrap\n\u00a36.50\nChicken Shawarma\nServed in Pita or Wrap\n\u00a36.50\nPinchitos\nServed in Wrap, Pita or Tray\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a3",
             "notices": [
               {
-                "text": "Coke 1.75L Bottle\n1\nAdd to order\n\u00a33.99",
+                "text": "Coke Zero\n\nCan\n\n1\nAdd to order\n\u00a31.50",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a33.99"
+                  "Add to order\n\u00a31.50"
                 ],
                 "has_inputs": false
               }
@@ -163,78 +163,78 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 1.75L Bottle\n\u00a33.99\n1\nSubtotal\n\u00a33.99\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a37.28\nAdd special instructions\nCheckout\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in e",
-            "notices": []
-          }
-        ],
-        "item": "Coke 1.75L Bottle",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Dirty Burger",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nSpecials\nOG",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nSpecials\nOG",
-            "notices": [
-              {
-                "text": "Coke Zero\n\nCan 33cl\n\n1\nAdd to order\n\u00a32.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions, Italian cheese, o",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nEnjoy a delicious meal with Chicken Pinchito Wrap, with cheese, egg, chips, salad & drink for \u00a37.50!\nDig into our Special Chicken Burger with chips & a drink, all for just \u00a37.00!\nTop Selling Items\nPrice Crash Meal Deals!\nKebabs\nPinchitos\nChicken\nSnacks\nBurgers\nKids Menu\nFish\nSalads\nSauces\nExtras\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nCheeseburger\n\u00a34.50\nMixed Grill Kebab\n\u00a39.50\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a35.00\nPrice Crash Meal Deals!\nChicken, Burger, Wrap & Kebab Meal Deals from \u00a37.00\n4x Chicken Tender + Chips & Drink for \u00a37.00!\n\u00a37.00\nSpecial Chicken Burger + Chips & Drinks for \u00a37.00!\nSpecial chicken burger with kebab, cheese salad chips drinks\n\u00a37.00\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Tikka Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nTandoori Chicken Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nChicken Pinchito Wrap with Cheese, Egg, Chips, Salad & Drink\n\u00a37.50\nKebabs\nServed in Wrap, Tray or Pita Bread\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nHalf Donner/ Half Chicken Kebab\n\u00a39.00\nMixed Grill Kebab\n\u00a39.50\nDonner Kebab in Wrap\n\u00a36.50\nChicken Shawarma\nServed in Pita or Wrap\n\u00a36.50\nPinchit",
             "notices": []
           }
         ],
         "item": "Coke Zero",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Mr Noodles",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGrab an Indonesian Noodle Lunch Box from just \u00a37 - available until 4pm!\nIndulge in our Amazing Pad Thai Rice Noodle Lunch Boxes from \u00a37!\nTop Selling Items\nStarters\nIndonesian Noodle Lunch Boxes (Until 4pm)\nIndonesian Noodle (Large)\nAmazing Pad Thai Rice Noodle Lunch Boxes\nAmazing Pad Thai Rice Noodle (Large boxes)\nJasmine Rice Lunch Boxes (Until 4pm)\nJasmine Rice Dishes (Large Box)\nThai Wok\nThai Curry (Choice of green, read or yellow curry)\nThai Wraps\nSides\nDrinks\nBeers\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIndonesian Chicken Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nPad Thai with Chicken - Large\nRice Noodle. Vegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nIndonesian Beef Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.00\nIndonesian Prawn Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.90\nIndonesian Chicken, Beef & Prawn Noodle Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a314.50\nStarters\nLarge Prawn Crackers\n\u00a33.95\nLarge Vegetable Spring Rolls\n2 pieces\n\u00a34.50\nPrawn Spring Rolls\n3 pieces\n\u00a34.95\nChicken Nuggets\n6 pieces\n\u00a34.95\nThai Fish Cake\n1 piece\n\u00a34.75\nChicken Wings\n6 pieces\n\u00a37.50\nChicken Sesames\nBreadcrumb Chicken Strips with Sesame Seeds (6 pieces)\n\u00a37.75\nPrawn Sesames\n6 pieces\n\u00a38.20\nPlain Rice\n\u00a33.75\nEgg Fried Rice\n\u00a34.75\nSweet Chili Dip\n\u00a30.7",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGrab an Indonesian Noodle Lunch Box from just \u00a37 - available until 4pm!\nIndulge in our Amazing Pad Thai Rice Noodle Lunch Boxes from \u00a37!\nTop Selling Items\nStarters\nIndonesian Noodle Lunch Boxes (Until 4pm)\nIndonesian Noodle (Large)\nAmazing Pad Thai Rice Noodle Lunch Boxes\nAmazing Pad Thai Rice Noodle (Large boxes)\nJasmine Rice Lunch Boxes (Until 4pm)\nJasmine Rice Dishes (Large Box)\nThai Wok\nThai Curry (Choice of green, read or yellow curry)\nThai Wraps\nSides\nDrinks\nBeers\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIndonesian Chicken Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nPad Thai with Chicken - Large\nRice Noodle. Vegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nIndonesian Beef Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.00\nIndonesian Prawn Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.90\nIndonesian Chicken, Beef & Prawn Noodle Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a314.50\nStarters\nLarge Prawn Crackers\n\u00a33.95\nLarge Vegetable Spring Rolls\n2 pieces\n\u00a34.50\nPrawn Spring Rolls\n3 pieces\n\u00a34.95\nChicken Nuggets\n6 pieces\n\u00a34.95\nThai Fish Cake\n1 piece\n\u00a34.75\nChicken Wings\n6 pieces\n\u00a37.50\nChicken Sesames\nBreadcrumb Chicken Strips with Sesame Seeds (6 pieces)\n\u00a37.75\nPrawn Sesames\n6 pieces\n\u00a38.20\nPlain Rice\n\u00a33.75\nEgg Fried Rice\n\u00a34.75\nSweet Chili Dip\n\u00a30.7",
+            "notices": [
+              {
+                "text": "Coke 330ml\n1\nAdd to order\n\u00a31.75",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.75"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 330ml\n\u00a31.75\n1\nSubtotal\n\u00a31.75\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.04\nAdd special instructions\nCheckout\nGrab an Indonesian Noodle Lunch Box from just \u00a37 - available until 4pm!\nIndulge in our Amazing Pad Thai Rice Noodle Lunch Boxes from \u00a37!\nTop Selling Items\nStarters\nIndonesian Noodle Lunch Boxes (Until 4pm)\nIndonesian Noodle (Large)\nAmazing Pad Thai Rice Noodle Lunch Boxes\nAmazing Pad Thai Rice Noodle (Large boxes)\nJasmine Rice Lunch Boxes (Until 4pm)\nJasmine Rice Dishes (Large Box)\nThai Wok\nThai Curry (Choice of green, read or yellow curry)\nThai Wraps\nSides\nDrinks\nBeers\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIndonesian Chicken Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nPad Thai with Chicken - Large\nRice Noodle. Vegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a39.50\nIndonesian Beef Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.00\nIndonesian Prawn Noodles Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a310.90\nIndonesian Chicken, Beef & Prawn Noodle Large\nVegetables Consist of Red Peppers, Green Peppers, Green Courgettes, Baby Young Corn, Carrots, Cabbage & Broccoli\n\u00a314.50\nStarters\nLarge Prawn Crackers\n\u00a33.95\nLarge Vegetable Spring Rolls\n2 pieces\n\u00a34.50\nPrawn Spring Rolls\n3 pieces\n\u00a34.95\nChicken Nuggets\n6 pieces\n\u00a34.95\nThai Fish Cake\n1 piece\n\u00a34.75\nChicken Wings\n6 pieces\n\u00a37.50\nChicken Sesames\nBreadcrumb Chicken Strips with Sesame Seeds (6 pieces)\n\u00a37.7",
+            "notices": []
+          }
+        ],
+        "item": "Coke 330ml",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -743,9 +743,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-28T22:28:28.774876+02:00",
+  "last_confirmed_at": "2026-09-28T22:33:28.774586+02:00",
   "last_sample_check": {
-    "at": "2026-09-28T22:28:28.774876+02:00",
+    "at": "2026-09-28T22:33:28.774586+02:00",
     "eligible": true
   }
 }
