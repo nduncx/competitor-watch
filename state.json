@@ -9,7 +9,7 @@
     "2026-09-25-basket-rule-enabled"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-28T14:22:49.258563+02:00",
+  "last_observed_at": "2026-09-28T14:27:49.256805+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -687,9 +687,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-28T14:22:49.258563+02:00",
+  "last_confirmed_at": "2026-09-28T14:27:49.256805+02:00",
   "last_sample_check": {
-    "at": "2026-09-28T14:22:49.258563+02:00",
+    "at": "2026-09-28T14:27:49.256805+02:00",
     "eligible": true
   }
 }
