@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-29T15:54:37.085052+02:00",
+  "last_observed_at": "2026-09-29T15:59:37.080655+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -125,7 +125,7 @@
       }
     },
     {
-      "name": "NAAFI Ocean Village",
+      "name": "Eat Happy",
       "status": "venue_closed",
       "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
@@ -175,9 +175,9 @@
       "basket_probe": {}
     },
     {
-      "name": "Eat Happy",
-      "status": "open",
-      "notice": "",
+      "name": "Loco Burgers",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -218,51 +218,114 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving a snack? Get Big Chips for just \u00a33 and refreshing soft drinks for only \u00a31.30!\nTreat yourself to Chicken Tikka, Sausage or BBQ Chicken Tray - Served with salad for only \u00a34.50!\nTop Selling Items\nBaguettes & Wraps\nChips\nContainers\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nBig Chips\n\u00a33.00\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nBaguettes & Wraps\nPlain Chicken Baguette\nServed with salad\n\u00a34.50\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nBBQ Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nIndian Chicken Baguette\nServed with salad.\n\u00a34.50\nKefta Baguette\nServed with salad.\n\u00a34.50\nAfrican Chicken Baguette\nServed with salad.\n\u00a34.50\nMoroccan Special Baguette\nTuna Mortadella, salad and chips inside.\n\u00a34.50\nSausage Baguette\nServed with salad.\n\u00a34.00\nTuna Egg Mayonnaise Baguette\nServed with salad.\n\u00a33.90\nOmelette Baguette\nServed with salad.\n\u00a33.50\nSweet chill Baguette\nServed with salad.\n\u00a34.50\nTuna Mayonnaise Baguette\nServed with salad.\n\u00a33.50\nPeri Peri Chicken Baguette\nServed with salad.\n\u00a34.50\nChips\nBig Chips\n\u00a33.00\nSmall Chips\n\u00a32.00\nContainers\nPlain Chicken Tray\nServed with salad\n\u00a34.50\nChicken Tikka Tray\nServed with salad\n\u00a34.50\nMoroccan Chicken Tray\nServed with salad\n\u00a34.50\nBBQ Chicken Tray\nServed with salad\n\u00a34.50\nTandoori Chicken Tray\nServed with salad\n\u00a34.50\nBreaded Chicken Tray\nServed with salad\n\u00a34.50\nIndian Chicken Tray\nServed with salad\n\u00a34.50\nAfrican Chicken Tray\nServed with salad\n",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving a snack? Get Big Chips for just \u00a33 and refreshing soft drinks for only \u00a31.30!\nTreat yourself to Chicken Tikka, Sausage or BBQ Chicken Tray - Served with salad for only \u00a34.50!\nTop Selling Items\nBaguettes & Wraps\nChips\nContainers\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nBig Chips\n\u00a33.00\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nBaguettes & Wraps\nPlain Chicken Baguette\nServed with salad\n\u00a34.50\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nBBQ Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nIndian Chicken Baguette\nServed with salad.\n\u00a34.50\nKefta Baguette\nServed with salad.\n\u00a34.50\nAfrican Chicken Baguette\nServed with salad.\n\u00a34.50\nMoroccan Special Baguette\nTuna Mortadella, salad and chips inside.\n\u00a34.50\nSausage Baguette\nServed with salad.\n\u00a34.00\nTuna Egg Mayonnaise Baguette\nServed with salad.\n\u00a33.90\nOmelette Baguette\nServed with salad.\n\u00a33.50\nSweet chill Baguette\nServed with salad.\n\u00a34.50\nTuna Mayonnaise Baguette\nServed with salad.\n\u00a33.50\nPeri Peri Chicken Baguette\nServed with salad.\n\u00a34.50\nChips\nBig Chips\n\u00a33.00\nSmall Chips\n\u00a32.00\nContainers\nPlain Chicken Tray\nServed with salad\n\u00a34.50\nChicken Tikka Tray\nServed with salad\n\u00a34.50\nMoroccan Chicken Tray\nServed with salad\n\u00a34.50\nBBQ Chicken Tray\nServed with salad\n\u00a34.50\nTandoori Chicken Tray\nServed with salad\n\u00a34.50\nBreaded Chicken Tray\nServed with salad\n\u00a34.50\nIndian Chicken Tray\nServed with salad\n\u00a34.50\nAfrican Chicken Tray\nServed with salad\n",
-            "notices": [
-              {
-                "text": "Small Chips\nWould you like Sauce?\nAdd Ketchup\nAdd Cocktail Sauce\nAdd Mayonnaise\nAdd Gaucha Sauce\nAdd Alioli\nAdd Yogurt Sauce\nAdd Chilli\nAdd BBQ Sauce\nAdd Salt\nAdd Vinegar\n1\nAdd to order\n\u00a32.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Chips\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nCraving a snack? Get Big Chips for just \u00a33 and refreshing soft drinks for only \u00a31.30!\nTreat yourself to Chicken Tikka, Sausage or BBQ Chicken Tray - Served with salad for only \u00a34.50!\nTop Selling Items\nBaguettes & Wraps\nChips\nContainers\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nBig Chips\n\u00a33.00\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nBaguettes & Wraps\nPlain Chicken Baguette\nServed with salad\n\u00a34.50\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nBBQ Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nIndian Chicken Baguette\nServed with salad.\n\u00a34.50\nKefta Baguette\nServed with salad.\n\u00a34.50\nAfrican Chicken Baguette\nServed with salad.\n\u00a34.50\nMoroccan Special Baguette\nTuna Mortadella, salad and chips inside.\n\u00a34.50\nSausage Baguette\nServed with salad.\n\u00a34.00\nTuna Egg Mayonnaise Baguette\nServed with salad.\n\u00a33.90\nOmelette Baguette\nServed with salad.\n\u00a33.50\nSweet chill Baguette\nServed with salad.\n\u00a34.50\nTuna Mayonnaise Baguette\nServed with salad.\n\u00a33.50\nPeri Peri Chicken Baguette\nServed with salad.\n\u00a34.50\nChips\nBig Chips\n\u00a33.00\n1\nSmall Chips\n\u00a32.00\nContainers\nPlain Chicken Tray\nServed with salad\n\u00a34.50\nChicken Tikka Tray\nServed with salad\n\u00a34.50\nMoroccan Chicken Tray\nServed with salad\n\u00a34.50\nBBQ Chicken Tray\nServed with salad\n\u00a34.50\nTandoori Chicken Tray\nServed with salad\n\u00a34.50\nBreaded Chicken Tray\nServed with sal",
-            "notices": []
-          }
-        ],
-        "item": "Small Chips",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     },
     {
-      "name": "Loco Burgers",
+      "name": "Piccadilly Garden Bar",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "TopDogs Gibraltar",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Era",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -319,20 +382,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving something hearty? Try our Lokito 2 Patty Burgers for just \u00a311.50!\nSpice up your meal with our NEW Loco Wings! Sweet Chilli, BBQ & more for \u00a38.95!\nTop Selling Items\nNEW!! LOCO WINGS\nLokito 2 Patty Burgers\nLoco Burgers\nKids Menu\nSides\nSauces\nDesserts\nDrinks\nBeers\nCiders\nRed Wine\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nViva La Pepper Burger\nFour meat patties cheese burger topped with steak in pepper sauce. Served with a small side of loco potato crisps.\n\u00a314.50\nLokito Maradona 2 Patty Burger\nTwo meat patties cheese burger, criollo sausage, loco crisps & chimichurri. Served with loco crazy crisps.\n\u00a311.50\nOle y Ole Loaded Fries\nCheesy loaded fries with chorizo and fried egg\n\u00a38.50\nLokito The Pull 2 Patty Burger\nTwo meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with loco crazy crisps.\n\u00a311.50\nThe Pull Burger\nFour meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with a small side of loco potato crisps.\n\u00a314.50\nNEW!! LOCO WINGS\n6 X SWEET CHILLI WINGS\n6 WHOLE WINGS 12 PIECES SWEET CHILLI SAUCE & LOCO CRISPS\n\u00a38.95\n6 X BBQ WINGS\n6 WHOLE WINGS 12 PIECES WITH BBQ SAUCE & LOCO CRISPS\n\u00a38.95\n6 X GAUCHA WINGS\n6 WHOLE WINGS 12 PIECES WITH GAUCHA SAUCE & LOCO CRISPS\n\u00a38.95\n6 X HONEY MUSTARD WINGS\n6 WHOLE WINGS 12 PIECES WITH MUSTARD SAUCE & LOCO CRISPS\n\u00a38.95\n6 X FRIED CHICKEN WINGS\n6 WHOLE WINGS 12 PIECES & LOCO CRISPS\n\u00a38.95\n6 X HOT BRAVA WINGS\n6 WHOLE WINGS 12 PIECES WITH HOT BRAVA WINGS & LOCO CRISPS\n\u00a38.95\nLokito 2 Patty Burgers\nNEW! Lokito Classic Cheese Bacon 2 Patty Burger\nServed with loco crazy crisps\n\u00a311.50\nLokito Viva La Pepper 2 Patty Burger\nTwo meat patties ch",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters & Sharers\nSignature Sweet Potato Fries\nOur crispy homemade sweet potato fries cooked in olive oil and ",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving something hearty? Try our Lokito 2 Patty Burgers for just \u00a311.50!\nSpice up your meal with our NEW Loco Wings! Sweet Chilli, BBQ & more for \u00a38.95!\nTop Selling Items\nNEW!! LOCO WINGS\nLokito 2 Patty Burgers\nLoco Burgers\nKids Menu\nSides\nSauces\nDesserts\nDrinks\nBeers\nCiders\nRed Wine\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nViva La Pepper Burger\nFour meat patties cheese burger topped with steak in pepper sauce. Served with a small side of loco potato crisps.\n\u00a314.50\nLokito Maradona 2 Patty Burger\nTwo meat patties cheese burger, criollo sausage, loco crisps & chimichurri. Served with loco crazy crisps.\n\u00a311.50\nOle y Ole Loaded Fries\nCheesy loaded fries with chorizo and fried egg\n\u00a38.50\nLokito The Pull 2 Patty Burger\nTwo meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with loco crazy crisps.\n\u00a311.50\nThe Pull Burger\nFour meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with a small side of loco potato crisps.\n\u00a314.50\nNEW!! LOCO WINGS\n6 X SWEET CHILLI WINGS\n6 WHOLE WINGS 12 PIECES SWEET CHILLI SAUCE & LOCO CRISPS\n\u00a38.95\n6 X BBQ WINGS\n6 WHOLE WINGS 12 PIECES WITH BBQ SAUCE & LOCO CRISPS\n\u00a38.95\n6 X GAUCHA WINGS\n6 WHOLE WINGS 12 PIECES WITH GAUCHA SAUCE & LOCO CRISPS\n\u00a38.95\n6 X HONEY MUSTARD WINGS\n6 WHOLE WINGS 12 PIECES WITH MUSTARD SAUCE & LOCO CRISPS\n\u00a38.95\n6 X FRIED CHICKEN WINGS\n6 WHOLE WINGS 12 PIECES & LOCO CRISPS\n\u00a38.95\n6 X HOT BRAVA WINGS\n6 WHOLE WINGS 12 PIECES WITH HOT BRAVA WINGS & LOCO CRISPS\n\u00a38.95\nLokito 2 Patty Burgers\nNEW! Lokito Classic Cheese Bacon 2 Patty Burger\nServed with loco crazy crisps\n\u00a311.50\nLokito Viva La Pepper 2 Patty Burger\nTwo meat patties ch",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters & Sharers\nSignature Sweet Potato Fries\nOur crispy homemade sweet potato fries cooked in olive oil and ",
             "notices": [
               {
-                "text": "7Up\n1\nAdd to order\n\u00a31.90",
+                "text": "Pepsi Max\n\nAn ice-cold 330 ml can of Pepsi Max maximum cola taste, zero sugar. Contains caffeine.\n\n1\nAdd to order\n\u00a32.90",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.90"
+                  "Add to order\n\u00a32.90"
                 ],
                 "has_inputs": false
               }
@@ -340,11 +403,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n7Up\n\u00a31.90\n1\nSubtotal\n\u00a31.90\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.19\nAdd special instructions\nCheckout\nCraving something hearty? Try our Lokito 2 Patty Burgers for just \u00a311.50!\nSpice up your meal with our NEW Loco Wings! Sweet Chilli, BBQ & more for \u00a38.95!\nTop Selling Items\nNEW!! LOCO WINGS\nLokito 2 Patty Burgers\nLoco Burgers\nKids Menu\nSides\nSauces\nDesserts\nDrinks\nBeers\nCiders\nRed Wine\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nViva La Pepper Burger\nFour meat patties cheese burger topped with steak in pepper sauce. Served with a small side of loco potato crisps.\n\u00a314.50\nLokito Maradona 2 Patty Burger\nTwo meat patties cheese burger, criollo sausage, loco crisps & chimichurri. Served with loco crazy crisps.\n\u00a311.50\nOle y Ole Loaded Fries\nCheesy loaded fries with chorizo and fried egg\n\u00a38.50\nLokito The Pull 2 Patty Burger\nTwo meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with loco crazy crisps.\n\u00a311.50\nThe Pull Burger\nFour meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with a small side of loco potato crisps.\n\u00a314.50\nNEW!! LOCO WINGS\n6 X SWEET CHILLI WINGS\n6 WHOLE WINGS 12 PIECES SWEET CHILLI SAUCE & LOCO CRISPS\n\u00a38.95\n6 X BBQ WINGS\n6 WHOLE WINGS 12 PIECES WITH BBQ SAUCE & LOCO CRISPS\n\u00a38.95\n6 X GAUCHA WINGS\n6 WHOLE WINGS 12 PIECES WITH GAUCHA SAUCE & LOCO CRISPS\n\u00a38.95\n6 X HONEY MUSTARD WINGS\n6 WHOLE WINGS 12 PIECES WITH MUSTARD SAUCE & LOCO CRISPS\n\u00a38.95\n6 X FRIED CHICKEN WINGS\n6 WHOLE WINGS 12 PIECES & LOCO CRISPS\n\u00a38.95\n6 X HOT BRAVA WINGS\n6 WHOLE WINGS 12 PIECES WITH HOT BRAVA WINGS & LOCO CRISPS\n\u00a38.95\nLokito 2 Patty Burgers\nNEW! Lokito Classic Cheese Bacon 2 Patty Burger\nServed with",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\nYour order\nPepsi Max\n\u00a32.90\n1\nSubtotal\n\u00a32.90\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a36.19\nAdd special instructions\nCheckout\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters & Sharers\nSign",
             "notices": []
           }
         ],
-        "item": "7Up",
+        "item": "Pepsi Max",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -853,9 +916,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-29T15:54:37.085052+02:00",
+  "last_confirmed_at": "2026-09-29T15:59:37.080655+02:00",
   "last_sample_check": {
-    "at": "2026-09-29T15:54:37.085052+02:00",
+    "at": "2026-09-29T15:59:37.080655+02:00",
     "eligible": true
   }
 }
