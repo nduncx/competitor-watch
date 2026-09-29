@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-29T21:45:12.703789+02:00",
+  "last_observed_at": "2026-09-29T21:50:12.703727+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -125,93 +125,6 @@
       }
     },
     {
-      "name": "Burger King",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nLONG CHICKEN Served with Chips and Drink\nMayonnaise, Lettuce\n\u00a311.10\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips and Drink\n\u00a313.20\n2X LONG SPICY CHICKEN MEAL for \u00a316!\nYour favourite menu now in",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nLONG CHICKEN Served with Chips and Drink\nMayonnaise, Lettuce\n\u00a311.10\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips and Drink\n\u00a313.20\n2X LONG SPICY CHICKEN MEAL for \u00a316!\nYour favourite menu now in",
-            "notices": [
-              {
-                "text": "Coke\n1\nAdd to order\n\u00a33.30",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.30"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.30\n1\nSubtotal\n\u00a33.30\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a36.59\nAdd special instructions\nCheckout\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nLONG CHICKEN Served with Chips and Drink\nMayonnaise, Lettuce\n\u00a311.10\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Ch",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "AquaTerra",
       "status": "delays",
       "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
@@ -297,14 +210,96 @@
         "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "Cafetto Nostro",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURGER\nSpicy Chicken Breast Patty, Cheddar Cheese, Guacamole, Jalape\u00f1os, Lettuce & Tomato\n\u00a310.80\nENGLAND BAGUETTE\nR",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURGER\nSpicy Chicken Breast Patty, Cheddar Cheese, Guacamole, Jalape\u00f1os, Lettuce & Tomato\n\u00a310.80\nENGLAND BAGUETTE\nR",
+            "notices": [
+              {
+                "text": "ENGLAND BURGER\n\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\nMAKE IT A MEAL\nSelect up to 1 option\nADD HAND-CUT FRIES AND SOFT DRINK\n\u00a32.30\n1\nAdd to order\n\u00a310.80",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a310.80"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nENGLAND BURGER\n\u00a310.80\n1\nSubtotal\n\u00a310.80\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a314.09\nAdd special instructions\nCheckout\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\n1\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURGER\nSpicy Chic",
+            "notices": []
+          }
+        ],
+        "item": "ENGLAND BURGER",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-27T14:53:55.181836+02:00:delays",
-      "subject": "Hungry Monkey is warning of long delays (14:53) - OPEN (basket test)",
-      "delivered_at": "2026-09-27T14:54:54.199975+02:00"
-    },
     {
       "id": "2026-09-27T14:58:55.179073+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (14:58) - OPEN (basket test)",
@@ -799,13 +794,18 @@
       "id": "2026-09-29T21:45:12.703789+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:45) - OPEN (basket test)",
       "delivered_at": "2026-09-29T21:46:04.890630+02:00"
+    },
+    {
+      "id": "2026-09-29T21:50:12.703727+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (21:50) - OPEN (basket test)",
+      "delivered_at": "2026-09-29T21:51:03.658904+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-29T21:45:12.703789+02:00",
+  "last_confirmed_at": "2026-09-29T21:50:12.703727+02:00",
   "last_sample_check": {
-    "at": "2026-09-29T21:45:12.703789+02:00",
+    "at": "2026-09-29T21:50:12.703727+02:00",
     "eligible": true
   }
 }
