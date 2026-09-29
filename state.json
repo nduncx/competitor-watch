@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-29T21:40:12.704039+02:00",
+  "last_observed_at": "2026-09-29T21:45:12.703789+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -125,93 +125,6 @@
       }
     },
     {
-      "name": "El Kasbah",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
-            "notices": [
-              {
-                "text": "Coca Cola\n1\nAdd to order\n\u00a32.40",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.40"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.40\n1\nSubtotal\n\u00a32.40\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.69\nAdd special instructions\nCheckout\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked wi",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Burger King",
       "status": "delays",
       "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
@@ -297,14 +210,96 @@
         "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "AquaTerra",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nTapas and Bao Buns\nFish\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nHuevos rotos with morcilla de burgos\n\u00a39.95\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nTapa of Morcilla of Burgos\nBread, applesauce and Black Pudding from Burgos. Chef's recommendation\n\u00a33.50\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nGoat cheese salad\nMix lettuces, cherry toma",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nTapas and Bao Buns\nFish\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nHuevos rotos with morcilla de burgos\n\u00a39.95\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nTapa of Morcilla of Burgos\nBread, applesauce and Black Pudding from Burgos. Chef's recommendation\n\u00a33.50\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nGoat cheese salad\nMix lettuces, cherry toma",
+            "notices": [
+              {
+                "text": "Coca Cola\n\n33cl\n\n1\nAdd to order\n\u00a30.99",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a30.99"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a30.99\n1\nSubtotal\n\u00a30.99\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a34.28\nAdd special instructions\nCheckout\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nTapas and Bao Buns\nFish\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nHuevos rotos with morcilla de burgos\n\u00a39.95\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nTapa of Morcilla of Burgos\nBread, applesauce and Black Pudding from Burgos. Chef's recommendation\n\u00a33.50\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seed",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-26T22:02:48.393235+02:00:open",
-      "subject": "Hungry Monkey: long-delays warning cleared (22:02) - basket test passed",
-      "delivered_at": "2026-09-26T22:03:40.667463+02:00"
-    },
     {
       "id": "2026-09-27T14:53:55.181836+02:00:delays",
       "subject": "Hungry Monkey is warning of long delays (14:53) - OPEN (basket test)",
@@ -799,13 +794,18 @@
       "id": "2026-09-29T21:40:12.704039+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:40) - OPEN (basket test)",
       "delivered_at": "2026-09-29T21:41:02.509138+02:00"
+    },
+    {
+      "id": "2026-09-29T21:45:12.703789+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (21:45) - OPEN (basket test)",
+      "delivered_at": "2026-09-29T21:46:04.890630+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-29T21:40:12.704039+02:00",
+  "last_confirmed_at": "2026-09-29T21:45:12.703789+02:00",
   "last_sample_check": {
-    "at": "2026-09-29T21:40:12.704039+02:00",
+    "at": "2026-09-29T21:45:12.703789+02:00",
     "eligible": true
   }
 }
