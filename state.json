@@ -10,18 +10,18 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-29T21:55:12.702873+02:00",
+  "last_observed_at": "2026-09-29T22:00:12.704020+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -44,7 +44,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -125,15 +125,15 @@
       }
     },
     {
-      "name": "AquaTerra",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "name": "Pizza Hut",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -156,7 +156,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -182,20 +182,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nTapas and Bao Buns\nFish\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nHuevos rotos with morcilla de burgos\n\u00a39.95\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nTapa of Morcilla of Burgos\nBread, applesauce and Black Pudding from Burgos. Chef's recommendation\n\u00a33.50\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nGoat cheese salad\nMix lettuces, cherry toma",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover the Triple Box Medium for just \u00a337.50 - 2 pizzas, sides, and sauces for the ultimate feast!\nCraving more? Go LARGE! Any 2 Large Pizzas from just \u00a331.20!\nTop Selling Items\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nNEW! Melts\nTriple Box only for \u00a337.50!\nPrice Crash Offer! Hut Three!\nDouble Hut Mediums only form \u00a322.40!\nDouble Hut Family only from \u00a331.20!\nStarters\nSmall Pizzas\nMedium Pizzas\nLarge Pizzas\nGluten Free Pizzas\nDesserts\nDips\nSoft Drinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble Hut Medium Pizzas only from \u00a322.40!\nChoose any 2 medium pizzas\n\u00a322.40\nAny 2 Large Pizzas only from \u00a331.20!\nChoose any 2 large pizzas\n\u00a331.20\nMedium Meat Lovers\nBeef, pepperoni, ham and spicy pork\n\u00a313.70\nChicken Wings\nSucculent chicken wings lightly marinated and accompanied by BBQ or Garlic Sauce\n\u00a38.10\nTriple Box Medium only for \u00a337.50!\nIncludes any 2 medium pizzas, 5 onion rings, grill fries, 4 garlic bread, 5 chicken delights and 2 sauces (garlic or BBQ)\n\u00a337.50\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nAvailable Monday to Thursday\nGo Large Americana\nPepperoni, bacon and onion\n\u00a313.70\nGo Large Kebab\nFresh tomato, onion, chicken kebab and kebab sauce\n\u00a313.70\nGo Large Pepperoni Lovers\nClassic pepperoni pizza topped with over 50% pepperoni\n\u00a313.70\nGo Large Hawaiana\nHam and pineapple\n\u00a313.70\nGo Large Veggie Lovers\nOnion, sweet corn, green pepper, mushroom and fresh tomato\n\u00a313.70\nGo Large Margherita\nWith tomato sauce and mozzarella\n\u00a313.70\nGo Large Cheese & Ham\nClassic pizza topped with cheese and ham\n\u00a313.70\nNEW! Melts\nNEW! Melts Bourbon BBQ\nBourbon sauce, mozzarella, bacon, veal, chicken kebab & your choice of sauce\n\u00a3",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nTapas and Bao Buns\nFish\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nHuevos rotos with morcilla de burgos\n\u00a39.95\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nTapa of Morcilla of Burgos\nBread, applesauce and Black Pudding from Burgos. Chef's recommendation\n\u00a33.50\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nGoat cheese salad\nMix lettuces, cherry toma",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover the Triple Box Medium for just \u00a337.50 - 2 pizzas, sides, and sauces for the ultimate feast!\nCraving more? Go LARGE! Any 2 Large Pizzas from just \u00a331.20!\nTop Selling Items\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nNEW! Melts\nTriple Box only for \u00a337.50!\nPrice Crash Offer! Hut Three!\nDouble Hut Mediums only form \u00a322.40!\nDouble Hut Family only from \u00a331.20!\nStarters\nSmall Pizzas\nMedium Pizzas\nLarge Pizzas\nGluten Free Pizzas\nDesserts\nDips\nSoft Drinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble Hut Medium Pizzas only from \u00a322.40!\nChoose any 2 medium pizzas\n\u00a322.40\nAny 2 Large Pizzas only from \u00a331.20!\nChoose any 2 large pizzas\n\u00a331.20\nMedium Meat Lovers\nBeef, pepperoni, ham and spicy pork\n\u00a313.70\nChicken Wings\nSucculent chicken wings lightly marinated and accompanied by BBQ or Garlic Sauce\n\u00a38.10\nTriple Box Medium only for \u00a337.50!\nIncludes any 2 medium pizzas, 5 onion rings, grill fries, 4 garlic bread, 5 chicken delights and 2 sauces (garlic or BBQ)\n\u00a337.50\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nAvailable Monday to Thursday\nGo Large Americana\nPepperoni, bacon and onion\n\u00a313.70\nGo Large Kebab\nFresh tomato, onion, chicken kebab and kebab sauce\n\u00a313.70\nGo Large Pepperoni Lovers\nClassic pepperoni pizza topped with over 50% pepperoni\n\u00a313.70\nGo Large Hawaiana\nHam and pineapple\n\u00a313.70\nGo Large Veggie Lovers\nOnion, sweet corn, green pepper, mushroom and fresh tomato\n\u00a313.70\nGo Large Margherita\nWith tomato sauce and mozzarella\n\u00a313.70\nGo Large Cheese & Ham\nClassic pizza topped with cheese and ham\n\u00a313.70\nNEW! Melts\nNEW! Melts Bourbon BBQ\nBourbon sauce, mozzarella, bacon, veal, chicken kebab & your choice of sauce\n\u00a3",
             "notices": [
               {
-                "text": "Coca Cola\n\n33cl\n\n1\nAdd to order\n\u00a30.99",
+                "text": "Pepsi 2 Litre Bottle\n1\nAdd to order\n\u00a33.80",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a30.99"
+                  "Add to order\n\u00a33.80"
                 ],
                 "has_inputs": false
               }
@@ -203,24 +203,24 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a30.99\n1\nSubtotal\n\u00a30.99\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a34.28\nAdd special instructions\nCheckout\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nTapas and Bao Buns\nFish\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a37.50\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nHuevos rotos with morcilla de burgos\n\u00a39.95\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nTapa of Morcilla of Burgos\nBread, applesauce and Black Pudding from Burgos. Chef's recommendation\n\u00a33.50\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seed",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi 2 Litre Bottle\n\u00a33.80\n1\nSubtotal\n\u00a33.80\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a37.09\nAdd special instructions\nCheckout\nDiscover the Triple Box Medium for just \u00a337.50 - 2 pizzas, sides, and sauces for the ultimate feast!\nCraving more? Go LARGE! Any 2 Large Pizzas from just \u00a331.20!\nTop Selling Items\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nNEW! Melts\nTriple Box only for \u00a337.50!\nPrice Crash Offer! Hut Three!\nDouble Hut Mediums only form \u00a322.40!\nDouble Hut Family only from \u00a331.20!\nStarters\nSmall Pizzas\nMedium Pizzas\nLarge Pizzas\nGluten Free Pizzas\nDesserts\nDips\nSoft Drinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble Hut Medium Pizzas only from \u00a322.40!\nChoose any 2 medium pizzas\n\u00a322.40\nAny 2 Large Pizzas only from \u00a331.20!\nChoose any 2 large pizzas\n\u00a331.20\nMedium Meat Lovers\nBeef, pepperoni, ham and spicy pork\n\u00a313.70\nChicken Wings\nSucculent chicken wings lightly marinated and accompanied by BBQ or Garlic Sauce\n\u00a38.10\nTriple Box Medium only for \u00a337.50!\nIncludes any 2 medium pizzas, 5 onion rings, grill fries, 4 garlic bread, 5 chicken delights and 2 sauces (garlic or BBQ)\n\u00a337.50\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nAvailable Monday to Thursday\nGo Large Americana\nPepperoni, bacon and onion\n\u00a313.70\nGo Large Kebab\nFresh tomato, onion, chicken kebab and kebab sauce\n\u00a313.70\nGo Large Pepperoni Lovers\nClassic pepperoni pizza topped with over 50% pepperoni\n\u00a313.70\nGo Large Hawaiana\nHam and pineapple\n\u00a313.70\nGo Large Veggie Lovers\nOnion, sweet corn, green pepper, mushroom and fresh tomato\n\u00a313.70\nGo Large Margherita\nWith tomato sauce and mozzarella\n\u00a313.70\nGo Large Cheese & Ham\nClassic pizza topped with cheese and ham\n\u00a313.70\nNEW! Melts\nNE",
             "notices": []
           }
         ],
-        "item": "Coca Cola",
+        "item": "Pepsi 2 Litre Bottle",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Cafetto Nostro",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "name": "Pollo Hermano's & Pollo Loco",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -243,7 +243,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -269,20 +269,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURGER\nSpicy Chicken Breast Patty, Cheddar Cheese, Guacamole, Jalape\u00f1os, Lettuce & Tomato\n\u00a310.80\nENGLAND BAGUETTE\nR",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast on a Whole Chicken, Large Chips, Alioli & 4 Croquetas - all for just \u00a318.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHalf Chicken & rice and Ali Oli\n\u00a39.95\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.00, wrap \u00a35.50 or combo \u00a36.70\n\u00a35.00\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a318.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a318.00\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a318.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a318.50\nMini Cordon Bleu\nper unit\n\u00a30.90\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a318.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nPlain\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nGarlic\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nMojo Picon\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nCurry\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nTikka\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSerranito\nRoll \u00a35.00, wra",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURGER\nSpicy Chicken Breast Patty, Cheddar Cheese, Guacamole, Jalape\u00f1os, Lettuce & Tomato\n\u00a310.80\nENGLAND BAGUETTE\nR",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast on a Whole Chicken, Large Chips, Alioli & 4 Croquetas - all for just \u00a318.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHalf Chicken & rice and Ali Oli\n\u00a39.95\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.00, wrap \u00a35.50 or combo \u00a36.70\n\u00a35.00\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a318.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a318.00\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a318.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a318.50\nMini Cordon Bleu\nper unit\n\u00a30.90\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a318.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nPlain\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nGarlic\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nMojo Picon\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nCurry\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nTikka\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSerranito\nRoll \u00a35.00, wra",
             "notices": [
               {
-                "text": "ENGLAND BURGER\n\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\nMAKE IT A MEAL\nSelect up to 1 option\nADD HAND-CUT FRIES AND SOFT DRINK\n\u00a32.30\n1\nAdd to order\n\u00a310.80",
+                "text": "Small Menu - Half Chicken, Small Chips and Ali Oli\n1\nAdd to order\n\u00a39.95",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a310.80"
+                  "Add to order\n\u00a39.95"
                 ],
                 "has_inputs": false
               }
@@ -290,21 +290,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nENGLAND BURGER\n\u00a310.80\n1\nSubtotal\n\u00a310.80\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a314.09\nAdd special instructions\nCheckout\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\n1\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURGER\nSpicy Chic",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\n1\nSubtotal\n\u00a39.95\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a313.24\nAdd special instructions\nCheckout\nFeast on a Whole Chicken, Large Chips, Alioli & 4 Croquetas - all for just \u00a318.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHalf Chicken & rice and Ali Oli\n\u00a39.95\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\n1\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.00, wrap \u00a35.50 or combo \u00a36.70\n\u00a35.00\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a318.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a318.00\n1\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a39.95\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a318.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a318.50\nMini Cordon Bleu\nper unit\n\u00a30.90\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a318.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a318.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nPlain\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nGarlic\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nAfricano\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.30\n\u00a34.50\nMojo Picon\nRoll \u00a34.50, wrap \u00a35.10 or combo \u00a36.",
             "notices": []
           }
         ],
-        "item": "ENGLAND BURGER",
+        "item": "Small Menu - Half Chicken, Small Chips and Ali Oli",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-27T15:03:55.178902+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (15:03) - OPEN (basket test)",
-      "delivered_at": "2026-09-27T15:04:48.796096+02:00"
-    },
     {
       "id": "2026-09-27T15:08:55.179401+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (15:08) - OPEN (basket test)",
@@ -799,13 +794,19 @@
       "id": "2026-09-29T21:55:12.702873+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:55) - OPEN (basket test)",
       "delivered_at": "2026-09-29T21:56:04.773665+02:00"
+    },
+    {
+      "id": "2026-09-29T22:00:12.704020+02:00:delays",
+      "subject": "Hungry Monkey: 22:00 check unconfirmed - last confirmed showing a long-delays warning at 21:55",
+      "delivered_at": "2026-09-29T22:01:02.629346+02:00"
     }
   ],
-  "recovery_streak": 0,
-  "last_result": "delays",
+  "recovery_streak": 1,
+  "last_result": "open",
   "last_confirmed_at": "2026-09-29T21:55:12.702873+02:00",
   "last_sample_check": {
-    "at": "2026-09-29T21:55:12.702873+02:00",
+    "at": "2026-09-29T22:00:12.704020+02:00",
     "eligible": true
-  }
+  },
+  "recovery_candidate_at": "2026-09-29T22:00:12.704020+02:00"
 }
