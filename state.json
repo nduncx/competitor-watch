@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-29T18:04:37.083817+02:00",
+  "last_observed_at": "2026-09-29T18:09:37.084238+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -126,90 +126,17 @@
     },
     {
       "name": "Beeyo",
-      "status": "open",
+      "status": "unknown",
       "notice": "",
       "notice_transcript": [
         {
           "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yoghurt Specials\nFrozen Yogurt\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.12\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.12\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.90\nFrozen Yoghurt Specials\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yoghurt Specials\nFrozen Yogurt\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.12\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.12\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.90\nFrozen Yoghurt Specials\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.",
-            "notices": [
-              {
-                "text": "Coca Cola\n1\nAdd to order\n\u00a32.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a32.00\nAdd special instructions\nCheckout\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yoghurt Specials\nFrozen Yogurt\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.12\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.12\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.90\nFrozen Yoghurt Specials\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous sw",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "order_button_after_notices": false,
+      "basket_probe": {}
     },
     {
       "name": "Gela Ti Amo",
@@ -295,6 +222,143 @@
           }
         ],
         "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Lord Nelson",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Millennium",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nPrice Crash Alert! Get 10% off ICE now just \u00a31.79 per bag! Stay cool for less!\nIndulge in our Ice Cream selection - rich, creamy & just \u00a32.85! Treat yourself today!\nFree Pick 'n' Mix - (x5) Assorted Sweets for orders \u00a315 or more! Go to FREEBIES section!\nTop Selling Items\nPrice Crash Offers! ICE 10% Off\nIce Cream!\nVapes\nCigarettes/Rolling Tobacco/ papers\nCrisps & Nuts\nFREEBIES!\nWater\nEnergy Drinks\nAlcoholic Drinks\nSweets\nMilk, Milkshakes, Butter & Cheese\nNEW Frozen Food\nGeneral Groceries & BBQ\nChocolates\nHot Drinks\nBread & Cakes\nBiscuits\nJuices, Smoothies & Cordials\nSoft Drinks\nMedical, Sanitary & Toiletries\nPets\nChewing & Bubble Gum\nTop Selling Items\nA quick look at our top sellers chosen by you!\nOFFER PowerKing Original - Can 250ml\n\u00a30.89\nWalkers - Cheese & Onion\n\u00a31.29\nSmoking - Brown King Size\n\u00a31.09\nPrice Crash Offers! ICE 10% Off\nDiscount Automatically Applied at Checkout!\nIce Bag\n\u00a31.99\nIce Cream!\nMagnum - Classic\n\u00a32.85\nBen & Jerry's - Vanilla\n\u00a32.59\nMagnum - White\n\u00a32.85\nMagnum - Almond\n\u00a32.85\nMagnum - Mint\n\u00a32.85\nCalippo - Strawberry\n\u00a31.89\nCalippo - Lime\n\u00a31.89\nCalippo - Orange\n\u00a31.89\nCalippo - Cola\n\u00a31.89\nFrigo - Chuches\n\u00a32.09\nFriguron\n\u00a31.49\nVapes\nLost Mary - pineapple\n\u00a36.99\nLost Mary - Marybull ice\n\u00a36.99\nLost Mary - Marybull ice\n\u00a36.99\nLuckee - Skittles 10000 puffs\n\u00a311.69\nLuckee - Strawberry Ice 8000 puffs\n\u00a311.69\nBou - Pineapple Ice 7000 puffs\n\u00a311.69\nBou - Mr Blue 7000 puffs\n\u00a311.69\nBou - Blueberry Sour Raspberry 7000 puffs\n\u00a311.69\nBou - Blueberry Cranberry Cherry 7000 Puffs\n\u00a311.69\nBou - Triple Melon 7000 Puffs\n\u00a311.69\nBou - Melon Banana Pineapple 7000 Puffs\n\u00a311.69\nCigarettes/Rolling Tobacco/ papers\nMaximum 200 cigarettes per transaction can be ordered per customer/addre",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nPrice Crash Alert! Get 10% off ICE now just \u00a31.79 per bag! Stay cool for less!\nIndulge in our Ice Cream selection - rich, creamy & just \u00a32.85! Treat yourself today!\nFree Pick 'n' Mix - (x5) Assorted Sweets for orders \u00a315 or more! Go to FREEBIES section!\nTop Selling Items\nPrice Crash Offers! ICE 10% Off\nIce Cream!\nVapes\nCigarettes/Rolling Tobacco/ papers\nCrisps & Nuts\nFREEBIES!\nWater\nEnergy Drinks\nAlcoholic Drinks\nSweets\nMilk, Milkshakes, Butter & Cheese\nNEW Frozen Food\nGeneral Groceries & BBQ\nChocolates\nHot Drinks\nBread & Cakes\nBiscuits\nJuices, Smoothies & Cordials\nSoft Drinks\nMedical, Sanitary & Toiletries\nPets\nChewing & Bubble Gum\nTop Selling Items\nA quick look at our top sellers chosen by you!\nOFFER PowerKing Original - Can 250ml\n\u00a30.89\nWalkers - Cheese & Onion\n\u00a31.29\nSmoking - Brown King Size\n\u00a31.09\nPrice Crash Offers! ICE 10% Off\nDiscount Automatically Applied at Checkout!\nIce Bag\n\u00a31.99\nIce Cream!\nMagnum - Classic\n\u00a32.85\nBen & Jerry's - Vanilla\n\u00a32.59\nMagnum - White\n\u00a32.85\nMagnum - Almond\n\u00a32.85\nMagnum - Mint\n\u00a32.85\nCalippo - Strawberry\n\u00a31.89\nCalippo - Lime\n\u00a31.89\nCalippo - Orange\n\u00a31.89\nCalippo - Cola\n\u00a31.89\nFrigo - Chuches\n\u00a32.09\nFriguron\n\u00a31.49\nVapes\nLost Mary - pineapple\n\u00a36.99\nLost Mary - Marybull ice\n\u00a36.99\nLost Mary - Marybull ice\n\u00a36.99\nLuckee - Skittles 10000 puffs\n\u00a311.69\nLuckee - Strawberry Ice 8000 puffs\n\u00a311.69\nBou - Pineapple Ice 7000 puffs\n\u00a311.69\nBou - Mr Blue 7000 puffs\n\u00a311.69\nBou - Blueberry Sour Raspberry 7000 puffs\n\u00a311.69\nBou - Blueberry Cranberry Cherry 7000 Puffs\n\u00a311.69\nBou - Triple Melon 7000 Puffs\n\u00a311.69\nBou - Melon Banana Pineapple 7000 Puffs\n\u00a311.69\nCigarettes/Rolling Tobacco/ papers\nMaximum 200 cigarettes per transaction can be ordered per customer/addre",
+            "notices": [
+              {
+                "text": "Coca Cola - Can\n1\nAdd to order\n\u00a30.89",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a30.89"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola - Can\n\u00a30.89\n1\nSubtotal\n\u00a30.89\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a34.18\nAdd special instructions\nCheckout\nPrice Crash Alert! Get 10% off ICE now just \u00a31.79 per bag! Stay cool for less!\nIndulge in our Ice Cream selection - rich, creamy & just \u00a32.85! Treat yourself today!\nFree Pick 'n' Mix - (x5) Assorted Sweets for orders \u00a315 or more! Go to FREEBIES section!\nTop Selling Items\nPrice Crash Offers! ICE 10% Off\nIce Cream!\nVapes\nCigarettes/Rolling Tobacco/ papers\nCrisps & Nuts\nFREEBIES!\nWater\nEnergy Drinks\nAlcoholic Drinks\nSweets\nMilk, Milkshakes, Butter & Cheese\nNEW Frozen Food\nGeneral Groceries & BBQ\nChocolates\nHot Drinks\nBread & Cakes\nBiscuits\nJuices, Smoothies & Cordials\nSoft Drinks\nMedical, Sanitary & Toiletries\nPets\nChewing & Bubble Gum\nTop Selling Items\nA quick look at our top sellers chosen by you!\nOFFER PowerKing Original - Can 250ml\n\u00a30.89\nWalkers - Cheese & Onion\n\u00a31.29\nSmoking - Brown King Size\n\u00a31.09\nPrice Crash Offers! ICE 10% Off\nDiscount Automatically Applied at Checkout!\nIce Bag\n\u00a31.99\nIce Cream!\nMagnum - Classic\n\u00a32.85\nBen & Jerry's - Vanilla\n\u00a32.59\nMagnum - White\n\u00a32.85\nMagnum - Almond\n\u00a32.85\nMagnum - Mint\n\u00a32.85\nCalippo - Strawberry\n\u00a31.89\nCalippo - Lime\n\u00a31.89\nCalippo - Orange\n\u00a31.89\nCalippo - Cola\n\u00a31.89\nFrigo - Chuches\n\u00a32.09\nFriguron\n\u00a31.49\nVapes\nLost Mary - pineapple\n\u00a36.99\nLost Mary - Marybull ice\n\u00a36.99\nLost Mary - Marybull ice\n\u00a36.99\nLuckee - Skittles 10000 puffs\n\u00a311.69\nLuckee - Strawberry Ice 8000 puffs\n\u00a311.69\nBou - Pineapple Ice 7000 puffs\n\u00a311.69\nBou - Mr Blue 7000 puffs\n\u00a311.69\nBou - Blueberry Sour Raspberry 7000 puffs\n\u00a311.69\nBou - Blueberry Cranberry Cherry 7000 Puffs\n\u00a311.69\nBou - Triple Melon 7000 Puffs\n\u00a311.69\nBou - Melon Banana Pineapple 7000 Puffs\n\u00a311.69\nCigarettes/Ro",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola - Can",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -803,9 +867,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-29T18:04:37.083817+02:00",
+  "last_confirmed_at": "2026-09-29T18:09:37.084238+02:00",
   "last_sample_check": {
-    "at": "2026-09-29T18:04:37.083817+02:00",
+    "at": "2026-09-29T18:09:37.084238+02:00",
     "eligible": true
   }
 }
