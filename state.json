@@ -1,8 +1,8 @@
 {
-  "status": "closed",
-  "since": "2026-09-30T19:55:59.022737+02:00",
+  "status": "delays",
+  "since": "2026-09-30T20:15:59.023915+02:00",
   "alerted": true,
-  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+  "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
   "last_checked_date": "2026-09-30",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-30T20:10:59.023539+02:00",
+  "last_observed_at": "2026-09-30T20:15:59.023915+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -300,11 +300,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-27T20:54:28.546512+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (20:54) - OPEN (basket test)",
-      "delivered_at": "2026-09-27T20:55:23.088547+02:00"
-    },
     {
       "id": "2026-09-27T20:59:28.551017+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (20:59) - OPEN (basket test)",
@@ -799,14 +794,18 @@
       "id": "2026-09-30T20:10:59.023539+02:00:closed",
       "subject": "Hungry Monkey: 20:10 check unconfirmed - last confirmed not taking orders at 20:05",
       "delivered_at": "2026-09-30T20:11:49.064646+02:00"
+    },
+    {
+      "id": "2026-09-30T20:15:59.023915+02:00:delays",
+      "subject": "Hungry Monkey is taking orders again (20:15) - basket test passed",
+      "delivered_at": "2026-09-30T20:16:51.319829+02:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-30T20:05:59.021846+02:00",
+  "last_confirmed_at": "2026-09-30T20:15:59.023915+02:00",
   "last_sample_check": {
-    "at": "2026-09-30T20:10:59.023539+02:00",
+    "at": "2026-09-30T20:15:59.023915+02:00",
     "eligible": true
-  },
-  "recovery_candidate_at": "2026-09-30T20:10:59.023539+02:00"
+  }
 }
