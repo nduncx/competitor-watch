@@ -1,8 +1,8 @@
 {
-  "status": "delays",
-  "since": "2026-09-30T16:20:59.017931+02:00",
-  "alerted": true,
-  "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+  "status": "open",
+  "since": "2026-09-30T17:15:59.018369+02:00",
+  "alerted": false,
+  "notice": "",
   "last_checked_date": "2026-09-30",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-30T17:10:59.017765+02:00",
+  "last_observed_at": "2026-09-30T17:15:59.018369+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -300,11 +300,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-27T19:23:55.187923+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (19:23) - OPEN (basket test)",
-      "delivered_at": "2026-09-27T19:25:05.679633+02:00"
-    },
     {
       "id": "2026-09-27T19:28:55.187902+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (19:28) - OPEN (basket test)",
@@ -799,14 +794,18 @@
       "id": "2026-09-30T17:10:59.017765+02:00:delays",
       "subject": "Hungry Monkey: 17:10 check unconfirmed - last confirmed showing a long-delays warning at 17:05",
       "delivered_at": "2026-09-30T17:11:47.261397+02:00"
+    },
+    {
+      "id": "2026-09-30T17:15:59.018369+02:00:open",
+      "subject": "Hungry Monkey: long-delays warning cleared (17:15) - basket test passed",
+      "delivered_at": "2026-09-30T17:16:52.418440+02:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-30T17:05:59.019500+02:00",
+  "last_confirmed_at": "2026-09-30T17:15:59.018369+02:00",
   "last_sample_check": {
-    "at": "2026-09-30T17:10:59.017765+02:00",
+    "at": "2026-09-30T17:15:59.018369+02:00",
     "eligible": true
-  },
-  "recovery_candidate_at": "2026-09-30T17:10:59.017765+02:00"
+  }
 }
