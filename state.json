@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-30T16:55:59.019426+02:00",
+  "last_observed_at": "2026-09-30T17:00:59.018339+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -125,7 +125,7 @@
       }
     },
     {
-      "name": "Bivoo",
+      "name": "Cafe Louis",
       "status": "delays",
       "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
@@ -182,15 +182,15 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBivoo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCooking Products\nSnacks\nCleaning Products\nDrink Products\nSweet Loose\nItems\nVapes\nCooking Products\nPenne Pasta 400g\n\u00a31.50\nLentejas 500g (Dominguez)\n\u00a31.60\nLentejas 500g (Rombo)\n\u00a31.60\nFideo Cabellin 500g\n\u00a31.50\nRice 1kg (Eliges)\nArroz Largo\n\u00a32.10\nSpaghetti 500g (Eliges)\n\u00a30.99\nSalt Thin 250g (Eliges)\n\u00a31.00\nSalt Marina 350g (La Barraca)\n\u00a33.30\nLa Pedriza Chickpeas 400g\n\u00a31.50\nPimienta Rojo 45g (Eliges)\nRed pepper\n\u00a31.20\nPerejil 13g (Eliges)\n\u00a31.20\nBlack Pepper 45g (Eliges)\n\u00a31.40\nAlsur Maradonia Vegetable 660g\n\u00a32.15\nColorante Alimentario 50g (La Barraca)\n\u00a31.30\nOregano 11g (Eliges)\n\u00a31.20\nSopa de Pollo 72g (Gallina Blanca)\n\u00a31.00\nSopa de Cocido 72g (Gallina Blanca)\n\u00a31.00\nCanned Mushroom 355g (Eliges)\n\u00a31.30\nCanned Sweet Corn 70g (Diamir)\n\u00a32.20\nHeinz Beanz 417g\n\u00a32.10\nCanned Tuna Calvo 195g\n\u00a33.80\nOlive Oil 750g (Coosur)\n\u00a38.50\nSunflower Oil 1L (Dal y Sol)\n\u00a32.85\nHellmann's Mayonnaise 450ml\n\u00a33.99\nHellmann's Brava Sauce 250ml\n\u00a32.60\nHeinz Ketchup 300ml\n\u00a32.75\nAluminium\n\u00a32.10\nSaran Wrap\n\u00a31.50\nPancake Mix 215g (Maizena)\n\u00a33.99\nSemi-Skimmed Milk 1L (Covap)\n\u00a31.40\nWhole Milk 1L (Covap)\n\u00a31.40\nHoney 500g (Aljara Flor)\n\u00a34.30\nMint Tea 37.5g (Eliges)\nMenta poleo\n\u00a31.50\nOriginal P.G. Tips 116g\n\u00a33.45\nNescafe Coffee 50g\n\u00a33.50\nInes Rosales 120g\n\u00a32.19\nCola-Cao Powder 385g\n\u00a33.83\nSausages Frankfurt Canned 410g (Crismona)\n\u00a32.75\nStock Avecrem 150g\n\u00a32.25\nKellogg's Corn Flakes 375g\n\u00a32.99\nTrigo Inflado con Miel 500g (Eliges)\n\u00a32.99\nCarrs Table Water Crackers 125g\n\u00a32.00\nTallarines al Formaggio (Gallina Blanca)\n\u00a32.75\nCoquinas 250g (Proxa)\n\u00a36.99\nCorned Beef 340g (Hereford)\n\u00a36.99\nJamon Cocido 75g (Campofrio)\n\u00a31.00\nFrankfurt Sausages 160g\n\u00a32.00\nJamon Serrano 100g (La Hoguera)\n\u00a32.75\nSalcichon de Pavo 65g (El Pozo",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nTea\nLunch Sandwiches\nBreads\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\nOut of stock\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\n\u00a37.10\nWater\nCuevas Still Water SML\nBottle\n\u00a31.30\nCuevas Still Water LRG\nBottle\n\u00a32.20\nHighland Still Water LRG\nBottle\n\u00a32.10\nSolan de Cabras SML\nBottle\n\u00a31.30\nSolan de Cabras LRG\nBottle\n\u00a32.10\nCakes & Desserts\nMacaro",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBivoo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCooking Products\nSnacks\nCleaning Products\nDrink Products\nSweet Loose\nItems\nVapes\nCooking Products\nPenne Pasta 400g\n\u00a31.50\nLentejas 500g (Dominguez)\n\u00a31.60\nLentejas 500g (Rombo)\n\u00a31.60\nFideo Cabellin 500g\n\u00a31.50\nRice 1kg (Eliges)\nArroz Largo\n\u00a32.10\nSpaghetti 500g (Eliges)\n\u00a30.99\nSalt Thin 250g (Eliges)\n\u00a31.00\nSalt Marina 350g (La Barraca)\n\u00a33.30\nLa Pedriza Chickpeas 400g\n\u00a31.50\nPimienta Rojo 45g (Eliges)\nRed pepper\n\u00a31.20\nPerejil 13g (Eliges)\n\u00a31.20\nBlack Pepper 45g (Eliges)\n\u00a31.40\nAlsur Maradonia Vegetable 660g\n\u00a32.15\nColorante Alimentario 50g (La Barraca)\n\u00a31.30\nOregano 11g (Eliges)\n\u00a31.20\nSopa de Pollo 72g (Gallina Blanca)\n\u00a31.00\nSopa de Cocido 72g (Gallina Blanca)\n\u00a31.00\nCanned Mushroom 355g (Eliges)\n\u00a31.30\nCanned Sweet Corn 70g (Diamir)\n\u00a32.20\nHeinz Beanz 417g\n\u00a32.10\nCanned Tuna Calvo 195g\n\u00a33.80\nOlive Oil 750g (Coosur)\n\u00a38.50\nSunflower Oil 1L (Dal y Sol)\n\u00a32.85\nHellmann's Mayonnaise 450ml\n\u00a33.99\nHellmann's Brava Sauce 250ml\n\u00a32.60\nHeinz Ketchup 300ml\n\u00a32.75\nAluminium\n\u00a32.10\nSaran Wrap\n\u00a31.50\nPancake Mix 215g (Maizena)\n\u00a33.99\nSemi-Skimmed Milk 1L (Covap)\n\u00a31.40\nWhole Milk 1L (Covap)\n\u00a31.40\nHoney 500g (Aljara Flor)\n\u00a34.30\nMint Tea 37.5g (Eliges)\nMenta poleo\n\u00a31.50\nOriginal P.G. Tips 116g\n\u00a33.45\nNescafe Coffee 50g\n\u00a33.50\nInes Rosales 120g\n\u00a32.19\nCola-Cao Powder 385g\n\u00a33.83\nSausages Frankfurt Canned 410g (Crismona)\n\u00a32.75\nStock Avecrem 150g\n\u00a32.25\nKellogg's Corn Flakes 375g\n\u00a32.99\nTrigo Inflado con Miel 500g (Eliges)\n\u00a32.99\nCarrs Table Water Crackers 125g\n\u00a32.00\nTallarines al Formaggio (Gallina Blanca)\n\u00a32.75\nCoquinas 250g (Proxa)\n\u00a36.99\nCorned Beef 340g (Hereford)\n\u00a36.99\nJamon Cocido 75g (Campofrio)\n\u00a31.00\nFrankfurt Sausages 160g\n\u00a32.00\nJamon Serrano 100g (La Hoguera)\n\u00a32.75\nSalcichon de Pavo 65g (El Pozo",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nTea\nLunch Sandwiches\nBreads\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\nOut of stock\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\n\u00a37.10\nWater\nCuevas Still Water SML\nBottle\n\u00a31.30\nCuevas Still Water LRG\nBottle\n\u00a32.20\nHighland Still Water LRG\nBottle\n\u00a32.10\nSolan de Cabras SML\nBottle\n\u00a31.30\nSolan de Cabras LRG\nBottle\n\u00a32.10\nCakes & Desserts\nMacaro",
             "notices": [
               {
-                "text": "Coke Classic Large 2L\n1\nAdd to order\n\u00a32.30",
+                "text": "Coke\n\nCan\n\n1\nAdd to order\n\u00a32.30",
                 "buttons": [
                   "",
                   "",
@@ -203,16 +203,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBivoo\nBasket\nCollection or Delivery\nYour order\nCoke Classic Large 2L\n\u00a32.30\n1\nSubtotal\n\u00a32.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.59\nAdd special instructions\nCheckout\nCooking Products\nSnacks\nCleaning Products\nDrink Products\nSweet Loose\nItems\nVapes\nCooking Products\nPenne Pasta 400g\n\u00a31.50\nLentejas 500g (Dominguez)\n\u00a31.60\nLentejas 500g (Rombo)\n\u00a31.60\nFideo Cabellin 500g\n\u00a31.50\nRice 1kg (Eliges)\nArroz Largo\n\u00a32.10\nSpaghetti 500g (Eliges)\n\u00a30.99\nSalt Thin 250g (Eliges)\n\u00a31.00\nSalt Marina 350g (La Barraca)\n\u00a33.30\nLa Pedriza Chickpeas 400g\n\u00a31.50\nPimienta Rojo 45g (Eliges)\nRed pepper\n\u00a31.20\nPerejil 13g (Eliges)\n\u00a31.20\nBlack Pepper 45g (Eliges)\n\u00a31.40\nAlsur Maradonia Vegetable 660g\n\u00a32.15\nColorante Alimentario 50g (La Barraca)\n\u00a31.30\nOregano 11g (Eliges)\n\u00a31.20\nSopa de Pollo 72g (Gallina Blanca)\n\u00a31.00\nSopa de Cocido 72g (Gallina Blanca)\n\u00a31.00\nCanned Mushroom 355g (Eliges)\n\u00a31.30\nCanned Sweet Corn 70g (Diamir)\n\u00a32.20\nHeinz Beanz 417g\n\u00a32.10\nCanned Tuna Calvo 195g\n\u00a33.80\nOlive Oil 750g (Coosur)\n\u00a38.50\nSunflower Oil 1L (Dal y Sol)\n\u00a32.85\nHellmann's Mayonnaise 450ml\n\u00a33.99\nHellmann's Brava Sauce 250ml\n\u00a32.60\nHeinz Ketchup 300ml\n\u00a32.75\nAluminium\n\u00a32.10\nSaran Wrap\n\u00a31.50\nPancake Mix 215g (Maizena)\n\u00a33.99\nSemi-Skimmed Milk 1L (Covap)\n\u00a31.40\nWhole Milk 1L (Covap)\n\u00a31.40\nHoney 500g (Aljara Flor)\n\u00a34.30\nMint Tea 37.5g (Eliges)\nMenta poleo\n\u00a31.50\nOriginal P.G. Tips 116g\n\u00a33.45\nNescafe Coffee 50g\n\u00a33.50\nInes Rosales 120g\n\u00a32.19\nCola-Cao Powder 385g\n\u00a33.83\nSausages Frankfurt Canned 410g (Crismona)\n\u00a32.75\nStock Avecrem 150g\n\u00a32.25\nKellogg's Corn Flakes 375g\n\u00a32.99\nTrigo Inflado con Miel 500g (Eliges)\n\u00a32.99\nCarrs Table Water Crackers 125g\n\u00a32.00\nTallarines al Formaggio (Gallina Blanca)\n\u00a32.75\nCoquinas 250g (Proxa)\n\u00a36.99\nCorned Beef 340g (Hereford)\n\u00a36.99\nJamon Cocido 75g (Ca",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.30\n1\nSubtotal\n\u00a32.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.59\nAdd special instructions\nCheckout\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nTea\nLunch Sandwiches\nBreads\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\n1\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\nOut of stock\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\n\u00a37.10\nWater\nCuevas Still Water SML\nBottle\n\u00a31.30\nCuevas Still Water LRG\nBottle\n\u00a32.20\nHighland Still Water LRG\nBott",
             "notices": []
           }
         ],
-        "item": "Coke Classic Large 2L",
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "City Mill Bakes",
+      "name": "Crown Pharmacy",
       "status": "delays",
       "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
@@ -269,20 +269,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSoft Drinks\nCoca-Cola 330ml\n\u00a31.24\nCoca-Cola Zero 330ml\n\u00a31.24\nFanta Lemon 330ml\n\u00a31.24\nStill Water 500ml\n\u00a31.24\nView allergy information\n\ue8cb",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOVID TEST\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABLETS\n\u00a31.90\nPANADOL EXTRA 32 TABLETS\n\u00a33.87\nPANADOL ADVANCE 16T 500MG\n\u00a31.63\nPANADOL ADVANCE 32T 500MG\n\u00a32.77\nPARACETAMOL 500MG 32 TABLETS\nEFFEC",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSoft Drinks\nCoca-Cola 330ml\n\u00a31.24\nCoca-Cola Zero 330ml\n\u00a31.24\nFanta Lemon 330ml\n\u00a31.24\nStill Water 500ml\n\u00a31.24\nView allergy information\n\ue8cb\nCoca-Cola 330ml\n1\nAdd to order\n\u00a31.24",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOVID TEST\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABLETS\n\u00a31.90\nPANADOL EXTRA 32 TABLETS\n\u00a33.87\nPANADOL ADVANCE 16T 500MG\n\u00a31.63\nPANADOL ADVANCE 32T 500MG\n\u00a32.77\nPARACETAMOL 500MG 32 TABLETS\nEFFEC",
             "notices": [
               {
-                "text": "Coca-Cola 330ml\n1\nAdd to order\n\u00a31.24",
+                "text": "ALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\n\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\n1\nAdd to order\n\u00a31.34",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.24"
+                  "Add to order\n\u00a31.34"
                 ],
                 "has_inputs": false
               }
@@ -290,21 +290,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca-Cola 330ml\n\u00a31.24\n1\nSubtotal\n\u00a31.24\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.53\nAdd special instructions\nCheckout\nSoft Drinks\n1\nCoca-Cola 330ml\n\u00a31.24\nCoca-Cola Zero 330ml\n\u00a31.24\nFanta Lemon 330ml\n\u00a31.24\nStill Water 500ml\n\u00a31.24\nView allergy information\n\ue8cb",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\n\u00a31.34\n1\nSubtotal\n\u00a31.34\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.63\nAdd special instructions\nCheckout\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOVID TEST\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\n1\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABL",
             "notices": []
           }
         ],
-        "item": "Coca-Cola 330ml",
+        "item": "ALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-27T16:18:55.181126+02:00:open",
-      "subject": "Hungry Monkey is taking orders again (16:18) - basket test passed",
-      "delivered_at": "2026-09-27T16:19:48.411636+02:00"
-    },
     {
       "id": "2026-09-27T19:13:55.187173+02:00:delays",
       "subject": "Hungry Monkey is warning of long delays (19:13) - OPEN (basket test)",
@@ -799,13 +794,18 @@
       "id": "2026-09-30T16:55:59.019426+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (16:55) - OPEN (basket test)",
       "delivered_at": "2026-09-30T16:56:49.649273+02:00"
+    },
+    {
+      "id": "2026-09-30T17:00:59.018339+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (17:00) - OPEN (basket test)",
+      "delivered_at": "2026-09-30T17:01:50.238515+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-30T16:55:59.019426+02:00",
+  "last_confirmed_at": "2026-09-30T17:00:59.018339+02:00",
   "last_sample_check": {
-    "at": "2026-09-30T16:55:59.019426+02:00",
+    "at": "2026-09-30T17:00:59.018339+02:00",
     "eligible": true
   }
 }
