@@ -10,18 +10,18 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-30T21:42:48.236811+02:00",
+  "last_observed_at": "2026-09-30T21:47:48.238876+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -44,7 +44,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -125,102 +125,15 @@
       }
     },
     {
-      "name": "El Kasbah",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
-            "notices": [
-              {
-                "text": "Coca Cola\n1\nAdd to order\n\u00a32.40",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.40"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.40\n1\nSubtotal\n\u00a32.40\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.69\nAdd special instructions\nCheckout\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef s",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Burger King",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -243,7 +156,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -297,14 +210,96 @@
         "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "Piccadilly Garden Bar",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lunchtime Menu: John Dory, Masala or Peppered Steak - all for just \u00a312.95!\nFresh and delicious Salads from just \u00a310.95 - perfect for any craving!\nTop Selling Items\nSpecials Of The Day\nBreakfast\nLunchtime Menu\nPortions (Raciones)\nSalads\nMains\nKids Menu\nDesserts\nSoft Drinks\nBeers\nRed Wine\nCiders\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAuthentic Fish and Chips\nDeep fried Cod fillet in homemade batter, served with homemade chips\n\u00a315.95\nPeppered Fillet Steak and Chips\n\u00a324.95\nRussian Salad (Ensaladilla Rusa)\n\u00a310.95\nJohn Dory Piccadilly Style\nDeep fried fillet of john dory in a creamy prawn sauce served with chips. A must try!\n\u00a319.95\nTuna Salad (Mixta)\n\u00a310.95\nSpecials Of The Day\nPrawns Pil Pil with Chorizo\n\u00a313.94\nBreakfast\nAvailable until 12pm\nFull English Breakfast\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a38.95\nFull English Breakfast (Double)\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a312.95\nSpinach and Mushroom Omlette\n\u00a310.95\nVegetarian\nSpinach Omlette\n\u00a38.95\nVegetarian\nVeggie Breakfast\nEgg, veggie sausage, saut\u00e9ed spinach and mushroom, hash browns, grilled tomatoes and toast.\n\u00a39.95\nXXL Molleta - Bacon\n\u00a35.50\nXXL Molleta - Ham and Cheese\n\u00a35.50\nXXL Molleta - Breakfast Molleta\nBacon, sausage and egg.\n\u00a36.95\nXXL Molleta - Bacon and Egg\n\u00a35.95\nXXL Molleta - Bacon, Egg, Cheese and Onion\n\u00a36.95\nXXL Molleta - Catalana\nSerrano ham, olive oil and tomato.\n\u00a35.75\nXXL Molleta - Ham, Cheese and Egg\n\u00a35.75\nXXL Molleta - Lomo en Manteca and Egg\n\u00a36.75\nXXL Molleta - Sausage\n\u00a35.50\nXXL Molleta - Sausage and Egg\n\u00a35.95\nXXL Molleta - Tuna, Lettuce and Tomato\n\u00a35.95\nLunchtime Menu\nAvail",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lunchtime Menu: John Dory, Masala or Peppered Steak - all for just \u00a312.95!\nFresh and delicious Salads from just \u00a310.95 - perfect for any craving!\nTop Selling Items\nSpecials Of The Day\nBreakfast\nLunchtime Menu\nPortions (Raciones)\nSalads\nMains\nKids Menu\nDesserts\nSoft Drinks\nBeers\nRed Wine\nCiders\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAuthentic Fish and Chips\nDeep fried Cod fillet in homemade batter, served with homemade chips\n\u00a315.95\nPeppered Fillet Steak and Chips\n\u00a324.95\nRussian Salad (Ensaladilla Rusa)\n\u00a310.95\nJohn Dory Piccadilly Style\nDeep fried fillet of john dory in a creamy prawn sauce served with chips. A must try!\n\u00a319.95\nTuna Salad (Mixta)\n\u00a310.95\nSpecials Of The Day\nPrawns Pil Pil with Chorizo\n\u00a313.94\nBreakfast\nAvailable until 12pm\nFull English Breakfast\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a38.95\nFull English Breakfast (Double)\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a312.95\nSpinach and Mushroom Omlette\n\u00a310.95\nVegetarian\nSpinach Omlette\n\u00a38.95\nVegetarian\nVeggie Breakfast\nEgg, veggie sausage, saut\u00e9ed spinach and mushroom, hash browns, grilled tomatoes and toast.\n\u00a39.95\nXXL Molleta - Bacon\n\u00a35.50\nXXL Molleta - Ham and Cheese\n\u00a35.50\nXXL Molleta - Breakfast Molleta\nBacon, sausage and egg.\n\u00a36.95\nXXL Molleta - Bacon and Egg\n\u00a35.95\nXXL Molleta - Bacon, Egg, Cheese and Onion\n\u00a36.95\nXXL Molleta - Catalana\nSerrano ham, olive oil and tomato.\n\u00a35.75\nXXL Molleta - Ham, Cheese and Egg\n\u00a35.75\nXXL Molleta - Lomo en Manteca and Egg\n\u00a36.75\nXXL Molleta - Sausage\n\u00a35.50\nXXL Molleta - Sausage and Egg\n\u00a35.95\nXXL Molleta - Tuna, Lettuce and Tomato\n\u00a35.95\nLunchtime Menu\nAvail",
+            "notices": [
+              {
+                "text": "7Up\n1\nAdd to order\n\u00a31.90",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.90"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n7Up\n\u00a31.90\n1\nSubtotal\n\u00a31.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.19\nAdd special instructions\nCheckout\nTry our Lunchtime Menu: John Dory, Masala or Peppered Steak - all for just \u00a312.95!\nFresh and delicious Salads from just \u00a310.95 - perfect for any craving!\nTop Selling Items\nSpecials Of The Day\nBreakfast\nLunchtime Menu\nPortions (Raciones)\nSalads\nMains\nKids Menu\nDesserts\nSoft Drinks\nBeers\nRed Wine\nCiders\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAuthentic Fish and Chips\nDeep fried Cod fillet in homemade batter, served with homemade chips\n\u00a315.95\nPeppered Fillet Steak and Chips\n\u00a324.95\nRussian Salad (Ensaladilla Rusa)\n\u00a310.95\nJohn Dory Piccadilly Style\nDeep fried fillet of john dory in a creamy prawn sauce served with chips. A must try!\n\u00a319.95\nTuna Salad (Mixta)\n\u00a310.95\nSpecials Of The Day\nPrawns Pil Pil with Chorizo\n\u00a313.94\nBreakfast\nAvailable until 12pm\nFull English Breakfast\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a38.95\nFull English Breakfast (Double)\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a312.95\nSpinach and Mushroom Omlette\n\u00a310.95\nVegetarian\nSpinach Omlette\n\u00a38.95\nVegetarian\nVeggie Breakfast\nEgg, veggie sausage, saut\u00e9ed spinach and mushroom, hash browns, grilled tomatoes and toast.\n\u00a39.95\nXXL Molleta - Bacon\n\u00a35.50\nXXL Molleta - Ham and Cheese\n\u00a35.50\nXXL Molleta - Breakfast Molleta\nBacon, sausage and egg.\n\u00a36.95\nXXL Molleta - Bacon and Egg\n\u00a35.95\nXXL Molleta - Bacon, Egg, Cheese and Onion\n\u00a36.95\nXXL Molleta - Catalana\nSerrano ham, olive oil and tomato.\n\u00a35.75\nXXL Molleta - Ham, Cheese and Egg\n\u00a35.75\nXXL Molleta - Lomo en Manteca and Egg\n\u00a36.75\nXXL Molleta - Sausage\n\u00a35.50\nXXL Mo",
+            "notices": []
+          }
+        ],
+        "item": "7Up",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-28T18:47:49.265035+02:00:closed",
-      "subject": "Hungry Monkey has STOPPED taking orders (18:47)",
-      "delivered_at": "2026-09-28T18:48:31.039216+02:00"
-    },
     {
       "id": "2026-09-28T18:53:28.767902+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (18:53)",
@@ -799,13 +794,19 @@
       "id": "2026-09-30T21:42:48.236811+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:42) - OPEN (basket test)",
       "delivered_at": "2026-09-30T21:43:42.699877+02:00"
+    },
+    {
+      "id": "2026-09-30T21:47:48.238876+02:00:delays",
+      "subject": "Hungry Monkey: 21:47 check unconfirmed - last confirmed showing a long-delays warning at 21:42",
+      "delivered_at": "2026-09-30T21:48:40.349796+02:00"
     }
   ],
-  "recovery_streak": 0,
-  "last_result": "delays",
+  "recovery_streak": 1,
+  "last_result": "open",
   "last_confirmed_at": "2026-09-30T21:42:48.236811+02:00",
   "last_sample_check": {
-    "at": "2026-09-30T21:42:48.236811+02:00",
+    "at": "2026-09-30T21:47:48.238876+02:00",
     "eligible": true
-  }
+  },
+  "recovery_candidate_at": "2026-09-30T21:47:48.238876+02:00"
 }
