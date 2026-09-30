@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-30T21:27:48.237841+02:00",
+  "last_observed_at": "2026-09-30T21:32:48.236736+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -125,93 +125,6 @@
       }
     },
     {
-      "name": "Vinopolis Gastrobar",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nStart with our delicious Argentinean Pasties, served with tangy chimichurri sauce, for just \u00a38.14!\nIndulge in our Secreti Oberico, with mixed vegetables, chips & rich gaucha sauce just \u00a326.21!\nTop Selling Items\nTo Begin - Para Empezar\nVegetables - Vegetales\nFrom The Land - De La Tierra\nFrom the Sea - Del Mar\nDesserts - Postres\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nSelection of mini hamburgers\nSelecci\u00f3n de mini hamburguesas .\n\u00a320.00\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nGrilled octopus platter\nPulpo al piment\u00f3n.\n\u00a313.60\nTo Begin - Para Empezar\nAubergine mousse with bread\nMousse de berenjena con pan\n\u00a38.14\nTandoori wings with yogurt, mint and cucumber dip\nAlitas de pollo tandoori con salsa de yogur, menta y pepino.\n\u00a38.80\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nVeggie croquettes with sweet chili sauce\nCroquetas veganas con salsa de chili dulce.\n\u00a37.50\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nVegetables - Vegetales\nCauliflower with pomegranate and tahini sauce\nColiflor con granada y salsa de tahini.\n\u00a313.06\nGoat cheese walnut and apple salad\nEnsalada de queso de cabra con nueces y manzana.\n\u00a316.54\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nCourgette and onion tortilla with ali oli sauce\nTortilla de calabacin y cebolla con salsa ali oli\n\u00a38.14\nTomato salad with garlic and oregano\nEnsalada de tomate con ajo y ",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nStart with our delicious Argentinean Pasties, served with tangy chimichurri sauce, for just \u00a38.14!\nIndulge in our Secreti Oberico, with mixed vegetables, chips & rich gaucha sauce just \u00a326.21!\nTop Selling Items\nTo Begin - Para Empezar\nVegetables - Vegetales\nFrom The Land - De La Tierra\nFrom the Sea - Del Mar\nDesserts - Postres\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nSelection of mini hamburgers\nSelecci\u00f3n de mini hamburguesas .\n\u00a320.00\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nGrilled octopus platter\nPulpo al piment\u00f3n.\n\u00a313.60\nTo Begin - Para Empezar\nAubergine mousse with bread\nMousse de berenjena con pan\n\u00a38.14\nTandoori wings with yogurt, mint and cucumber dip\nAlitas de pollo tandoori con salsa de yogur, menta y pepino.\n\u00a38.80\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nVeggie croquettes with sweet chili sauce\nCroquetas veganas con salsa de chili dulce.\n\u00a37.50\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nVegetables - Vegetales\nCauliflower with pomegranate and tahini sauce\nColiflor con granada y salsa de tahini.\n\u00a313.06\nGoat cheese walnut and apple salad\nEnsalada de queso de cabra con nueces y manzana.\n\u00a316.54\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nCourgette and onion tortilla with ali oli sauce\nTortilla de calabacin y cebolla con salsa ali oli\n\u00a38.14\nTomato salad with garlic and oregano\nEnsalada de tomate con ajo y ",
-            "notices": [
-              {
-                "text": "Pepsi\n1\nAdd to order\n\u00a33.10",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.10"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a33.10\n1\nSubtotal\n\u00a33.10\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.39\nAdd special instructions\nCheckout\nStart with our delicious Argentinean Pasties, served with tangy chimichurri sauce, for just \u00a38.14!\nIndulge in our Secreti Oberico, with mixed vegetables, chips & rich gaucha sauce just \u00a326.21!\nTop Selling Items\nTo Begin - Para Empezar\nVegetables - Vegetales\nFrom The Land - De La Tierra\nFrom the Sea - Del Mar\nDesserts - Postres\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nSelection of mini hamburgers\nSelecci\u00f3n de mini hamburguesas .\n\u00a320.00\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nGrilled octopus platter\nPulpo al piment\u00f3n.\n\u00a313.60\nTo Begin - Para Empezar\nAubergine mousse with bread\nMousse de berenjena con pan\n\u00a38.14\nTandoori wings with yogurt, mint and cucumber dip\nAlitas de pollo tandoori con salsa de yogur, menta y pepino.\n\u00a38.80\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nVeggie croquettes with sweet chili sauce\nCroquetas veganas con salsa de chili dulce.\n\u00a37.50\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nVegetables - Vegetales\nCauliflower with pomegranate and tahini sauce\nColiflor con granada y salsa de tahini.\n\u00a313.06\nGoat cheese walnut and apple salad\nEnsalada de queso de cabra con nueces y manzana.\n\u00a316.54\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nCourgette and onion tortilla with ali oli sauce\nTortilla de calabacin y c",
-            "notices": []
-          }
-        ],
-        "item": "Pepsi",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "El Kasbah",
       "status": "delays",
       "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
@@ -297,14 +210,96 @@
         "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "Burger King",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nLONG CHICKEN Served with Chips and Drink\nMayonnaise, Lettuce\n\u00a311.10\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips and Drink\n\u00a313.20\n2X LONG SPICY CHICKEN MEAL for \u00a316!\nYour favourite menu now in",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nLONG CHICKEN Served with Chips and Drink\nMayonnaise, Lettuce\n\u00a311.10\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips and Drink\n\u00a313.20\n2X LONG SPICY CHICKEN MEAL for \u00a316!\nYour favourite menu now in",
+            "notices": [
+              {
+                "text": "Coke\n1\nAdd to order\n\u00a33.30",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a33.30"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.30\n1\nSubtotal\n\u00a33.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.59\nAdd special instructions\nCheckout\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nLONG CHICKEN Served with Chips and Drink\nMayonnaise, Lettuce\n\u00a311.10\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. S",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-28T18:32:49.264107+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (18:32) - OPEN (basket test)",
-      "delivered_at": "2026-09-28T18:34:00.425567+02:00"
-    },
     {
       "id": "2026-09-28T18:37:49.265104+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (18:37) - OPEN (basket test)",
@@ -799,13 +794,18 @@
       "id": "2026-09-30T21:27:48.237841+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:27) - OPEN (basket test)",
       "delivered_at": "2026-09-30T21:28:38.998434+02:00"
+    },
+    {
+      "id": "2026-09-30T21:32:48.236736+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (21:32) - OPEN (basket test)",
+      "delivered_at": "2026-09-30T21:33:37.960869+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-30T21:27:48.237841+02:00",
+  "last_confirmed_at": "2026-09-30T21:32:48.236736+02:00",
   "last_sample_check": {
-    "at": "2026-09-30T21:27:48.237841+02:00",
+    "at": "2026-09-30T21:32:48.236736+02:00",
     "eligible": true
   }
 }
