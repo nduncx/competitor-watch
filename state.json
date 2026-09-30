@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-29T22:55:12.705196+02:00",
+  "last_observed_at": "2026-09-30T15:30:59.014914+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -116,7 +116,7 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSouthern Fried Chicken Strips\n\u00a36.50\n1\nSubtotal\n\u00a36.50\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a39.79\nAdd special instructions\nCheckout\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nChicken Shawarma Wrap + Chips or Rice & Drink\nChicken Shawarma served in a pit",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSouthern Fried Chicken Strips\n\u00a36.50\n1\nSubtotal\n\u00a36.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a39.79\nAdd special instructions\nCheckout\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nChicken Shawarma Wrap + Chips or Rice & Drink\nChicken Shawarma se",
             "notices": []
           }
         ],
@@ -125,7 +125,7 @@
       }
     },
     {
-      "name": "Birdie Cafe",
+      "name": "Hustle & Flow",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -182,20 +182,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35\n23. Chicken Noodles\n\u00a37.35\n23A. Plain Noodles\n\u00a35.25\nSpecial Dishes\n36. Beef in Oyster Sauce\n\u00a38.2",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSweet, fruity, and irresistible! French Kiss - the perfect brunch treat for only \u00a38.90!\nDesign Your Destiny only from \u00a39.90! Start with a fluffy 3 egg base and choose your toppings!\nTop Selling Items\nBrunch Therapy\nThe Egg Lab\nBig Bowl Energy\nToasts n Tings\nSides\nNew! Savory Croissant\nNew! Sweet Croissant\nNew! Omelettes\nNew! Pancakes\nWorth the Calories\nFrozen Lemonades\nSmoothies /Juices\nSoft Drinks\nTop Selling Items\nThe Game Changer Burger (GFO)\nBeyond Meat burger, caramelized onion, tomato sauce, vegan cheese, avocado, coleslaw, micro herbs, topped with sesame seeds.\n\u00a313.90\nVegan\nTijuana Chalupas\nCrispy corn chalupas topped with shredded free-range chicken, guacamole, saut\u00e9ed red peppers, feta cheese, black bean paste, coriander and pickled onions. Served with sour cream, a side of pico de gallo & lime.\n\u00a313.90\nGluten Free\nMorning Glory\nOur original fave! Homemade sweet potato r\u00f6sti with smashed avocado, two poached eggs, chilli flakes, and a refreshing cucumber garnish. Served with hollandaise that is puro arte\n\u00a311.90\nGluten FreeVegetarian\nSalmon & Rice & Everything Nice (DF) (GF)\nA long-distance relationship between Norway and Japan. Teriyaki & soya pan-fried salmon on a bed of fried wild rice. Packed with edamame, broccoli, cucumber, and microherbs. Served with a lemon wedge and ginger sesame sauce. Espectacular.\n\u00a313.90\nDairy FreeGluten Free\nSeoul'd Out Bowl (DF) (GF)\nThe bowl that works harder than us. Grass-fed beef on black fried rice with broccoli, saut\u00e9ed mushrooms, and a fried egg. Garnished with crispy onion and red chilies. Picante, powerful, and very 2026\n\u00a314.90\nDairy FreeGluten Free\nBrunch Therapy\nMorning Glory\nOur original fave! Homemade sweet potato r",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35\n23. Chicken Noodles\n\u00a37.35\n23A. Plain Noodles\n\u00a35.25\nSpecial Dishes\n36. Beef in Oyster Sauce\n\u00a38.2",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSweet, fruity, and irresistible! French Kiss - the perfect brunch treat for only \u00a38.90!\nDesign Your Destiny only from \u00a39.90! Start with a fluffy 3 egg base and choose your toppings!\nTop Selling Items\nBrunch Therapy\nThe Egg Lab\nBig Bowl Energy\nToasts n Tings\nSides\nNew! Savory Croissant\nNew! Sweet Croissant\nNew! Omelettes\nNew! Pancakes\nWorth the Calories\nFrozen Lemonades\nSmoothies /Juices\nSoft Drinks\nTop Selling Items\nThe Game Changer Burger (GFO)\nBeyond Meat burger, caramelized onion, tomato sauce, vegan cheese, avocado, coleslaw, micro herbs, topped with sesame seeds.\n\u00a313.90\nVegan\nTijuana Chalupas\nCrispy corn chalupas topped with shredded free-range chicken, guacamole, saut\u00e9ed red peppers, feta cheese, black bean paste, coriander and pickled onions. Served with sour cream, a side of pico de gallo & lime.\n\u00a313.90\nGluten Free\nMorning Glory\nOur original fave! Homemade sweet potato r\u00f6sti with smashed avocado, two poached eggs, chilli flakes, and a refreshing cucumber garnish. Served with hollandaise that is puro arte\n\u00a311.90\nGluten FreeVegetarian\nSalmon & Rice & Everything Nice (DF) (GF)\nA long-distance relationship between Norway and Japan. Teriyaki & soya pan-fried salmon on a bed of fried wild rice. Packed with edamame, broccoli, cucumber, and microherbs. Served with a lemon wedge and ginger sesame sauce. Espectacular.\n\u00a313.90\nDairy FreeGluten Free\nSeoul'd Out Bowl (DF) (GF)\nThe bowl that works harder than us. Grass-fed beef on black fried rice with broccoli, saut\u00e9ed mushrooms, and a fried egg. Garnished with crispy onion and red chilies. Picante, powerful, and very 2026\n\u00a314.90\nDairy FreeGluten Free\nBrunch Therapy\nMorning Glory\nOur original fave! Homemade sweet potato r",
             "notices": [
               {
-                "text": "Coke\n1\nAdd to order\n\u00a32.00",
+                "text": "Coke\n1\nAdd to order\n\u00a32.50",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.00"
+                  "Add to order\n\u00a32.50"
                 ],
                 "has_inputs": false
               }
@@ -203,7 +203,7 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35\n23. Chicken ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nSweet, fruity, and irresistible! French Kiss - the perfect brunch treat for only \u00a38.90!\nDesign Your Destiny only from \u00a39.90! Start with a fluffy 3 egg base and choose your toppings!\nTop Selling Items\nBrunch Therapy\nThe Egg Lab\nBig Bowl Energy\nToasts n Tings\nSides\nNew! Savory Croissant\nNew! Sweet Croissant\nNew! Omelettes\nNew! Pancakes\nWorth the Calories\nFrozen Lemonades\nSmoothies /Juices\nSoft Drinks\nTop Selling Items\nThe Game Changer Burger (GFO)\nBeyond Meat burger, caramelized onion, tomato sauce, vegan cheese, avocado, coleslaw, micro herbs, topped with sesame seeds.\n\u00a313.90\nVegan\nTijuana Chalupas\nCrispy corn chalupas topped with shredded free-range chicken, guacamole, saut\u00e9ed red peppers, feta cheese, black bean paste, coriander and pickled onions. Served with sour cream, a side of pico de gallo & lime.\n\u00a313.90\nGluten Free\nMorning Glory\nOur original fave! Homemade sweet potato r\u00f6sti with smashed avocado, two poached eggs, chilli flakes, and a refreshing cucumber garnish. Served with hollandaise that is puro arte\n\u00a311.90\nGluten FreeVegetarian\nSalmon & Rice & Everything Nice (DF) (GF)\nA long-distance relationship between Norway and Japan. Teriyaki & soya pan-fried salmon on a bed of fried wild rice. Packed with edamame, broccoli, cucumber, and microherbs. Served with a lemon wedge and ginger sesame sauce. Espectacular.\n\u00a313.90\nDairy FreeGluten Free\nSeoul'd Out Bowl (DF) (GF)\nThe bowl that works harder than us. Grass-fed beef on black fried rice with broccoli, saut\u00e9ed mushrooms, and a fried egg. Garnished with crispy onion and red chilies. Picante, powerful, and very 2026\n\u00a314.",
             "notices": []
           }
         ],
@@ -212,65 +212,7 @@
       }
     },
     {
-      "name": "Donations, Gifts, Vouchers and Bags!",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": [
-            {
-              "text": "Donate, Vouchers, Gifts or Bag For Life ?\nDonate \u00a32 - Get a \u00a32 Hungry Monkey Voucher\nLimited Edition Monkey!\nHungry Monkey Vouchers\nGifts\nBag For Life\nContinue",
-              "buttons": [
-                "Continue"
-              ],
-              "has_inputs": false
-            }
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Neha Curry House",
+      "name": "Munchies Cafe",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -327,20 +269,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nTop Selling Items\nB\nBooze Promos!\nVapes\nChinese Entrees\nIndian Starters\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nKid's Meal\nTandoori Kebabs & Tikka\nChips\nNeha Fried Chicken\nThai Noodles (Gluten Free)\nChinese Noodles\nStuffed Naans\nThai Curries (*NEW*)\nRice Dishes & Biryani Dishes\nIndian Veg Curries\nIndian Chicken Curries (Boneless)\nIndian Chicken Curries (On-The-Bone)\nIndian Seafood Curries\nIndian Lamb Curries\nSauces & Chutneys\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThai Green Curry Chicken (Chef Special!)\n\u00a38.75\n**NEW** Chicken Dilruba (MUST TRY!)\nTender Chicken cooked in a delicious curry with a milder, tangy, and creamy taste,\n\u00a38.40\nPaneer Dopiaza\nSoft paneer cubes cooked in a rich, spiced onion-based gravy with double the onionssaut\u00e9ed and caramelizedfor layers of sweet and savory flavor. A hearty North Indian favorite.\n\u00a36.99\nVegetarian\nChicken Hakka Noodles\nStir-fried noodles tossed with tender chicken, fresh vegetables, and savory Indo-Chinese sauces. A delicious, well-balanced dish full of flavor and texture.\n\u00a37.99\nKung Pao King Prawn\nJuicy king prawns stir-fried with bell peppers, onions, dried chilies, and roasted peanuts in a sweet, spicy Indo-Chinese sauce. A bold and flavorful se",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a tasty Panini for just \u00a36.40 - Choose fillings like Cheese & Ham or Chicken, Bacon & Cheese!\nEnjoy our delicious Wraps, from Chicken Tikka to Chicken Africano, all for just \u00a36.50!\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink only for \u00a37.50!\nTop Selling Items\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink for 7.5!\nWraps\nPaninis\nSalads\nSandwiches\nDesserts\nChocolates\nBrunch Therapy (Hustle n Flow)\nBig Bowl Energy (Hustle n Flow)\nToasts n Tings (Hustle n Flow)\nWorth the Calories (Hustle n Flow)\nThe Egg Lab (Hustle n Flow)\nSides (Hustle n Flow)\nOmelettes (Hustle n Flow)\nSweet Croissant (Hustle n Flow)\nSavory Croissant (Hustle n Flow)\nPancakes (Hustle n Flow)\nCrisps (Walker & Proper)\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMature Cheddar & Ham Sandwich\n\u00a35.50\nPanini Chicken Bacon & Cheese\n\u00a36.40\nChicken Africano Wrap\n\u00a36.50\nSalmon & Rice & Everything Nice (DF) (GF)\nA long-distance relationship between Norway and Japan. Teriyaki & soya pan-fried salmon on a bed of fried wild rice. Packed with edamame, broccoli, cucumber, and microherbs. Served with a lemon wedge and ginger sesame sauce. Espectacular.\n\u00a313.90\nDairy FreeGluten Free\nAvocado Era (VG) (GFO)\nSmashed avocado and roasted cherry tomatoes garnished with alfalfa, black sesame, and poppy seeds. Want a glow-up? Add a poached egg for \u00a31\n\u00a39.90\nVegan\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink for 7.5!\nPanini Cheese & Ham + Walkers Chips & Soft Drink for 7.50!\n\u00a37.50\nEgg & Bacon Sandwich + Walkers Chips & Soft Drink for 7.00!\n\u00a37.00\nChicken Africano Wrap + Walkers Chips & Soft Drink for 7.50!\n\u00a37.50\nWraps\nChicken Tikka, Tomato and salad Wrap\n\u00a36.50\nChicke",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nTop Selling Items\nBooze Promos!\nVapes\nChinese Entrees\nIndian Starters\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nKid's Meal\nTandoori Kebabs & Tikka\nChips\nNeha Fried Chicken\nThai Noodles (Gluten Free)\nChinese Noodles\nStuffed Naans\nThai Curries (*NEW*)\nRice Dishes & Biryani Dishes\nIndian Veg Curries\nIndian Chicken Curries (Boneless)\nIndian Chicken Curries (On-The-Bone)\nIndian Seafood Curries\nIndian Lamb Curries\nSauces & Chutneys\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThai Green Curry Chicken (Chef Special!)\n\u00a38.75\n**NEW** Chicken Dilruba (MUST TRY!)\nTender Chicken cooked in a delicious curry with a milder, tangy, and creamy taste,\n\u00a38.40\nPaneer Dopiaza\nSoft paneer cubes cooked in a rich, spiced onion-based gravy with double the onionssaut\u00e9ed and caramelizedfor layers of sweet and savory flavor. A hearty North Indian favorite.\n\u00a36.99\nVegetarian\nChicken Hakka Noodles\nStir-fried noodles tossed with tender chicken, fresh vegetables, and savory Indo-Chinese sauces. A delicious, well-balanced dish full of flavor and texture.\n\u00a37.99\nKung Pao King Prawn\nJuicy king prawns stir-fried with bell peppers, onions, dried chilies, and roasted peanuts in a sweet, spicy Indo-Chinese sauce. A bold and flavorful seaf",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a tasty Panini for just \u00a36.40 - Choose fillings like Cheese & Ham or Chicken, Bacon & Cheese!\nEnjoy our delicious Wraps, from Chicken Tikka to Chicken Africano, all for just \u00a36.50!\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink only for \u00a37.50!\nTop Selling Items\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink for 7.5!\nWraps\nPaninis\nSalads\nSandwiches\nDesserts\nChocolates\nBrunch Therapy (Hustle n Flow)\nBig Bowl Energy (Hustle n Flow)\nToasts n Tings (Hustle n Flow)\nWorth the Calories (Hustle n Flow)\nThe Egg Lab (Hustle n Flow)\nSides (Hustle n Flow)\nOmelettes (Hustle n Flow)\nSweet Croissant (Hustle n Flow)\nSavory Croissant (Hustle n Flow)\nPancakes (Hustle n Flow)\nCrisps (Walker & Proper)\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMature Cheddar & Ham Sandwich\n\u00a35.50\nPanini Chicken Bacon & Cheese\n\u00a36.40\nChicken Africano Wrap\n\u00a36.50\nSalmon & Rice & Everything Nice (DF) (GF)\nA long-distance relationship between Norway and Japan. Teriyaki & soya pan-fried salmon on a bed of fried wild rice. Packed with edamame, broccoli, cucumber, and microherbs. Served with a lemon wedge and ginger sesame sauce. Espectacular.\n\u00a313.90\nDairy FreeGluten Free\nAvocado Era (VG) (GFO)\nSmashed avocado and roasted cherry tomatoes garnished with alfalfa, black sesame, and poppy seeds. Want a glow-up? Add a poached egg for \u00a31\n\u00a39.90\nVegan\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink for 7.5!\nPanini Cheese & Ham + Walkers Chips & Soft Drink for 7.50!\n\u00a37.50\nEgg & Bacon Sandwich + Walkers Chips & Soft Drink for 7.00!\n\u00a37.00\nChicken Africano Wrap + Walkers Chips & Soft Drink for 7.50!\n\u00a37.50\nWraps\nChicken Tikka, Tomato and salad Wrap\n\u00a36.50\nChicke",
             "notices": [
               {
-                "text": "Coke Zero (Glass Bottle)\n\n330ml Bottle\n\n1\nAdd to order\n\u00a31.99",
+                "text": "Coca Cola\n1\nAdd to order\n\u00a31.80",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.99"
+                  "Add to order\n\u00a31.80"
                 ],
                 "has_inputs": false
               }
@@ -348,21 +290,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero (Glass Bottle)\n\u00a31.99\n1\nSubtotal\n\u00a31.99\nDelivery\n\u00a33.29\n\nTIP\n\n5%\n10%\n15%\n\u00a3\nTotal\n\u00a35.28\nAdd special instructions\nCheckout\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nTop Selling Items\nBooze Promos!\nVapes\nChinese Entrees\nIndian Starters\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nKid's Meal\nTandoori Kebabs & Tikka\nChips\nNeha Fried Chicken\nThai Noodles (Gluten Free)\nChinese Noodles\nStuffed Naans\nThai Curries (*NEW*)\nRice Dishes & Biryani Dishes\nIndian Veg Curries\nIndian Chicken Curries (Boneless)\nIndian Chicken Curries (On-The-Bone)\nIndian Seafood Curries\nIndian Lamb Curries\nSauces & Chutneys\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThai Green Curry Chicken (Chef Special!)\n\u00a38.75\n**NEW** Chicken Dilruba (MUST TRY!)\nTender Chicken cooked in a delicious curry with a milder, tangy, and creamy taste,\n\u00a38.40\nPaneer Dopiaza\nSoft paneer cubes cooked in a rich, spiced onion-based gravy with double the onionssaut\u00e9ed and caramelizedfor layers of sweet and savory flavor. A hearty North Indian favorite.\n\u00a36.99\nVegetarian\nChicken Hakka Noodles\nStir-fried noodles tossed with tender chicken, fresh vegetables, and savory Indo-Chinese sauces. A delicious, well-balanced dish full of flavor and texture.\n\u00a37.99\nKung Pao King Prawn\nJuicy king prawns stir-fried with bell peppers, oni",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a31.80\n1\nSubtotal\n\u00a31.80\nDelivery fee\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.09\nAdd special instructions\nCheckout\nEnjoy a tasty Panini for just \u00a36.40 - Choose fillings like Cheese & Ham or Chicken, Bacon & Cheese!\nEnjoy our delicious Wraps, from Chicken Tikka to Chicken Africano, all for just \u00a36.50!\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink only for \u00a37.50!\nTop Selling Items\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink for 7.5!\nWraps\nPaninis\nSalads\nSandwiches\nDesserts\nChocolates\nBrunch Therapy (Hustle n Flow)\nBig Bowl Energy (Hustle n Flow)\nToasts n Tings (Hustle n Flow)\nWorth the Calories (Hustle n Flow)\nThe Egg Lab (Hustle n Flow)\nSides (Hustle n Flow)\nOmelettes (Hustle n Flow)\nSweet Croissant (Hustle n Flow)\nSavory Croissant (Hustle n Flow)\nPancakes (Hustle n Flow)\nCrisps (Walker & Proper)\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMature Cheddar & Ham Sandwich\n\u00a35.50\nPanini Chicken Bacon & Cheese\n\u00a36.40\nChicken Africano Wrap\n\u00a36.50\nSalmon & Rice & Everything Nice (DF) (GF)\nA long-distance relationship between Norway and Japan. Teriyaki & soya pan-fried salmon on a bed of fried wild rice. Packed with edamame, broccoli, cucumber, and microherbs. Served with a lemon wedge and ginger sesame sauce. Espectacular.\n\u00a313.90\nDairy FreeGluten Free\nAvocado Era (VG) (GFO)\nSmashed avocado and roasted cherry tomatoes garnished with alfalfa, black sesame, and poppy seeds. Want a glow-up? Add a poached egg for \u00a31\n\u00a39.90\nVegan\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink for 7.5!\nPanini Cheese & Ham + Walkers Chips & Soft Drink for 7.50!\n\u00a37.50\nEgg & Bacon Sandwich + Walkers Chips & Soft Drink for 7.00!\n\u00a37.00\nChicken Africano ",
             "notices": []
           }
         ],
-        "item": "Coke Zero (Glass Bottle)",
+        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-27T15:18:55.179316+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (15:18) - OPEN (basket test)",
-      "delivered_at": "2026-09-27T15:19:47.177834+02:00"
-    },
     {
       "id": "2026-09-27T15:23:55.179855+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (15:23) - OPEN (basket test)",
@@ -857,40 +794,18 @@
       "id": "monitor:2026-09-29T23:00:12.662971+02:00:no_samples",
       "subject": "Competitor Watch: no suitable stores available to test",
       "delivered_at": "2026-09-29T23:01:38.992302+02:00"
+    },
+    {
+      "id": "monitor:2026-09-30T15:30:58.959253+02:00:restored",
+      "subject": "Competitor Watch: suitable stores available again",
+      "delivered_at": "2026-09-30T15:31:49.718264+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-09-29T22:55:12.705196+02:00",
+  "last_confirmed_at": "2026-09-30T15:30:59.014914+02:00",
   "last_sample_check": {
-    "at": "2026-09-29T23:25:12.709972+02:00",
-    "eligible": false,
-    "exclusions_confirmed": true,
-    "venues": [
-      {
-        "name": "Essaouira",
-        "status": "venue_closed"
-      },
-      {
-        "name": "3Bros Takeout",
-        "status": "venue_closed"
-      },
-      {
-        "name": "4 Stagioni",
-        "status": "venue_closed"
-      },
-      {
-        "name": "54 Dining & Caf\u00e9",
-        "status": "venue_closed"
-      },
-      {
-        "name": "AquaTerra",
-        "status": "venue_closed"
-      },
-      {
-        "name": "BABA",
-        "status": "venue_closed"
-      }
-    ]
+    "at": "2026-09-30T15:30:59.014914+02:00",
+    "eligible": true
   }
 }
