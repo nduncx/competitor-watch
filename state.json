@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-30T19:55:59.022737+02:00",
+  "last_observed_at": "2026-09-30T20:00:59.023271+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -49,7 +49,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Royal Calpe",
+      "name": "OAKBERRY",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -85,7 +85,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Starbucks",
+      "name": "Ramsons Watergardens",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -122,11 +122,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-27T20:39:28.546860+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (20:39) - OPEN (basket test)",
-      "delivered_at": "2026-09-27T20:40:37.342140+02:00"
-    },
     {
       "id": "2026-09-27T20:44:28.546809+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (20:44) - OPEN (basket test)",
@@ -621,13 +616,18 @@
       "id": "2026-09-30T19:55:59.022737+02:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (19:55)",
       "delivered_at": "2026-09-30T19:56:35.754591+02:00"
+    },
+    {
+      "id": "2026-09-30T20:00:59.023271+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (20:00)",
+      "delivered_at": "2026-09-30T20:01:38.393691+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-09-30T19:55:59.022737+02:00",
+  "last_confirmed_at": "2026-09-30T20:00:59.023271+02:00",
   "last_sample_check": {
-    "at": "2026-09-30T19:55:59.022737+02:00",
+    "at": "2026-09-30T20:00:59.023271+02:00",
     "eligible": true
   }
 }
