@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-30T16:25:59.018251+02:00",
+  "last_observed_at": "2026-09-30T16:30:59.016859+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -125,93 +125,6 @@
       }
     },
     {
-      "name": "Era",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters & Sharers\nSignature Sweet Potato Fries\nOur crispy homemade sweet potato fries cooked in olive oil and ",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters & Sharers\nSignature Sweet Potato Fries\nOur crispy homemade sweet potato fries cooked in olive oil and ",
-            "notices": [
-              {
-                "text": "Pepsi Max\n\nAn ice-cold 330 ml can of Pepsi Max maximum cola taste, zero sugar. Contains caffeine.\n\n1\nAdd to order\n\u00a32.90",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.90"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\nYour order\nPepsi Max\n\u00a32.90\n1\nSubtotal\n\u00a32.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.19\nAdd special instructions\nCheckout\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters &",
-            "notices": []
-          }
-        ],
-        "item": "Pepsi Max",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Bivoo",
       "status": "delays",
       "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
@@ -297,14 +210,96 @@
         "item": "Coke Classic Large 2L",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "Caffe Bottega",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our selected Fish dishes! Rosada al Limone only for \u00a312.50!\nEnjoy our Special Scampi Sambuca for just \u00a314 - a must-try Italian delicacy!\nTop Selling Items\nBreakfast Menu\nAntipasti\nPesce e Carni\nPasta\nDalla Griglia\nSpecials\nSides\nDolce e Gelato\nSoft Drinks\nItalian White Wines\nItalian Red Wines\nSpanish Red Wines\nHouse Wine (Red or White)\nSpanish White Wines\nRose Wines\nBeers\nSparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nFettuccine Alfredo\nHam and mushrooms in a creamy parmesan sauce\n\u00a39.50\nGrilled Pork Fillets\nserved with chips\n\u00a312.00\nScaloppine alla Milanese\nBreaded beef. Served with chips.\n\u00a314.50\nPollo all' aglio\nChicken breast in a creamy white wine and garlic sauce. Served with chips.\n\u00a313.00\nCallos\n\u00a311.00\nBreakfast Menu\nServered till 12pm\nOmelette & topping of choice\n\u00a34.50\nScrambled egg with salmon\n\u00a35.95\nSausage Baguette\n\u00a34.50\nBacon Baguette\n\u00a34.50\nJamon Iberico Baguette\n\u00a35.00\nJamon Iberico with cheese Baguette\n\u00a36.00\nAntipasti\nZuppa del Giorno\nSoup of the day\n\u00a34.50\nInsalata Caprese\nTomato slices, mozzarella, basil, dressed\n\u00a37.50\nInsalata Greca\nTomato, onions, cucumber, feta, black olives, oregano, dressing\n\u00a37.50\nInsalata con Salmone Affumicato\nSmoked salmon, capers, onions, cream cheese, on a bed of lettuce\n\u00a38.00\nGamberetti alla Diavola\nLangostino Pil Pil or Al Ajillo\n\u00a38.50\nFunghi alla Diavola\nMushrooms Pil Pil or Al Ajillo\n\u00a37.50\nPane all' Aglio\nGarlic bread\n\u00a33.50\nPane all' Aglio con Mozzarella\nGarlic bread with mozzarella\n\u00a34.00\nBruschetta\nGarlic bread topped with chopped tomatoes, marinated in olive oil and garlic\n\u00a34.50\nPesce e Carni\nAll served with vegetables and potatoes\nRosada con Salsa Gambero\nMedallions of white fish, coo",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our selected Fish dishes! Rosada al Limone only for \u00a312.50!\nEnjoy our Special Scampi Sambuca for just \u00a314 - a must-try Italian delicacy!\nTop Selling Items\nBreakfast Menu\nAntipasti\nPesce e Carni\nPasta\nDalla Griglia\nSpecials\nSides\nDolce e Gelato\nSoft Drinks\nItalian White Wines\nItalian Red Wines\nSpanish Red Wines\nHouse Wine (Red or White)\nSpanish White Wines\nRose Wines\nBeers\nSparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nFettuccine Alfredo\nHam and mushrooms in a creamy parmesan sauce\n\u00a39.50\nGrilled Pork Fillets\nserved with chips\n\u00a312.00\nScaloppine alla Milanese\nBreaded beef. Served with chips.\n\u00a314.50\nPollo all' aglio\nChicken breast in a creamy white wine and garlic sauce. Served with chips.\n\u00a313.00\nCallos\n\u00a311.00\nBreakfast Menu\nServered till 12pm\nOmelette & topping of choice\n\u00a34.50\nScrambled egg with salmon\n\u00a35.95\nSausage Baguette\n\u00a34.50\nBacon Baguette\n\u00a34.50\nJamon Iberico Baguette\n\u00a35.00\nJamon Iberico with cheese Baguette\n\u00a36.00\nAntipasti\nZuppa del Giorno\nSoup of the day\n\u00a34.50\nInsalata Caprese\nTomato slices, mozzarella, basil, dressed\n\u00a37.50\nInsalata Greca\nTomato, onions, cucumber, feta, black olives, oregano, dressing\n\u00a37.50\nInsalata con Salmone Affumicato\nSmoked salmon, capers, onions, cream cheese, on a bed of lettuce\n\u00a38.00\nGamberetti alla Diavola\nLangostino Pil Pil or Al Ajillo\n\u00a38.50\nFunghi alla Diavola\nMushrooms Pil Pil or Al Ajillo\n\u00a37.50\nPane all' Aglio\nGarlic bread\n\u00a33.50\nPane all' Aglio con Mozzarella\nGarlic bread with mozzarella\n\u00a34.00\nBruschetta\nGarlic bread topped with chopped tomatoes, marinated in olive oil and garlic\n\u00a34.50\nPesce e Carni\nAll served with vegetables and potatoes\nRosada con Salsa Gambero\nMedallions of white fish, coo",
+            "notices": [
+              {
+                "text": "Pepsi\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nExperience our selected Fish dishes! Rosada al Limone only for \u00a312.50!\nEnjoy our Special Scampi Sambuca for just \u00a314 - a must-try Italian delicacy!\nTop Selling Items\nBreakfast Menu\nAntipasti\nPesce e Carni\nPasta\nDalla Griglia\nSpecials\nSides\nDolce e Gelato\nSoft Drinks\nItalian White Wines\nItalian Red Wines\nSpanish Red Wines\nHouse Wine (Red or White)\nSpanish White Wines\nRose Wines\nBeers\nSparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nFettuccine Alfredo\nHam and mushrooms in a creamy parmesan sauce\n\u00a39.50\nGrilled Pork Fillets\nserved with chips\n\u00a312.00\nScaloppine alla Milanese\nBreaded beef. Served with chips.\n\u00a314.50\nPollo all' aglio\nChicken breast in a creamy white wine and garlic sauce. Served with chips.\n\u00a313.00\nCallos\n\u00a311.00\nBreakfast Menu\nServered till 12pm\nOmelette & topping of choice\n\u00a34.50\nScrambled egg with salmon\n\u00a35.95\nSausage Baguette\n\u00a34.50\nBacon Baguette\n\u00a34.50\nJamon Iberico Baguette\n\u00a35.00\nJamon Iberico with cheese Baguette\n\u00a36.00\nAntipasti\nZuppa del Giorno\nSoup of the day\n\u00a34.50\nInsalata Caprese\nTomato slices, mozzarella, basil, dressed\n\u00a37.50\nInsalata Greca\nTomato, onions, cucumber, feta, black olives, oregano, dressing\n\u00a37.50\nInsalata con Salmone Affumicato\nSmoked salmon, capers, onions, cream cheese, on a bed of lettuce\n\u00a38.00\nGamberetti alla Diavola\nLangostino Pil Pil or Al Ajillo\n\u00a38.50\nFunghi alla Diavola\nMushrooms Pil Pil or Al Ajillo\n\u00a37.50\nPane all' Aglio\nGarlic bread\n\u00a33.50\nPane all' Aglio con Mozzarella\nGarlic bread with mozzarella\n\u00a34.00\nBruschetta\nGarlic bread topped with chopped tomatoes, marinated in olive oil and garlic\n\u00a34.50\nPesce e Car",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-27T15:48:55.180148+02:00:closed",
-      "subject": "Hungry Monkey has STOPPED taking orders (15:48)",
-      "delivered_at": "2026-09-27T15:49:35.497063+02:00"
-    },
     {
       "id": "2026-09-27T15:53:55.180596+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (15:53)",
@@ -799,13 +794,18 @@
       "id": "2026-09-30T16:25:59.018251+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (16:25) - OPEN (basket test)",
       "delivered_at": "2026-09-30T16:26:50.090813+02:00"
+    },
+    {
+      "id": "2026-09-30T16:30:59.016859+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (16:30) - OPEN (basket test)",
+      "delivered_at": "2026-09-30T16:31:47.863377+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-30T16:25:59.018251+02:00",
+  "last_confirmed_at": "2026-09-30T16:30:59.016859+02:00",
   "last_sample_check": {
-    "at": "2026-09-30T16:25:59.018251+02:00",
+    "at": "2026-09-30T16:30:59.016859+02:00",
     "eligible": true
   }
 }
