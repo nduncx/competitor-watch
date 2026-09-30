@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-30T16:50:59.018041+02:00",
+  "last_observed_at": "2026-09-30T16:55:59.019426+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -212,7 +212,7 @@
       }
     },
     {
-      "name": "Caffe Bottega",
+      "name": "City Mill Bakes",
       "status": "delays",
       "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
@@ -269,20 +269,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our selected Fish dishes! Rosada al Limone only for \u00a312.50!\nEnjoy our Special Scampi Sambuca for just \u00a314 - a must-try Italian delicacy!\nTop Selling Items\nBreakfast Menu\nAntipasti\nPesce e Carni\nPasta\nDalla Griglia\nSpecials\nSides\nDolce e Gelato\nSoft Drinks\nItalian White Wines\nItalian Red Wines\nSpanish Red Wines\nHouse Wine (Red or White)\nSpanish White Wines\nRose Wines\nBeers\nSparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nFettuccine Alfredo\nHam and mushrooms in a creamy parmesan sauce\n\u00a39.50\nGrilled Pork Fillets\nserved with chips\n\u00a312.00\nScaloppine alla Milanese\nBreaded beef. Served with chips.\n\u00a314.50\nPollo all' aglio\nChicken breast in a creamy white wine and garlic sauce. Served with chips.\n\u00a313.00\nCallos\n\u00a311.00\nBreakfast Menu\nServered till 12pm\nOmelette & topping of choice\n\u00a34.50\nScrambled egg with salmon\n\u00a35.95\nSausage Baguette\n\u00a34.50\nBacon Baguette\n\u00a34.50\nJamon Iberico Baguette\n\u00a35.00\nJamon Iberico with cheese Baguette\n\u00a36.00\nAntipasti\nZuppa del Giorno\nSoup of the day\n\u00a34.50\nInsalata Caprese\nTomato slices, mozzarella, basil, dressed\n\u00a37.50\nInsalata Greca\nTomato, onions, cucumber, feta, black olives, oregano, dressing\n\u00a37.50\nInsalata con Salmone Affumicato\nSmoked salmon, capers, onions, cream cheese, on a bed of lettuce\n\u00a38.00\nGamberetti alla Diavola\nLangostino Pil Pil or Al Ajillo\n\u00a38.50\nFunghi alla Diavola\nMushrooms Pil Pil or Al Ajillo\n\u00a37.50\nPane all' Aglio\nGarlic bread\n\u00a33.50\nPane all' Aglio con Mozzarella\nGarlic bread with mozzarella\n\u00a34.00\nBruschetta\nGarlic bread topped with chopped tomatoes, marinated in olive oil and garlic\n\u00a34.50\nPesce e Carni\nAll served with vegetables and potatoes\nRosada con Salsa Gambero\nMedallions of white fish, coo",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSoft Drinks\nCoca-Cola 330ml\n\u00a31.24\nCoca-Cola Zero 330ml\n\u00a31.24\nFanta Lemon 330ml\n\u00a31.24\nStill Water 500ml\n\u00a31.24\nView allergy information\n\ue8cb",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our selected Fish dishes! Rosada al Limone only for \u00a312.50!\nEnjoy our Special Scampi Sambuca for just \u00a314 - a must-try Italian delicacy!\nTop Selling Items\nBreakfast Menu\nAntipasti\nPesce e Carni\nPasta\nDalla Griglia\nSpecials\nSides\nDolce e Gelato\nSoft Drinks\nItalian White Wines\nItalian Red Wines\nSpanish Red Wines\nHouse Wine (Red or White)\nSpanish White Wines\nRose Wines\nBeers\nSparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nFettuccine Alfredo\nHam and mushrooms in a creamy parmesan sauce\n\u00a39.50\nGrilled Pork Fillets\nserved with chips\n\u00a312.00\nScaloppine alla Milanese\nBreaded beef. Served with chips.\n\u00a314.50\nPollo all' aglio\nChicken breast in a creamy white wine and garlic sauce. Served with chips.\n\u00a313.00\nCallos\n\u00a311.00\nBreakfast Menu\nServered till 12pm\nOmelette & topping of choice\n\u00a34.50\nScrambled egg with salmon\n\u00a35.95\nSausage Baguette\n\u00a34.50\nBacon Baguette\n\u00a34.50\nJamon Iberico Baguette\n\u00a35.00\nJamon Iberico with cheese Baguette\n\u00a36.00\nAntipasti\nZuppa del Giorno\nSoup of the day\n\u00a34.50\nInsalata Caprese\nTomato slices, mozzarella, basil, dressed\n\u00a37.50\nInsalata Greca\nTomato, onions, cucumber, feta, black olives, oregano, dressing\n\u00a37.50\nInsalata con Salmone Affumicato\nSmoked salmon, capers, onions, cream cheese, on a bed of lettuce\n\u00a38.00\nGamberetti alla Diavola\nLangostino Pil Pil or Al Ajillo\n\u00a38.50\nFunghi alla Diavola\nMushrooms Pil Pil or Al Ajillo\n\u00a37.50\nPane all' Aglio\nGarlic bread\n\u00a33.50\nPane all' Aglio con Mozzarella\nGarlic bread with mozzarella\n\u00a34.00\nBruschetta\nGarlic bread topped with chopped tomatoes, marinated in olive oil and garlic\n\u00a34.50\nPesce e Carni\nAll served with vegetables and potatoes\nRosada con Salsa Gambero\nMedallions of white fish, coo",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSoft Drinks\nCoca-Cola 330ml\n\u00a31.24\nCoca-Cola Zero 330ml\n\u00a31.24\nFanta Lemon 330ml\n\u00a31.24\nStill Water 500ml\n\u00a31.24\nView allergy information\n\ue8cb\nCoca-Cola 330ml\n1\nAdd to order\n\u00a31.24",
             "notices": [
               {
-                "text": "Pepsi\n1\nAdd to order\n\u00a31.50",
+                "text": "Coca-Cola 330ml\n1\nAdd to order\n\u00a31.24",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.50"
+                  "Add to order\n\u00a31.24"
                 ],
                 "has_inputs": false
               }
@@ -290,21 +290,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nExperience our selected Fish dishes! Rosada al Limone only for \u00a312.50!\nEnjoy our Special Scampi Sambuca for just \u00a314 - a must-try Italian delicacy!\nTop Selling Items\nBreakfast Menu\nAntipasti\nPesce e Carni\nPasta\nDalla Griglia\nSpecials\nSides\nDolce e Gelato\nSoft Drinks\nItalian White Wines\nItalian Red Wines\nSpanish Red Wines\nHouse Wine (Red or White)\nSpanish White Wines\nRose Wines\nBeers\nSparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nFettuccine Alfredo\nHam and mushrooms in a creamy parmesan sauce\n\u00a39.50\nGrilled Pork Fillets\nserved with chips\n\u00a312.00\nScaloppine alla Milanese\nBreaded beef. Served with chips.\n\u00a314.50\nPollo all' aglio\nChicken breast in a creamy white wine and garlic sauce. Served with chips.\n\u00a313.00\nCallos\n\u00a311.00\nBreakfast Menu\nServered till 12pm\nOmelette & topping of choice\n\u00a34.50\nScrambled egg with salmon\n\u00a35.95\nSausage Baguette\n\u00a34.50\nBacon Baguette\n\u00a34.50\nJamon Iberico Baguette\n\u00a35.00\nJamon Iberico with cheese Baguette\n\u00a36.00\nAntipasti\nZuppa del Giorno\nSoup of the day\n\u00a34.50\nInsalata Caprese\nTomato slices, mozzarella, basil, dressed\n\u00a37.50\nInsalata Greca\nTomato, onions, cucumber, feta, black olives, oregano, dressing\n\u00a37.50\nInsalata con Salmone Affumicato\nSmoked salmon, capers, onions, cream cheese, on a bed of lettuce\n\u00a38.00\nGamberetti alla Diavola\nLangostino Pil Pil or Al Ajillo\n\u00a38.50\nFunghi alla Diavola\nMushrooms Pil Pil or Al Ajillo\n\u00a37.50\nPane all' Aglio\nGarlic bread\n\u00a33.50\nPane all' Aglio con Mozzarella\nGarlic bread with mozzarella\n\u00a34.00\nBruschetta\nGarlic bread topped with chopped tomatoes, marinated in olive oil and garlic\n\u00a34.50\nPesce e Car",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca-Cola 330ml\n\u00a31.24\n1\nSubtotal\n\u00a31.24\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.53\nAdd special instructions\nCheckout\nSoft Drinks\n1\nCoca-Cola 330ml\n\u00a31.24\nCoca-Cola Zero 330ml\n\u00a31.24\nFanta Lemon 330ml\n\u00a31.24\nStill Water 500ml\n\u00a31.24\nView allergy information\n\ue8cb",
             "notices": []
           }
         ],
-        "item": "Pepsi",
+        "item": "Coca-Cola 330ml",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-27T16:13:55.181137+02:00:closed",
-      "subject": "Hungry Monkey: 16:13 check unconfirmed - last confirmed not taking orders at 16:08",
-      "delivered_at": "2026-09-27T16:14:48.239662+02:00"
-    },
     {
       "id": "2026-09-27T16:18:55.181126+02:00:open",
       "subject": "Hungry Monkey is taking orders again (16:18) - basket test passed",
@@ -799,13 +794,18 @@
       "id": "2026-09-30T16:50:59.018041+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (16:50) - OPEN (basket test)",
       "delivered_at": "2026-09-30T16:51:48.241401+02:00"
+    },
+    {
+      "id": "2026-09-30T16:55:59.019426+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (16:55) - OPEN (basket test)",
+      "delivered_at": "2026-09-30T16:56:49.649273+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-09-30T16:50:59.018041+02:00",
+  "last_confirmed_at": "2026-09-30T16:55:59.019426+02:00",
   "last_sample_check": {
-    "at": "2026-09-30T16:50:59.018041+02:00",
+    "at": "2026-09-30T16:55:59.019426+02:00",
     "eligible": true
   }
 }
