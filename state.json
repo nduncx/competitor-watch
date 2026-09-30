@@ -10,46 +10,10 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-09-30T20:47:48.235685+02:00",
+  "last_observed_at": "2026-09-30T20:52:48.235866+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "closed",
-      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
-              "buttons": [
-                "GOT IT"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ]
-        },
-        {
-          "step": 0,
-          "error": "TimeoutError"
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Ramsons Watergardens",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -119,14 +83,45 @@
       "unresolved_notice": true,
       "order_button_after_notices": false,
       "basket_probe": {}
+    },
+    {
+      "name": "Haagen Dazs",
+      "status": "closed",
+      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
+              "buttons": [
+                "GOT IT"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ]
+        },
+        {
+          "step": 0,
+          "error": "TimeoutError"
+        }
+      ],
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-27T21:29:28.547342+02:00:delays",
-      "subject": "Hungry Monkey is taking orders again (21:29) - basket test passed",
-      "delivered_at": "2026-09-27T21:30:22.937580+02:00"
-    },
     {
       "id": "2026-09-27T21:34:28.547681+02:00:delays",
       "subject": "Hungry Monkey: 21:34 check unconfirmed - last confirmed showing a long-delays warning at 21:29",
@@ -621,13 +616,18 @@
       "id": "2026-09-30T20:47:48.235685+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:47)",
       "delivered_at": "2026-09-30T20:48:24.585895+02:00"
+    },
+    {
+      "id": "2026-09-30T20:52:48.235866+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (20:52)",
+      "delivered_at": "2026-09-30T20:53:24.736405+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-09-30T20:47:48.235685+02:00",
+  "last_confirmed_at": "2026-09-30T20:52:48.235866+02:00",
   "last_sample_check": {
-    "at": "2026-09-30T20:47:48.235685+02:00",
+    "at": "2026-09-30T20:52:48.235866+02:00",
     "eligible": true
   }
 }
