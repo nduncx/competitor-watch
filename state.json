@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-01T18:56:43.783720+02:00",
+  "last_observed_at": "2026-10-01T19:01:43.784623+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -125,7 +125,7 @@
       }
     },
     {
-      "name": "Gela Ti Amo",
+      "name": "Jury`s",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -182,20 +182,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best locally",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed Orange Juice\n\u00a33.00\nBrea",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best locally",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed Orange Juice\n\u00a33.00\nBrea",
             "notices": [
               {
-                "text": "Coca Cola\n\nCan 330ml\n\n1\nAdd to order\n\u00a31.50",
+                "text": "Coke\n\n33cl\n\n1\nAdd to order\n\u00a33.10",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.50"
+                  "Add to order\n\u00a33.10"
                 ],
                 "has_inputs": false
               }
@@ -203,16 +203,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced na",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.10\n1\nSubtotal\n\u00a33.10\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.39\nAdd special instructions\nCheckout\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our ",
             "notices": []
           }
         ],
-        "item": "Coca Cola",
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Lord Nelson",
+      "name": "Candy Castle",
       "status": "unknown",
       "notice": "",
       "notice_transcript": [
@@ -255,14 +255,57 @@
         {
           "step": 2,
           "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Pepsi Max\n\nPepsi Max 500ml bottle\n\n1\nAdd to order\n\u00a32.50",
+              "buttons": [
+                "",
+                "",
+                "",
+                "Add to order\n\u00a32.50"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
-      "order_button_after_notices": false,
-      "basket_probe": {}
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": false,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nGelato\nBuild Your Gelato\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nGelato\nOne scoop of smooth, creamy gelato. The perfect sweet treat anytime.\nLemon Sorbet\nZesty lemon sorbet with a cool, refreshing finish.\n\u00a33.95\nDulce De Leche\nCaramelised milk with a rich, sweet taste.\n\u00a33.95\nVanilla Tahiti\nFragrant, Smooth, And Creamy Vanilla Flavour.\n\u00a33.95\nMilk Chocolate\nTraditional milk chocolate.\n\u00a33.95\nOreo\nVanilla ice cream with crunchy Oreo pieces.\n\u00a33.90\nHappy Hippo\nCrispy Happy Hippo wafer with creamy chocolate filling.\n\u00a33.95\nPr\u00edncipe\nCrunchy Pr\u00edncipe biscuits with smooth chocolate cream.\n\u00a33.95\nCheesecake\nCreamy cheesecake with biscuit and strawberry pieces.\n\u00a33.95\nAfter Eight\nRefreshing mint with crunchy chocolate chips.\n\u00a33.95\nPistachio\nNutty Sicilian pistachio with a creamy finish.\n\u00a34.95\nBanoffee Pie\nCreamy Banana & Toffee With Crunchy Biscuit\n\u00a33.95\nTiramisu\nCrea",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nGelato\nBuild Your Gelato\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nGelato\nOne scoop of smooth, creamy gelato. The perfect sweet treat anytime.\nLemon Sorbet\nZesty lemon sorbet with a cool, refreshing finish.\n\u00a33.95\nDulce De Leche\nCaramelised milk with a rich, sweet taste.\n\u00a33.95\nVanilla Tahiti\nFragrant, Smooth, And Creamy Vanilla Flavour.\n\u00a33.95\nMilk Chocolate\nTraditional milk chocolate.\n\u00a33.95\nOreo\nVanilla ice cream with crunchy Oreo pieces.\n\u00a33.90\nHappy Hippo\nCrispy Happy Hippo wafer with creamy chocolate filling.\n\u00a33.95\nPr\u00edncipe\nCrunchy Pr\u00edncipe biscuits with smooth chocolate cream.\n\u00a33.95\nCheesecake\nCreamy cheesecake with biscuit and strawberry pieces.\n\u00a33.95\nAfter Eight\nRefreshing mint with crunchy chocolate chips.\n\u00a33.95\nPistachio\nNutty Sicilian pistachio with a creamy finish.\n\u00a34.95\nBanoffee Pie\nCreamy Banana & Toffee With Crunchy Biscuit\n\u00a33.95\nTiramisu\nCrea",
+            "notices": [
+              {
+                "text": "Pepsi Max\n\nPepsi Max 500ml bottle\n\n1\nAdd to order\n\u00a32.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          }
+        ],
+        "item": "Pepsi Max",
+        "reason": "notices or ordering unavailable after adding"
+      }
     },
     {
-      "name": "Millennium",
+      "name": "Royal Calpe",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -319,20 +362,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nPrice Crash Alert! Get 10% off ICE now just \u00a31.79 per bag! Stay cool for less!\nIndulge in our Ice Cream selection - rich, creamy & just \u00a32.85! Treat yourself today!\nFree Pick 'n' Mix - (x5) Assorted Sweets for orders \u00a315 or more! Go to FREEBIES section!\nTop Selling Items\nPrice Crash Offers! ICE 10% Off\nIce Cream!\nVapes\nCigarettes/Rolling Tobacco/ papers\nCrisps & Nuts\nFREEBIES!\nWater\nEnergy Drinks\nAlcoholic Drinks\nSweets\nMilk, Milkshakes, Butter & Cheese\nNEW Frozen Food\nGeneral Groceries & BBQ\nChocolates\nHot Drinks\nBread & Cakes\nBiscuits\nJuices, Smoothies & Cordials\nSoft Drinks\nMedical, Sanitary & Toiletries\nPets\nChewing & Bubble Gum\nTop Selling Items\nA quick look at our top sellers chosen by you!\nOFFER PowerKing Original - Can 250ml\n\u00a30.89\nSmoking - Brown King Size\n\u00a31.09\nPrice Crash Offers! ICE 10% Off\nDiscount Automatically Applied at Checkout!\nIce Bag\n\u00a31.99\nIce Cream!\nMagnum - Classic\n\u00a32.85\nBen & Jerry's - Vanilla\n\u00a32.59\nMagnum - White\n\u00a32.85\nMagnum - Almond\n\u00a32.85\nMagnum - Mint\n\u00a32.85\nCalippo - Strawberry\n\u00a31.89\nCalippo - Lime\n\u00a31.89\nCalippo - Orange\n\u00a31.89\nFrigo - Chuches\n\u00a32.09\nFriguron\n\u00a31.49\nVapes\nLost Mary - pineapple\n\u00a36.99\nLost Mary - Marybull ice\n\u00a36.99\nLost Mary - Marybull ice\n\u00a36.99\nLuckee - Skittles 10000 puffs\n\u00a311.69\nLuckee - Strawberry Ice 8000 puffs\n\u00a311.69\nBou - Pineapple Ice 7000 puffs\n\u00a311.69\nBou - Mr Blue 7000 puffs\n\u00a311.69\nBou - Blueberry Sour Raspberry 7000 puffs\n\u00a311.69\nBou - Blueberry Cranberry Cherry 7000 Puffs\n\u00a311.69\nBou - Triple Melon 7000 Puffs\n\u00a311.69\nBou - Melon Banana Pineapple 7000 Puffs\n\u00a311.69\nCigarettes/Rolling Tobacco/ papers\nMaximum 200 cigarettes per transaction can be ordered per customer/address.\nSmoking filters slim 180\n\u00a31.29\nSmoking - Brown (",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of slow cooked roast turkey breast, gravy and a mix of vegetable\n\u00a317.95\nMixed Roast\none slice of eac",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nPrice Crash Alert! Get 10% off ICE now just \u00a31.79 per bag! Stay cool for less!\nIndulge in our Ice Cream selection - rich, creamy & just \u00a32.85! Treat yourself today!\nFree Pick 'n' Mix - (x5) Assorted Sweets for orders \u00a315 or more! Go to FREEBIES section!\nTop Selling Items\nPrice Crash Offers! ICE 10% Off\nIce Cream!\nVapes\nCigarettes/Rolling Tobacco/ papers\nCrisps & Nuts\nFREEBIES!\nWater\nEnergy Drinks\nAlcoholic Drinks\nSweets\nMilk, Milkshakes, Butter & Cheese\nNEW Frozen Food\nGeneral Groceries & BBQ\nChocolates\nHot Drinks\nBread & Cakes\nBiscuits\nJuices, Smoothies & Cordials\nSoft Drinks\nMedical, Sanitary & Toiletries\nPets\nChewing & Bubble Gum\nTop Selling Items\nA quick look at our top sellers chosen by you!\nOFFER PowerKing Original - Can 250ml\n\u00a30.89\nSmoking - Brown King Size\n\u00a31.09\nPrice Crash Offers! ICE 10% Off\nDiscount Automatically Applied at Checkout!\nIce Bag\n\u00a31.99\nIce Cream!\nMagnum - Classic\n\u00a32.85\nBen & Jerry's - Vanilla\n\u00a32.59\nMagnum - White\n\u00a32.85\nMagnum - Almond\n\u00a32.85\nMagnum - Mint\n\u00a32.85\nCalippo - Strawberry\n\u00a31.89\nCalippo - Lime\n\u00a31.89\nCalippo - Orange\n\u00a31.89\nFrigo - Chuches\n\u00a32.09\nFriguron\n\u00a31.49\nVapes\nLost Mary - pineapple\n\u00a36.99\nLost Mary - Marybull ice\n\u00a36.99\nLost Mary - Marybull ice\n\u00a36.99\nLuckee - Skittles 10000 puffs\n\u00a311.69\nLuckee - Strawberry Ice 8000 puffs\n\u00a311.69\nBou - Pineapple Ice 7000 puffs\n\u00a311.69\nBou - Mr Blue 7000 puffs\n\u00a311.69\nBou - Blueberry Sour Raspberry 7000 puffs\n\u00a311.69\nBou - Blueberry Cranberry Cherry 7000 Puffs\n\u00a311.69\nBou - Triple Melon 7000 Puffs\n\u00a311.69\nBou - Melon Banana Pineapple 7000 Puffs\n\u00a311.69\nCigarettes/Rolling Tobacco/ papers\nMaximum 200 cigarettes per transaction can be ordered per customer/address.\nSmoking filters slim 180\n\u00a31.29\nSmoking - Brown (",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of slow cooked roast turkey breast, gravy and a mix of vegetable\n\u00a317.95\nMixed Roast\none slice of eac",
             "notices": [
               {
-                "text": "Coca Cola - Can\n1\nAdd to order\n\u00a30.89",
+                "text": "Pepsi\n1\nAdd to order\n\u00a32.40",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a30.89"
+                  "Add to order\n\u00a32.40"
                 ],
                 "has_inputs": false
               }
@@ -340,11 +383,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola - Can\n\u00a30.89\n1\nSubtotal\n\u00a30.89\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.18\nAdd special instructions\nCheckout\nPrice Crash Alert! Get 10% off ICE now just \u00a31.79 per bag! Stay cool for less!\nIndulge in our Ice Cream selection - rich, creamy & just \u00a32.85! Treat yourself today!\nFree Pick 'n' Mix - (x5) Assorted Sweets for orders \u00a315 or more! Go to FREEBIES section!\nTop Selling Items\nPrice Crash Offers! ICE 10% Off\nIce Cream!\nVapes\nCigarettes/Rolling Tobacco/ papers\nCrisps & Nuts\nFREEBIES!\nWater\nEnergy Drinks\nAlcoholic Drinks\nSweets\nMilk, Milkshakes, Butter & Cheese\nNEW Frozen Food\nGeneral Groceries & BBQ\nChocolates\nHot Drinks\nBread & Cakes\nBiscuits\nJuices, Smoothies & Cordials\nSoft Drinks\nMedical, Sanitary & Toiletries\nPets\nChewing & Bubble Gum\nTop Selling Items\nA quick look at our top sellers chosen by you!\nOFFER PowerKing Original - Can 250ml\n\u00a30.89\nSmoking - Brown King Size\n\u00a31.09\nPrice Crash Offers! ICE 10% Off\nDiscount Automatically Applied at Checkout!\nIce Bag\n\u00a31.99\nIce Cream!\nMagnum - Classic\n\u00a32.85\nBen & Jerry's - Vanilla\n\u00a32.59\nMagnum - White\n\u00a32.85\nMagnum - Almond\n\u00a32.85\nMagnum - Mint\n\u00a32.85\nCalippo - Strawberry\n\u00a31.89\nCalippo - Lime\n\u00a31.89\nCalippo - Orange\n\u00a31.89\nFrigo - Chuches\n\u00a32.09\nFriguron\n\u00a31.49\nVapes\nLost Mary - pineapple\n\u00a36.99\nLost Mary - Marybull ice\n\u00a36.99\nLost Mary - Marybull ice\n\u00a36.99\nLuckee - Skittles 10000 puffs\n\u00a311.69\nLuckee - Strawberry Ice 8000 puffs\n\u00a311.69\nBou - Pineapple Ice 7000 puffs\n\u00a311.69\nBou - Mr Blue 7000 puffs\n\u00a311.69\nBou - Blueberry Sour Raspberry 7000 puffs\n\u00a311.69\nBou - Blueberry Cranberry Cherry 7000 Puffs\n\u00a311.69\nBou - Triple Melon 7000 Puffs\n\u00a311.69\nBou - Melon Banana Pineapple 7000 Puffs\n\u00a311.69\nCigarettes/Rolling Tobacco/ papers\nMaximum 200 cigar",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a32.40\n1\nSubtotal\n\u00a32.40\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.69\nAdd special instructions\nCheckout\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of ",
             "notices": []
           }
         ],
-        "item": "Coca Cola - Can",
+        "item": "Pepsi",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -853,9 +896,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-01T18:56:43.783720+02:00",
+  "last_confirmed_at": "2026-10-01T19:01:43.784623+02:00",
   "last_sample_check": {
-    "at": "2026-10-01T18:56:43.783720+02:00",
+    "at": "2026-10-01T19:01:43.784623+02:00",
     "eligible": true
   }
 }
