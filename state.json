@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-01T14:45:09.815827+02:00",
+  "last_observed_at": "2026-10-01T14:50:09.815407+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -101,73 +101,6 @@
           }
         ],
         "item": "Southern Fried Chicken Strips",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Birdie Cafe",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35\n23. Chicken Noodles\n\u00a37.35\n23A. Plain Noodles\n\u00a35.25\nSpecial Dishes\n36. Beef in Oyster Sauce\n\u00a38.2",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35\n23. Chicken Noodles\n\u00a37.35\n23A. Plain Noodles\n\u00a35.25\nSpecial Dishes\n36. Beef in Oyster Sauce\n\u00a38.2",
-            "notices": [
-              {
-                "text": "Coke\n1\nAdd to order\n\u00a32.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
@@ -365,6 +298,73 @@
           }
         ],
         "item": "SAMOSA - VEG Starter",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Nunos At The Express",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFresh and flavourful! Enjoy our delicious Salads from just \u00a311.50 - try Nunos Salad today!\nDelicious pizzas from just \u00a310.50 - fresh, hot, and loaded with flavour like our classic Margherita!\nTop Selling Items\nElegant Ent\u00e9es / Antipasti Raffinati\nInsalate Gourmet / Gourmet Salads\nPaste Artigianali / Artisian Pasta\nPiatti Speciali / Special Pasta\nPizze Rosse / Pizzas with Tomato Sauce\nPizze Bianca / Pizzas without Tomato Sauce\nPizze d'Autore / Signature Pizzas\nPane / Bread\nMains Courses - Meat & Fish / Secondi di Carne e Pesce\nElegant Sides / Contorni\nDesserts / Dolci della Casa\nSoft Drinks\nBeers & Ciders\nWhite Wines\nRed Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCarbonara Sauce\nWith guanciale and egg\n\u00a315.50\nDairyEggs\nDiavola\nTomato , mozzarella, chilli salami.\n\u00a315.00\nDairyGlutenLupin\nMargherita\nTomato sauce, mozzarella\n\u00a310.50\nDairyGlutenLupinVegetarian\nPesto Sauce\n\u00a315.50\nDairyNutsVegetarian\nMinestrone\nClassical Italian seasonal vegetable soup with Parmesan cheese & croutons.\n\u00a39.50\nCeleryDairyGlutenVegetarian\nElegant Ent\u00e9es / Antipasti Raffinati\nStarters\nMozzarella e Prosciutto con Bruschetta\nToasted home-made bread topped with fresh tomato and basil concass\u00e9, fresh Buffalo mozzarella and Parma Ham\nOut of stock\nDairyGluten\nMinestrone\nClassical Italian seasonal vegetable soup with Parmesan cheese & croutons.\n\u00a39.50\nCeleryDairyGlutenVegetarian\nCalamari Fritti e Zucchine - Crispy Calamari & Courgette Fritto\nLightly battered squid and courgettes, served with lime mayonnaise.\n\u00a312.90\nDairyEggsFishGluten\nPolpettine della Nonna al Rag\u00fa - Grandmother's Meatballs in Heirloom Tomato Sauce\nTraditional veal meatballs on a slow-cooked tomato r",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFresh and flavourful! Enjoy our delicious Salads from just \u00a311.50 - try Nunos Salad today!\nDelicious pizzas from just \u00a310.50 - fresh, hot, and loaded with flavour like our classic Margherita!\nTop Selling Items\nElegant Ent\u00e9es / Antipasti Raffinati\nInsalate Gourmet / Gourmet Salads\nPaste Artigianali / Artisian Pasta\nPiatti Speciali / Special Pasta\nPizze Rosse / Pizzas with Tomato Sauce\nPizze Bianca / Pizzas without Tomato Sauce\nPizze d'Autore / Signature Pizzas\nPane / Bread\nMains Courses - Meat & Fish / Secondi di Carne e Pesce\nElegant Sides / Contorni\nDesserts / Dolci della Casa\nSoft Drinks\nBeers & Ciders\nWhite Wines\nRed Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCarbonara Sauce\nWith guanciale and egg\n\u00a315.50\nDairyEggs\nDiavola\nTomato , mozzarella, chilli salami.\n\u00a315.00\nDairyGlutenLupin\nMargherita\nTomato sauce, mozzarella\n\u00a310.50\nDairyGlutenLupinVegetarian\nPesto Sauce\n\u00a315.50\nDairyNutsVegetarian\nMinestrone\nClassical Italian seasonal vegetable soup with Parmesan cheese & croutons.\n\u00a39.50\nCeleryDairyGlutenVegetarian\nElegant Ent\u00e9es / Antipasti Raffinati\nStarters\nMozzarella e Prosciutto con Bruschetta\nToasted home-made bread topped with fresh tomato and basil concass\u00e9, fresh Buffalo mozzarella and Parma Ham\nOut of stock\nDairyGluten\nMinestrone\nClassical Italian seasonal vegetable soup with Parmesan cheese & croutons.\n\u00a39.50\nCeleryDairyGlutenVegetarian\nCalamari Fritti e Zucchine - Crispy Calamari & Courgette Fritto\nLightly battered squid and courgettes, served with lime mayonnaise.\n\u00a312.90\nDairyEggsFishGluten\nPolpettine della Nonna al Rag\u00fa - Grandmother's Meatballs in Heirloom Tomato Sauce\nTraditional veal meatballs on a slow-cooked tomato r",
+            "notices": [
+              {
+                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a33.70",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a33.70"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a33.70\n1\nSubtotal\n\u00a33.70\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.99\nAdd special instructions\nCheckout\nFresh and flavourful! Enjoy our delicious Salads from just \u00a311.50 - try Nunos Salad today!\nDelicious pizzas from just \u00a310.50 - fresh, hot, and loaded with flavour like our classic Margherita!\nTop Selling Items\nElegant Ent\u00e9es / Antipasti Raffinati\nInsalate Gourmet / Gourmet Salads\nPaste Artigianali / Artisian Pasta\nPiatti Speciali / Special Pasta\nPizze Rosse / Pizzas with Tomato Sauce\nPizze Bianca / Pizzas without Tomato Sauce\nPizze d'Autore / Signature Pizzas\nPane / Bread\nMains Courses - Meat & Fish / Secondi di Carne e Pesce\nElegant Sides / Contorni\nDesserts / Dolci della Casa\nSoft Drinks\nBeers & Ciders\nWhite Wines\nRed Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCarbonara Sauce\nWith guanciale and egg\n\u00a315.50\nDairyEggs\nDiavola\nTomato , mozzarella, chilli salami.\n\u00a315.00\nDairyGlutenLupin\nMargherita\nTomato sauce, mozzarella\n\u00a310.50\nDairyGlutenLupinVegetarian\nPesto Sauce\n\u00a315.50\nDairyNutsVegetarian\nMinestrone\nClassical Italian seasonal vegetable soup with Parmesan cheese & croutons.\n\u00a39.50\nCeleryDairyGlutenVegetarian\nElegant Ent\u00e9es / Antipasti Raffinati\nStarters\nMozzarella e Prosciutto con Bruschetta\nToasted home-made bread topped with fresh tomato and basil concass\u00e9, fresh Buffalo mozzarella and Parma Ham\nOut of stock\nDairyGluten\nMinestrone\nClassical Italian seasonal vegetable soup with Parmesan cheese & croutons.\n\u00a39.50\nCeleryDairyGlutenVegetarian\nCalamari Fritti e Zucchine - Crispy Calamari & Courgette Fritto\nLightly battered squid and courgettes, served with lime mayonnaise.\n\u00a312.90\nDairyEggsFishGluten\nPolpettine della Nonna al Ra",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola 33cl",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -873,9 +873,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-01T14:45:09.815827+02:00",
+  "last_confirmed_at": "2026-10-01T14:50:09.815407+02:00",
   "last_sample_check": {
-    "at": "2026-10-01T14:45:09.815827+02:00",
+    "at": "2026-10-01T14:50:09.815407+02:00",
     "eligible": true
   }
 }
