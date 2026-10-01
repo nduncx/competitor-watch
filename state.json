@@ -912,7 +912,7 @@
   "last_result": "delays",
   "last_confirmed_at": "2026-10-01T22:56:43.791419+02:00",
   "last_sample_check": {
-    "at": "2026-10-01T23:07:17.168303+02:00",
+    "at": "2026-10-01T23:12:17.165772+02:00",
     "eligible": false,
     "exclusions_confirmed": true,
     "venues": [
