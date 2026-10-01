@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-01T22:46:43.791561+02:00",
+  "last_observed_at": "2026-10-01T22:51:43.791191+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -172,56 +172,6 @@
         "item": "Southern Fried Chicken Strips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
-    },
-    {
-      "name": "Smash & Stack",
-      "status": "unknown",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": false,
-      "basket_probe": {}
     },
     {
       "name": "Chinese Kitchen",
@@ -399,11 +349,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-30T17:05:59.019500+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (17:05) - OPEN (basket test)",
-      "delivered_at": "2026-09-30T17:06:48.898772+02:00"
-    },
     {
       "id": "2026-09-30T17:10:59.017765+02:00:delays",
       "subject": "Hungry Monkey: 17:10 check unconfirmed - last confirmed showing a long-delays warning at 17:05",
@@ -898,13 +843,18 @@
       "id": "2026-10-01T22:46:43.791561+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (22:46) - OPEN (basket test)",
       "delivered_at": "2026-10-01T22:47:52.592958+02:00"
+    },
+    {
+      "id": "2026-10-01T22:51:43.791191+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (22:51) - OPEN (basket test)",
+      "delivered_at": "2026-10-01T22:52:37.366065+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-10-01T22:46:43.791561+02:00",
+  "last_confirmed_at": "2026-10-01T22:51:43.791191+02:00",
   "last_sample_check": {
-    "at": "2026-10-01T22:46:43.791561+02:00",
+    "at": "2026-10-01T22:51:43.791191+02:00",
     "eligible": true
   }
 }
