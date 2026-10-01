@@ -1,8 +1,8 @@
 {
-  "status": "closed",
-  "since": "2026-10-01T20:21:43.787659+02:00",
+  "status": "delays",
+  "since": "2026-10-01T20:41:43.787771+02:00",
   "alerted": true,
-  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+  "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
   "last_checked_date": "2026-10-01",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,11 +10,11 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-01T20:36:43.786313+02:00",
+  "last_observed_at": "2026-10-01T20:41:43.787771+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "delays",
+      "status": "unknown",
       "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
         {
@@ -59,14 +59,50 @@
         },
         {
           "step": 0,
-          "notices": [],
+          "notices": [
+            {
+              "text": "Southern Fried Chicken Strips\nWould You Like Some Salad?\nSelect up to 3 options\n0/3\nLettuce\nOnion\nTomato\nAny Extras Inside?\nColeslaw\n\u00a30.60\nFried Onion\nFried Peppers\n\u00a30.80\nx1 Fried Egg\n\u00a30.80\nx2 Fried Egg\n\u00a31.60\nx3 Fried Egg\n\u00a32.40\nGrilled Tomatoes\n\u00a30.80\nFried Tomatoes\n\u00a30.80\nCheese\n\u00a30.80\nLamb Doner Kebab Meat\n\u00a31.80\nChicken Shawarma Meat\n\u00a31.80\nChoose a Sauce\nSelect up to 2 options\n0/2\nKetchup\nMayonnaise\nCocktail Sauce\nChilli Sauce\nAli Oli\nGarlic Sauce\nYoghurt Sauce\nGaucha Sauce\nAny Sides?\nSelect up to 50 options\n0/50\nx1 Chicken Pastella [SIDE]\n\u00a32.80\nx3 Mozzarella Sticks [SIDE]\n\u00a32.70\nx1 Calabacin Relleno [Stuffed Courgette] [SIDE]\n\u00a31.20\nx1 Torta De Acelga Slice [SIDE]\n\u00a33.00\nx1 Croquetta De Calabacin [SIDE]\n\u00a31.00\nx1 Croquetta De Espinaca [SIDE]\n\u00a31.00\nx1 Croquetta De Pollo [SIDE]\n\u00a31.00\nx1 Crab Claws [SIDE]\n\u00a31.20\nx5 Chicken Tenders [SIDE]\n\u00a36.00\nx5 American Chicken Wings [SIDE]\n\u00a36.00\nPopcorn Chicken Portion [SIDE]\n\u00a36.80\nChicken Nuggets Portion [SIDE]\n\u00a35.00\nPilao Rice [SIDE]\n\u00a32.50\nPastela With Almond\n\u00a33.80\nx1 Onion Bhaji [SIDE]\n\u00a31.20\nFull Chips\n\u00a34.00\nExtra Chips\n\u00a35.50\n1/2 Small Chips\n\u00a32.50\nChoose A Drink\nCoca Cola Can\n\u00a31.40\nCoke Zero Can\n\u00a31.40\nFanta Orange Can\n\u00a31.40\nFanta Lemon Can\n\u00a31.40\nSprite Can\n\u00a31.40\nVimto Can\n\u00a31.40\nSuntop Apple\n\u00a31.00\nSuntop Cola\n\u00a31.00\nSuntop Orange\n\u00a31.00\nSuntop red\n\u00a31.00\nBottle Of Water 500ml\n\u00a30.70\nBig Bottle Of Water 1.5L\n\u00a31.50\nPepsi\n\u00a31.40\nPepsi Max\n\u00a31.40\n7 Up\n\u00a31.40\nPepsi Can 330 Ml\n\u00a31.40\nNestea Maracuya 330 Ml\n\u00a31.70\nDon Simon Mango 330 ML\n\u00a31.40\nDon Simon Peach 330 ML\n\u00a31.40\nDon Simon Mandarine 330 ML\n\u00a31.40\nCoke Bottle 500 ML\n\u00a31.80\nTango Apple 330 ML\n\u00a31.40\nTango Orange 330 ML\n\u00a31.40\n1\nAdd to order\n\u00a36.50",
+              "buttons": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Add to order\n\u00a36.50"
+              ],
+              "has_inputs": false
+            }
+          ],
           "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "basket_probe": {
-        "passed": true,
+        "passed": false,
         "steps": [
           {
             "phase": "before_item",
@@ -162,15 +198,10 @@
                 "has_inputs": false
               }
             ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSouthern Fried Chicken Strips\n\u00a36.50\n1\nSubtotal\n\u00a36.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a39.79\nAdd special instructions\nCheckout\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or R",
-            "notices": []
           }
         ],
         "item": "Southern Fried Chicken Strips",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+        "reason": "notices or ordering unavailable after adding"
       }
     },
     {
@@ -346,14 +377,96 @@
         "item": "Coke 330ml",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "Panzerotto",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nTHURSDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop pretending.\n\u00a311.99\nTHE HOLY TRINITY Panzerotto\nThree creams enter. One legend is born. Nutella. Pistac",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nTHURSDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop pretending.\n\u00a311.99\nTHE HOLY TRINITY Panzerotto\nThree creams enter. One legend is born. Nutella. Pistac",
+            "notices": [
+              {
+                "text": "PEPSI - CAN\n\n33cl\n\n1\nAdd to order\n\u00a32.99",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.99"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPEPSI - CAN\n\u00a32.99\n1\nSubtotal\n\u00a32.99\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.28\nAdd special instructions\nCheckout\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nTHURSDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop",
+            "notices": []
+          }
+        ],
+        "item": "PEPSI - CAN",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-29T21:10:12.702524+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (21:10) - OPEN (basket test)",
-      "delivered_at": "2026-09-29T21:11:04.693077+02:00"
-    },
     {
       "id": "2026-09-29T21:15:12.704426+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:15) - OPEN (basket test)",
@@ -848,14 +961,18 @@
       "id": "2026-10-01T20:36:43.786313+02:00:closed",
       "subject": "Hungry Monkey: 20:36 check unconfirmed - last confirmed not taking orders at 20:31",
       "delivered_at": "2026-10-01T20:37:39.768830+02:00"
+    },
+    {
+      "id": "2026-10-01T20:41:43.787771+02:00:delays",
+      "subject": "Hungry Monkey is taking orders again (20:41) - basket test passed",
+      "delivered_at": "2026-10-01T20:43:00.656804+02:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-10-01T20:31:43.786901+02:00",
+  "last_confirmed_at": "2026-10-01T20:41:43.787771+02:00",
   "last_sample_check": {
-    "at": "2026-10-01T20:36:43.786313+02:00",
+    "at": "2026-10-01T20:41:43.787771+02:00",
     "eligible": true
-  },
-  "recovery_candidate_at": "2026-10-01T20:36:43.786313+02:00"
+  }
 }
