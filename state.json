@@ -10,46 +10,10 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-01T19:46:43.784106+02:00",
+  "last_observed_at": "2026-10-01T19:51:43.785343+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "closed",
-      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
-              "buttons": [
-                "GOT IT"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ]
-        },
-        {
-          "step": 0,
-          "error": "TimeoutError"
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Candy Castle",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -119,14 +83,45 @@
       "unresolved_notice": true,
       "order_button_after_notices": false,
       "basket_probe": {}
+    },
+    {
+      "name": "Starbucks",
+      "status": "closed",
+      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
+              "buttons": [
+                "GOT IT"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ]
+        },
+        {
+          "step": 0,
+          "error": "TimeoutError"
+        }
+      ],
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-28T20:58:28.772139+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (20:58) - OPEN (basket test)",
-      "delivered_at": "2026-09-28T20:59:23.213621+02:00"
-    },
     {
       "id": "2026-09-28T21:03:28.772179+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:03) - OPEN (basket test)",
@@ -621,13 +616,18 @@
       "id": "2026-10-01T19:46:43.784106+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (19:46)",
       "delivered_at": "2026-10-01T19:47:25.080192+02:00"
+    },
+    {
+      "id": "2026-10-01T19:51:43.785343+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (19:51)",
+      "delivered_at": "2026-10-01T19:52:25.442258+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-01T19:46:43.784106+02:00",
+  "last_confirmed_at": "2026-10-01T19:51:43.785343+02:00",
   "last_sample_check": {
-    "at": "2026-10-01T19:46:43.784106+02:00",
+    "at": "2026-10-01T19:51:43.785343+02:00",
     "eligible": true
   }
 }
