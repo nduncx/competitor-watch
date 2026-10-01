@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-01T16:25:09.818303+02:00",
+  "last_observed_at": "2026-10-01T16:30:09.818450+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -125,93 +125,6 @@
       }
     },
     {
-      "name": "Era",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters & Sharers\nSignature Sweet Potato Fries\nOur crispy homemade sweet potato fries cooked in olive oil and ",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters & Sharers\nSignature Sweet Potato Fries\nOur crispy homemade sweet potato fries cooked in olive oil and ",
-            "notices": [
-              {
-                "text": "Pepsi Max\n\nAn ice-cold 330 ml can of Pepsi Max maximum cola taste, zero sugar. Contains caffeine.\n\n1\nAdd to order\n\u00a32.90",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.90"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\nYour order\nPepsi Max\n\u00a32.90\n1\nSubtotal\n\u00a32.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.19\nAdd special instructions\nCheckout\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters &",
-            "notices": []
-          }
-        ],
-        "item": "Pepsi Max",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Bivoo",
       "status": "open",
       "notice": "",
@@ -295,6 +208,93 @@
           }
         ],
         "item": "Coke Classic Large 2L",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "City Mill Bakes",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSoft Drinks\nCoca-Cola 330ml\n\u00a31.24\nCoca-Cola Zero 330ml\n\u00a31.24\nFanta Lemon 330ml\n\u00a31.24\nStill Water 500ml\n\u00a31.24\nView allergy information\n\ue8cb",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSoft Drinks\nCoca-Cola 330ml\n\u00a31.24\nCoca-Cola Zero 330ml\n\u00a31.24\nFanta Lemon 330ml\n\u00a31.24\nStill Water 500ml\n\u00a31.24\nView allergy information\n\ue8cb\nCoca-Cola 330ml\n1\nAdd to order\n\u00a31.24",
+            "notices": [
+              {
+                "text": "Coca-Cola 330ml\n1\nAdd to order\n\u00a31.24",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.24"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca-Cola 330ml\n\u00a31.24\n1\nSubtotal\n\u00a31.24\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.53\nAdd special instructions\nCheckout\nSoft Drinks\n1\nCoca-Cola 330ml\n\u00a31.24\nCoca-Cola Zero 330ml\n\u00a31.24\nFanta Lemon 330ml\n\u00a31.24\nStill Water 500ml\n\u00a31.24\nView allergy information\n\ue8cb",
+            "notices": []
+          }
+        ],
+        "item": "Coca-Cola 330ml",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -803,9 +803,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-01T16:25:09.818303+02:00",
+  "last_confirmed_at": "2026-10-01T16:30:09.818450+02:00",
   "last_sample_check": {
-    "at": "2026-10-01T16:25:09.818303+02:00",
+    "at": "2026-10-01T16:30:09.818450+02:00",
     "eligible": true
   }
 }
