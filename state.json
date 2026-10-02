@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T21:40:19.815596+02:00",
+  "last_observed_at": "2026-10-02T21:45:19.814139+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -170,93 +170,6 @@
           }
         ],
         "item": "Southern Fried Chicken Strips",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "El Kasbah",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
-            "notices": [
-              {
-                "text": "Coca Cola\n1\nAdd to order\n\u00a32.40",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.40"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.40\n1\nSubtotal\n\u00a32.40\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.69\nAdd special instructions\nCheckout\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef s",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
@@ -439,14 +352,96 @@
         "item": "ENGLAND BURGER",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "Curry & Nigiri",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our Japanese Homemade Dumplings from \u00a37.50!\nEnjoy authentic Chinese cousine like Chicken in Soya Ginger Garlic Sauce only for \u00a39.50!\nTop Selling Items\nChinese - Starters\nChinese - Soup (Vegetarian)\nChinese - Rice & Noodles\nChinese - Soups (Non-Vegetarian)\nChinese - Main Courses\nJapanese Starters\nJapanese Homemade Dumplings\nJapanese - Sushi Vegetarian\nJapanese - Soup\nJapanese - Vegan Makki Rolls\nJapanese - Sushi Non - Vegetarian\nJapanese - Makki Rolls - Non-Vegetarian\nJapanese - Anshika Special Sushi Platter\nIndian - Vegetarian Starters\nIndian - Starters Non-Vegetarian\nIndian Main Course - Vegetarian Curry\nIndian - Chicken Curry\nIndian Style Lamb Curry\nIndian - Prawn Curry\nIndian - Naan Bread\nIndian - Rice\nIndian - Extras\nIndian - Raita\nIndian - Dessert\nSoft Drinks\nLassi\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Masala\nBoneless chicken leg, cooked in an onion tomato based sauce with Indian spices\n\u00a311.25\nBoneless Butter Chicken\nTandoori chicken tikka, cooked in cashew tomato gravy with some cream and butter\n\u00a311.95\nPork Sui Mai [6 pieces]\nPartially wrapped Pancake filled with minced pork and vegetables,. Served with Japanese mayonnaise\n\u00a38.95\nChicken Korma Mild\nBoneless Chicken Breast, cooked in creamy cashew sauce\n\u00a311.45\nCrunchy Monster Roll [8 pieces]\nTiger prawn tempura, Philadelphia cheese, avocado, teriyaki sauce, framed with tobiko seven spices and tempura crunch\n\u00a312.95\nChinese - Starters\nVegetable Spring Roll [2 pieces]\nCabbage carrots onions capsicum\n\u00a35.95\nChicken Spring Roll [2 pieces]\nChicken cabbage carrot onions capsicum\n\u00a36.95\nVegetables & Prawn Spring Roll [2 pieces]\nPrawn Cabbage Carrots onion cap",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our Japanese Homemade Dumplings from \u00a37.50!\nEnjoy authentic Chinese cousine like Chicken in Soya Ginger Garlic Sauce only for \u00a39.50!\nTop Selling Items\nChinese - Starters\nChinese - Soup (Vegetarian)\nChinese - Rice & Noodles\nChinese - Soups (Non-Vegetarian)\nChinese - Main Courses\nJapanese Starters\nJapanese Homemade Dumplings\nJapanese - Sushi Vegetarian\nJapanese - Soup\nJapanese - Vegan Makki Rolls\nJapanese - Sushi Non - Vegetarian\nJapanese - Makki Rolls - Non-Vegetarian\nJapanese - Anshika Special Sushi Platter\nIndian - Vegetarian Starters\nIndian - Starters Non-Vegetarian\nIndian Main Course - Vegetarian Curry\nIndian - Chicken Curry\nIndian Style Lamb Curry\nIndian - Prawn Curry\nIndian - Naan Bread\nIndian - Rice\nIndian - Extras\nIndian - Raita\nIndian - Dessert\nSoft Drinks\nLassi\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Masala\nBoneless chicken leg, cooked in an onion tomato based sauce with Indian spices\n\u00a311.25\nBoneless Butter Chicken\nTandoori chicken tikka, cooked in cashew tomato gravy with some cream and butter\n\u00a311.95\nPork Sui Mai [6 pieces]\nPartially wrapped Pancake filled with minced pork and vegetables,. Served with Japanese mayonnaise\n\u00a38.95\nChicken Korma Mild\nBoneless Chicken Breast, cooked in creamy cashew sauce\n\u00a311.45\nCrunchy Monster Roll [8 pieces]\nTiger prawn tempura, Philadelphia cheese, avocado, teriyaki sauce, framed with tobiko seven spices and tempura crunch\n\u00a312.95\nChinese - Starters\nVegetable Spring Roll [2 pieces]\nCabbage carrots onions capsicum\n\u00a35.95\nChicken Spring Roll [2 pieces]\nChicken cabbage carrot onions capsicum\n\u00a36.95\nVegetables & Prawn Spring Roll [2 pieces]\nPrawn Cabbage Carrots onion cap",
+            "notices": [
+              {
+                "text": "Coke Zero\n\n330ml\n\n1\nAdd to order\n\u00a32.25",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.25"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero\n\u00a32.25\n1\nSubtotal\n\u00a32.25\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.54\nAdd special instructions\nCheckout\nExperience our Japanese Homemade Dumplings from \u00a37.50!\nEnjoy authentic Chinese cousine like Chicken in Soya Ginger Garlic Sauce only for \u00a39.50!\nTop Selling Items\nChinese - Starters\nChinese - Soup (Vegetarian)\nChinese - Rice & Noodles\nChinese - Soups (Non-Vegetarian)\nChinese - Main Courses\nJapanese Starters\nJapanese Homemade Dumplings\nJapanese - Sushi Vegetarian\nJapanese - Soup\nJapanese - Vegan Makki Rolls\nJapanese - Sushi Non - Vegetarian\nJapanese - Makki Rolls - Non-Vegetarian\nJapanese - Anshika Special Sushi Platter\nIndian - Vegetarian Starters\nIndian - Starters Non-Vegetarian\nIndian Main Course - Vegetarian Curry\nIndian - Chicken Curry\nIndian Style Lamb Curry\nIndian - Prawn Curry\nIndian - Naan Bread\nIndian - Rice\nIndian - Extras\nIndian - Raita\nIndian - Dessert\nSoft Drinks\nLassi\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Masala\nBoneless chicken leg, cooked in an onion tomato based sauce with Indian spices\n\u00a311.25\nBoneless Butter Chicken\nTandoori chicken tikka, cooked in cashew tomato gravy with some cream and butter\n\u00a311.95\nPork Sui Mai [6 pieces]\nPartially wrapped Pancake filled with minced pork and vegetables,. Served with Japanese mayonnaise\n\u00a38.95\nChicken Korma Mild\nBoneless Chicken Breast, cooked in creamy cashew sauce\n\u00a311.45\nCrunchy Monster Roll [8 pieces]\nTiger prawn tempura, Philadelphia cheese, avocado, teriyaki sauce, framed with tobiko seven spices and tempura crunch\n\u00a312.95\nChinese - Starters\nVegetable Spring Roll [2 pieces]\nCabbage carrots onions capsicum\n\u00a35.95\nChicken Spring Roll [2 pieces]\nChicken cabbage c",
+            "notices": []
+          }
+        ],
+        "item": "Coke Zero",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-01T13:20:09.814375+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (13:20) - OPEN (basket test)",
-      "delivered_at": "2026-10-01T13:20:58.886405+02:00"
-    },
     {
       "id": "2026-10-01T13:25:09.813335+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (13:25) - OPEN (basket test)",
@@ -941,13 +936,18 @@
       "id": "2026-10-02T21:40:19.815596+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:40) - OPEN (basket test)",
       "delivered_at": "2026-10-02T21:41:28.564003+02:00"
+    },
+    {
+      "id": "2026-10-02T21:45:19.814139+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (21:45) - OPEN (basket test)",
+      "delivered_at": "2026-10-02T21:46:28.136966+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-10-02T21:40:19.815596+02:00",
+  "last_confirmed_at": "2026-10-02T21:45:19.814139+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T21:40:19.815596+02:00",
+    "at": "2026-10-02T21:45:19.814139+02:00",
     "eligible": true
   }
 }
