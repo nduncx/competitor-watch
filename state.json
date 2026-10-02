@@ -10,11 +10,11 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T16:24:48.036312+02:00",
+  "last_observed_at": "2026-10-02T16:29:48.043901+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "open",
+      "status": "unknown",
       "notice": "",
       "notice_transcript": [
         {
@@ -59,14 +59,50 @@
         },
         {
           "step": 0,
-          "notices": [],
+          "notices": [
+            {
+              "text": "Southern Fried Chicken Strips\nWould You Like Some Salad?\nSelect up to 3 options\n0/3\nLettuce\nOnion\nTomato\nAny Extras Inside?\nColeslaw\n\u00a30.60\nFried Onion\nFried Peppers\n\u00a30.80\nx1 Fried Egg\n\u00a30.80\nx2 Fried Egg\n\u00a31.60\nx3 Fried Egg\n\u00a32.40\nGrilled Tomatoes\n\u00a30.80\nFried Tomatoes\n\u00a30.80\nCheese\n\u00a30.80\nLamb Doner Kebab Meat\n\u00a31.80\nChicken Shawarma Meat\n\u00a31.80\nChoose a Sauce\nSelect up to 2 options\n0/2\nKetchup\nMayonnaise\nCocktail Sauce\nChilli Sauce\nAli Oli\nGarlic Sauce\nYoghurt Sauce\nGaucha Sauce\nAny Sides?\nSelect up to 50 options\n0/50\nx1 Chicken Pastella [SIDE]\n\u00a32.80\nx3 Mozzarella Sticks [SIDE]\n\u00a32.70\nx1 Calabacin Relleno [Stuffed Courgette] [SIDE]\n\u00a31.20\nx1 Torta De Acelga Slice [SIDE]\n\u00a33.00\nx1 Croquetta De Calabacin [SIDE]\n\u00a31.00\nx1 Croquetta De Espinaca [SIDE]\n\u00a31.00\nx1 Croquetta De Pollo [SIDE]\n\u00a31.00\nx1 Crab Claws [SIDE]\n\u00a31.20\nx5 Chicken Tenders [SIDE]\n\u00a36.00\nx5 American Chicken Wings [SIDE]\n\u00a36.00\nPopcorn Chicken Portion [SIDE]\n\u00a36.80\nChicken Nuggets Portion [SIDE]\n\u00a35.00\nPilao Rice [SIDE]\n\u00a32.50\nPastela With Almond\n\u00a33.80\nx1 Onion Bhaji [SIDE]\n\u00a31.20\nFull Chips\n\u00a34.00\nExtra Chips\n\u00a35.50\n1/2 Small Chips\n\u00a32.50\nChoose A Drink\nCoca Cola Can\n\u00a31.40\nCoke Zero Can\n\u00a31.40\nFanta Orange Can\n\u00a31.40\nFanta Lemon Can\n\u00a31.40\nSprite Can\n\u00a31.40\nVimto Can\n\u00a31.40\nSuntop Apple\n\u00a31.00\nSuntop Cola\n\u00a31.00\nSuntop Orange\n\u00a31.00\nSuntop red\n\u00a31.00\nBottle Of Water 500ml\n\u00a30.70\nBig Bottle Of Water 1.5L\n\u00a31.50\nPepsi\n\u00a31.40\nPepsi Max\n\u00a31.40\n7 Up\n\u00a31.40\nPepsi Can 330 Ml\n\u00a31.40\nNestea Maracuya 330 Ml\n\u00a31.70\nDon Simon Mango 330 ML\n\u00a31.40\nDon Simon Peach 330 ML\n\u00a31.40\nDon Simon Mandarine 330 ML\n\u00a31.40\nCoke Bottle 500 ML\n\u00a31.80\nTango Apple 330 ML\n\u00a31.40\nTango Orange 330 ML\n\u00a31.40\n1\nAdd to order\n\u00a36.50",
+              "buttons": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Add to order\n\u00a36.50"
+              ],
+              "has_inputs": false
+            }
+          ],
           "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "basket_probe": {
-        "passed": true,
+        "passed": false,
         "steps": [
           {
             "phase": "before_item",
@@ -162,21 +198,16 @@
                 "has_inputs": false
               }
             ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSouthern Fried Chicken Strips\n\u00a36.50\n1\nSubtotal\n\u00a36.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a39.79\nAdd special instructions\nCheckout\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or R",
-            "notices": []
           }
         ],
         "item": "Southern Fried Chicken Strips",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+        "reason": "notices or ordering unavailable after adding"
       }
     },
     {
-      "name": "Caffe Bottega",
-      "status": "unknown",
-      "notice": "",
+      "name": "Era",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -222,93 +253,6 @@
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "basket_probe": {}
-    },
-    {
-      "name": "Era",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters & Sharers\nSignature Sweet Potato Fries\nOur crispy homemade sweet potato fries cooked in olive oil and ",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters & Sharers\nSignature Sweet Potato Fries\nOur crispy homemade sweet potato fries cooked in olive oil and ",
-            "notices": [
-              {
-                "text": "Pepsi Max\n\nAn ice-cold 330 ml can of Pepsi Max maximum cola taste, zero sugar. Contains caffeine.\n\n1\nAdd to order\n\u00a32.90",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.90"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\nYour order\nPepsi Max\n\u00a32.90\n1\nSubtotal\n\u00a32.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.19\nAdd special instructions\nCheckout\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters &",
-            "notices": []
-          }
-        ],
-        "item": "Pepsi Max",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
     },
     {
       "name": "Bivoo",
@@ -394,6 +338,180 @@
           }
         ],
         "item": "Coke Classic Large 2L",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "City Mill Bakes",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSoft Drinks\nCoca-Cola 330ml\n\u00a31.24\nCoca-Cola Zero 330ml\n\u00a31.24\nFanta Lemon 330ml\n\u00a31.24\nStill Water 500ml\n\u00a31.24\nView allergy information\n\ue8cb",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSoft Drinks\nCoca-Cola 330ml\n\u00a31.24\nCoca-Cola Zero 330ml\n\u00a31.24\nFanta Lemon 330ml\n\u00a31.24\nStill Water 500ml\n\u00a31.24\nView allergy information\n\ue8cb\nCoca-Cola 330ml\n1\nAdd to order\n\u00a31.24",
+            "notices": [
+              {
+                "text": "Coca-Cola 330ml\n1\nAdd to order\n\u00a31.24",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.24"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca-Cola 330ml\n\u00a31.24\n1\nSubtotal\n\u00a31.24\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.53\nAdd special instructions\nCheckout\nSoft Drinks\n1\nCoca-Cola 330ml\n\u00a31.24\nCoca-Cola Zero 330ml\n\u00a31.24\nFanta Lemon 330ml\n\u00a31.24\nStill Water 500ml\n\u00a31.24\nView allergy information\n\ue8cb",
+            "notices": []
+          }
+        ],
+        "item": "Coca-Cola 330ml",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Cafe Louis",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nTea\nLunch Sandwiches\nBreads\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\n\u00a37.10\nWater\nCuevas Still Water SML\nBottle\n\u00a31.30\nCuevas Still Water LRG\nBottle\n\u00a32.20\nHighland Still Water LRG\nBottle\n\u00a32.10\nSolan de Cabras SML\nBottle\n\u00a31.30\nSolan de Cabras LRG\nBottle\n\u00a32.10\nCakes & Desserts\nMacarons (Ass",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nTea\nLunch Sandwiches\nBreads\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\n\u00a37.10\nWater\nCuevas Still Water SML\nBottle\n\u00a31.30\nCuevas Still Water LRG\nBottle\n\u00a32.20\nHighland Still Water LRG\nBottle\n\u00a32.10\nSolan de Cabras SML\nBottle\n\u00a31.30\nSolan de Cabras LRG\nBottle\n\u00a32.10\nCakes & Desserts\nMacarons (Ass",
+            "notices": [
+              {
+                "text": "Coke\n\nCan\n\n1\nAdd to order\n\u00a32.30",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.30"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.30\n1\nSubtotal\n\u00a32.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.59\nAdd special instructions\nCheckout\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nTea\nLunch Sandwiches\nBreads\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\n1\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\n\u00a37.10\nWater\nCuevas Still Water SML\nBottle\n\u00a31.30\nCuevas Still Water LRG\nBottle\n\u00a32.20\nHighland Still Water LRG\nBottle\n\u00a32.1",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -902,9 +1020,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-02T16:24:48.036312+02:00",
+  "last_confirmed_at": "2026-10-02T16:29:48.043901+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T16:24:48.036312+02:00",
+    "at": "2026-10-02T16:29:48.043901+02:00",
     "eligible": true
   }
 }
