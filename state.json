@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T18:24:48.043284+02:00",
+  "last_observed_at": "2026-10-02T18:29:48.042438+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -49,7 +49,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Beeyo",
+      "name": "Eroski VIP",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -85,7 +85,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Grocers Choice",
+      "name": "Gela Ti Amo",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -122,11 +122,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-30T19:10:59.020993+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (19:10) - OPEN (basket test)",
-      "delivered_at": "2026-09-30T19:12:06.612525+02:00"
-    },
     {
       "id": "2026-09-30T19:15:59.022542+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (19:15) - OPEN (basket test)",
@@ -621,13 +616,18 @@
       "id": "2026-10-02T18:24:48.043284+02:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (18:24)",
       "delivered_at": "2026-10-02T18:25:27.711810+02:00"
+    },
+    {
+      "id": "2026-10-02T18:29:48.042438+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (18:29)",
+      "delivered_at": "2026-10-02T18:30:45.596955+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-02T18:24:48.043284+02:00",
+  "last_confirmed_at": "2026-10-02T18:29:48.042438+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T18:24:48.043284+02:00",
+    "at": "2026-10-02T18:29:48.042438+02:00",
     "eligible": true
   }
 }
