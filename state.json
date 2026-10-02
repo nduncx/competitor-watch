@@ -10,11 +10,11 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T17:39:48.039302+02:00",
+  "last_observed_at": "2026-10-02T17:44:48.039017+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "open",
+      "status": "unknown",
       "notice": "",
       "notice_transcript": [
         {
@@ -59,14 +59,50 @@
         },
         {
           "step": 0,
-          "notices": [],
+          "notices": [
+            {
+              "text": "Southern Fried Chicken Strips\nWould You Like Some Salad?\nSelect up to 3 options\n0/3\nLettuce\nOnion\nTomato\nAny Extras Inside?\nColeslaw\n\u00a30.60\nFried Onion\nFried Peppers\n\u00a30.80\nx1 Fried Egg\n\u00a30.80\nx2 Fried Egg\n\u00a31.60\nx3 Fried Egg\n\u00a32.40\nGrilled Tomatoes\n\u00a30.80\nFried Tomatoes\n\u00a30.80\nCheese\n\u00a30.80\nLamb Doner Kebab Meat\n\u00a31.80\nChicken Shawarma Meat\n\u00a31.80\nChoose a Sauce\nSelect up to 2 options\n0/2\nKetchup\nMayonnaise\nCocktail Sauce\nChilli Sauce\nAli Oli\nGarlic Sauce\nYoghurt Sauce\nGaucha Sauce\nAny Sides?\nSelect up to 50 options\n0/50\nx1 Chicken Pastella [SIDE]\n\u00a32.80\nx3 Mozzarella Sticks [SIDE]\n\u00a32.70\nx1 Calabacin Relleno [Stuffed Courgette] [SIDE]\n\u00a31.20\nx1 Torta De Acelga Slice [SIDE]\n\u00a33.00\nx1 Croquetta De Calabacin [SIDE]\n\u00a31.00\nx1 Croquetta De Espinaca [SIDE]\n\u00a31.00\nx1 Croquetta De Pollo [SIDE]\n\u00a31.00\nx1 Crab Claws [SIDE]\n\u00a31.20\nx5 Chicken Tenders [SIDE]\n\u00a36.00\nx5 American Chicken Wings [SIDE]\n\u00a36.00\nPopcorn Chicken Portion [SIDE]\n\u00a36.80\nChicken Nuggets Portion [SIDE]\n\u00a35.00\nPilao Rice [SIDE]\n\u00a32.50\nPastela With Almond\n\u00a33.80\nx1 Onion Bhaji [SIDE]\n\u00a31.20\nFull Chips\n\u00a34.00\nExtra Chips\n\u00a35.50\n1/2 Small Chips\n\u00a32.50\nChoose A Drink\nCoca Cola Can\n\u00a31.40\nCoke Zero Can\n\u00a31.40\nFanta Orange Can\n\u00a31.40\nFanta Lemon Can\n\u00a31.40\nSprite Can\n\u00a31.40\nVimto Can\n\u00a31.40\nSuntop Apple\n\u00a31.00\nSuntop Cola\n\u00a31.00\nSuntop Orange\n\u00a31.00\nSuntop red\n\u00a31.00\nBottle Of Water 500ml\n\u00a30.70\nBig Bottle Of Water 1.5L\n\u00a31.50\nPepsi\n\u00a31.40\nPepsi Max\n\u00a31.40\n7 Up\n\u00a31.40\nPepsi Can 330 Ml\n\u00a31.40\nNestea Maracuya 330 Ml\n\u00a31.70\nDon Simon Mango 330 ML\n\u00a31.40\nDon Simon Peach 330 ML\n\u00a31.40\nDon Simon Mandarine 330 ML\n\u00a31.40\nCoke Bottle 500 ML\n\u00a31.80\nTango Apple 330 ML\n\u00a31.40\nTango Orange 330 ML\n\u00a31.40\n1\nAdd to order\n\u00a36.50",
+              "buttons": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Add to order\n\u00a36.50"
+              ],
+              "has_inputs": false
+            }
+          ],
           "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "basket_probe": {
-        "passed": true,
+        "passed": false,
         "steps": [
           {
             "phase": "before_item",
@@ -162,15 +198,10 @@
                 "has_inputs": false
               }
             ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSouthern Fried Chicken Strips\n\u00a36.50\n1\nSubtotal\n\u00a36.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a39.79\nAdd special instructions\nCheckout\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or R",
-            "notices": []
           }
         ],
         "item": "Southern Fried Chicken Strips",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+        "reason": "notices or ordering unavailable after adding"
       }
     },
     {
@@ -344,6 +375,188 @@
           }
         ],
         "item": "Pepsi Can",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Vinopolis Drinks & Wines",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "",
+              "buttons": [],
+              "has_inputs": false
+            },
+            {
+              "text": "Alcohol Awareness\nPlease be aware you need to be 18 years old or over to purchase this product. If you cannot prove your age upon collection you may not be able to collect your purchase\nContinue",
+              "buttons": [
+                "Continue"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": false,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSavor the rich taste of Glen Moray Classic for \u00a324.70! The perfect pour for every evening.\nSavor the fresh and lively Torres Moscatel Floralis for only \u00a310.25!\nTop Selling Items\nVermouth\nChampagne\nBritish Sparkling\nProsecco\nWhite Wines\nRose Wines\nRed Wines\nSweet Wines\nSherry and Port\nGin\nWhisky\nRum\nVodka\nCognac\nBrandy\nOther Spirits & Liqueurs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMontecillo Reserva\nRioja, Spain\n\u00a316.80\nYellow Tail Merlot\nAustralia\n\u00a312.90\nCasal Garcia Blanco Vinho Verde\nPortugal\n\u00a36.36\nSeptima Malbec\nMendoza Argentina\n\u00a321.30\nMarques de Caceres Reserva\nRioja, Spain\n\u00a318.00\nVermouth\nCinzano Rosso\n1 Litre\n\u00a310.80\nCinzano 1757 Dry vermouth\n1 Litre\n\u00a317.50\nChampagne\nLanson Brut Champagne\n\u00a348.70\nLanson Rose Champagne\n\u00a376.00\nMoet & Chandon Brut Champagne\n\u00a351.90\nMoet Chandon Rose Champagne\n\u00a363.50\nBesserat De Bellefon Cuvee Des Moines Brut Champagne\n\u00a356.20\nBesserat de Bellefon Cuvee Des Moines Sec Gold Champagne\n\u00a362.00\nLaurent Perrier Rose Champagne\n\u00a3113.50\nLouis Roederer Brut Champagne\n\u00a360.00\nBesserat de Bellefon Cuvee Des Moines Rose Champagne\n\u00a359.00\nBritish Sparkling\nWyfold British Sparking\nUK\n\u00a332.40\nProsecco\nGemma Di Luna Moscato Sparkling\nItaly\n\u00a39.95\nVoga Prosecco\nItaly\n\u00a311.60\nTeresa Rizzi Prosecco\nItaly\n\u00a311.03\nLamberti Prosecco extra dry\n\u00a39.80\nWhite Wines\nYellow Tail Chardonnay\nAustralia\n\u00a312.90\nSunday Bay Sauvignon Blanc\nNew Zealand\n\u00a316.20\nFortant Sauvignon Blanc\nFrance\n\u00a38.40\nLe Grand Chai Bordeaux Blanc\nFrance\n\u00a311.70\nPierre Brecht Riesling, Alsace\nFrance\n\u00a317.90\nVoga Moscato Frizzante\nItaly\n\u00a39.10\nVoga Pinot Grigio\nItaly\n\u00a39.40\nCa Montini Pinot Grigio\nTrentino, Italy\n\u00a312.40\nBolla Pinot Grigio Delle Venezie\nVeneto, Italy\n\u00a39.00\nFontana",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSavor the rich taste of Glen Moray Classic for \u00a324.70! The perfect pour for every evening.\nSavor the fresh and lively Torres Moscatel Floralis for only \u00a310.25!\nTop Selling Items\nVermouth\nChampagne\nBritish Sparkling\nProsecco\nWhite Wines\nRose Wines\nRed Wines\nSweet Wines\nSherry and Port\nGin\nWhisky\nRum\nVodka\nCognac\nBrandy\nOther Spirits & Liqueurs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMontecillo Reserva\nRioja, Spain\n\u00a316.80\nYellow Tail Merlot\nAustralia\n\u00a312.90\nCasal Garcia Blanco Vinho Verde\nPortugal\n\u00a36.36\nSeptima Malbec\nMendoza Argentina\n\u00a321.30\nMarques de Caceres Reserva\nRioja, Spain\n\u00a318.00\nVermouth\nCinzano Rosso\n1 Litre\n\u00a310.80\nCinzano 1757 Dry vermouth\n1 Litre\n\u00a317.50\nChampagne\nLanson Brut Champagne\n\u00a348.70\nLanson Rose Champagne\n\u00a376.00\nMoet & Chandon Brut Champagne\n\u00a351.90\nMoet Chandon Rose Champagne\n\u00a363.50\nBesserat De Bellefon Cuvee Des Moines Brut Champagne\n\u00a356.20\nBesserat de Bellefon Cuvee Des Moines Sec Gold Champagne\n\u00a362.00\nLaurent Perrier Rose Champagne\n\u00a3113.50\nLouis Roederer Brut Champagne\n\u00a360.00\nBesserat de Bellefon Cuvee Des Moines Rose Champagne\n\u00a359.00\nBritish Sparkling\nWyfold British Sparking\nUK\n\u00a332.40\nProsecco\nGemma Di Luna Moscato Sparkling\nItaly\n\u00a39.95\nVoga Prosecco\nItaly\n\u00a311.60\nTeresa Rizzi Prosecco\nItaly\n\u00a311.03\nLamberti Prosecco extra dry\n\u00a39.80\nWhite Wines\nYellow Tail Chardonnay\nAustralia\n\u00a312.90\nSunday Bay Sauvignon Blanc\nNew Zealand\n\u00a316.20\nFortant Sauvignon Blanc\nFrance\n\u00a38.40\nLe Grand Chai Bordeaux Blanc\nFrance\n\u00a311.70\nPierre Brecht Riesling, Alsace\nFrance\n\u00a317.90\nVoga Moscato Frizzante\nItaly\n\u00a39.10\nVoga Pinot Grigio\nItaly\n\u00a39.40\nCa Montini Pinot Grigio\nTrentino, Italy\n\u00a312.40\nBolla Pinot Grigio Delle Venezie\nVeneto, Italy\n\u00a39.00\nFontana",
+            "notices": [
+              {
+                "text": "Montecillo Reserva\n\nRioja, Spain\n\n1\nAdd to order\n\u00a316.80",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a316.80"
+                ],
+                "has_inputs": false
+              }
+            ]
+          }
+        ],
+        "item": "Montecillo Reserva",
+        "reason": "notices or ordering unavailable after adding"
+      }
+    },
+    {
+      "name": "Beeyo",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yoghurt Specials\nFrozen Yogurt\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.12\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.12\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.90\nFrozen Yoghurt Specials\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yoghurt Specials\nFrozen Yogurt\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.12\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.12\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.90\nFrozen Yoghurt Specials\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.",
+            "notices": [
+              {
+                "text": "Coca Cola\n1\nAdd to order\n\u00a32.00",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.00"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a32.00\nAdd special instructions\nCheckout\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yoghurt Specials\nFrozen Yogurt\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.12\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.12\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.90\nFrozen Yoghurt Specials\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with ",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -852,9 +1065,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-02T17:39:48.039302+02:00",
+  "last_confirmed_at": "2026-10-02T17:44:48.039017+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T17:39:48.039302+02:00",
+    "at": "2026-10-02T17:44:48.039017+02:00",
     "eligible": true
   }
 }
