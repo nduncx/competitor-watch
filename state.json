@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T21:00:19.812896+02:00",
+  "last_observed_at": "2026-10-02T21:05:19.813382+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -122,11 +122,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-30T21:42:48.236811+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (21:42) - OPEN (basket test)",
-      "delivered_at": "2026-09-30T21:43:42.699877+02:00"
-    },
     {
       "id": "2026-09-30T21:47:48.238876+02:00:delays",
       "subject": "Hungry Monkey: 21:47 check unconfirmed - last confirmed showing a long-delays warning at 21:42",
@@ -621,13 +616,18 @@
       "id": "2026-10-02T21:00:19.812896+02:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (21:00)",
       "delivered_at": "2026-10-02T21:00:58.108754+02:00"
+    },
+    {
+      "id": "2026-10-02T21:05:19.813382+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (21:05)",
+      "delivered_at": "2026-10-02T21:05:58.580992+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-02T21:00:19.812896+02:00",
+  "last_confirmed_at": "2026-10-02T21:05:19.813382+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T21:00:19.812896+02:00",
+    "at": "2026-10-02T21:05:19.813382+02:00",
     "eligible": true
   }
 }
