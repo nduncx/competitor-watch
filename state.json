@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T20:40:19.811310+02:00",
+  "last_observed_at": "2026-10-02T20:45:19.812296+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -61,93 +61,6 @@
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "basket_probe": {}
-    },
-    {
-      "name": "Ramsons Watergardens",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nRolito Tikka(NEW)\n\u00a32.20\nSmall Chips\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\u00a32.20\nLarge Chips\nCrunchy exter",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nRolito Tikka(NEW)\n\u00a32.20\nSmall Chips\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\u00a32.20\nLarge Chips\nCrunchy exter",
-            "notices": [
-              {
-                "text": "Small Chips\n\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\nSauce It Up!\nSelect up to 2 options\n0/2\nKetchup\nMayonnaise\nCocktail\nBBQ Sauce\nAlioli\n\u00a31.00\nMustard\nSriracha Chilli Sauce\nSalsa Pimienta [NEW]\n\u00a31.00\nSriracha Spicy Mayo Sauce [NEW]\nPiri Piri\nThai Sweet Chilli\nGaucha\nYoghurt Sauce\nPiccalilly\nBranston Pickle\nHoney Mustard\nSalt\nVinegar\nOlive Oil\nOlive Oil, Salt & Vinegar\nButter\nWould You Like Salt & Vinegar On Them Fries?\nSelect up to 2 options\n0/2\nAdd Salt\nAdd Vinegar\nFancy Any Sides?!\nSelect up to 1 option\n- - Small Chips\n\u00a32.20\n- - Large Chips\n\u00a33.75\n- - Small Sweet Potato Fries\n\u00a33.70\n- - Chicken Nuggets [Portion of 6]\n\u00a34.99\n- - Popcorn Chicken [Portion of 10]\n\u00a32.50\n- - Sweet Chilli Chicken Bites [Portion Of 6]\n\u00a34.80\n- - Chilli Cheese Poppers [Portion of 3]\n\u00a33.50\n- - Nacho Cheese Triangles [Portion Of 4]\n\u00a34.80\n- - Mozzarella Sticks [Portion of 6]\n\u00a35.40\n- - x1 Vegetable Samosa\n\u00a31.25\n- - x2 Vegetable Samosa [OFFER]\n\u00a32.25\n- - Rolito Tikka (NEW!!!)\n\u00a32.20\n- - x1 Chicken Samosa\n\u00a31.25\n- - x2 Chicken Samosa [ OFFER!!! ]\n\u00a32.25\n1\nAdd to order\n\u00a32.20",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.20"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Chips\n\u00a32.20\n1\nSubtotal\n\u00a32.20\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.49\nAdd special instructions\nCheckout\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nRolito Tikka(NEW)\n\u00a32.20\n1\nSmall Chip",
-            "notices": []
-          }
-        ],
-        "item": "Small Chips",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
     },
     {
       "name": "Boss Kitchen",
@@ -322,14 +235,96 @@
         "item": "Coke 330ml",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "Special Olympics Cafe",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nFalafel Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.80\nNacho Cheese Triangles: Crispy Triangles 4u\n\u00a33.80\nSide Serving of Rice\n\u00a31.50\nBBQ Sauce\n\u00a31.25\nKetchup\n\u00a31.25\nMayonnaise\n\u00a31.25\n",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nFalafel Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.80\nNacho Cheese Triangles: Crispy Triangles 4u\n\u00a33.80\nSide Serving of Rice\n\u00a31.50\nBBQ Sauce\n\u00a31.25\nKetchup\n\u00a31.25\nMayonnaise\n\u00a31.25\n",
+            "notices": [
+              {
+                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.30",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.30"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.30\n1\nSubtotal\n\u00a31.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.59\nAdd special instructions\nCheckout\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nFalafel Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.80\nNacho Cheese Trian",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola 33cl",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-30T21:22:48.237810+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (21:22) - OPEN (basket test)",
-      "delivered_at": "2026-09-30T21:23:39.717620+02:00"
-    },
     {
       "id": "2026-09-30T21:27:48.237841+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:27) - OPEN (basket test)",
@@ -824,13 +819,18 @@
       "id": "2026-10-02T20:40:19.811310+02:00:delays",
       "subject": "Hungry Monkey is taking orders again (20:40) - basket test passed",
       "delivered_at": "2026-10-02T20:41:26.700712+02:00"
+    },
+    {
+      "id": "2026-10-02T20:45:19.812296+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (20:45) - OPEN (basket test)",
+      "delivered_at": "2026-10-02T20:46:25.291010+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-10-02T20:40:19.811310+02:00",
+  "last_confirmed_at": "2026-10-02T20:45:19.812296+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T20:40:19.811310+02:00",
+    "at": "2026-10-02T20:45:19.812296+02:00",
     "eligible": true
   }
 }
