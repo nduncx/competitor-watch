@@ -10,11 +10,11 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T15:54:48.045059+02:00",
+  "last_observed_at": "2026-10-02T15:59:48.040412+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "open",
+      "status": "unknown",
       "notice": "",
       "notice_transcript": [
         {
@@ -59,14 +59,50 @@
         },
         {
           "step": 0,
-          "notices": [],
+          "notices": [
+            {
+              "text": "Southern Fried Chicken Strips\nWould You Like Some Salad?\nSelect up to 3 options\n0/3\nLettuce\nOnion\nTomato\nAny Extras Inside?\nColeslaw\n\u00a30.60\nFried Onion\nFried Peppers\n\u00a30.80\nx1 Fried Egg\n\u00a30.80\nx2 Fried Egg\n\u00a31.60\nx3 Fried Egg\n\u00a32.40\nGrilled Tomatoes\n\u00a30.80\nFried Tomatoes\n\u00a30.80\nCheese\n\u00a30.80\nLamb Doner Kebab Meat\n\u00a31.80\nChicken Shawarma Meat\n\u00a31.80\nChoose a Sauce\nSelect up to 2 options\n0/2\nKetchup\nMayonnaise\nCocktail Sauce\nChilli Sauce\nAli Oli\nGarlic Sauce\nYoghurt Sauce\nGaucha Sauce\nAny Sides?\nSelect up to 50 options\n0/50\nx1 Chicken Pastella [SIDE]\n\u00a32.80\nx3 Mozzarella Sticks [SIDE]\n\u00a32.70\nx1 Calabacin Relleno [Stuffed Courgette] [SIDE]\n\u00a31.20\nx1 Torta De Acelga Slice [SIDE]\n\u00a33.00\nx1 Croquetta De Calabacin [SIDE]\n\u00a31.00\nx1 Croquetta De Espinaca [SIDE]\n\u00a31.00\nx1 Croquetta De Pollo [SIDE]\n\u00a31.00\nx1 Crab Claws [SIDE]\n\u00a31.20\nx5 Chicken Tenders [SIDE]\n\u00a36.00\nx5 American Chicken Wings [SIDE]\n\u00a36.00\nPopcorn Chicken Portion [SIDE]\n\u00a36.80\nChicken Nuggets Portion [SIDE]\n\u00a35.00\nPilao Rice [SIDE]\n\u00a32.50\nPastela With Almond\n\u00a33.80\nx1 Onion Bhaji [SIDE]\n\u00a31.20\nFull Chips\n\u00a34.00\nExtra Chips\n\u00a35.50\n1/2 Small Chips\n\u00a32.50\nChoose A Drink\nCoca Cola Can\n\u00a31.40\nCoke Zero Can\n\u00a31.40\nFanta Orange Can\n\u00a31.40\nFanta Lemon Can\n\u00a31.40\nSprite Can\n\u00a31.40\nVimto Can\n\u00a31.40\nSuntop Apple\n\u00a31.00\nSuntop Cola\n\u00a31.00\nSuntop Orange\n\u00a31.00\nSuntop red\n\u00a31.00\nBottle Of Water 500ml\n\u00a30.70\nBig Bottle Of Water 1.5L\n\u00a31.50\nPepsi\n\u00a31.40\nPepsi Max\n\u00a31.40\n7 Up\n\u00a31.40\nPepsi Can 330 Ml\n\u00a31.40\nNestea Maracuya 330 Ml\n\u00a31.70\nDon Simon Mango 330 ML\n\u00a31.40\nDon Simon Peach 330 ML\n\u00a31.40\nDon Simon Mandarine 330 ML\n\u00a31.40\nCoke Bottle 500 ML\n\u00a31.80\nTango Apple 330 ML\n\u00a31.40\nTango Orange 330 ML\n\u00a31.40\n1\nAdd to order\n\u00a36.50",
+              "buttons": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Add to order\n\u00a36.50"
+              ],
+              "has_inputs": false
+            }
+          ],
           "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "basket_probe": {
-        "passed": true,
+        "passed": false,
         "steps": [
           {
             "phase": "before_item",
@@ -162,19 +198,164 @@
                 "has_inputs": false
               }
             ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSouthern Fried Chicken Strips\n\u00a36.50\n1\nSubtotal\n\u00a36.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a39.79\nAdd special instructions\nCheckout\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or R",
-            "notices": []
           }
         ],
         "item": "Southern Fried Chicken Strips",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+        "reason": "notices or ordering unavailable after adding"
       }
     },
     {
       "name": "Eat Happy",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Rock Noodles",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Royal Plaza Restaurant",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Caffe Bottega",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -231,20 +412,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving a snack? Get Big Chips for just \u00a33 and refreshing soft drinks for only \u00a31.30!\nTreat yourself to Chicken Tikka, Sausage or BBQ Chicken Tray - Served with salad for only \u00a34.50!\nTop Selling Items\nBaguettes & Wraps\nChips\nContainers\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nBig Chips\n\u00a33.00\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nBaguettes & Wraps\nPlain Chicken Baguette\nServed with salad\n\u00a34.50\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nBBQ Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nIndian Chicken Baguette\nServed with salad.\n\u00a34.50\nKefta Baguette\nServed with salad.\n\u00a34.50\nAfrican Chicken Baguette\nServed with salad.\n\u00a34.50\nMoroccan Special Baguette\nTuna Mortadella, salad and chips inside.\n\u00a34.50\nSausage Baguette\nServed with salad.\n\u00a34.00\nTuna Egg Mayonnaise Baguette\nServed with salad.\n\u00a33.90\nOmelette Baguette\nServed with salad.\n\u00a33.50\nSweet chill Baguette\nServed with salad.\n\u00a34.50\nTuna Mayonnaise Baguette\nServed with salad.\n\u00a33.50\nPeri Peri Chicken Baguette\nServed with salad.\n\u00a34.50\nChips\nBig Chips\n\u00a33.00\nSmall Chips\n\u00a32.00\nContainers\nPlain Chicken Tray\nServed with salad\n\u00a34.50\nChicken Tikka Tray\nServed with salad\n\u00a34.50\nMoroccan Chicken Tray\nServed with salad\n\u00a34.50\nBBQ Chicken Tray\nServed with salad\n\u00a34.50\nTandoori Chicken Tray\nServed with salad\n\u00a34.50\nBreaded Chicken Tray\nServed with salad\n\u00a34.50\nIndian Chicken Tray\nServed with salad\n\u00a34.50\nAfrican Chicken Tray\nServed with salad\n",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our selected Fish dishes! Rosada al Limone only for \u00a312.50!\nEnjoy our Special Scampi Sambuca for just \u00a314 - a must-try Italian delicacy!\nTop Selling Items\nBreakfast Menu\nAntipasti\nPesce e Carni\nPasta\nDalla Griglia\nSpecials\nSides\nDolce e Gelato\nSoft Drinks\nItalian White Wines\nItalian Red Wines\nSpanish Red Wines\nHouse Wine (Red or White)\nSpanish White Wines\nRose Wines\nBeers\nSparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nFettuccine Alfredo\nHam and mushrooms in a creamy parmesan sauce\n\u00a39.50\nGrilled Pork Fillets\nserved with chips\n\u00a312.00\nScaloppine alla Milanese\nBreaded beef. Served with chips.\n\u00a314.50\nPollo all' aglio\nChicken breast in a creamy white wine and garlic sauce. Served with chips.\n\u00a313.00\nCallos\n\u00a311.00\nBreakfast Menu\nServered till 12pm\nOmelette & topping of choice\n\u00a34.50\nScrambled egg with salmon\n\u00a35.95\nSausage Baguette\n\u00a34.50\nBacon Baguette\n\u00a34.50\nJamon Iberico Baguette\n\u00a35.00\nJamon Iberico with cheese Baguette\n\u00a36.00\nAntipasti\nZuppa del Giorno\nSoup of the day\n\u00a34.50\nInsalata Caprese\nTomato slices, mozzarella, basil, dressed\n\u00a37.50\nInsalata Greca\nTomato, onions, cucumber, feta, black olives, oregano, dressing\n\u00a37.50\nInsalata con Salmone Affumicato\nSmoked salmon, capers, onions, cream cheese, on a bed of lettuce\n\u00a38.00\nGamberetti alla Diavola\nLangostino Pil Pil or Al Ajillo\n\u00a38.50\nFunghi alla Diavola\nMushrooms Pil Pil or Al Ajillo\n\u00a37.50\nPane all' Aglio\nGarlic bread\n\u00a33.50\nPane all' Aglio con Mozzarella\nGarlic bread with mozzarella\n\u00a34.00\nBruschetta\nGarlic bread topped with chopped tomatoes, marinated in olive oil and garlic\n\u00a34.50\nPesce e Carni\nAll served with vegetables and potatoes\nRosada con Salsa Gambero\nMedallions of white fish, coo",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving a snack? Get Big Chips for just \u00a33 and refreshing soft drinks for only \u00a31.30!\nTreat yourself to Chicken Tikka, Sausage or BBQ Chicken Tray - Served with salad for only \u00a34.50!\nTop Selling Items\nBaguettes & Wraps\nChips\nContainers\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nBig Chips\n\u00a33.00\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nBaguettes & Wraps\nPlain Chicken Baguette\nServed with salad\n\u00a34.50\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nBBQ Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nIndian Chicken Baguette\nServed with salad.\n\u00a34.50\nKefta Baguette\nServed with salad.\n\u00a34.50\nAfrican Chicken Baguette\nServed with salad.\n\u00a34.50\nMoroccan Special Baguette\nTuna Mortadella, salad and chips inside.\n\u00a34.50\nSausage Baguette\nServed with salad.\n\u00a34.00\nTuna Egg Mayonnaise Baguette\nServed with salad.\n\u00a33.90\nOmelette Baguette\nServed with salad.\n\u00a33.50\nSweet chill Baguette\nServed with salad.\n\u00a34.50\nTuna Mayonnaise Baguette\nServed with salad.\n\u00a33.50\nPeri Peri Chicken Baguette\nServed with salad.\n\u00a34.50\nChips\nBig Chips\n\u00a33.00\nSmall Chips\n\u00a32.00\nContainers\nPlain Chicken Tray\nServed with salad\n\u00a34.50\nChicken Tikka Tray\nServed with salad\n\u00a34.50\nMoroccan Chicken Tray\nServed with salad\n\u00a34.50\nBBQ Chicken Tray\nServed with salad\n\u00a34.50\nTandoori Chicken Tray\nServed with salad\n\u00a34.50\nBreaded Chicken Tray\nServed with salad\n\u00a34.50\nIndian Chicken Tray\nServed with salad\n\u00a34.50\nAfrican Chicken Tray\nServed with salad\n",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our selected Fish dishes! Rosada al Limone only for \u00a312.50!\nEnjoy our Special Scampi Sambuca for just \u00a314 - a must-try Italian delicacy!\nTop Selling Items\nBreakfast Menu\nAntipasti\nPesce e Carni\nPasta\nDalla Griglia\nSpecials\nSides\nDolce e Gelato\nSoft Drinks\nItalian White Wines\nItalian Red Wines\nSpanish Red Wines\nHouse Wine (Red or White)\nSpanish White Wines\nRose Wines\nBeers\nSparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nFettuccine Alfredo\nHam and mushrooms in a creamy parmesan sauce\n\u00a39.50\nGrilled Pork Fillets\nserved with chips\n\u00a312.00\nScaloppine alla Milanese\nBreaded beef. Served with chips.\n\u00a314.50\nPollo all' aglio\nChicken breast in a creamy white wine and garlic sauce. Served with chips.\n\u00a313.00\nCallos\n\u00a311.00\nBreakfast Menu\nServered till 12pm\nOmelette & topping of choice\n\u00a34.50\nScrambled egg with salmon\n\u00a35.95\nSausage Baguette\n\u00a34.50\nBacon Baguette\n\u00a34.50\nJamon Iberico Baguette\n\u00a35.00\nJamon Iberico with cheese Baguette\n\u00a36.00\nAntipasti\nZuppa del Giorno\nSoup of the day\n\u00a34.50\nInsalata Caprese\nTomato slices, mozzarella, basil, dressed\n\u00a37.50\nInsalata Greca\nTomato, onions, cucumber, feta, black olives, oregano, dressing\n\u00a37.50\nInsalata con Salmone Affumicato\nSmoked salmon, capers, onions, cream cheese, on a bed of lettuce\n\u00a38.00\nGamberetti alla Diavola\nLangostino Pil Pil or Al Ajillo\n\u00a38.50\nFunghi alla Diavola\nMushrooms Pil Pil or Al Ajillo\n\u00a37.50\nPane all' Aglio\nGarlic bread\n\u00a33.50\nPane all' Aglio con Mozzarella\nGarlic bread with mozzarella\n\u00a34.00\nBruschetta\nGarlic bread topped with chopped tomatoes, marinated in olive oil and garlic\n\u00a34.50\nPesce e Carni\nAll served with vegetables and potatoes\nRosada con Salsa Gambero\nMedallions of white fish, coo",
             "notices": [
               {
-                "text": "Small Chips\nWould you like Sauce?\nAdd Ketchup\nAdd Cocktail Sauce\nAdd Mayonnaise\nAdd Gaucha Sauce\nAdd Alioli\nAdd Yogurt Sauce\nAdd Chilli\nAdd BBQ Sauce\nAdd Salt\nAdd Vinegar\n1\nAdd to order\n\u00a32.00",
+                "text": "Pepsi\n1\nAdd to order\n\u00a31.50",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.00"
+                  "Add to order\n\u00a31.50"
                 ],
                 "has_inputs": false
               }
@@ -252,16 +433,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Chips\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nCraving a snack? Get Big Chips for just \u00a33 and refreshing soft drinks for only \u00a31.30!\nTreat yourself to Chicken Tikka, Sausage or BBQ Chicken Tray - Served with salad for only \u00a34.50!\nTop Selling Items\nBaguettes & Wraps\nChips\nContainers\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nBig Chips\n\u00a33.00\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nBaguettes & Wraps\nPlain Chicken Baguette\nServed with salad\n\u00a34.50\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nBBQ Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nIndian Chicken Baguette\nServed with salad.\n\u00a34.50\nKefta Baguette\nServed with salad.\n\u00a34.50\nAfrican Chicken Baguette\nServed with salad.\n\u00a34.50\nMoroccan Special Baguette\nTuna Mortadella, salad and chips inside.\n\u00a34.50\nSausage Baguette\nServed with salad.\n\u00a34.00\nTuna Egg Mayonnaise Baguette\nServed with salad.\n\u00a33.90\nOmelette Baguette\nServed with salad.\n\u00a33.50\nSweet chill Baguette\nServed with salad.\n\u00a34.50\nTuna Mayonnaise Baguette\nServed with salad.\n\u00a33.50\nPeri Peri Chicken Baguette\nServed with salad.\n\u00a34.50\nChips\nBig Chips\n\u00a33.00\n1\nSmall Chips\n\u00a32.00\nContainers\nPlain Chicken Tray\nServed with salad\n\u00a34.50\nChicken Tikka Tray\nServed with salad\n\u00a34.50\nMoroccan Chicken Tray\nServed with salad\n\u00a34.50\nBBQ Chicken Tray\nServed with salad\n\u00a34.50\nTandoori Chicken Tray\nServed with salad\n\u00a34.50\nBreaded Chicken Tray\nSe",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nExperience our selected Fish dishes! Rosada al Limone only for \u00a312.50!\nEnjoy our Special Scampi Sambuca for just \u00a314 - a must-try Italian delicacy!\nTop Selling Items\nBreakfast Menu\nAntipasti\nPesce e Carni\nPasta\nDalla Griglia\nSpecials\nSides\nDolce e Gelato\nSoft Drinks\nItalian White Wines\nItalian Red Wines\nSpanish Red Wines\nHouse Wine (Red or White)\nSpanish White Wines\nRose Wines\nBeers\nSparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nFettuccine Alfredo\nHam and mushrooms in a creamy parmesan sauce\n\u00a39.50\nGrilled Pork Fillets\nserved with chips\n\u00a312.00\nScaloppine alla Milanese\nBreaded beef. Served with chips.\n\u00a314.50\nPollo all' aglio\nChicken breast in a creamy white wine and garlic sauce. Served with chips.\n\u00a313.00\nCallos\n\u00a311.00\nBreakfast Menu\nServered till 12pm\nOmelette & topping of choice\n\u00a34.50\nScrambled egg with salmon\n\u00a35.95\nSausage Baguette\n\u00a34.50\nBacon Baguette\n\u00a34.50\nJamon Iberico Baguette\n\u00a35.00\nJamon Iberico with cheese Baguette\n\u00a36.00\nAntipasti\nZuppa del Giorno\nSoup of the day\n\u00a34.50\nInsalata Caprese\nTomato slices, mozzarella, basil, dressed\n\u00a37.50\nInsalata Greca\nTomato, onions, cucumber, feta, black olives, oregano, dressing\n\u00a37.50\nInsalata con Salmone Affumicato\nSmoked salmon, capers, onions, cream cheese, on a bed of lettuce\n\u00a38.00\nGamberetti alla Diavola\nLangostino Pil Pil or Al Ajillo\n\u00a38.50\nFunghi alla Diavola\nMushrooms Pil Pil or Al Ajillo\n\u00a37.50\nPane all' Aglio\nGarlic bread\n\u00a33.50\nPane all' Aglio con Mozzarella\nGarlic bread with mozzarella\n\u00a34.00\nBruschetta\nGarlic bread topped with chopped tomatoes, marinated in olive oil and garlic\n\u00a34.50\nPesce e Car",
             "notices": []
           }
         ],
-        "item": "Small Chips",
+        "item": "Pepsi",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Rock Noodles",
+      "name": "Era",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -318,20 +499,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSavor our special Indonesian Bak Mie Goreng Jawa only for \u00a39.95!\nTry our speciality dishes like Lamb Rendang - fresh, flavourful & satisfying, only for \u00a312.99!\nTop Selling Items\nNew Dish! A Must Try!\nSpeciality Dishes & Rices\nTempting Rock Noodles Starters\nVegetarian\nSweet Treat & Snacks\nTempting Rock Noodles Starters For Vegans\nNoodles & Nasi Goreng Dishes\nDumpling\nKids Meal for \u00a310.99\nASIAN SALADS\nRice in Box\nDessert / Ice Cream\nFruits\nSauces Extra Tub\nSmoothie\nSoft Drink and Water\nJuices\nEnergy Drink\nBeer & Cider\nWine & Sangria\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIndonesian Noodles\nIndonesian Noodles are medium & curly noodles with egg, broccoli, carrot, onion & mushrooms\n\u00a37.99\nPad Thai (Rice Flat Noodles)\nGluten Free Flat Rice Noodles Cooked With a Peanut Sauce and Tamarind and Garnished with Lemon with egg, onion, carrot, peppers, mushrooms, broccoli, lime, spring onion, coriander and crunchy peanuts and bean sprout, pepper, cabbage\n\u00a39.99\nNuts\nNasi Goreng\nSpecial Indonesian Fried Rice With Homemade Paste, Medium Spice, Onions, Carrots, Peppers, Cabbage, Broccoli & Courgettes, Red Onion, Beansprouts, Spring Onion, Fried Egg, Cucumber\n\u00a39.98\nVegetarian\nSesame Chicken\nMarinated Chicken Breast Cubes Cooked with a sweet sauce and sesame oil and vegetables\n\u00a310.99\n3. Japanese Udon Noodles\nGluten Free Noodles with Thick Egg, pepper, onion, carrots, mushrooms, broccoli and cabbage, Green Beans\n\u00a39.76\nNew Dish! A Must Try!\nFresh roast duck boneless, served with rice or noodle is your option, in hoisin sauce. A must try!\nRoast duck in Hoisin Sauce with Stir Fried Noodles\n3 In 1, Roast Duck,with hoidin sauce and serve with stir fried noodles and ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters & Sharers\nSignature Sweet Potato Fries\nOur crispy homemade sweet potato fries cooked in olive oil and ",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSavor our special Indonesian Bak Mie Goreng Jawa only for \u00a39.95!\nTry our speciality dishes like Lamb Rendang - fresh, flavourful & satisfying, only for \u00a312.99!\nTop Selling Items\nNew Dish! A Must Try!\nSpeciality Dishes & Rices\nTempting Rock Noodles Starters\nVegetarian\nSweet Treat & Snacks\nTempting Rock Noodles Starters For Vegans\nNoodles & Nasi Goreng Dishes\nDumpling\nKids Meal for \u00a310.99\nASIAN SALADS\nRice in Box\nDessert / Ice Cream\nFruits\nSauces Extra Tub\nSmoothie\nSoft Drink and Water\nJuices\nEnergy Drink\nBeer & Cider\nWine & Sangria\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIndonesian Noodles\nIndonesian Noodles are medium & curly noodles with egg, broccoli, carrot, onion & mushrooms\n\u00a37.99\nPad Thai (Rice Flat Noodles)\nGluten Free Flat Rice Noodles Cooked With a Peanut Sauce and Tamarind and Garnished with Lemon with egg, onion, carrot, peppers, mushrooms, broccoli, lime, spring onion, coriander and crunchy peanuts and bean sprout, pepper, cabbage\n\u00a39.99\nNuts\nNasi Goreng\nSpecial Indonesian Fried Rice With Homemade Paste, Medium Spice, Onions, Carrots, Peppers, Cabbage, Broccoli & Courgettes, Red Onion, Beansprouts, Spring Onion, Fried Egg, Cucumber\n\u00a39.98\nVegetarian\nSesame Chicken\nMarinated Chicken Breast Cubes Cooked with a sweet sauce and sesame oil and vegetables\n\u00a310.99\n3. Japanese Udon Noodles\nGluten Free Noodles with Thick Egg, pepper, onion, carrots, mushrooms, broccoli and cabbage, Green Beans\n\u00a39.76\nNew Dish! A Must Try!\nFresh roast duck boneless, served with rice or noodle is your option, in hoisin sauce. A must try!\nRoast duck in Hoisin Sauce with Stir Fried Noodles\n3 In 1, Roast Duck,with hoidin sauce and serve with stir fried noodles and ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters & Sharers\nSignature Sweet Potato Fries\nOur crispy homemade sweet potato fries cooked in olive oil and ",
             "notices": [
               {
-                "text": "Coke 33ml\n1\nAdd to order\n\u00a31.60",
+                "text": "Pepsi Max\n\nAn ice-cold 330 ml can of Pepsi Max maximum cola taste, zero sugar. Contains caffeine.\n\n1\nAdd to order\n\u00a32.90",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.60"
+                  "Add to order\n\u00a32.90"
                 ],
                 "has_inputs": false
               }
@@ -339,11 +520,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 33ml\n\u00a31.60\n1\nSubtotal\n\u00a31.60\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.89\nAdd special instructions\nCheckout\nSavor our special Indonesian Bak Mie Goreng Jawa only for \u00a39.95!\nTry our speciality dishes like Lamb Rendang - fresh, flavourful & satisfying, only for \u00a312.99!\nTop Selling Items\nNew Dish! A Must Try!\nSpeciality Dishes & Rices\nTempting Rock Noodles Starters\nVegetarian\nSweet Treat & Snacks\nTempting Rock Noodles Starters For Vegans\nNoodles & Nasi Goreng Dishes\nDumpling\nKids Meal for \u00a310.99\nASIAN SALADS\nRice in Box\nDessert / Ice Cream\nFruits\nSauces Extra Tub\nSmoothie\nSoft Drink and Water\nJuices\nEnergy Drink\nBeer & Cider\nWine & Sangria\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIndonesian Noodles\nIndonesian Noodles are medium & curly noodles with egg, broccoli, carrot, onion & mushrooms\n\u00a37.99\nPad Thai (Rice Flat Noodles)\nGluten Free Flat Rice Noodles Cooked With a Peanut Sauce and Tamarind and Garnished with Lemon with egg, onion, carrot, peppers, mushrooms, broccoli, lime, spring onion, coriander and crunchy peanuts and bean sprout, pepper, cabbage\n\u00a39.99\nNuts\nNasi Goreng\nSpecial Indonesian Fried Rice With Homemade Paste, Medium Spice, Onions, Carrots, Peppers, Cabbage, Broccoli & Courgettes, Red Onion, Beansprouts, Spring Onion, Fried Egg, Cucumber\n\u00a39.98\nVegetarian\nSesame Chicken\nMarinated Chicken Breast Cubes Cooked with a sweet sauce and sesame oil and vegetables\n\u00a310.99\n3. Japanese Udon Noodles\nGluten Free Noodles with Thick Egg, pepper, onion, carrots, mushrooms, broccoli and cabbage, Green Beans\n\u00a39.76\nNew Dish! A Must Try!\nFresh roast duck boneless, served with rice or noodle is your option, in hoisin sauce. A must try!\nRoast duck in Hoisin Sauc",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\nYour order\nPepsi Max\n\u00a32.90\n1\nSubtotal\n\u00a32.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.19\nAdd special instructions\nCheckout\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\n\u00a312.20\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters &",
             "notices": []
           }
         ],
-        "item": "Coke 33ml",
+        "item": "Pepsi Max",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -852,9 +1033,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-02T15:54:48.045059+02:00",
+  "last_confirmed_at": "2026-10-02T15:59:48.040412+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T15:54:48.045059+02:00",
+    "at": "2026-10-02T15:59:48.040412+02:00",
     "eligible": true
   }
 }
