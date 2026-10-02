@@ -10,46 +10,10 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T20:25:19.812304+02:00",
+  "last_observed_at": "2026-10-02T20:30:19.812174+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "closed",
-      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
-              "buttons": [
-                "GOT IT"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ]
-        },
-        {
-          "step": 0,
-          "error": "TimeoutError"
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "OAKBERRY",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -119,14 +83,45 @@
       "unresolved_notice": true,
       "order_button_after_notices": false,
       "basket_probe": {}
+    },
+    {
+      "name": "Boss Kitchen",
+      "status": "closed",
+      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
+              "buttons": [
+                "GOT IT"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ]
+        },
+        {
+          "step": 0,
+          "error": "TimeoutError"
+        }
+      ],
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-30T21:07:48.236698+02:00:delays",
-      "subject": "Hungry Monkey is taking orders again (21:07) - basket test passed",
-      "delivered_at": "2026-09-30T21:08:39.843615+02:00"
-    },
     {
       "id": "2026-09-30T21:12:48.238726+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:12) - OPEN (basket test)",
@@ -621,13 +616,18 @@
       "id": "2026-10-02T20:25:19.812304+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:25)",
       "delivered_at": "2026-10-02T20:25:57.628690+02:00"
+    },
+    {
+      "id": "2026-10-02T20:30:19.812174+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (20:30)",
+      "delivered_at": "2026-10-02T20:30:57.380851+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-02T20:25:19.812304+02:00",
+  "last_confirmed_at": "2026-10-02T20:30:19.812174+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T20:25:19.812304+02:00",
+    "at": "2026-10-02T20:30:19.812174+02:00",
     "eligible": true
   }
 }
