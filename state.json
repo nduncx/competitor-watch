@@ -10,18 +10,18 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-01T22:56:43.791419+02:00",
+  "last_observed_at": "2026-10-02T13:34:48.041330+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -44,7 +44,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -174,15 +174,15 @@
       }
     },
     {
-      "name": "Birdie Cafe",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "name": "Sanu Brunch & Co",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -205,7 +205,94 @@
           "step": 1,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nButter & Jam Toast\n\u00a32.50\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ha",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nButter & Jam Toast\n\u00a32.50\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ha",
+            "notices": [
+              {
+                "text": "Chicken Strips\nWould you like Sauce?\nAdd Gaucho Sauce\nAdd Mayo\nAdd Ketchup\nAdd Caesar Sauce\nAdd HP Sauce\nAdd BBQ Sauce\nAdd Yoghurt Sauce\nAdd Ali-Oli\nOut of stock\nAdd Queso Sauce\nWould you like some Savoury Extras?\nAdd Cheese\n\u00a31.00\nAdd Bacon\n\u00a31.00\nAdd Sausage\n\u00a31.00\nAdd Chicken\n\u00a31.00\nAdd Salmon\n\u00a31.00\nAdd Salad\n\u00a31.00\nAdd Scrambled Egg\n\u00a31.00\nAdd Poached Egg\n\u00a31.00\nAdd Fried Egg\n\u00a31.00\nAdd Ham\n\u00a31.00\nAdd Avocado\n\u00a31.00\nAdd Mushrooms\n\u00a31.00\nAdd Tuna\n\u00a31.00\nWould you like some Sweet Extras?\nAdd Nutella\n\u00a31.00\nAdd Kinder Bueno Sauce\n\u00a31.00\nAdd Kinder Bueno Bar\n\u00a31.00\nAdd Milky Way\n\u00a31.00\nAdd Maple Syrup\n\u00a31.00\nAdd Peanut Butter\n\u00a31.00\nAdd Strawberry Jam\n\u00a31.00\nAdd Butter\n\u00a31.00\nAdd Cream Cheese\n\u00a31.00\nAdd Honey\n\u00a31.00\nAdd Granola\n\u00a31.00\nAdd Fresh Fruits\n\u00a31.00\n1\nAdd to order\n\u00a36.95",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a36.95"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nChicken Strips\n\u00a36.95\n1\nSubtotal\n\u00a36.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a310.24\nAdd special instructions\nCheckout\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savo",
+            "notices": []
+          }
+        ],
+        "item": "Chicken Strips",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Birdie Cafe",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -259,164 +346,9 @@
         "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
-    },
-    {
-      "name": "Donations, Gifts, Vouchers and Bags!",
-      "status": "unknown",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": [
-            {
-              "text": "Donate, Vouchers, Gifts or Bag For Life ?\nDonate \u00a32 - Get a \u00a32 Hungry Monkey Voucher\nLimited Edition Monkey!\nHungry Monkey Vouchers\nGifts\nBag For Life\nContinue",
-              "buttons": [
-                "Continue"
-              ],
-              "has_inputs": false
-            }
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Neha Curry House",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nTop Selling Items\nB\nBooze Promos!\nVapes\nChinese Entrees\nIndian Starters\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nKid's Meal\nTandoori Kebabs & Tikka\nChips\nNeha Fried Chicken\nThai Noodles (Gluten Free)\nChinese Noodles\nStuffed Naans\nThai Curries (*NEW*)\nRice Dishes & Biryani Dishes\nIndian Veg Curries\nIndian Chicken Curries (Boneless)\nIndian Chicken Curries (On-The-Bone)\nIndian Seafood Curries\nIndian Lamb Curries\nSauces & Chutneys\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThai Green Curry Chicken (Chef Special!)\n\u00a38.75\n**NEW** Chicken Dilruba (MUST TRY!)\nTender Chicken cooked in a delicious curry with a milder, tangy, and creamy taste,\n\u00a38.40\nPaneer Dopiaza\nSoft paneer cubes cooked in a rich, spiced onion-based gravy with double the onionssaut\u00e9ed and caramelizedfor layers of sweet and savory flavor. A hearty North Indian favorite.\n\u00a36.99\nVegetarian\nChicken Hakka Noodles\nStir-fried noodles tossed with tender chicken, fresh vegetables, and savory Indo-Chinese sauces. A delicious, well-balanced dish full of flavor and texture.\n\u00a37.99\nKung Pao King Prawn\nJuicy king prawns stir-fried with bell peppers, onions, dried chilies, and roasted peanuts in a sweet, spicy Indo-Chinese sauce. A bold and flavorful se",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nTop Selling Items\nBooze Promos!\nVapes\nChinese Entrees\nIndian Starters\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nKid's Meal\nTandoori Kebabs & Tikka\nChips\nNeha Fried Chicken\nThai Noodles (Gluten Free)\nChinese Noodles\nStuffed Naans\nThai Curries (*NEW*)\nRice Dishes & Biryani Dishes\nIndian Veg Curries\nIndian Chicken Curries (Boneless)\nIndian Chicken Curries (On-The-Bone)\nIndian Seafood Curries\nIndian Lamb Curries\nSauces & Chutneys\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThai Green Curry Chicken (Chef Special!)\n\u00a38.75\n**NEW** Chicken Dilruba (MUST TRY!)\nTender Chicken cooked in a delicious curry with a milder, tangy, and creamy taste,\n\u00a38.40\nPaneer Dopiaza\nSoft paneer cubes cooked in a rich, spiced onion-based gravy with double the onionssaut\u00e9ed and caramelizedfor layers of sweet and savory flavor. A hearty North Indian favorite.\n\u00a36.99\nVegetarian\nChicken Hakka Noodles\nStir-fried noodles tossed with tender chicken, fresh vegetables, and savory Indo-Chinese sauces. A delicious, well-balanced dish full of flavor and texture.\n\u00a37.99\nKung Pao King Prawn\nJuicy king prawns stir-fried with bell peppers, onions, dried chilies, and roasted peanuts in a sweet, spicy Indo-Chinese sauce. A bold and flavorful seaf",
-            "notices": [
-              {
-                "text": "Coke Zero (Glass Bottle)\n\n330ml Bottle\n\n1\nAdd to order\n\u00a31.99",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.99"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero (Glass Bottle)\n\u00a31.99\n1\nSubtotal\n\u00a31.99\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.28\nAdd special instructions\nCheckout\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nTop Selling Items\nBooze Promos!\nVapes\nChinese Entrees\nIndian Starters\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nKid's Meal\nTandoori Kebabs & Tikka\nChips\nNeha Fried Chicken\nThai Noodles (Gluten Free)\nChinese Noodles\nStuffed Naans\nThai Curries (*NEW*)\nRice Dishes & Biryani Dishes\nIndian Veg Curries\nIndian Chicken Curries (Boneless)\nIndian Chicken Curries (On-The-Bone)\nIndian Seafood Curries\nIndian Lamb Curries\nSauces & Chutneys\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThai Green Curry Chicken (Chef Special!)\n\u00a38.75\n**NEW** Chicken Dilruba (MUST TRY!)\nTender Chicken cooked in a delicious curry with a milder, tangy, and creamy taste,\n\u00a38.40\nPaneer Dopiaza\nSoft paneer cubes cooked in a rich, spiced onion-based gravy with double the onionssaut\u00e9ed and caramelizedfor layers of sweet and savory flavor. A hearty North Indian favorite.\n\u00a36.99\nVegetarian\nChicken Hakka Noodles\nStir-fried noodles tossed with tender chicken, fresh vegetables, and savory Indo-Chinese sauces. A delicious, well-balanced dish full of flavor and texture.\n\u00a37.99\nKung Pao King Prawn\nJuicy king prawns stir-fried with bell",
-            "notices": []
-          }
-        ],
-        "item": "Coke Zero (Glass Bottle)",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-30T18:50:59.021774+02:00:delays",
-      "subject": "Hungry Monkey is warning of long delays (18:50) - OPEN (basket test)",
-      "delivered_at": "2026-09-30T18:52:00.930764+02:00"
-    },
-    {
-      "id": "2026-09-30T18:55:59.020324+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (18:55) - OPEN (basket test)",
-      "delivered_at": "2026-09-30T18:57:01.488098+02:00"
-    },
     {
       "id": "2026-09-30T19:00:59.020264+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (19:00) - OPEN (basket test)",
@@ -906,40 +838,24 @@
       "id": "monitor:2026-10-01T23:01:43.719521+02:00:no_samples",
       "subject": "Competitor Watch: no suitable stores available to test",
       "delivered_at": "2026-10-01T23:03:10.313794+02:00"
+    },
+    {
+      "id": "2026-10-02T13:34:48.041330+02:00:delays",
+      "subject": "Hungry Monkey: 13:34 check unconfirmed - last confirmed showing a long-delays warning at 22:56",
+      "delivered_at": "2026-10-02T13:35:43.042078+02:00"
+    },
+    {
+      "id": "monitor:2026-10-02T13:34:47.963345+02:00:restored",
+      "subject": "Competitor Watch: suitable stores available again",
+      "delivered_at": "2026-10-02T13:35:43.266709+02:00"
     }
   ],
-  "recovery_streak": 0,
-  "last_result": "delays",
+  "recovery_streak": 1,
+  "last_result": "open",
   "last_confirmed_at": "2026-10-01T22:56:43.791419+02:00",
   "last_sample_check": {
-    "at": "2026-10-01T23:27:17.164602+02:00",
-    "eligible": false,
-    "exclusions_confirmed": true,
-    "venues": [
-      {
-        "name": "Essaouira",
-        "status": "venue_closed"
-      },
-      {
-        "name": "3Bros Takeout",
-        "status": "venue_closed"
-      },
-      {
-        "name": "4 Stagioni",
-        "status": "venue_closed"
-      },
-      {
-        "name": "54 Dining & Caf\u00e9",
-        "status": "venue_closed"
-      },
-      {
-        "name": "AquaTerra",
-        "status": "venue_closed"
-      },
-      {
-        "name": "BABA",
-        "status": "venue_closed"
-      }
-    ]
-  }
+    "at": "2026-10-02T13:34:48.041330+02:00",
+    "eligible": true
+  },
+  "recovery_candidate_at": "2026-10-02T13:34:48.041330+02:00"
 }
