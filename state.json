@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T15:19:48.037901+02:00",
+  "last_observed_at": "2026-10-02T15:24:48.034470+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -262,6 +262,56 @@
     },
     {
       "name": "Jumpers Wheel",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Poptata Chicken",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -318,15 +368,15 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself for less - Specials of the Week from only \u00a35! Tasty meals, tiny prices!\nSavor the oceans finest - Ling, Grilled Tuna & King Prawns only from \u00a37!\nTop Selling Items\nSpecial of the Week\nCroquet\nSalads\nSeafood\nMains\nSauce\nSide Dishes\nDessert\nDrinks\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPeppered Steak with Chips\nTernera a la Pimienta con Patatas Fritas\n\u00a36.50\nSquid\nCalamares\n\u00a39.00\nMini Bread Roll with Pork Loin\nMontadito de Lomo\n\u00a31.80\nLing\nRosada\n\u00a37.00\nSerranito\nSerranito\n\u00a33.20\nSpecial of the Week\nGuiso de jibia con Patatas\n\u00a35.00\nStews of the Week\nGuisos de la Semana\n\u00a36.00\nPargo a la espada\n\u00a39.00\nCroquet\nCroquetas Cochinillo\n\u00a34.00\nCroquetas Rabo De Torro\n\u00a34.00\nCroquetas de Jam\u00f3n\n\u00a34.00\nCroquetas Setas\n\u00a34.00\nSalads\nBread Rolls with Butter\nPan y Mantequilla\n\u00a30.80\nOlives\nAceitunas\n\u00a33.50\nMixed Salad\nEnsalada Mixta\n\u00a34.50\nTomato Salad\nTomate Alinado\n\u00a33.00\nFried Green Peppers\nPimientos Fritos\n\u00a33.00\nRussian Salad\nEnsaladilla Rusa\n\u00a34.50\nOctopus Salad\nEnsaladilla de Pulpo\n\u00a37.50\nGrilled Asparagus\nEsparragos a la Plancha\nOut of stock\nGrilled Vegetables\nVerduras a la Plancha\n\u00a33.50\nSeafood\nDeep Fried Anchovies\nBoquerones\n\u00a36.50\nAnchovies in Vinegar\nBoquerones en Vinagre\n\u00a36.50\nStuffed Anchovies\nBoquerones Rellenos\n\u00a36.50\nAnchovies in Lemon\nBoquerones al Limon\n\u00a36.50\nGrilled Sardines\nSardinas a la Plancha\n\u00a36.50\nLing\nRosada\n\u00a37.00\nSwordfish\nPez Espada\n\u00a37.00\nGrilled Tuna\nAtun a la Plancha\n\u00a37.00\nRed Mullet\nSalmonete\n\u00a37.00\nBaby Squid\nPuntillitas\n\u00a39.00\nFish Fillet in Brandy Sauce\nPescado al Co\u00f1ac\n\u00a37.00\nBattered Fish\nPescado Rebozado\n\u00a37.00\nSquid\nCalamares\n\u00a39.00\nBaby Cuttlefish\nChocos (Plancha o frito)\n\u00a37.00\nClams\nAlmejas\n\u00a37.00\nVenus Clams\nCon",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a343!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a320!\n\u2b50\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE Premium Sauces - Choose your favourites!\n\u00a345.00\nTop Selling Items\nA quick look at our top selle",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself for less - Specials of the Week from only \u00a35! Tasty meals, tiny prices!\nSavor the oceans finest - Ling, Grilled Tuna & King Prawns only from \u00a37!\nTop Selling Items\nSpecial of the Week\nCroquet\nSalads\nSeafood\nMains\nSauce\nSide Dishes\nDessert\nDrinks\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPeppered Steak with Chips\nTernera a la Pimienta con Patatas Fritas\n\u00a36.50\nSquid\nCalamares\n\u00a39.00\nMini Bread Roll with Pork Loin\nMontadito de Lomo\n\u00a31.80\nLing\nRosada\n\u00a37.00\nSerranito\nSerranito\n\u00a33.20\nSpecial of the Week\nGuiso de jibia con Patatas\n\u00a35.00\nStews of the Week\nGuisos de la Semana\n\u00a36.00\nPargo a la espada\n\u00a39.00\nCroquet\nCroquetas Cochinillo\n\u00a34.00\nCroquetas Rabo De Torro\n\u00a34.00\nCroquetas de Jam\u00f3n\n\u00a34.00\nCroquetas Setas\n\u00a34.00\nSalads\nBread Rolls with Butter\nPan y Mantequilla\n\u00a30.80\nOlives\nAceitunas\n\u00a33.50\nMixed Salad\nEnsalada Mixta\n\u00a34.50\nTomato Salad\nTomate Alinado\n\u00a33.00\nFried Green Peppers\nPimientos Fritos\n\u00a33.00\nRussian Salad\nEnsaladilla Rusa\n\u00a34.50\nOctopus Salad\nEnsaladilla de Pulpo\n\u00a37.50\nGrilled Asparagus\nEsparragos a la Plancha\nOut of stock\nGrilled Vegetables\nVerduras a la Plancha\n\u00a33.50\nSeafood\nDeep Fried Anchovies\nBoquerones\n\u00a36.50\nAnchovies in Vinegar\nBoquerones en Vinagre\n\u00a36.50\nStuffed Anchovies\nBoquerones Rellenos\n\u00a36.50\nAnchovies in Lemon\nBoquerones al Limon\n\u00a36.50\nGrilled Sardines\nSardinas a la Plancha\n\u00a36.50\nLing\nRosada\n\u00a37.00\nSwordfish\nPez Espada\n\u00a37.00\nGrilled Tuna\nAtun a la Plancha\n\u00a37.00\nRed Mullet\nSalmonete\n\u00a37.00\nBaby Squid\nPuntillitas\n\u00a39.00\nFish Fillet in Brandy Sauce\nPescado al Co\u00f1ac\n\u00a37.00\nBattered Fish\nPescado Rebozado\n\u00a37.00\nSquid\nCalamares\n\u00a39.00\nBaby Cuttlefish\nChocos (Plancha o frito)\n\u00a37.00\nClams\nAlmejas\n\u00a37.00\nVenus Clams\nCon",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a343!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a320!\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE Premium Sauces - Choose your favourites!\n\u00a345.00\nTop Selling Items\nA quick look at our top sellers",
             "notices": [
               {
-                "text": "Coke\n\nSmall Bottle\n\n1\nAdd to order\n\u00a32.00",
+                "text": "Coke\n1\nAdd to order\n\u00a32.00",
                 "buttons": [
                   "",
                   "",
@@ -339,7 +389,7 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nTreat yourself for less - Specials of the Week from only \u00a35! Tasty meals, tiny prices!\nSavor the oceans finest - Ling, Grilled Tuna & King Prawns only from \u00a37!\nTop Selling Items\nSpecial of the Week\nCroquet\nSalads\nSeafood\nMains\nSauce\nSide Dishes\nDessert\nDrinks\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPeppered Steak with Chips\nTernera a la Pimienta con Patatas Fritas\n\u00a36.50\nSquid\nCalamares\n\u00a39.00\nMini Bread Roll with Pork Loin\nMontadito de Lomo\n\u00a31.80\nLing\nRosada\n\u00a37.00\nSerranito\nSerranito\n\u00a33.20\nSpecial of the Week\nGuiso de jibia con Patatas\n\u00a35.00\nStews of the Week\nGuisos de la Semana\n\u00a36.00\nPargo a la espada\n\u00a39.00\nCroquet\nCroquetas Cochinillo\n\u00a34.00\nCroquetas Rabo De Torro\n\u00a34.00\nCroquetas de Jam\u00f3n\n\u00a34.00\nCroquetas Setas\n\u00a34.00\nSalads\nBread Rolls with Butter\nPan y Mantequilla\n\u00a30.80\nOlives\nAceitunas\n\u00a33.50\nMixed Salad\nEnsalada Mixta\n\u00a34.50\nTomato Salad\nTomate Alinado\n\u00a33.00\nFried Green Peppers\nPimientos Fritos\n\u00a33.00\nRussian Salad\nEnsaladilla Rusa\n\u00a34.50\nOctopus Salad\nEnsaladilla de Pulpo\n\u00a37.50\nGrilled Asparagus\nEsparragos a la Plancha\nOut of stock\nGrilled Vegetables\nVerduras a la Plancha\n\u00a33.50\nSeafood\nDeep Fried Anchovies\nBoquerones\n\u00a36.50\nAnchovies in Vinegar\nBoquerones en Vinagre\n\u00a36.50\nStuffed Anchovies\nBoquerones Rellenos\n\u00a36.50\nAnchovies in Lemon\nBoquerones al Limon\n\u00a36.50\nGrilled Sardines\nSardinas a la Plancha\n\u00a36.50\nLing\nRosada\n\u00a37.00\nSwordfish\nPez Espada\n\u00a37.00\nGrilled Tuna\nAtun a la Plancha\n\u00a37.00\nRed Mullet\nSalmonete\n\u00a37.00\nBaby Squid\nPuntillitas\n\u00a39.00\nFish Fillet in Brandy Sauce\nPescado al Co\u00f1ac\n\u00a37.00\nBattered Fish\nPescado Rebozado\n\u00a37.00\nSquid\nCa",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a343!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a320!\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE P",
             "notices": []
           }
         ],
@@ -852,9 +902,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-02T15:19:48.037901+02:00",
+  "last_confirmed_at": "2026-10-02T15:24:48.034470+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T15:19:48.037901+02:00",
+    "at": "2026-10-02T15:24:48.034470+02:00",
     "eligible": true
   }
 }
