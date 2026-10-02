@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T17:29:48.047193+02:00",
+  "last_observed_at": "2026-10-02T17:34:48.041336+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -174,156 +174,6 @@
       }
     },
     {
-      "name": "Cafe Louis",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {}
-    },
-    {
-      "name": "Crown Pharmacy",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {}
-    },
-    {
-      "name": "Rodilla",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {}
-    },
-    {
       "name": "Costa Coffee",
       "status": "open",
       "notice": "",
@@ -411,8 +261,8 @@
       }
     },
     {
-      "name": "Hotel Chocolat",
-      "status": "unknown",
+      "name": "Piece Of Cake",
+      "status": "open",
       "notice": "",
       "notice_transcript": [
         {
@@ -454,11 +304,48 @@
         {
           "step": 2,
           "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dietary Cupcakes: Lemon, Chocolate & more for \u00a34.08! (Pre-order 24hrs)\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nToday's Specials\nMini Brownie Box\n\u00a325.20\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nDairy Milk Cupcake\nLuxury Range. Chocolate sponge cupcake filled and topped with Cadbury Dairy Milk ganache and Dairy Milk chocolate decoration.\n\u00a33.90\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed Velvet & White Chocolate Chip Cookies\n\u00a33.00\nCupcakes\nNutella Cupcake.\nLuxury Range. Chocolate sponge cupcake filled with Nutella, topped with hazelnuts, Nutella mousse, lashings of Nutella and a hazelnut choc",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dietary Cupcakes: Lemon, Chocolate & more for \u00a34.08! (Pre-order 24hrs)\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nToday's Specials\nMini Brownie Box\n\u00a325.20\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nDairy Milk Cupcake\nLuxury Range. Chocolate sponge cupcake filled and topped with Cadbury Dairy Milk ganache and Dairy Milk chocolate decoration.\n\u00a33.90\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed Velvet & White Chocolate Chip Cookies\n\u00a33.00\nCupcakes\nNutella Cupcake.\nLuxury Range. Chocolate sponge cupcake filled with Nutella, topped with hazelnuts, Nutella mousse, lashings of Nutella and a hazelnut choc",
+            "notices": [
+              {
+                "text": "Pepsi Can\n1\nAdd to order\n\u00a31.70",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.70"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Can\n\u00a31.70\n1\nSubtotal\n\u00a31.70\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.99\nAdd special instructions\nCheckout\nEnjoy our Special Dietary Cupcakes: Lemon, Chocolate & more for \u00a34.08! (Pre-order 24hrs)\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nToday's Specials\nMini Brownie Box\n\u00a325.20\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nDairy Milk Cupcake\nLuxury Range. Chocolate sponge cupcake filled and topped with Cadbury Dairy Milk ganache and Dairy Milk chocolate decoration.\n\u00a33.90\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed Velvet & White Chocolate Chip Cookies\n\u00a33.00\nCupcakes\nNutella Cupcake.\nLuxury Range. Chocolate sponge cupcak",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi Can",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
@@ -965,9 +852,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-02T17:29:48.047193+02:00",
+  "last_confirmed_at": "2026-10-02T17:34:48.041336+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T17:29:48.047193+02:00",
+    "at": "2026-10-02T17:34:48.041336+02:00",
     "eligible": true
   }
 }
