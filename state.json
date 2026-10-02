@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T22:40:19.818791+02:00",
+  "last_observed_at": "2026-10-02T22:45:19.816401+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -174,7 +174,57 @@
       }
     },
     {
-      "name": "Flame Grill & Indian Tex Mex",
+      "name": "Smash & Stack",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Burger King",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -231,20 +281,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Tandoori Specials from Chicken Shaslik to Lamb Chops! Add just \u00a34 to make it a main!\nDiscover our All-Time Favourites from \u00a315.95! Savour classics like Beef Stroganoff & Thai Red Curry!\nTop Selling Items\nStarters\nIndian Starters\nTandoori Specials\nIndian Mains\nFlame's Indian Specials\nFlame's All Time Favorite\nVegetarian Dishes\nAsian Mains (Indo-Chinese)\nNaan Bread\nFlame Grill Special\nHomemade Burgers\nOur Noodles\nFish\nSide Winders\nRice (Basmati)\nSalads\nKids Menu\nSoft Drinks\nBottled / Can Beer\nCider\nRed Wine\nWhite Wine\nRose Wine\nRubbles / Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Pasanda\nChicken stuffed with cheese & spinach cooked with a creamy pepper sauce. Can be ordered either mild, medium or hot.\n\u00a314.95\nTeryaki\nYour choice of meat stir fry with peppers and onions in a teriyaki sauce. Served with rice or noodles.\n\u00a315.95\nBBQ Ribs\nSlow cooked pork ribs with bbq sauce served with homemade fries and coleslaw & corn cob.\n\u00a317.95\nChicken Fajita\nChicken cooked in fajita spices served on a sizzling plate with onion, peppers & warm tortilla on the side with onion, tomato salad, cheese, guacamole & sour cream.\n\u00a315.95\nThai Green Curry\nA rich, fragrant & mildly curry with homemade mild green curry past coconut milk and your choice of meat, served with rice.\n\u00a315.95\nStarters\nAsian Spring Rolls\nHomemade spring roll stuffed with mix vegetable with asian spices served with sweet chilli.\n\u00a37.95\nNachos\nNachos sauce with cheese baked on the oven served with guacamole and sour cream.\n\u00a37.95\nChilli Cheese Bite\nServed with sweet chili sauce.\n\u00a37.95\nKorean Chicken\nCrispy deep fried chicken marinated in a flavorful blend of spices & fried to p",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nLONG CHICKEN Served with Chips and Drink\nMayonnaise, Lettuce\n\u00a311.10\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips and Drink\n\u00a313.20\n2X LONG SPICY CHICKEN MEAL for \u00a316!\nYour favourite menu now in",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Tandoori Specials from Chicken Shaslik to Lamb Chops! Add just \u00a34 to make it a main!\nDiscover our All-Time Favourites from \u00a315.95! Savour classics like Beef Stroganoff & Thai Red Curry!\nTop Selling Items\nStarters\nIndian Starters\nTandoori Specials\nIndian Mains\nFlame's Indian Specials\nFlame's All Time Favorite\nVegetarian Dishes\nAsian Mains (Indo-Chinese)\nNaan Bread\nFlame Grill Special\nHomemade Burgers\nOur Noodles\nFish\nSide Winders\nRice (Basmati)\nSalads\nKids Menu\nSoft Drinks\nBottled / Can Beer\nCider\nRed Wine\nWhite Wine\nRose Wine\nRubbles / Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Pasanda\nChicken stuffed with cheese & spinach cooked with a creamy pepper sauce. Can be ordered either mild, medium or hot.\n\u00a314.95\nTeryaki\nYour choice of meat stir fry with peppers and onions in a teriyaki sauce. Served with rice or noodles.\n\u00a315.95\nBBQ Ribs\nSlow cooked pork ribs with bbq sauce served with homemade fries and coleslaw & corn cob.\n\u00a317.95\nChicken Fajita\nChicken cooked in fajita spices served on a sizzling plate with onion, peppers & warm tortilla on the side with onion, tomato salad, cheese, guacamole & sour cream.\n\u00a315.95\nThai Green Curry\nA rich, fragrant & mildly curry with homemade mild green curry past coconut milk and your choice of meat, served with rice.\n\u00a315.95\nStarters\nAsian Spring Rolls\nHomemade spring roll stuffed with mix vegetable with asian spices served with sweet chilli.\n\u00a37.95\nNachos\nNachos sauce with cheese baked on the oven served with guacamole and sour cream.\n\u00a37.95\nChilli Cheese Bite\nServed with sweet chili sauce.\n\u00a37.95\nKorean Chicken\nCrispy deep fried chicken marinated in a flavorful blend of spices & fried to p",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nLONG CHICKEN Served with Chips and Drink\nMayonnaise, Lettuce\n\u00a311.10\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips and Drink\n\u00a313.20\n2X LONG SPICY CHICKEN MEAL for \u00a316!\nYour favourite menu now in",
             "notices": [
               {
-                "text": "Pepsi Cola (33cl.)\n1\nAdd to order\n\u00a32.00",
+                "text": "Coke\n1\nAdd to order\n\u00a33.30",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.00"
+                  "Add to order\n\u00a33.30"
                 ],
                 "has_inputs": false
               }
@@ -252,16 +302,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Cola (33cl.)\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nEnjoy our Tandoori Specials from Chicken Shaslik to Lamb Chops! Add just \u00a34 to make it a main!\nDiscover our All-Time Favourites from \u00a315.95! Savour classics like Beef Stroganoff & Thai Red Curry!\nTop Selling Items\nStarters\nIndian Starters\nTandoori Specials\nIndian Mains\nFlame's Indian Specials\nFlame's All Time Favorite\nVegetarian Dishes\nAsian Mains (Indo-Chinese)\nNaan Bread\nFlame Grill Special\nHomemade Burgers\nOur Noodles\nFish\nSide Winders\nRice (Basmati)\nSalads\nKids Menu\nSoft Drinks\nBottled / Can Beer\nCider\nRed Wine\nWhite Wine\nRose Wine\nRubbles / Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Pasanda\nChicken stuffed with cheese & spinach cooked with a creamy pepper sauce. Can be ordered either mild, medium or hot.\n\u00a314.95\nTeryaki\nYour choice of meat stir fry with peppers and onions in a teriyaki sauce. Served with rice or noodles.\n\u00a315.95\nBBQ Ribs\nSlow cooked pork ribs with bbq sauce served with homemade fries and coleslaw & corn cob.\n\u00a317.95\nChicken Fajita\nChicken cooked in fajita spices served on a sizzling plate with onion, peppers & warm tortilla on the side with onion, tomato salad, cheese, guacamole & sour cream.\n\u00a315.95\nThai Green Curry\nA rich, fragrant & mildly curry with homemade mild green curry past coconut milk and your choice of meat, served with rice.\n\u00a315.95\nStarters\nAsian Spring Rolls\nHomemade spring roll stuffed with mix vegetable with asian spices served with sweet chilli.\n\u00a37.95\nNachos\nNachos sauce with cheese baked on the oven served with guacamole and sour cream.\n\u00a37.95\nChilli Cheese Bite\nServed with sweet chi",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.30\n1\nSubtotal\n\u00a33.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.59\nAdd special instructions\nCheckout\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nLONG CHICKEN Served with Chips and Drink\nMayonnaise, Lettuce\n\u00a311.10\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. S",
             "notices": []
           }
         ],
-        "item": "Pepsi Cola (33cl.)",
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Mamma Mia",
+      "name": "Chinese Kitchen",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -318,20 +368,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out Focaccia e Bruschetta from \u00a34.90, with flavours like Aglio e Burro or al Pomodoro!\nDiscover our delicious Pastas only from \u00a312.50! Try our inconic Spaghetti Bolognese & more!\nTop Selling Items\nAntipasti / Starters\nFocaccia e Bruschetta\nInsalata / Salads\nPizzas\nPastas\nCarne e Pesce / Meat and Fish\nSides & Sauces\nDolci / Desserts\nSoft Drinks\nHot Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRose Wines\nProsecco\nTop Selling Items\nA quick look at our top sellers chosen by you!\n60. Lasagna al Forno\nClassic lasagna baked in our wood burning oven\n\u00a314.50\n11. Focaccia con Formaggio\nDrizzled with garlic infused olive oil, mozzarella & oregano\n\u00a35.50\nVegetarian\n50. Spaghetti Bolognese\nClassic rich beef Bolognese served with spaghetti\n\u00a312.50\n24. Margherita\nTomato sauce & mozzarella cheese\n\u00a39.00\nVegetarian\n36. Pepperoni\nTomato sauce, mozzarella & pepperoni\n\u00a311.00\nAntipasti / Starters\n1. Zuppa del Giorno\nFresh soup made daily with seasonal ingredients\n\u00a36.90\nVegetarian\n2. Polpette Napoli\nSpicy beef meatballs cooked in a napolitana sauce with mozzarella cheese\n\u00a39.50\nHot\n3. Beef Carpaccio\nThinly sliced fillet steak marinated with lemon juice, fresh rocket salad and parmesan shavings\n\u00a312.90\n4. Gambas Pil-Pil\nSizzling king prawns in a fresh chilli and garlic oil\n\u00a311.90\n5. Provolone Al Forno\nItalian smoked cheese melted in our wood-burning oven with Italian herbs\n\u00a39.00\nVegetarian\n6. Funghi Trifolati\nMushrooms with garlic, herbs and white wine\n\u00a36.90\nVegetarian\n7. Funghi Cuccini\nFresh mushrooms cooked in butter and blues cheese with a touch of cream\n\u00a38.50\nVegetarian\n8. Carpaccio di Polpo\nThinly sliced octopus with lemon, salt, paprika, a touch of black pepper & drizzled with o",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Price Crash Offers - whether you're dining solo or in a group, a meal waiting for you!\nExperience our Special Meals: Braised Eggplant, Assorted Shrimp & more from 8.50!\nTop Selling Items\nPrice Crash Offers!\nSpecial Meals (new menu)\nBubble Milk Tea\nZang Zang Tea\nFruit Tea\nDragon Boat Festival zongzi\nSoup\nAppetiser\nSeafood\nDuck Specials\nMeat\nChicken\nNoodles\nRice Dishes\nVegetarian\nTomato Dishes\nRice Noodles\nChinese Dim Sum\nLunch Menu\nDrinks\nSauces\nDesserts\nSoft Drinks\nBeer & Cider\nBeers and Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\n66. Chicken Noodles\n\u00a37.20\n11. Salt & Pepper Spare Ribs\n\u00a39.00\nHot\n40. Peking Duck (Half) No Bone\nServed with 10 Pancakes, Cucumber & Sauce\n\u00a321.00\n61A. Sweet and Sour Chicken Hong Kong Style\nPineapple, Peppers, Sweet and sour\n\u00a38.50\n10. Spare Ribs Peking Style\n\u00a39.50\nPrice Crash Offers!\nA. Meal For One Person - Low Fat Dishes\nMixed Chinese Vegetables + Plain Soft Noodles\n\u00a313.80\nB. Meal For Two People - Low Fat Dishes\nSliced Beef with Mushrooms + Chicken Soft Noodles + Boiled Rice + Kung Po Chilli Chicken. ( \u00a310.50 p.person )\n\u00a326.80\nC. Meal for a Minimum or Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken Peking Style + Fried Mixed Vegetables + Egg Fried Rice.\n\u00a329.00\nD. Meal for a Minimum of Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken with Mushrooms + Vegetable Noodle + Special Fried Rice.\n\u00a337.00\nE. Meals for Three People or More\nPrawn Crackers + Crispy Beef Szechuan Style + Sweet and Sour Pork Peking Style + Roast Pork with Mushrooms + Chicken in Pepper and Black Bean Sauce + Mixed Vegetable + Beef Noodles & Special Fried Rice\n\u00a360.00\nF. Meal for Three People",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out Focaccia e Bruschetta from \u00a34.90, with flavours like Aglio e Burro or al Pomodoro!\nDiscover our delicious Pastas only from \u00a312.50! Try our inconic Spaghetti Bolognese & more!\nTop Selling Items\nAntipasti / Starters\nFocaccia e Bruschetta\nInsalata / Salads\nPizzas\nPastas\nCarne e Pesce / Meat and Fish\nSides & Sauces\nDolci / Desserts\nSoft Drinks\nHot Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRose Wines\nProsecco\nTop Selling Items\nA quick look at our top sellers chosen by you!\n60. Lasagna al Forno\nClassic lasagna baked in our wood burning oven\n\u00a314.50\n11. Focaccia con Formaggio\nDrizzled with garlic infused olive oil, mozzarella & oregano\n\u00a35.50\nVegetarian\n50. Spaghetti Bolognese\nClassic rich beef Bolognese served with spaghetti\n\u00a312.50\n24. Margherita\nTomato sauce & mozzarella cheese\n\u00a39.00\nVegetarian\n36. Pepperoni\nTomato sauce, mozzarella & pepperoni\n\u00a311.00\nAntipasti / Starters\n1. Zuppa del Giorno\nFresh soup made daily with seasonal ingredients\n\u00a36.90\nVegetarian\n2. Polpette Napoli\nSpicy beef meatballs cooked in a napolitana sauce with mozzarella cheese\n\u00a39.50\nHot\n3. Beef Carpaccio\nThinly sliced fillet steak marinated with lemon juice, fresh rocket salad and parmesan shavings\n\u00a312.90\n4. Gambas Pil-Pil\nSizzling king prawns in a fresh chilli and garlic oil\n\u00a311.90\n5. Provolone Al Forno\nItalian smoked cheese melted in our wood-burning oven with Italian herbs\n\u00a39.00\nVegetarian\n6. Funghi Trifolati\nMushrooms with garlic, herbs and white wine\n\u00a36.90\nVegetarian\n7. Funghi Cuccini\nFresh mushrooms cooked in butter and blues cheese with a touch of cream\n\u00a38.50\nVegetarian\n8. Carpaccio di Polpo\nThinly sliced octopus with lemon, salt, paprika, a touch of black pepper & drizzled with o",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Price Crash Offers - whether you're dining solo or in a group, a meal waiting for you!\nExperience our Special Meals: Braised Eggplant, Assorted Shrimp & more from 8.50!\nTop Selling Items\nPrice Crash Offers!\nSpecial Meals (new menu)\nBubble Milk Tea\nZang Zang Tea\nFruit Tea\nDragon Boat Festival zongzi\nSoup\nAppetiser\nSeafood\nDuck Specials\nMeat\nChicken\nNoodles\nRice Dishes\nVegetarian\nTomato Dishes\nRice Noodles\nChinese Dim Sum\nLunch Menu\nDrinks\nSauces\nDesserts\nSoft Drinks\nBeer & Cider\nBeers and Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\n66. Chicken Noodles\n\u00a37.20\n11. Salt & Pepper Spare Ribs\n\u00a39.00\nHot\n40. Peking Duck (Half) No Bone\nServed with 10 Pancakes, Cucumber & Sauce\n\u00a321.00\n61A. Sweet and Sour Chicken Hong Kong Style\nPineapple, Peppers, Sweet and sour\n\u00a38.50\n10. Spare Ribs Peking Style\n\u00a39.50\nPrice Crash Offers!\nA. Meal For One Person - Low Fat Dishes\nMixed Chinese Vegetables + Plain Soft Noodles\n\u00a313.80\nB. Meal For Two People - Low Fat Dishes\nSliced Beef with Mushrooms + Chicken Soft Noodles + Boiled Rice + Kung Po Chilli Chicken. ( \u00a310.50 p.person )\n\u00a326.80\nC. Meal for a Minimum or Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken Peking Style + Fried Mixed Vegetables + Egg Fried Rice.\n\u00a329.00\nD. Meal for a Minimum of Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken with Mushrooms + Vegetable Noodle + Special Fried Rice.\n\u00a337.00\nE. Meals for Three People or More\nPrawn Crackers + Crispy Beef Szechuan Style + Sweet and Sour Pork Peking Style + Roast Pork with Mushrooms + Chicken in Pepper and Black Bean Sauce + Mixed Vegetable + Beef Noodles & Special Fried Rice\n\u00a360.00\nF. Meal for Three People",
             "notices": [
               {
-                "text": "Diet Coke\n\n0.33 cl\n\n1\nAdd to order\n\u00a31.90",
+                "text": "Coke\n1\nAdd to order\n\u00a31.80",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.90"
+                  "Add to order\n\u00a31.80"
                 ],
                 "has_inputs": false
               }
@@ -339,11 +389,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nDiet Coke\n\u00a31.90\n1\nSubtotal\n\u00a31.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.19\nAdd special instructions\nCheckout\nDon't miss out Focaccia e Bruschetta from \u00a34.90, with flavours like Aglio e Burro or al Pomodoro!\nDiscover our delicious Pastas only from \u00a312.50! Try our inconic Spaghetti Bolognese & more!\nTop Selling Items\nAntipasti / Starters\nFocaccia e Bruschetta\nInsalata / Salads\nPizzas\nPastas\nCarne e Pesce / Meat and Fish\nSides & Sauces\nDolci / Desserts\nSoft Drinks\nHot Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRose Wines\nProsecco\nTop Selling Items\nA quick look at our top sellers chosen by you!\n60. Lasagna al Forno\nClassic lasagna baked in our wood burning oven\n\u00a314.50\n11. Focaccia con Formaggio\nDrizzled with garlic infused olive oil, mozzarella & oregano\n\u00a35.50\nVegetarian\n50. Spaghetti Bolognese\nClassic rich beef Bolognese served with spaghetti\n\u00a312.50\n24. Margherita\nTomato sauce & mozzarella cheese\n\u00a39.00\nVegetarian\n36. Pepperoni\nTomato sauce, mozzarella & pepperoni\n\u00a311.00\nAntipasti / Starters\n1. Zuppa del Giorno\nFresh soup made daily with seasonal ingredients\n\u00a36.90\nVegetarian\n2. Polpette Napoli\nSpicy beef meatballs cooked in a napolitana sauce with mozzarella cheese\n\u00a39.50\nHot\n3. Beef Carpaccio\nThinly sliced fillet steak marinated with lemon juice, fresh rocket salad and parmesan shavings\n\u00a312.90\n4. Gambas Pil-Pil\nSizzling king prawns in a fresh chilli and garlic oil\n\u00a311.90\n5. Provolone Al Forno\nItalian smoked cheese melted in our wood-burning oven with Italian herbs\n\u00a39.00\nVegetarian\n6. Funghi Trifolati\nMushrooms with garlic, herbs and white wine\n\u00a36.90\nVegetarian\n7. Funghi Cuccini\nFresh mushrooms cooked in butter and blues cheese with a touch of cream\n\u00a38.50\nVegetarian\n8. Carpacci",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.80\n1\nSubtotal\n\u00a31.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.09\nAdd special instructions\nCheckout\nEnjoy our Price Crash Offers - whether you're dining solo or in a group, a meal waiting for you!\nExperience our Special Meals: Braised Eggplant, Assorted Shrimp & more from 8.50!\nTop Selling Items\nPrice Crash Offers!\nSpecial Meals (new menu)\nBubble Milk Tea\nZang Zang Tea\nFruit Tea\nDragon Boat Festival zongzi\nSoup\nAppetiser\nSeafood\nDuck Specials\nMeat\nChicken\nNoodles\nRice Dishes\nVegetarian\nTomato Dishes\nRice Noodles\nChinese Dim Sum\nLunch Menu\nDrinks\nSauces\nDesserts\nSoft Drinks\nBeer & Cider\nBeers and Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\n66. Chicken Noodles\n\u00a37.20\n11. Salt & Pepper Spare Ribs\n\u00a39.00\nHot\n40. Peking Duck (Half) No Bone\nServed with 10 Pancakes, Cucumber & Sauce\n\u00a321.00\n61A. Sweet and Sour Chicken Hong Kong Style\nPineapple, Peppers, Sweet and sour\n\u00a38.50\n10. Spare Ribs Peking Style\n\u00a39.50\nPrice Crash Offers!\nA. Meal For One Person - Low Fat Dishes\nMixed Chinese Vegetables + Plain Soft Noodles\n\u00a313.80\nB. Meal For Two People - Low Fat Dishes\nSliced Beef with Mushrooms + Chicken Soft Noodles + Boiled Rice + Kung Po Chilli Chicken. ( \u00a310.50 p.person )\n\u00a326.80\nC. Meal for a Minimum or Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken Peking Style + Fried Mixed Vegetables + Egg Fried Rice.\n\u00a329.00\nD. Meal for a Minimum of Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken with Mushrooms + Vegetable Noodle + Special Fried Rice.\n\u00a337.00\nE. Meals for Three People or More\nPrawn Crackers + Crispy Beef Szechuan Style + Sweet and Sour Pork Peking Style + Roast Pork with Mushrooms + Chicken in Pepper and Black ",
             "notices": []
           }
         ],
-        "item": "Diet Coke",
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -852,9 +902,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-02T22:40:19.818791+02:00",
+  "last_confirmed_at": "2026-10-02T22:45:19.816401+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T22:40:19.818791+02:00",
+    "at": "2026-10-02T22:45:19.816401+02:00",
     "eligible": true
   }
 }
