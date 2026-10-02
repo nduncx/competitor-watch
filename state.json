@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T16:59:48.036962+02:00",
+  "last_observed_at": "2026-10-02T17:04:48.037497+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -174,106 +174,6 @@
       }
     },
     {
-      "name": "Bivoo",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {}
-    },
-    {
-      "name": "City Mill Bakes",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {}
-    },
-    {
       "name": "Cafe Louis",
       "status": "open",
       "notice": "",
@@ -331,12 +231,12 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nBreads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nLunch Sandwiches\nTea\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\nOut of stock\nCinnamon Rolls\n\u00a33.95\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\nOut of stock\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\nOut of stock\nPlain Sourdough 500gr\nOut of stock\nSourdough 800gr\nOut of stock\nLarge Baguette\n\u00a31.60\nWalnut Sourdough\nOut of stock\nPlain Sourdough 1kg\nOut of s",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nBreads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nLunch Sandwiches\nTea\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\nOut of stock\nCinnamon Rolls\nOut of stock\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\nOut of stock\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\nOut of stock\nPlain Sourdough 500gr\nOut of stock\nSourdough 800gr\nOut of stock\nLarge Baguette\n\u00a31.60\nWalnut Sourdough\nOut of stock\nPlain Sourdough 1kg\nO",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nBreads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nLunch Sandwiches\nTea\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\nOut of stock\nCinnamon Rolls\n\u00a33.95\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\nOut of stock\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\nOut of stock\nPlain Sourdough 500gr\nOut of stock\nSourdough 800gr\nOut of stock\nLarge Baguette\n\u00a31.60\nWalnut Sourdough\nOut of stock\nPlain Sourdough 1kg\nOut of s",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nBreads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nLunch Sandwiches\nTea\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\nOut of stock\nCinnamon Rolls\nOut of stock\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\nOut of stock\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\nOut of stock\nPlain Sourdough 500gr\nOut of stock\nSourdough 800gr\nOut of stock\nLarge Baguette\n\u00a31.60\nWalnut Sourdough\nOut of stock\nPlain Sourdough 1kg\nO",
             "notices": [
               {
                 "text": "Coke\n\nCan\n\n1\nAdd to order\n\u00a32.30",
@@ -352,7 +252,7 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.30\n1\nSubtotal\n\u00a32.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.59\nAdd special instructions\nCheckout\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nBreads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nLunch Sandwiches\nTea\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\n1\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\nOut of stock\nCinnamon Rolls\n\u00a33.95\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\nOut of stock\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\nOut of stock\nPlain Sourdough 500gr\nOut of stock\nSourdough ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.30\n1\nSubtotal\n\u00a32.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.59\nAdd special instructions\nCheckout\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nBreads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nLunch Sandwiches\nTea\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\n1\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\nOut of stock\nCinnamon Rolls\nOut of stock\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\nOut of stock\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\nOut of stock\nPlain Sourdough 500gr\nOut of stock\nSou",
             "notices": []
           }
         ],
@@ -952,9 +852,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-02T16:59:48.036962+02:00",
+  "last_confirmed_at": "2026-10-02T17:04:48.037497+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T16:59:48.036962+02:00",
+    "at": "2026-10-02T17:04:48.037497+02:00",
     "eligible": true
   }
 }
