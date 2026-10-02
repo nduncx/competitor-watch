@@ -10,46 +10,10 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T21:05:19.813382+02:00",
+  "last_observed_at": "2026-10-02T21:10:19.813175+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "closed",
-      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
-              "buttons": [
-                "GOT IT"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ]
-        },
-        {
-          "step": 0,
-          "error": "TimeoutError"
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Ramsons Supermarket",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -119,14 +83,45 @@
       "unresolved_notice": true,
       "order_button_after_notices": false,
       "basket_probe": {}
+    },
+    {
+      "name": "Rendezvous Chargrill",
+      "status": "closed",
+      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
+              "buttons": [
+                "GOT IT"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ]
+        },
+        {
+          "step": 0,
+          "error": "TimeoutError"
+        }
+      ],
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-30T21:47:48.238876+02:00:delays",
-      "subject": "Hungry Monkey: 21:47 check unconfirmed - last confirmed showing a long-delays warning at 21:42",
-      "delivered_at": "2026-09-30T21:48:40.349796+02:00"
-    },
     {
       "id": "2026-09-30T21:52:48.238653+02:00:open",
       "subject": "Hungry Monkey: long-delays warning cleared (21:52) - basket test passed",
@@ -621,13 +616,18 @@
       "id": "2026-10-02T21:05:19.813382+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (21:05)",
       "delivered_at": "2026-10-02T21:05:58.580992+02:00"
+    },
+    {
+      "id": "2026-10-02T21:10:19.813175+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (21:10)",
+      "delivered_at": "2026-10-02T21:10:56.976851+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-02T21:05:19.813382+02:00",
+  "last_confirmed_at": "2026-10-02T21:10:19.813175+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T21:05:19.813382+02:00",
+    "at": "2026-10-02T21:10:19.813175+02:00",
     "eligible": true
   }
 }
