@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T22:30:19.816224+02:00",
+  "last_observed_at": "2026-10-02T22:35:19.816914+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -174,93 +174,6 @@
       }
     },
     {
-      "name": "Kebab House",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious meal with Chicken Pinchito Wrap, with cheese, egg, chips, salad & drink for \u00a37.50!\nDig into our Special Chicken Burger with chips & a drink, all for just \u00a37.00!\nTop Selling Items\nPrice Crash Meal Deals!\nKebabs\nPinchitos\nChicken\nSnacks\nBurgers\nKids Menu\nFish\nSalads\nSauces\nExtras\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nCheeseburger\n\u00a34.50\nMixed Grill Kebab\n\u00a39.50\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a35.00\nPrice Crash Meal Deals!\nChicken, Burger, Wrap & Kebab Meal Deals from \u00a37.00\n4x Chicken Tender + Chips & Drink for \u00a37.00!\n\u00a37.00\nSpecial Chicken Burger + Chips & Drinks for \u00a37.00!\nSpecial chicken burger with kebab, cheese salad chips drinks\n\u00a37.00\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Tikka Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nTandoori Chicken Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nChicken Pinchito Wrap with Cheese, Egg, Chips, Salad & Drink\n\u00a37.50\nKebabs\nServed in Wrap, Tray or Pita Bread\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nHalf Donner/ Half Chicken Kebab\n\u00a39.00\nMixed Grill Kebab\n\u00a39.50\nDonner Kebab in Wrap\n\u00a36.50\nChicken Shawarma\nServed in Pita or Wrap\n\u00a36.50\nPinchitos\nServed in Wrap, Pita or Tray\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a3",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious meal with Chicken Pinchito Wrap, with cheese, egg, chips, salad & drink for \u00a37.50!\nDig into our Special Chicken Burger with chips & a drink, all for just \u00a37.00!\nTop Selling Items\nPrice Crash Meal Deals!\nKebabs\nPinchitos\nChicken\nSnacks\nBurgers\nKids Menu\nFish\nSalads\nSauces\nExtras\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nCheeseburger\n\u00a34.50\nMixed Grill Kebab\n\u00a39.50\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a35.00\nPrice Crash Meal Deals!\nChicken, Burger, Wrap & Kebab Meal Deals from \u00a37.00\n4x Chicken Tender + Chips & Drink for \u00a37.00!\n\u00a37.00\nSpecial Chicken Burger + Chips & Drinks for \u00a37.00!\nSpecial chicken burger with kebab, cheese salad chips drinks\n\u00a37.00\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Tikka Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nTandoori Chicken Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nChicken Pinchito Wrap with Cheese, Egg, Chips, Salad & Drink\n\u00a37.50\nKebabs\nServed in Wrap, Tray or Pita Bread\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nHalf Donner/ Half Chicken Kebab\n\u00a39.00\nMixed Grill Kebab\n\u00a39.50\nDonner Kebab in Wrap\n\u00a36.50\nChicken Shawarma\nServed in Pita or Wrap\n\u00a36.50\nPinchitos\nServed in Wrap, Pita or Tray\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a3",
-            "notices": [
-              {
-                "text": "Coke Zero\n\nCan\n\n1\nAdd to order\n\u00a31.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nEnjoy a delicious meal with Chicken Pinchito Wrap, with cheese, egg, chips, salad & drink for \u00a37.50!\nDig into our Special Chicken Burger with chips & a drink, all for just \u00a37.00!\nTop Selling Items\nPrice Crash Meal Deals!\nKebabs\nPinchitos\nChicken\nSnacks\nBurgers\nKids Menu\nFish\nSalads\nSauces\nExtras\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nCheeseburger\n\u00a34.50\nMixed Grill Kebab\n\u00a39.50\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a35.00\nPrice Crash Meal Deals!\nChicken, Burger, Wrap & Kebab Meal Deals from \u00a37.00\n4x Chicken Tender + Chips & Drink for \u00a37.00!\n\u00a37.00\nSpecial Chicken Burger + Chips & Drinks for \u00a37.00!\nSpecial chicken burger with kebab, cheese salad chips drinks\n\u00a37.00\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Tikka Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nTandoori Chicken Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nChicken Pinchito Wrap with Cheese, Egg, Chips, Salad & Drink\n\u00a37.50\nKebabs\nServed in Wrap, Tray or Pita Bread\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nHalf Donner/ Half Chicken Kebab\n\u00a39.00\nMixed Grill Kebab\n\u00a39.50\nDonner Kebab in Wrap\n\u00a36.50\nChicken Shawarma\nServed in Pita or Wrap\n",
-            "notices": []
-          }
-        ],
-        "item": "Coke Zero",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Flame Grill & Indian Tex Mex",
       "status": "open",
       "notice": "",
@@ -344,6 +257,93 @@
           }
         ],
         "item": "Pepsi Cola (33cl.)",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Mamma Mia",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out Focaccia e Bruschetta from \u00a34.90, with flavours like Aglio e Burro or al Pomodoro!\nDiscover our delicious Pastas only from \u00a312.50! Try our inconic Spaghetti Bolognese & more!\nTop Selling Items\nAntipasti / Starters\nFocaccia e Bruschetta\nInsalata / Salads\nPizzas\nPastas\nCarne e Pesce / Meat and Fish\nSides & Sauces\nDolci / Desserts\nSoft Drinks\nHot Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRose Wines\nProsecco\nTop Selling Items\nA quick look at our top sellers chosen by you!\n60. Lasagna al Forno\nClassic lasagna baked in our wood burning oven\n\u00a314.50\n11. Focaccia con Formaggio\nDrizzled with garlic infused olive oil, mozzarella & oregano\n\u00a35.50\nVegetarian\n50. Spaghetti Bolognese\nClassic rich beef Bolognese served with spaghetti\n\u00a312.50\n24. Margherita\nTomato sauce & mozzarella cheese\n\u00a39.00\nVegetarian\n36. Pepperoni\nTomato sauce, mozzarella & pepperoni\n\u00a311.00\nAntipasti / Starters\n1. Zuppa del Giorno\nFresh soup made daily with seasonal ingredients\n\u00a36.90\nVegetarian\n2. Polpette Napoli\nSpicy beef meatballs cooked in a napolitana sauce with mozzarella cheese\n\u00a39.50\nHot\n3. Beef Carpaccio\nThinly sliced fillet steak marinated with lemon juice, fresh rocket salad and parmesan shavings\n\u00a312.90\n4. Gambas Pil-Pil\nSizzling king prawns in a fresh chilli and garlic oil\n\u00a311.90\n5. Provolone Al Forno\nItalian smoked cheese melted in our wood-burning oven with Italian herbs\n\u00a39.00\nVegetarian\n6. Funghi Trifolati\nMushrooms with garlic, herbs and white wine\n\u00a36.90\nVegetarian\n7. Funghi Cuccini\nFresh mushrooms cooked in butter and blues cheese with a touch of cream\n\u00a38.50\nVegetarian\n8. Carpaccio di Polpo\nThinly sliced octopus with lemon, salt, paprika, a touch of black pepper & drizzled with o",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out Focaccia e Bruschetta from \u00a34.90, with flavours like Aglio e Burro or al Pomodoro!\nDiscover our delicious Pastas only from \u00a312.50! Try our inconic Spaghetti Bolognese & more!\nTop Selling Items\nAntipasti / Starters\nFocaccia e Bruschetta\nInsalata / Salads\nPizzas\nPastas\nCarne e Pesce / Meat and Fish\nSides & Sauces\nDolci / Desserts\nSoft Drinks\nHot Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRose Wines\nProsecco\nTop Selling Items\nA quick look at our top sellers chosen by you!\n60. Lasagna al Forno\nClassic lasagna baked in our wood burning oven\n\u00a314.50\n11. Focaccia con Formaggio\nDrizzled with garlic infused olive oil, mozzarella & oregano\n\u00a35.50\nVegetarian\n50. Spaghetti Bolognese\nClassic rich beef Bolognese served with spaghetti\n\u00a312.50\n24. Margherita\nTomato sauce & mozzarella cheese\n\u00a39.00\nVegetarian\n36. Pepperoni\nTomato sauce, mozzarella & pepperoni\n\u00a311.00\nAntipasti / Starters\n1. Zuppa del Giorno\nFresh soup made daily with seasonal ingredients\n\u00a36.90\nVegetarian\n2. Polpette Napoli\nSpicy beef meatballs cooked in a napolitana sauce with mozzarella cheese\n\u00a39.50\nHot\n3. Beef Carpaccio\nThinly sliced fillet steak marinated with lemon juice, fresh rocket salad and parmesan shavings\n\u00a312.90\n4. Gambas Pil-Pil\nSizzling king prawns in a fresh chilli and garlic oil\n\u00a311.90\n5. Provolone Al Forno\nItalian smoked cheese melted in our wood-burning oven with Italian herbs\n\u00a39.00\nVegetarian\n6. Funghi Trifolati\nMushrooms with garlic, herbs and white wine\n\u00a36.90\nVegetarian\n7. Funghi Cuccini\nFresh mushrooms cooked in butter and blues cheese with a touch of cream\n\u00a38.50\nVegetarian\n8. Carpaccio di Polpo\nThinly sliced octopus with lemon, salt, paprika, a touch of black pepper & drizzled with o",
+            "notices": [
+              {
+                "text": "Diet Coke\n\n0.33 cl\n\n1\nAdd to order\n\u00a31.90",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.90"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nDiet Coke\n\u00a31.90\n1\nSubtotal\n\u00a31.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.19\nAdd special instructions\nCheckout\nDon't miss out Focaccia e Bruschetta from \u00a34.90, with flavours like Aglio e Burro or al Pomodoro!\nDiscover our delicious Pastas only from \u00a312.50! Try our inconic Spaghetti Bolognese & more!\nTop Selling Items\nAntipasti / Starters\nFocaccia e Bruschetta\nInsalata / Salads\nPizzas\nPastas\nCarne e Pesce / Meat and Fish\nSides & Sauces\nDolci / Desserts\nSoft Drinks\nHot Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRose Wines\nProsecco\nTop Selling Items\nA quick look at our top sellers chosen by you!\n60. Lasagna al Forno\nClassic lasagna baked in our wood burning oven\n\u00a314.50\n11. Focaccia con Formaggio\nDrizzled with garlic infused olive oil, mozzarella & oregano\n\u00a35.50\nVegetarian\n50. Spaghetti Bolognese\nClassic rich beef Bolognese served with spaghetti\n\u00a312.50\n24. Margherita\nTomato sauce & mozzarella cheese\n\u00a39.00\nVegetarian\n36. Pepperoni\nTomato sauce, mozzarella & pepperoni\n\u00a311.00\nAntipasti / Starters\n1. Zuppa del Giorno\nFresh soup made daily with seasonal ingredients\n\u00a36.90\nVegetarian\n2. Polpette Napoli\nSpicy beef meatballs cooked in a napolitana sauce with mozzarella cheese\n\u00a39.50\nHot\n3. Beef Carpaccio\nThinly sliced fillet steak marinated with lemon juice, fresh rocket salad and parmesan shavings\n\u00a312.90\n4. Gambas Pil-Pil\nSizzling king prawns in a fresh chilli and garlic oil\n\u00a311.90\n5. Provolone Al Forno\nItalian smoked cheese melted in our wood-burning oven with Italian herbs\n\u00a39.00\nVegetarian\n6. Funghi Trifolati\nMushrooms with garlic, herbs and white wine\n\u00a36.90\nVegetarian\n7. Funghi Cuccini\nFresh mushrooms cooked in butter and blues cheese with a touch of cream\n\u00a38.50\nVegetarian\n8. Carpacci",
+            "notices": []
+          }
+        ],
+        "item": "Diet Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -852,9 +852,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-02T22:30:19.816224+02:00",
+  "last_confirmed_at": "2026-10-02T22:35:19.816914+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T22:30:19.816224+02:00",
+    "at": "2026-10-02T22:35:19.816914+02:00",
     "eligible": true
   }
 }
