@@ -1,8 +1,8 @@
 {
-  "status": "delays",
-  "since": "2026-10-02T18:45:19.809321+02:00",
-  "alerted": true,
-  "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+  "status": "open",
+  "since": "2026-10-02T19:00:19.810579+02:00",
+  "alerted": false,
+  "notice": "",
   "last_checked_date": "2026-10-02",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T18:55:19.807999+02:00",
+  "last_observed_at": "2026-10-02T19:00:19.810579+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -174,143 +174,6 @@
       }
     },
     {
-      "name": "Gela Ti Amo",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best locally",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best locally",
-            "notices": [
-              {
-                "text": "Coca Cola\n\nCan 330ml\n\n1\nAdd to order\n\u00a31.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced na",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Lord Nelson",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": false,
-      "basket_probe": {}
-    },
-    {
       "name": "Jury`s",
       "status": "open",
       "notice": "",
@@ -396,14 +259,96 @@
         "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "Royal Calpe",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of slow cooked roast turkey breast, gravy and a mix of vegetable\n\u00a317.95\nMixed Roast\none slice of eac",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of slow cooked roast turkey breast, gravy and a mix of vegetable\n\u00a317.95\nMixed Roast\none slice of eac",
+            "notices": [
+              {
+                "text": "Pepsi\n1\nAdd to order\n\u00a32.40",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.40"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a32.40\n1\nSubtotal\n\u00a32.40\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.69\nAdd special instructions\nCheckout\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of ",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-30T19:40:59.020909+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (19:40) - OPEN (basket test)",
-      "delivered_at": "2026-09-30T19:42:09.953753+02:00"
-    },
     {
       "id": "2026-09-30T19:45:59.022681+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (19:45) - OPEN (basket test)",
@@ -898,14 +843,18 @@
       "id": "2026-10-02T18:55:19.807999+02:00:delays",
       "subject": "Hungry Monkey: 18:55 check unconfirmed - last confirmed showing a long-delays warning at 18:50",
       "delivered_at": "2026-10-02T18:56:26.916822+02:00"
+    },
+    {
+      "id": "2026-10-02T19:00:19.810579+02:00:open",
+      "subject": "Hungry Monkey: long-delays warning cleared (19:00) - basket test passed",
+      "delivered_at": "2026-10-02T19:01:14.308861+02:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-02T18:50:19.808516+02:00",
+  "last_confirmed_at": "2026-10-02T19:00:19.810579+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T18:55:19.807999+02:00",
+    "at": "2026-10-02T19:00:19.810579+02:00",
     "eligible": true
-  },
-  "recovery_candidate_at": "2026-10-02T18:55:19.807999+02:00"
+  }
 }
