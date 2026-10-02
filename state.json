@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T14:09:48.036012+02:00",
+  "last_observed_at": "2026-10-02T14:14:48.032269+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -175,8 +175,8 @@
     },
     {
       "name": "Sanu Brunch & Co",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -217,48 +217,11 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nButter & Jam Toast\n\u00a32.50\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ha",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nButter & Jam Toast\n\u00a32.50\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ha",
-            "notices": [
-              {
-                "text": "Chicken Strips\nWould you like Sauce?\nAdd Gaucho Sauce\nAdd Mayo\nAdd Ketchup\nAdd Caesar Sauce\nAdd HP Sauce\nAdd BBQ Sauce\nAdd Yoghurt Sauce\nAdd Ali-Oli\nOut of stock\nAdd Queso Sauce\nWould you like some Savoury Extras?\nAdd Cheese\n\u00a31.00\nAdd Bacon\n\u00a31.00\nAdd Sausage\n\u00a31.00\nAdd Chicken\n\u00a31.00\nAdd Salmon\n\u00a31.00\nAdd Salad\n\u00a31.00\nAdd Scrambled Egg\n\u00a31.00\nAdd Poached Egg\n\u00a31.00\nAdd Fried Egg\n\u00a31.00\nAdd Ham\n\u00a31.00\nAdd Avocado\n\u00a31.00\nAdd Mushrooms\n\u00a31.00\nAdd Tuna\n\u00a31.00\nWould you like some Sweet Extras?\nAdd Nutella\n\u00a31.00\nAdd Kinder Bueno Sauce\n\u00a31.00\nAdd Kinder Bueno Bar\n\u00a31.00\nAdd Milky Way\n\u00a31.00\nAdd Maple Syrup\n\u00a31.00\nAdd Peanut Butter\n\u00a31.00\nAdd Strawberry Jam\n\u00a31.00\nAdd Butter\n\u00a31.00\nAdd Cream Cheese\n\u00a31.00\nAdd Honey\n\u00a31.00\nAdd Granola\n\u00a31.00\nAdd Fresh Fruits\n\u00a31.00\n1\nAdd to order\n\u00a36.95",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a36.95"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nChicken Strips\n\u00a36.95\n1\nSubtotal\n\u00a36.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a310.24\nAdd special instructions\nCheckout\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savo",
-            "notices": []
-          }
-        ],
-        "item": "Chicken Strips",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     },
     {
       "name": "Birdie Cafe",
@@ -344,6 +307,93 @@
           }
         ],
         "item": "Coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "3Bros Takeout",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCheck out Our delicious 3Bros SFC Boneless Bucket only for \u00a322.95\nNEW sides for just \u00a36.90! Pulled Pork Bites and Mac & Cheese bites!!\nTop Selling Items\nBurgers\n3Bros SFC Boneless Bucket only for \u00a322.95!\nSides\n3 Bros Fries\nKids Meals\nDesserts\nDrinks\nIce Creams\nSauces\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nSFC Chicken Strips\n\u00a37.20\nThe SFC Bro + Fries\nBrioche bun, SFC chicken breast, American cheese, sliced tomato, chopped lettuce, red onion & 3Bros sauce.\n\u00a311.80\nBurgers\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nEL Mex Bro + Fries\nBrioche Bun, Double beef patties, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nEL Mex SFC + Fries\nBrioche Bun, SFC Chicken breast, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\nThe Big Bro + Fries\nBrioche bun, four beef patties,double American cheese, red onions, chopped lettuce, sliced ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCheck out Our delicious 3Bros SFC Boneless Bucket only for \u00a322.95\nNEW sides for just \u00a36.90! Pulled Pork Bites and Mac & Cheese bites!!\nTop Selling Items\nBurgers\n3Bros SFC Boneless Bucket only for \u00a322.95!\nSides\n3 Bros Fries\nKids Meals\nDesserts\nDrinks\nIce Creams\nSauces\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nSFC Chicken Strips\n\u00a37.20\nThe SFC Bro + Fries\nBrioche bun, SFC chicken breast, American cheese, sliced tomato, chopped lettuce, red onion & 3Bros sauce.\n\u00a311.80\nBurgers\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nEL Mex Bro + Fries\nBrioche Bun, Double beef patties, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nEL Mex SFC + Fries\nBrioche Bun, SFC Chicken breast, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\nThe Big Bro + Fries\nBrioche bun, four beef patties,double American cheese, red onions, chopped lettuce, sliced ",
+            "notices": [
+              {
+                "text": "SFC Chicken Strips\n1\nAdd to order\n\u00a37.20",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a37.20"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSFC Chicken Strips\n\u00a37.20\n1\nSubtotal\n\u00a37.20\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a310.49\nAdd special instructions\nCheckout\nCheck out Our delicious 3Bros SFC Boneless Bucket only for \u00a322.95\nNEW sides for just \u00a36.90! Pulled Pork Bites and Mac & Cheese bites!!\nTop Selling Items\nBurgers\n3Bros SFC Boneless Bucket only for \u00a322.95!\nSides\n3 Bros Fries\nKids Meals\nDesserts\nDrinks\nIce Creams\nSauces\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\n1\nSFC Chicken Strips\n\u00a37.20\nThe SFC Bro + Fries\nBrioche bun, SFC chicken breast, American cheese, sliced tomato, chopped lettuce, red onion & 3Bros sauce.\n\u00a311.80\nBurgers\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nEL Mex Bro + Fries\nBrioche Bun, Double beef patties, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nEL Mex SFC + Fries\nBrioche Bun, SFC Chicken breast, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.1",
+            "notices": []
+          }
+        ],
+        "item": "SFC Chicken Strips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -852,9 +902,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-02T14:09:48.036012+02:00",
+  "last_confirmed_at": "2026-10-02T14:14:48.032269+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T14:09:48.036012+02:00",
+    "at": "2026-10-02T14:14:48.032269+02:00",
     "eligible": true
   }
 }
