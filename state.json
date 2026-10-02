@@ -1,8 +1,8 @@
 {
-  "status": "delays",
-  "since": "2026-10-01T21:36:43.787440+02:00",
-  "alerted": true,
-  "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+  "status": "open",
+  "since": "2026-10-02T13:39:48.031535+02:00",
+  "alerted": false,
+  "notice": "",
   "last_checked_date": "2026-10-02",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T13:34:48.041330+02:00",
+  "last_observed_at": "2026-10-02T13:39:48.031535+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -349,11 +349,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-30T19:00:59.020264+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (19:00) - OPEN (basket test)",
-      "delivered_at": "2026-09-30T19:02:09.680921+02:00"
-    },
     {
       "id": "2026-09-30T19:05:59.021479+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (19:05) - OPEN (basket test)",
@@ -848,14 +843,18 @@
       "id": "monitor:2026-10-02T13:34:47.963345+02:00:restored",
       "subject": "Competitor Watch: suitable stores available again",
       "delivered_at": "2026-10-02T13:35:43.266709+02:00"
+    },
+    {
+      "id": "2026-10-02T13:39:48.031535+02:00:open",
+      "subject": "Hungry Monkey: long-delays warning cleared (13:39) - basket test passed",
+      "delivered_at": "2026-10-02T13:40:40.729548+02:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-01T22:56:43.791419+02:00",
+  "last_confirmed_at": "2026-10-02T13:39:48.031535+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T13:34:48.041330+02:00",
+    "at": "2026-10-02T13:39:48.031535+02:00",
     "eligible": true
-  },
-  "recovery_candidate_at": "2026-10-02T13:34:48.041330+02:00"
+  }
 }
