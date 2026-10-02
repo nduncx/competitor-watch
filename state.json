@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T17:54:48.039848+02:00",
+  "last_observed_at": "2026-10-02T17:59:48.041775+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -175,6 +175,138 @@
     },
     {
       "name": "Costa Coffee",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "If you have any allergies, call our baristas before placing the order please\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ]
+        }
+      ],
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Piece Of Cake",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Vinopolis Drinks & Wines",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Beeyo",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -231,20 +363,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nSeasonal\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\n\u00a34.55\nSeasonal\nMaplenut Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Iced Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Matcha Latte\nSmooth and comforting matcha green tea blended with steamed milk and a delicious maple nut flavour. A warm, creamy drink with earthy matcha notes, a touch of sweetness, and a rich nutty finish perfect for a cosy moment any time of the day.\n\u00a34.90\nMaplenut Iced Matcha Latte\nA refreshing iced ma",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yoghurt Specials\nFrozen Yogurt\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.12\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.12\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.90\nFrozen Yoghurt Specials\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nSeasonal\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\n\u00a34.55\nSeasonal\nMaplenut Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Iced Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Matcha Latte\nSmooth and comforting matcha green tea blended with steamed milk and a delicious maple nut flavour. A warm, creamy drink with earthy matcha notes, a touch of sweetness, and a rich nutty finish perfect for a cosy moment any time of the day.\n\u00a34.90\nMaplenut Iced Matcha Latte\nA refreshing iced ma",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yoghurt Specials\nFrozen Yogurt\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.12\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.12\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.90\nFrozen Yoghurt Specials\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.",
             "notices": [
               {
-                "text": "Coca Cola Pet 50\n1\nAdd to order\n\u00a32.35",
+                "text": "Coca Cola\n1\nAdd to order\n\u00a32.00",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.35"
+                  "Add to order\n\u00a32.00"
                 ],
                 "has_inputs": false
               }
@@ -252,16 +384,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola Pet 50\n\u00a32.35\n1\nSubtotal\n\u00a32.35\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.64\nAdd special instructions\nCheckout\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nSeasonal\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\n\u00a34.55\nSeasonal\nMaplenut Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Iced Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Matcha Latte\nSmooth and comforting matcha green tea blended with steamed milk and a delicious maple nut flavour. A warm, creamy drink with earthy matcha notes, a touch of sweetness, and a rich nutty",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a32.00\nAdd special instructions\nCheckout\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yoghurt Specials\nFrozen Yogurt\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.12\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.12\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.90\nFrozen Yoghurt Specials\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with ",
             "notices": []
           }
         ],
-        "item": "Coca Cola Pet 50",
+        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Piece Of Cake",
+      "name": "Gela Ti Amo",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -318,20 +450,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dietary Cupcakes: Lemon, Chocolate & more for \u00a34.08! (Pre-order 24hrs)\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nToday's Specials\nMini Brownie Box\n\u00a325.20\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nDairy Milk Cupcake\nLuxury Range. Chocolate sponge cupcake filled and topped with Cadbury Dairy Milk ganache and Dairy Milk chocolate decoration.\n\u00a33.90\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed Velvet & White Chocolate Chip Cookies\n\u00a33.00\nCupcakes\nNutella Cupcake.\nLuxury Range. Chocolate sponge cupcake filled with Nutella, topped with hazelnuts, Nutella mousse, lashings of Nutella and a hazelnut choc",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best locally",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dietary Cupcakes: Lemon, Chocolate & more for \u00a34.08! (Pre-order 24hrs)\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nToday's Specials\nMini Brownie Box\n\u00a325.20\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nDairy Milk Cupcake\nLuxury Range. Chocolate sponge cupcake filled and topped with Cadbury Dairy Milk ganache and Dairy Milk chocolate decoration.\n\u00a33.90\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed Velvet & White Chocolate Chip Cookies\n\u00a33.00\nCupcakes\nNutella Cupcake.\nLuxury Range. Chocolate sponge cupcake filled with Nutella, topped with hazelnuts, Nutella mousse, lashings of Nutella and a hazelnut choc",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best locally",
             "notices": [
               {
-                "text": "Pepsi Can\n1\nAdd to order\n\u00a31.70",
+                "text": "Coca Cola\n\nCan 330ml\n\n1\nAdd to order\n\u00a31.50",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.70"
+                  "Add to order\n\u00a31.50"
                 ],
                 "has_inputs": false
               }
@@ -339,11 +471,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Can\n\u00a31.70\n1\nSubtotal\n\u00a31.70\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.99\nAdd special instructions\nCheckout\nEnjoy our Special Dietary Cupcakes: Lemon, Chocolate & more for \u00a34.08! (Pre-order 24hrs)\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nToday's Specials\nMini Brownie Box\n\u00a325.20\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nDairy Milk Cupcake\nLuxury Range. Chocolate sponge cupcake filled and topped with Cadbury Dairy Milk ganache and Dairy Milk chocolate decoration.\n\u00a33.90\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed Velvet & White Chocolate Chip Cookies\n\u00a33.00\nCupcakes\nNutella Cupcake.\nLuxury Range. Chocolate sponge cupcak",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced na",
             "notices": []
           }
         ],
-        "item": "Pepsi Can",
+        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -852,9 +984,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-02T17:54:48.039848+02:00",
+  "last_confirmed_at": "2026-10-02T17:59:48.041775+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T17:54:48.039848+02:00",
+    "at": "2026-10-02T17:59:48.041775+02:00",
     "eligible": true
   }
 }
