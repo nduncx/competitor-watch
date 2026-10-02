@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T17:24:48.046194+02:00",
+  "last_observed_at": "2026-10-02T17:29:48.047193+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -175,6 +175,156 @@
     },
     {
       "name": "Cafe Louis",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Crown Pharmacy",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Rodilla",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Costa Coffee",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -231,20 +381,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nBreads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nLunch Sandwiches\nTea\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\nOut of stock\nCinnamon Rolls\nOut of stock\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\nOut of stock\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\nOut of stock\nPlain Sourdough 500gr\nOut of stock\nSourdough 800gr\nOut of stock\nLarge Baguette\n\u00a31.60\nWalnut Sourdough\nOut of stock\nPlain Sourdough 1kg\nO",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nSeasonal\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\n\u00a34.55\nSeasonal\nMaplenut Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Iced Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Matcha Latte\nSmooth and comforting matcha green tea blended with steamed milk and a delicious maple nut flavour. A warm, creamy drink with earthy matcha notes, a touch of sweetness, and a rich nutty finish perfect for a cosy moment any time of the day.\n\u00a34.90\nMaplenut Iced Matcha Latte\nA refreshing iced ma",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nBreads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nLunch Sandwiches\nTea\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\nOut of stock\nCinnamon Rolls\nOut of stock\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\nOut of stock\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\nOut of stock\nPlain Sourdough 500gr\nOut of stock\nSourdough 800gr\nOut of stock\nLarge Baguette\n\u00a31.60\nWalnut Sourdough\nOut of stock\nPlain Sourdough 1kg\nO",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nSeasonal\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\n\u00a34.55\nSeasonal\nMaplenut Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Iced Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Matcha Latte\nSmooth and comforting matcha green tea blended with steamed milk and a delicious maple nut flavour. A warm, creamy drink with earthy matcha notes, a touch of sweetness, and a rich nutty finish perfect for a cosy moment any time of the day.\n\u00a34.90\nMaplenut Iced Matcha Latte\nA refreshing iced ma",
             "notices": [
               {
-                "text": "Coke\n\nCan\n\n1\nAdd to order\n\u00a32.30",
+                "text": "Coca Cola Pet 50\n1\nAdd to order\n\u00a32.35",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.30"
+                  "Add to order\n\u00a32.35"
                 ],
                 "has_inputs": false
               }
@@ -252,17 +402,17 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.30\n1\nSubtotal\n\u00a32.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.59\nAdd special instructions\nCheckout\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCoffee & Tea\nSalads\nBreads\nWater\nCakes & Desserts\nEnd of the Day Mystery Boxes\nLunch Sandwiches\nTea\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nJuices\nWaffles & Other Sweets\nSoft Drinks\n1\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\nOut of stock\nCinnamon Rolls\nOut of stock\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressing\n\u00a37.65\nGreek Yogurt & Granola\n\u00a34.35\nChia Pudding\n\u00a34.35\nTuna salad\nlettuce, tuna, boiled egg, cucumber, onion, cherry tomatoes & olive oil dressing\nOut of stock\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\nOut of stock\nPlain Sourdough 500gr\nOut of stock\nSou",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola Pet 50\n\u00a32.35\n1\nSubtotal\n\u00a32.35\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.64\nAdd special instructions\nCheckout\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nSeasonal\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\n\u00a34.55\nSeasonal\nMaplenut Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Iced Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Matcha Latte\nSmooth and comforting matcha green tea blended with steamed milk and a delicious maple nut flavour. A warm, creamy drink with earthy matcha notes, a touch of sweetness, and a rich nutty",
             "notices": []
           }
         ],
-        "item": "Coke",
+        "item": "Coca Cola Pet 50",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Crown Pharmacy",
-      "status": "open",
+      "name": "Hotel Chocolat",
+      "status": "unknown",
       "notice": "",
       "notice_transcript": [
         {
@@ -304,48 +454,11 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOVID TEST\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABLETS\n\u00a31.90\nPANADOL EXTRA 32 TABLETS\n\u00a33.87\nPANADOL ADVANCE 16T 500MG\n\u00a31.63\nPANADOL ADVANCE 32T 500MG\n\u00a32.77\nPARACETAMOL 500MG 32 TABLETS\nEFFEC",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOVID TEST\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABLETS\n\u00a31.90\nPANADOL EXTRA 32 TABLETS\n\u00a33.87\nPANADOL ADVANCE 16T 500MG\n\u00a31.63\nPANADOL ADVANCE 32T 500MG\n\u00a32.77\nPARACETAMOL 500MG 32 TABLETS\nEFFEC",
-            "notices": [
-              {
-                "text": "ALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\n\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\n1\nAdd to order\n\u00a31.34",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.34"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\n\u00a31.34\n1\nSubtotal\n\u00a31.34\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.63\nAdd special instructions\nCheckout\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOVID TEST\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\n1\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABL",
-            "notices": []
-          }
-        ],
-        "item": "ALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
@@ -852,9 +965,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-02T17:24:48.046194+02:00",
+  "last_confirmed_at": "2026-10-02T17:29:48.047193+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T17:24:48.046194+02:00",
+    "at": "2026-10-02T17:29:48.047193+02:00",
     "eligible": true
   }
 }
