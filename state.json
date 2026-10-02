@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T15:24:48.034470+02:00",
+  "last_observed_at": "2026-10-02T15:29:48.037444+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -175,95 +175,8 @@
     },
     {
       "name": "54 Dining & Caf\u00e9",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLane 3 Feast! Get Ensaladilla Rusa, 8 Croquettes, 16 Chicken Strips & 1.5L bottle only for \u00a331.15!\nDon't miss out our Daily Favourites like Zucchini stuffed with Cheese only for \u00a34.20!\n2 Full Wheels of Churros with choice of 2 sauces only for \u00a35!\nTop Selling Items\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nBeach Medley Relay\nChurros, Papitas & Churro Pops\nNEW! Homemade Daily Gibraltarian Delights\nBaguettes / Rolls\nToast\nBreakfast\nDaily Favourites\nStarters\nSpecials\nBurger\nHot Lunches\nOn Their Own\nSalads\nFish\nMeat & Chicken\nPaella\nPortuguese Cuisine\nSnacks\nDrinks\nCoffee\nTea\nBeer & Cider\nWines - Rioja & Ribera del Duero\nWhite Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPapitas\n\u00a32.40\nEgg, Bacon & Sausage\n\u00a35.50\nChurros\n1 full churro wheel\n\u00a32.40\nSerrano Ham\n\u00a34.56\nChicken Tikka with Rice or Chips\n\u00a38.35\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nAvailable Monday-Sunday until 12pm. Limited Time Offer.\n2 Full Wheels of Churros with choice of 2 sauces for \u00a35!\n\u00a35.00\nBeach Medley Relay\nWhich lane will win today?\nLane 1 (2 persons)\n1 Tapa of Ensaladilla Rusa; 4 Homemade Croquettes; 12 Chicken Strips; 2 Soft Drinks (can) + 1 FREE Soft Drink\n\u00a319.15\nLane 2 (2 persons)\n1 Momemade Torta de Patata; 4 Homemade Chicken Croquettes; 6 homemade Breaded Chicken; 2 Soft Drinks (can) + 1 FREE soft drink.\n\u00a326.40\nLane 3 (4 persons)\n1 Portion of Ensaladilla Rusa; 8 Homemade Croquettes; 16 Chicken Strips; 1.5L FREE bottle of soft drink\n\u00a332.20\nLane 4 (4 persons)\n2 Homemade Torta de Patata; 8 Homemade Croquettes; 8 Homemade Breaded Chicken; 1 FREE 1.5L Bottle Soft drink\n\u00a343.85\nChurros, Papitas & Churro Pops\nPapitas\n\u00a32.40\nChurros\n1 ful",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLane 3 Feast! Get Ensaladilla Rusa, 8 Croquettes, 16 Chicken Strips & 1.5L bottle only for \u00a331.15!\nDon't miss out our Daily Favourites like Zucchini stuffed with Cheese only for \u00a34.20!\n2 Full Wheels of Churros with choice of 2 sauces only for \u00a35!\nTop Selling Items\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nBeach Medley Relay\nChurros, Papitas & Churro Pops\nNEW! Homemade Daily Gibraltarian Delights\nBaguettes / Rolls\nToast\nBreakfast\nDaily Favourites\nStarters\nSpecials\nBurger\nHot Lunches\nOn Their Own\nSalads\nFish\nMeat & Chicken\nPaella\nPortuguese Cuisine\nSnacks\nDrinks\nCoffee\nTea\nBeer & Cider\nWines - Rioja & Ribera del Duero\nWhite Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPapitas\n\u00a32.40\nEgg, Bacon & Sausage\n\u00a35.50\nChurros\n1 full churro wheel\n\u00a32.40\nSerrano Ham\n\u00a34.56\nChicken Tikka with Rice or Chips\n\u00a38.35\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nAvailable Monday-Sunday until 12pm. Limited Time Offer.\n2 Full Wheels of Churros with choice of 2 sauces for \u00a35!\n\u00a35.00\nBeach Medley Relay\nWhich lane will win today?\nLane 1 (2 persons)\n1 Tapa of Ensaladilla Rusa; 4 Homemade Croquettes; 12 Chicken Strips; 2 Soft Drinks (can) + 1 FREE Soft Drink\n\u00a319.15\nLane 2 (2 persons)\n1 Momemade Torta de Patata; 4 Homemade Chicken Croquettes; 6 homemade Breaded Chicken; 2 Soft Drinks (can) + 1 FREE soft drink.\n\u00a326.40\nLane 3 (4 persons)\n1 Portion of Ensaladilla Rusa; 8 Homemade Croquettes; 16 Chicken Strips; 1.5L FREE bottle of soft drink\n\u00a332.20\nLane 4 (4 persons)\n2 Homemade Torta de Patata; 8 Homemade Croquettes; 8 Homemade Breaded Chicken; 1 FREE 1.5L Bottle Soft drink\n\u00a343.85\nChurros, Papitas & Churro Pops\nPapitas\n\u00a32.40\nChurros\n1 ful",
-            "notices": [
-              {
-                "text": "Coke (Can)\n1\nAdd to order\n\u00a31.80",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.80"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke (Can)\n\u00a31.80\n1\nSubtotal\n\u00a31.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.09\nAdd special instructions\nCheckout\nLane 3 Feast! Get Ensaladilla Rusa, 8 Croquettes, 16 Chicken Strips & 1.5L bottle only for \u00a331.15!\nDon't miss out our Daily Favourites like Zucchini stuffed with Cheese only for \u00a34.20!\n2 Full Wheels of Churros with choice of 2 sauces only for \u00a35!\nTop Selling Items\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nBeach Medley Relay\nChurros, Papitas & Churro Pops\nNEW! Homemade Daily Gibraltarian Delights\nBaguettes / Rolls\nToast\nBreakfast\nDaily Favourites\nStarters\nSpecials\nBurger\nHot Lunches\nOn Their Own\nSalads\nFish\nMeat & Chicken\nPaella\nPortuguese Cuisine\nSnacks\nDrinks\nCoffee\nTea\nBeer & Cider\nWines - Rioja & Ribera del Duero\nWhite Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPapitas\n\u00a32.40\nEgg, Bacon & Sausage\n\u00a35.50\nChurros\n1 full churro wheel\n\u00a32.40\nSerrano Ham\n\u00a34.56\nChicken Tikka with Rice or Chips\n\u00a38.35\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nAvailable Monday-Sunday until 12pm. Limited Time Offer.\n2 Full Wheels of Churros with choice of 2 sauces for \u00a35!\n\u00a35.00\nBeach Medley Relay\nWhich lane will win today?\nLane 1 (2 persons)\n1 Tapa of Ensaladilla Rusa; 4 Homemade Croquettes; 12 Chicken Strips; 2 Soft Drinks (can) + 1 FREE Soft Drink\n\u00a319.15\nLane 2 (2 persons)\n1 Momemade Torta de Patata; 4 Homemade Chicken Croquettes; 6 homemade Breaded Chicken; 2 Soft Drinks (can) + 1 FREE soft drink.\n\u00a326.40\nLane 3 (4 persons)\n1 Portion of Ensaladilla Rusa; 8 Homemade Croquettes; 16 Chicken Strips; 1.5L FREE bottle of soft drink\n\u00a332.20\nLane 4 (4 persons)\n2 Homemade Torta de Patata; 8 Homemade Croquettes; 8 Homemade Breaded Ch",
-            "notices": []
-          }
-        ],
-        "item": "Coke (Can)",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Jumpers Wheel",
-      "status": "unknown",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -312,6 +225,106 @@
     },
     {
       "name": "Poptata Chicken",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "The Little Trucker",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {}
+    },
+    {
+      "name": "Hustle & Flow",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -368,20 +381,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a343!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a320!\n\u2b50\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE Premium Sauces - Choose your favourites!\n\u00a345.00\nTop Selling Items\nA quick look at our top selle",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSweet, fruity, and irresistible! French Kiss - the perfect brunch treat for only \u00a38.90!\nDesign Your Destiny only from \u00a39.90! Start with a fluffy 3 egg base and choose your toppings!\nTop Selling Items\nBrunch Therapy\nThe Egg Lab\nBig Bowl Energy\nToasts n Tings\nSides\nNew! Savory Croissant\nNew! Sweet Croissant\nNew! Omelettes\nNew! Pancakes\nWorth the Calories\nFrozen Lemonades\nSmoothies /Juices\nSoft Drinks\nTop Selling Items\nThe Game Changer Burger (GFO)\nBeyond Meat burger, caramelized onion, tomato sauce, vegan cheese, avocado, coleslaw, micro herbs, topped with sesame seeds.\n\u00a313.90\nVegan\nTijuana Chalupas\nCrispy corn chalupas topped with shredded free-range chicken, guacamole, saut\u00e9ed red peppers, feta cheese, black bean paste, coriander and pickled onions. Served with sour cream, a side of pico de gallo & lime.\n\u00a313.90\nGluten Free\nMorning Glory\nOur original fave! Homemade sweet potato r\u00f6sti with smashed avocado, two poached eggs, chilli flakes, and a refreshing cucumber garnish. Served with hollandaise that is puro arte\n\u00a311.90\nGluten FreeVegetarian\nSalmon & Rice & Everything Nice (DF) (GF)\nA long-distance relationship between Norway and Japan. Teriyaki & soya pan-fried salmon on a bed of fried wild rice. Packed with edamame, broccoli, cucumber, and microherbs. Served with a lemon wedge and ginger sesame sauce. Espectacular.\n\u00a313.90\nDairy FreeGluten Free\nSeoul'd Out Bowl (DF) (GF)\nThe bowl that works harder than us. Grass-fed beef on black fried rice with broccoli, saut\u00e9ed mushrooms, and a fried egg. Garnished with crispy onion and red chilies. Picante, powerful, and very 2026\n\u00a314.90\nDairy FreeGluten Free\nBrunch Therapy\nMorning Glory\nOur original fave! Homemade sweet potato r",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a343!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a320!\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE Premium Sauces - Choose your favourites!\n\u00a345.00\nTop Selling Items\nA quick look at our top sellers",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSweet, fruity, and irresistible! French Kiss - the perfect brunch treat for only \u00a38.90!\nDesign Your Destiny only from \u00a39.90! Start with a fluffy 3 egg base and choose your toppings!\nTop Selling Items\nBrunch Therapy\nThe Egg Lab\nBig Bowl Energy\nToasts n Tings\nSides\nNew! Savory Croissant\nNew! Sweet Croissant\nNew! Omelettes\nNew! Pancakes\nWorth the Calories\nFrozen Lemonades\nSmoothies /Juices\nSoft Drinks\nTop Selling Items\nThe Game Changer Burger (GFO)\nBeyond Meat burger, caramelized onion, tomato sauce, vegan cheese, avocado, coleslaw, micro herbs, topped with sesame seeds.\n\u00a313.90\nVegan\nTijuana Chalupas\nCrispy corn chalupas topped with shredded free-range chicken, guacamole, saut\u00e9ed red peppers, feta cheese, black bean paste, coriander and pickled onions. Served with sour cream, a side of pico de gallo & lime.\n\u00a313.90\nGluten Free\nMorning Glory\nOur original fave! Homemade sweet potato r\u00f6sti with smashed avocado, two poached eggs, chilli flakes, and a refreshing cucumber garnish. Served with hollandaise that is puro arte\n\u00a311.90\nGluten FreeVegetarian\nSalmon & Rice & Everything Nice (DF) (GF)\nA long-distance relationship between Norway and Japan. Teriyaki & soya pan-fried salmon on a bed of fried wild rice. Packed with edamame, broccoli, cucumber, and microherbs. Served with a lemon wedge and ginger sesame sauce. Espectacular.\n\u00a313.90\nDairy FreeGluten Free\nSeoul'd Out Bowl (DF) (GF)\nThe bowl that works harder than us. Grass-fed beef on black fried rice with broccoli, saut\u00e9ed mushrooms, and a fried egg. Garnished with crispy onion and red chilies. Picante, powerful, and very 2026\n\u00a314.90\nDairy FreeGluten Free\nBrunch Therapy\nMorning Glory\nOur original fave! Homemade sweet potato r",
             "notices": [
               {
-                "text": "Coke\n1\nAdd to order\n\u00a32.00",
+                "text": "Coke\n1\nAdd to order\n\u00a32.50",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.00"
+                  "Add to order\n\u00a32.50"
                 ],
                 "has_inputs": false
               }
@@ -389,11 +402,98 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a343!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a320!\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE P",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nSweet, fruity, and irresistible! French Kiss - the perfect brunch treat for only \u00a38.90!\nDesign Your Destiny only from \u00a39.90! Start with a fluffy 3 egg base and choose your toppings!\nTop Selling Items\nBrunch Therapy\nThe Egg Lab\nBig Bowl Energy\nToasts n Tings\nSides\nNew! Savory Croissant\nNew! Sweet Croissant\nNew! Omelettes\nNew! Pancakes\nWorth the Calories\nFrozen Lemonades\nSmoothies /Juices\nSoft Drinks\nTop Selling Items\nThe Game Changer Burger (GFO)\nBeyond Meat burger, caramelized onion, tomato sauce, vegan cheese, avocado, coleslaw, micro herbs, topped with sesame seeds.\n\u00a313.90\nVegan\nTijuana Chalupas\nCrispy corn chalupas topped with shredded free-range chicken, guacamole, saut\u00e9ed red peppers, feta cheese, black bean paste, coriander and pickled onions. Served with sour cream, a side of pico de gallo & lime.\n\u00a313.90\nGluten Free\nMorning Glory\nOur original fave! Homemade sweet potato r\u00f6sti with smashed avocado, two poached eggs, chilli flakes, and a refreshing cucumber garnish. Served with hollandaise that is puro arte\n\u00a311.90\nGluten FreeVegetarian\nSalmon & Rice & Everything Nice (DF) (GF)\nA long-distance relationship between Norway and Japan. Teriyaki & soya pan-fried salmon on a bed of fried wild rice. Packed with edamame, broccoli, cucumber, and microherbs. Served with a lemon wedge and ginger sesame sauce. Espectacular.\n\u00a313.90\nDairy FreeGluten Free\nSeoul'd Out Bowl (DF) (GF)\nThe bowl that works harder than us. Grass-fed beef on black fried rice with broccoli, saut\u00e9ed mushrooms, and a fried egg. Garnished with crispy onion and red chilies. Picante, powerful, and very 2026\n\u00a314.",
             "notices": []
           }
         ],
         "item": "Coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Munchies Cafe",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a tasty Panini for just \u00a36.40 - Choose fillings like Cheese & Ham or Chicken, Bacon & Cheese!\nEnjoy our delicious Wraps, from Chicken Tikka to Chicken Africano, all for just \u00a36.50!\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink only for \u00a37.50!\nTop Selling Items\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink for 7.5!\nWraps\nPaninis\nSalads\nSandwiches\nDesserts\nChocolates\nBrunch Therapy (Hustle n Flow)\nBig Bowl Energy (Hustle n Flow)\nToasts n Tings (Hustle n Flow)\nWorth the Calories (Hustle n Flow)\nThe Egg Lab (Hustle n Flow)\nSides (Hustle n Flow)\nOmelettes (Hustle n Flow)\nSweet Croissant (Hustle n Flow)\nSavory Croissant (Hustle n Flow)\nPancakes (Hustle n Flow)\nCrisps (Walker & Proper)\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMature Cheddar & Ham Sandwich\n\u00a35.50\nPanini Chicken Bacon & Cheese\n\u00a36.40\nChicken Africano Wrap\n\u00a36.50\nSalmon & Rice & Everything Nice (DF) (GF)\nA long-distance relationship between Norway and Japan. Teriyaki & soya pan-fried salmon on a bed of fried wild rice. Packed with edamame, broccoli, cucumber, and microherbs. Served with a lemon wedge and ginger sesame sauce. Espectacular.\n\u00a313.90\nDairy FreeGluten Free\nAvocado Era (VG) (GFO)\nSmashed avocado and roasted cherry tomatoes garnished with alfalfa, black sesame, and poppy seeds. Want a glow-up? Add a poached egg for \u00a31\n\u00a39.90\nVegan\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink for 7.5!\nPanini Cheese & Ham + Walkers Chips & Soft Drink for 7.50!\n\u00a37.50\nEgg & Bacon Sandwich + Walkers Chips & Soft Drink for 7.00!\n\u00a37.00\nChicken Africano Wrap + Walkers Chips & Soft Drink for 7.50!\n\u00a37.50\nWraps\nChicken Tikka, Tomato and salad Wrap\n\u00a36.50\nChicke",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a tasty Panini for just \u00a36.40 - Choose fillings like Cheese & Ham or Chicken, Bacon & Cheese!\nEnjoy our delicious Wraps, from Chicken Tikka to Chicken Africano, all for just \u00a36.50!\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink only for \u00a37.50!\nTop Selling Items\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink for 7.5!\nWraps\nPaninis\nSalads\nSandwiches\nDesserts\nChocolates\nBrunch Therapy (Hustle n Flow)\nBig Bowl Energy (Hustle n Flow)\nToasts n Tings (Hustle n Flow)\nWorth the Calories (Hustle n Flow)\nThe Egg Lab (Hustle n Flow)\nSides (Hustle n Flow)\nOmelettes (Hustle n Flow)\nSweet Croissant (Hustle n Flow)\nSavory Croissant (Hustle n Flow)\nPancakes (Hustle n Flow)\nCrisps (Walker & Proper)\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMature Cheddar & Ham Sandwich\n\u00a35.50\nPanini Chicken Bacon & Cheese\n\u00a36.40\nChicken Africano Wrap\n\u00a36.50\nSalmon & Rice & Everything Nice (DF) (GF)\nA long-distance relationship between Norway and Japan. Teriyaki & soya pan-fried salmon on a bed of fried wild rice. Packed with edamame, broccoli, cucumber, and microherbs. Served with a lemon wedge and ginger sesame sauce. Espectacular.\n\u00a313.90\nDairy FreeGluten Free\nAvocado Era (VG) (GFO)\nSmashed avocado and roasted cherry tomatoes garnished with alfalfa, black sesame, and poppy seeds. Want a glow-up? Add a poached egg for \u00a31\n\u00a39.90\nVegan\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink for 7.5!\nPanini Cheese & Ham + Walkers Chips & Soft Drink for 7.50!\n\u00a37.50\nEgg & Bacon Sandwich + Walkers Chips & Soft Drink for 7.00!\n\u00a37.00\nChicken Africano Wrap + Walkers Chips & Soft Drink for 7.50!\n\u00a37.50\nWraps\nChicken Tikka, Tomato and salad Wrap\n\u00a36.50\nChicke",
+            "notices": [
+              {
+                "text": "Coca Cola\n1\nAdd to order\n\u00a31.80",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.80"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a31.80\n1\nSubtotal\n\u00a31.80\nDelivery fee\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.09\nAdd special instructions\nCheckout\nEnjoy a tasty Panini for just \u00a36.40 - Choose fillings like Cheese & Ham or Chicken, Bacon & Cheese!\nEnjoy our delicious Wraps, from Chicken Tikka to Chicken Africano, all for just \u00a36.50!\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink only for \u00a37.50!\nTop Selling Items\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink for 7.5!\nWraps\nPaninis\nSalads\nSandwiches\nDesserts\nChocolates\nBrunch Therapy (Hustle n Flow)\nBig Bowl Energy (Hustle n Flow)\nToasts n Tings (Hustle n Flow)\nWorth the Calories (Hustle n Flow)\nThe Egg Lab (Hustle n Flow)\nSides (Hustle n Flow)\nOmelettes (Hustle n Flow)\nSweet Croissant (Hustle n Flow)\nSavory Croissant (Hustle n Flow)\nPancakes (Hustle n Flow)\nCrisps (Walker & Proper)\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMature Cheddar & Ham Sandwich\n\u00a35.50\nPanini Chicken Bacon & Cheese\n\u00a36.40\nChicken Africano Wrap\n\u00a36.50\nSalmon & Rice & Everything Nice (DF) (GF)\nA long-distance relationship between Norway and Japan. Teriyaki & soya pan-fried salmon on a bed of fried wild rice. Packed with edamame, broccoli, cucumber, and microherbs. Served with a lemon wedge and ginger sesame sauce. Espectacular.\n\u00a313.90\nDairy FreeGluten Free\nAvocado Era (VG) (GFO)\nSmashed avocado and roasted cherry tomatoes garnished with alfalfa, black sesame, and poppy seeds. Want a glow-up? Add a poached egg for \u00a31\n\u00a39.90\nVegan\nOpening Offer! Panini, Sandwich or Wrap + Chips & Drink for 7.5!\nPanini Cheese & Ham + Walkers Chips & Soft Drink for 7.50!\n\u00a37.50\nEgg & Bacon Sandwich + Walkers Chips & Soft Drink for 7.00!\n\u00a37.00\nChicken Africano ",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -902,9 +1002,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-02T15:24:48.034470+02:00",
+  "last_confirmed_at": "2026-10-02T15:29:48.037444+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T15:24:48.034470+02:00",
+    "at": "2026-10-02T15:29:48.037444+02:00",
     "eligible": true
   }
 }
