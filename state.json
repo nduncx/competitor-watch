@@ -1,8 +1,8 @@
 {
-  "status": "delays",
-  "since": "2026-10-02T20:40:19.811310+02:00",
+  "status": "closed",
+  "since": "2026-10-02T21:00:19.812896+02:00",
   "alerted": true,
-  "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
   "last_checked_date": "2026-10-02",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,20 +10,20 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-02T20:55:19.812697+02:00",
+  "last_observed_at": "2026-10-02T21:00:19.812896+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "unknown",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "closed",
+      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
               "buttons": [
-                "OK"
+                "GOT IT"
               ],
               "has_inputs": false
             },
@@ -37,43 +37,29 @@
               ],
               "has_inputs": false
             }
-          ],
-          "action": "Reject non-essential"
+          ]
         },
         {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
+          "step": 0,
+          "error": "TimeoutError"
         }
       ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
       "basket_probe": {}
     },
     {
-      "name": "Boss Kitchen",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "name": "Ramsons Supermarket",
+      "status": "closed",
+      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
               "buttons": [
-                "OK"
+                "GOT IT"
               ],
               "has_inputs": false
             },
@@ -87,80 +73,29 @@
               ],
               "has_inputs": false
             }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
+          ]
         },
         {
           "step": 0,
-          "notices": [],
-          "phase": "after_add"
+          "error": "TimeoutError"
         }
       ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper C",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper C",
-            "notices": [
-              {
-                "text": "Coke 330ml\n1\nAdd to order\n\u00a32.35",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.35"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 330ml\n\u00a32.35\n1\nSubtotal\n\u00a32.35\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.64\nAdd special instructions\nCheckout\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our s",
-            "notices": []
-          }
-        ],
-        "item": "Coke 330ml",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "basket_probe": {}
     },
     {
-      "name": "Salt n Pepper Kitchen",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "name": "Panzerotto",
+      "status": "closed",
+      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
               "buttons": [
-                "OK"
+                "GOT IT"
               ],
               "has_inputs": false
             },
@@ -174,162 +109,19 @@
               ],
               "has_inputs": false
             }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
+          ]
         },
         {
           "step": 0,
-          "notices": [],
-          "phase": "after_add"
+          "error": "TimeoutError"
         }
       ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, bold & seriously satisfying - Grab your favourite Salt n Pepper Spice Bag from just \u00a35.95!\nNo fuss, no frills. Just honest to goodess Butties from \u00a32.50!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nSunday Roast\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nBob Marley Reggae Reggae Burger\nHomemade beef patty, lettuce, tomato, red onion, Reggae Reggae Sauce. Comes with homemade chips.\n\u00a313.95\nSausage and Mash\nHearty sausages on a bed of creamy mash (or fries) with rich gravy\n\u00a310.95\nGluten Free\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper Chicken Sharing Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a313.95\nSalt n Pepper Chicken Wings Spice Bag\nStir-fried chicken wings and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with sid",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, bold & seriously satisfying - Grab your favourite Salt n Pepper Spice Bag from just \u00a35.95!\nNo fuss, no frills. Just honest to goodess Butties from \u00a32.50!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nSunday Roast\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nBob Marley Reggae Reggae Burger\nHomemade beef patty, lettuce, tomato, red onion, Reggae Reggae Sauce. Comes with homemade chips.\n\u00a313.95\nSausage and Mash\nHearty sausages on a bed of creamy mash (or fries) with rich gravy\n\u00a310.95\nGluten Free\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper Chicken Sharing Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a313.95\nSalt n Pepper Chicken Wings Spice Bag\nStir-fried chicken wings and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with sid",
-            "notices": [
-              {
-                "text": "Coke 330ml\n1\nAdd to order\n\u00a32.65",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.65"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 330ml\n\u00a32.65\n1\nSubtotal\n\u00a32.65\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.94\nAdd special instructions\nCheckout\nCrispy, bold & seriously satisfying - Grab your favourite Salt n Pepper Spice Bag from just \u00a35.95!\nNo fuss, no frills. Just honest to goodess Butties from \u00a32.50!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nSunday Roast\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nBob Marley Reggae Reggae Burger\nHomemade beef patty, lettuce, tomato, red onion, Reggae Reggae Sauce. Comes with homemade chips.\n\u00a313.95\nSausage and Mash\nHearty sausages on a bed of creamy mash (or fries) with rich gravy\n\u00a310.95\nGluten Free\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper Chicken Sharing Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a313.95\nSalt n Pepper Chicken Wings Spice Bag\nStir-fried chicken wings and chips with",
-            "notices": []
-          }
-        ],
-        "item": "Coke 330ml",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Special Olympics Cafe",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nFalafel Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.80\nNacho Cheese Triangles: Crispy Triangles 4u\n\u00a33.80\nSide Serving of Rice\n\u00a31.50\nBBQ Sauce\n\u00a31.25\nKetchup\n\u00a31.25\nMayonnaise\n\u00a31.25\n",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nFalafel Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.80\nNacho Cheese Triangles: Crispy Triangles 4u\n\u00a33.80\nSide Serving of Rice\n\u00a31.50\nBBQ Sauce\n\u00a31.25\nKetchup\n\u00a31.25\nMayonnaise\n\u00a31.25\n",
-            "notices": [
-              {
-                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.30",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.30"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.30\n1\nSubtotal\n\u00a31.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.59\nAdd special instructions\nCheckout\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nFalafel Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.80\nNacho Cheese Trian",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola 33cl",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-09-30T21:37:48.237481+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (21:37) - OPEN (basket test)",
-      "delivered_at": "2026-09-30T21:38:40.238597+02:00"
-    },
     {
       "id": "2026-09-30T21:42:48.236811+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:42) - OPEN (basket test)",
@@ -824,13 +616,18 @@
       "id": "2026-10-02T20:55:19.812697+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (20:55) - OPEN (basket test)",
       "delivered_at": "2026-10-02T20:56:26.142854+02:00"
+    },
+    {
+      "id": "2026-10-02T21:00:19.812896+02:00:closed",
+      "subject": "Hungry Monkey has STOPPED taking orders (21:00)",
+      "delivered_at": "2026-10-02T21:00:58.108754+02:00"
     }
   ],
   "recovery_streak": 0,
-  "last_result": "delays",
-  "last_confirmed_at": "2026-10-02T20:55:19.812697+02:00",
+  "last_result": "closed",
+  "last_confirmed_at": "2026-10-02T21:00:19.812896+02:00",
   "last_sample_check": {
-    "at": "2026-10-02T20:55:19.812697+02:00",
+    "at": "2026-10-02T21:00:19.812896+02:00",
     "eligible": true
   }
 }
