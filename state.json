@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-03T20:19:12.374306+02:00",
+  "last_observed_at": "2026-10-03T20:24:12.374775+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -262,99 +262,6 @@
     },
     {
       "name": "Ramsons Watergardens",
-      "status": "unknown",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Small Chips\n\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\nSauce It Up!\nSelect up to 2 options\n0/2\nKetchup\nMayonnaise\nCocktail\nBBQ Sauce\nAlioli\n\u00a31.00\nMustard\nSriracha Chilli Sauce\nSalsa Pimienta [NEW]\n\u00a31.00\nSriracha Spicy Mayo Sauce [NEW]\nPiri Piri\nThai Sweet Chilli\nGaucha\nYoghurt Sauce\nPiccalilly\nBranston Pickle\nHoney Mustard\nSalt\nVinegar\nOlive Oil\nOlive Oil, Salt & Vinegar\nButter\nWould You Like Salt & Vinegar On Them Fries?\nSelect up to 2 options\n0/2\nAdd Salt\nAdd Vinegar\nFancy Any Sides?!\nSelect up to 1 option\n- - Small Chips\n\u00a32.20\n- - Large Chips\n\u00a33.75\n- - Small Sweet Potato Fries\n\u00a33.70\n- - Chicken Nuggets [Portion of 6]\n\u00a34.99\n- - Popcorn Chicken [Portion of 10]\n\u00a32.50\n- - Sweet Chilli Chicken Bites [Portion Of 6]\n\u00a34.80\n- - Chilli Cheese Poppers [Portion of 3]\n\u00a33.50\n- - Nacho Cheese Triangles [Portion Of 4]\n\u00a34.80\n- - Mozzarella Sticks [Portion of 6]\n\u00a35.40\n- - x1 Vegetable Samosa\n\u00a31.25\n- - x2 Vegetable Samosa [OFFER]\n\u00a32.25\n- - x1 Chicken Samosa\n\u00a31.25\n- - x2 Chicken Samosa [ OFFER!!! ]\n\u00a32.25\n1\nAdd to order\n\u00a32.20",
-              "buttons": [
-                "",
-                "",
-                "",
-                "Add to order\n\u00a32.20"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": false,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nSmall Chips\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\u00a32.20\nLarge Chips\nCrunchy exterior and fluffy interior ",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nSmall Chips\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\u00a32.20\nLarge Chips\nCrunchy exterior and fluffy interior ",
-            "notices": [
-              {
-                "text": "Small Chips\n\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\nSauce It Up!\nSelect up to 2 options\n0/2\nKetchup\nMayonnaise\nCocktail\nBBQ Sauce\nAlioli\n\u00a31.00\nMustard\nSriracha Chilli Sauce\nSalsa Pimienta [NEW]\n\u00a31.00\nSriracha Spicy Mayo Sauce [NEW]\nPiri Piri\nThai Sweet Chilli\nGaucha\nYoghurt Sauce\nPiccalilly\nBranston Pickle\nHoney Mustard\nSalt\nVinegar\nOlive Oil\nOlive Oil, Salt & Vinegar\nButter\nWould You Like Salt & Vinegar On Them Fries?\nSelect up to 2 options\n0/2\nAdd Salt\nAdd Vinegar\nFancy Any Sides?!\nSelect up to 1 option\n- - Small Chips\n\u00a32.20\n- - Large Chips\n\u00a33.75\n- - Small Sweet Potato Fries\n\u00a33.70\n- - Chicken Nuggets [Portion of 6]\n\u00a34.99\n- - Popcorn Chicken [Portion of 10]\n\u00a32.50\n- - Sweet Chilli Chicken Bites [Portion Of 6]\n\u00a34.80\n- - Chilli Cheese Poppers [Portion of 3]\n\u00a33.50\n- - Nacho Cheese Triangles [Portion Of 4]\n\u00a34.80\n- - Mozzarella Sticks [Portion of 6]\n\u00a35.40\n- - x1 Vegetable Samosa\n\u00a31.25\n- - x2 Vegetable Samosa [OFFER]\n\u00a32.25\n- - x1 Chicken Samosa\n\u00a31.25\n- - x2 Chicken Samosa [ OFFER!!! ]\n\u00a32.25\n1\nAdd to order\n\u00a32.20",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.20"
-                ],
-                "has_inputs": false
-              }
-            ]
-          }
-        ],
-        "item": "Small Chips",
-        "reason": "notices or ordering unavailable after adding"
-      }
-    },
-    {
-      "name": "Boss Kitchen",
       "status": "delays",
       "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
@@ -411,20 +318,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper C",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nSmall Chips\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\u00a32.20\nLarge Chips\nCrunchy exterior and fluffy interior ",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper C",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nSmall Chips\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\u00a32.20\nLarge Chips\nCrunchy exterior and fluffy interior ",
             "notices": [
               {
-                "text": "Coke 330ml\n1\nAdd to order\n\u00a32.35",
+                "text": "Small Chips\n\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\nSauce It Up!\nSelect up to 2 options\n0/2\nKetchup\nMayonnaise\nCocktail\nBBQ Sauce\nAlioli\n\u00a31.00\nMustard\nSriracha Chilli Sauce\nSalsa Pimienta [NEW]\n\u00a31.00\nSriracha Spicy Mayo Sauce [NEW]\nPiri Piri\nThai Sweet Chilli\nGaucha\nYoghurt Sauce\nPiccalilly\nBranston Pickle\nHoney Mustard\nSalt\nVinegar\nOlive Oil\nOlive Oil, Salt & Vinegar\nButter\nWould You Like Salt & Vinegar On Them Fries?\nSelect up to 2 options\n0/2\nAdd Salt\nAdd Vinegar\nFancy Any Sides?!\nSelect up to 1 option\n- - Small Chips\n\u00a32.20\n- - Large Chips\n\u00a33.75\n- - Small Sweet Potato Fries\n\u00a33.70\n- - Chicken Nuggets [Portion of 6]\n\u00a34.99\n- - Popcorn Chicken [Portion of 10]\n\u00a32.50\n- - Sweet Chilli Chicken Bites [Portion Of 6]\n\u00a34.80\n- - Chilli Cheese Poppers [Portion of 3]\n\u00a33.50\n- - Nacho Cheese Triangles [Portion Of 4]\n\u00a34.80\n- - Mozzarella Sticks [Portion of 6]\n\u00a35.40\n- - x1 Vegetable Samosa\n\u00a31.25\n- - x2 Vegetable Samosa [OFFER]\n\u00a32.25\n- - x1 Chicken Samosa\n\u00a31.25\n- - x2 Chicken Samosa [ OFFER!!! ]\n\u00a32.25\n1\nAdd to order\n\u00a32.20",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.35"
+                  "Add to order\n\u00a32.20"
                 ],
                 "has_inputs": false
               }
@@ -432,21 +339,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 330ml\n\u00a32.35\n1\nSubtotal\n\u00a32.35\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.64\nAdd special instructions\nCheckout\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our s",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Chips\n\u00a32.20\n1\nSubtotal\n\u00a32.20\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.49\nAdd special instructions\nCheckout\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\n1\nSmall Chips\nCrunchy exterior and f",
             "notices": []
           }
         ],
-        "item": "Coke 330ml",
+        "item": "Small Chips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-01T19:41:43.785280+02:00:closed",
-      "subject": "Hungry Monkey has STOPPED taking orders (19:41)",
-      "delivered_at": "2026-10-01T19:42:23.338039+02:00"
-    },
     {
       "id": "2026-10-01T19:46:43.784106+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (19:46)",
@@ -941,13 +843,18 @@
       "id": "2026-10-03T20:19:12.374306+02:00:delays",
       "subject": "Hungry Monkey is warning of long delays (20:19) - OPEN (basket test)",
       "delivered_at": "2026-10-03T20:20:19.747912+02:00"
+    },
+    {
+      "id": "2026-10-03T20:24:12.374775+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (20:24) - OPEN (basket test)",
+      "delivered_at": "2026-10-03T20:25:04.634115+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-10-03T20:19:12.374306+02:00",
+  "last_confirmed_at": "2026-10-03T20:24:12.374775+02:00",
   "last_sample_check": {
-    "at": "2026-10-03T20:19:12.374306+02:00",
+    "at": "2026-10-03T20:24:12.374775+02:00",
     "eligible": true
   }
 }
