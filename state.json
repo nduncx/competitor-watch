@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-03T16:23:44.053124+02:00",
+  "last_observed_at": "2026-10-03T16:28:44.053277+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -174,93 +174,6 @@
       }
     },
     {
-      "name": "Caffe Bottega",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our selected Fish dishes! Rosada al Limone only for \u00a312.50!\nEnjoy our Special Scampi Sambuca for just \u00a314 - a must-try Italian delicacy!\nTop Selling Items\nBreakfast Menu\nAntipasti\nPesce e Carni\nPasta\nDalla Griglia\nSpecials\nSides\nDolce e Gelato\nSoft Drinks\nItalian White Wines\nItalian Red Wines\nSpanish Red Wines\nHouse Wine (Red or White)\nSpanish White Wines\nRose Wines\nBeers\nSparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nFettuccine Alfredo\nHam and mushrooms in a creamy parmesan sauce\n\u00a39.50\nGrilled Pork Fillets\nserved with chips\n\u00a312.00\nScaloppine alla Milanese\nBreaded beef. Served with chips.\n\u00a314.50\nPollo all' aglio\nChicken breast in a creamy white wine and garlic sauce. Served with chips.\n\u00a313.00\nCallos\n\u00a311.00\nBreakfast Menu\nServered till 12pm\nOmelette & topping of choice\n\u00a34.50\nScrambled egg with salmon\n\u00a35.95\nSausage Baguette\n\u00a34.50\nBacon Baguette\n\u00a34.50\nJamon Iberico Baguette\n\u00a35.00\nJamon Iberico with cheese Baguette\n\u00a36.00\nAntipasti\nZuppa del Giorno\nSoup of the day\n\u00a34.50\nInsalata Caprese\nTomato slices, mozzarella, basil, dressed\n\u00a37.50\nInsalata Greca\nTomato, onions, cucumber, feta, black olives, oregano, dressing\n\u00a37.50\nInsalata con Salmone Affumicato\nSmoked salmon, capers, onions, cream cheese, on a bed of lettuce\n\u00a38.00\nGamberetti alla Diavola\nLangostino Pil Pil or Al Ajillo\n\u00a38.50\nFunghi alla Diavola\nMushrooms Pil Pil or Al Ajillo\n\u00a37.50\nPane all' Aglio\nGarlic bread\n\u00a33.50\nPane all' Aglio con Mozzarella\nGarlic bread with mozzarella\n\u00a34.00\nBruschetta\nGarlic bread topped with chopped tomatoes, marinated in olive oil and garlic\n\u00a34.50\nPesce e Carni\nAll served with vegetables and potatoes\nRosada con Salsa Gambero\nMedallions of white fish, coo",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our selected Fish dishes! Rosada al Limone only for \u00a312.50!\nEnjoy our Special Scampi Sambuca for just \u00a314 - a must-try Italian delicacy!\nTop Selling Items\nBreakfast Menu\nAntipasti\nPesce e Carni\nPasta\nDalla Griglia\nSpecials\nSides\nDolce e Gelato\nSoft Drinks\nItalian White Wines\nItalian Red Wines\nSpanish Red Wines\nHouse Wine (Red or White)\nSpanish White Wines\nRose Wines\nBeers\nSparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nFettuccine Alfredo\nHam and mushrooms in a creamy parmesan sauce\n\u00a39.50\nGrilled Pork Fillets\nserved with chips\n\u00a312.00\nScaloppine alla Milanese\nBreaded beef. Served with chips.\n\u00a314.50\nPollo all' aglio\nChicken breast in a creamy white wine and garlic sauce. Served with chips.\n\u00a313.00\nCallos\n\u00a311.00\nBreakfast Menu\nServered till 12pm\nOmelette & topping of choice\n\u00a34.50\nScrambled egg with salmon\n\u00a35.95\nSausage Baguette\n\u00a34.50\nBacon Baguette\n\u00a34.50\nJamon Iberico Baguette\n\u00a35.00\nJamon Iberico with cheese Baguette\n\u00a36.00\nAntipasti\nZuppa del Giorno\nSoup of the day\n\u00a34.50\nInsalata Caprese\nTomato slices, mozzarella, basil, dressed\n\u00a37.50\nInsalata Greca\nTomato, onions, cucumber, feta, black olives, oregano, dressing\n\u00a37.50\nInsalata con Salmone Affumicato\nSmoked salmon, capers, onions, cream cheese, on a bed of lettuce\n\u00a38.00\nGamberetti alla Diavola\nLangostino Pil Pil or Al Ajillo\n\u00a38.50\nFunghi alla Diavola\nMushrooms Pil Pil or Al Ajillo\n\u00a37.50\nPane all' Aglio\nGarlic bread\n\u00a33.50\nPane all' Aglio con Mozzarella\nGarlic bread with mozzarella\n\u00a34.00\nBruschetta\nGarlic bread topped with chopped tomatoes, marinated in olive oil and garlic\n\u00a34.50\nPesce e Carni\nAll served with vegetables and potatoes\nRosada con Salsa Gambero\nMedallions of white fish, coo",
-            "notices": [
-              {
-                "text": "Pepsi\n1\nAdd to order\n\u00a31.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nExperience our selected Fish dishes! Rosada al Limone only for \u00a312.50!\nEnjoy our Special Scampi Sambuca for just \u00a314 - a must-try Italian delicacy!\nTop Selling Items\nBreakfast Menu\nAntipasti\nPesce e Carni\nPasta\nDalla Griglia\nSpecials\nSides\nDolce e Gelato\nSoft Drinks\nItalian White Wines\nItalian Red Wines\nSpanish Red Wines\nHouse Wine (Red or White)\nSpanish White Wines\nRose Wines\nBeers\nSparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nFettuccine Alfredo\nHam and mushrooms in a creamy parmesan sauce\n\u00a39.50\nGrilled Pork Fillets\nserved with chips\n\u00a312.00\nScaloppine alla Milanese\nBreaded beef. Served with chips.\n\u00a314.50\nPollo all' aglio\nChicken breast in a creamy white wine and garlic sauce. Served with chips.\n\u00a313.00\nCallos\n\u00a311.00\nBreakfast Menu\nServered till 12pm\nOmelette & topping of choice\n\u00a34.50\nScrambled egg with salmon\n\u00a35.95\nSausage Baguette\n\u00a34.50\nBacon Baguette\n\u00a34.50\nJamon Iberico Baguette\n\u00a35.00\nJamon Iberico with cheese Baguette\n\u00a36.00\nAntipasti\nZuppa del Giorno\nSoup of the day\n\u00a34.50\nInsalata Caprese\nTomato slices, mozzarella, basil, dressed\n\u00a37.50\nInsalata Greca\nTomato, onions, cucumber, feta, black olives, oregano, dressing\n\u00a37.50\nInsalata con Salmone Affumicato\nSmoked salmon, capers, onions, cream cheese, on a bed of lettuce\n\u00a38.00\nGamberetti alla Diavola\nLangostino Pil Pil or Al Ajillo\n\u00a38.50\nFunghi alla Diavola\nMushrooms Pil Pil or Al Ajillo\n\u00a37.50\nPane all' Aglio\nGarlic bread\n\u00a33.50\nPane all' Aglio con Mozzarella\nGarlic bread with mozzarella\n\u00a34.00\nBruschetta\nGarlic bread topped with chopped tomatoes, marinated in olive oil and garlic\n\u00a34.50\nPesce e Car",
-            "notices": []
-          }
-        ],
-        "item": "Pepsi",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Era",
       "status": "open",
       "notice": "",
@@ -344,6 +257,93 @@
           }
         ],
         "item": "Pepsi Max",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Hotel Chocolat",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our New Chocolate Boxes! Patisserie Dreamer Chocolate Box 27-Piece & more for \u00a334!\nCan you get a more classic pairing? Strawberry & Cream Puddles for \u00a37.95!\nCelebrate the sweet side of Halloween with our frighteningly flavoursome chocolates from \u00a35.45!\nTop Selling Items\nHALLOWEEN\nNEW CHOCOLATE BOXES\nNEW VELVETISER!!!\nSPECIALITIES - GIFTS\nGIFT BAGS\nSELECTORS\nBATONS\nALCOHOL\nENROBED FRUIT\nSPECIALS FOR KIDS\nRIBBON BAGS\nGIFT CARDS\nDRINKING CHOCOLATE\nC\nCHRISTMAS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nStrawberries & Cream Heart\nA well-loved summer combination encased in six 36% white chocolate hearts\n\u00a35.45\nMilk Devotee Chocolate Box 29-Piece\nMilk and caramel recipes, ready to gift and share.\n\u00a334.00\nCryptopher the Vampire Boo Box\n16 individually wrapped solid caramel milk chocolate to sink your teeth into.\n\u00a39.95\nPatisserie Dreamer Chocolate Box 27-Piece\nPatisserie recipes, ready to gift and share.\n\u00a334.00\nDizzy Praline\nMellow, creamy milk chocolate and silky smooth praline come together to create the most indulgent praline chocolate. Our Praline Chocolate Selector is deeply satisfying; filled with a nutty, comforting hazelnut praline, this praline is a delight for milk chocolate-devotees. Intensely nutty, our hazelnut praline is brimming with hazelnuts to capture the gently roasted notes of this humble nut. At Hotel Chocolat, we never use artificial flavours; we dont need to, as the ingredients we use are packed full of natural flavours. Our Praline Chocolate Selector lets the hazelnut truly shine, resulting in an indulgent, not-too-sweet milk chocolate treat.\n\u00a35.45\nHALLOWEEN\nHALLOWEEN\nFrightful Bites Halloween Chocolate Box\n14 frighteningl",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our New Chocolate Boxes! Patisserie Dreamer Chocolate Box 27-Piece & more for \u00a334!\nCan you get a more classic pairing? Strawberry & Cream Puddles for \u00a37.95!\nCelebrate the sweet side of Halloween with our frighteningly flavoursome chocolates from \u00a35.45!\nTop Selling Items\nHALLOWEEN\nNEW CHOCOLATE BOXES\nNEW VELVETISER!!!\nSPECIALITIES - GIFTS\nGIFT BAGS\nSELECTORS\nBATONS\nALCOHOL\nENROBED FRUIT\nSPECIALS FOR KIDS\nRIBBON BAGS\nGIFT CARDS\nDRINKING CHOCOLATE\nC\nCHRISTMAS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nStrawberries & Cream Heart\nA well-loved summer combination encased in six 36% white chocolate hearts\n\u00a35.45\nMilk Devotee Chocolate Box 29-Piece\nMilk and caramel recipes, ready to gift and share.\n\u00a334.00\nCryptopher the Vampire Boo Box\n16 individually wrapped solid caramel milk chocolate to sink your teeth into.\n\u00a39.95\nPatisserie Dreamer Chocolate Box 27-Piece\nPatisserie recipes, ready to gift and share.\n\u00a334.00\nDizzy Praline\nMellow, creamy milk chocolate and silky smooth praline come together to create the most indulgent praline chocolate. Our Praline Chocolate Selector is deeply satisfying; filled with a nutty, comforting hazelnut praline, this praline is a delight for milk chocolate-devotees. Intensely nutty, our hazelnut praline is brimming with hazelnuts to capture the gently roasted notes of this humble nut. At Hotel Chocolat, we never use artificial flavours; we dont need to, as the ingredients we use are packed full of natural flavours. Our Praline Chocolate Selector lets the hazelnut truly shine, resulting in an indulgent, not-too-sweet milk chocolate treat.\n\u00a35.45\nHALLOWEEN\nHALLOWEEN\nFrightful Bites Halloween Chocolate Box\n14 frighteningl",
+            "notices": [
+              {
+                "text": "Strawberries & Cream Heart\n\nA well-loved summer combination encased in six 36% white chocolate hearts\n\n1\nAdd to order\n\u00a35.45",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a35.45"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nStrawberries & Cream Heart\n\u00a35.45\n1\nSubtotal\n\u00a35.45\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a38.74\nAdd special instructions\nCheckout\nDiscover our New Chocolate Boxes! Patisserie Dreamer Chocolate Box 27-Piece & more for \u00a334!\nCan you get a more classic pairing? Strawberry & Cream Puddles for \u00a37.95!\nCelebrate the sweet side of Halloween with our frighteningly flavoursome chocolates from \u00a35.45!\nTop Selling Items\nHALLOWEEN\nNEW CHOCOLATE BOXES\nNEW VELVETISER!!!\nSPECIALITIES - GIFTS\nGIFT BAGS\nSELECTORS\nBATONS\nALCOHOL\nENROBED FRUIT\nSPECIALS FOR KIDS\nRIBBON BAGS\nGIFT CARDS\nDRINKING CHOCOLATE\nC\nCHRISTMAS\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nStrawberries & Cream Heart\nA well-loved summer combination encased in six 36% white chocolate hearts\n\u00a35.45\nMilk Devotee Chocolate Box 29-Piece\nMilk and caramel recipes, ready to gift and share.\n\u00a334.00\nCryptopher the Vampire Boo Box\n16 individually wrapped solid caramel milk chocolate to sink your teeth into.\n\u00a39.95\nPatisserie Dreamer Chocolate Box 27-Piece\nPatisserie recipes, ready to gift and share.\n\u00a334.00\nDizzy Praline\nMellow, creamy milk chocolate and silky smooth praline come together to create the most indulgent praline chocolate. Our Praline Chocolate Selector is deeply satisfying; filled with a nutty, comforting hazelnut praline, this praline is a delight for milk chocolate-devotees. Intensely nutty, our hazelnut praline is brimming with hazelnuts to capture the gently roasted notes of this humble nut. At Hotel Chocolat, we never use artificial flavours; we dont need to, as the ingredients we use are packed full of natural flavours. Our Praline Chocolate Selector lets the hazelnut truly shine, resulting in an indulgen",
+            "notices": []
+          }
+        ],
+        "item": "Strawberries & Cream Heart",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -852,9 +852,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-03T16:23:44.053124+02:00",
+  "last_confirmed_at": "2026-10-03T16:28:44.053277+02:00",
   "last_sample_check": {
-    "at": "2026-10-03T16:23:44.053124+02:00",
+    "at": "2026-10-03T16:28:44.053277+02:00",
     "eligible": true
   }
 }
