@@ -1,8 +1,8 @@
 {
-  "status": "open",
-  "since": "2026-10-03T17:48:44.055195+02:00",
-  "alerted": false,
-  "notice": "",
+  "status": "delays",
+  "since": "2026-10-03T20:19:12.374306+02:00",
+  "alerted": true,
+  "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
   "last_checked_date": "2026-10-03",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,18 +10,18 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-03T20:14:12.373684+02:00",
+  "last_observed_at": "2026-10-03T20:19:12.374306+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "open",
-      "notice": "",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
               "buttons": [
                 "OK"
               ],
@@ -44,7 +44,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
               "buttons": [
                 "OK"
               ],
@@ -175,14 +175,14 @@
     },
     {
       "name": "OAKBERRY",
-      "status": "open",
-      "notice": "",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
               "buttons": [
                 "OK"
               ],
@@ -205,7 +205,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
               "buttons": [
                 "OK"
               ],
@@ -263,13 +263,13 @@
     {
       "name": "Ramsons Watergardens",
       "status": "unknown",
-      "notice": "",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
               "buttons": [
                 "OK"
               ],
@@ -292,7 +292,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
               "buttons": [
                 "OK"
               ],
@@ -355,14 +355,14 @@
     },
     {
       "name": "Boss Kitchen",
-      "status": "open",
-      "notice": "",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
               "buttons": [
                 "OK"
               ],
@@ -385,7 +385,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
               "buttons": [
                 "OK"
               ],
@@ -442,11 +442,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-01T19:36:43.784400+02:00:delays",
-      "subject": "Hungry Monkey is taking orders again (19:36) - basket test passed",
-      "delivered_at": "2026-10-01T19:37:58.604957+02:00"
-    },
     {
       "id": "2026-10-01T19:41:43.785280+02:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (19:41)",
@@ -941,13 +936,18 @@
       "id": "2026-10-03T17:48:44.055195+02:00:open",
       "subject": "Hungry Monkey: long-delays warning cleared (17:48) - basket test passed",
       "delivered_at": "2026-10-03T17:49:38.240610+02:00"
+    },
+    {
+      "id": "2026-10-03T20:19:12.374306+02:00:delays",
+      "subject": "Hungry Monkey is warning of long delays (20:19) - OPEN (basket test)",
+      "delivered_at": "2026-10-03T20:20:19.747912+02:00"
     }
   ],
   "recovery_streak": 0,
-  "last_result": "open",
-  "last_confirmed_at": "2026-10-03T20:14:12.373684+02:00",
+  "last_result": "delays",
+  "last_confirmed_at": "2026-10-03T20:19:12.374306+02:00",
   "last_sample_check": {
-    "at": "2026-10-03T20:14:12.373684+02:00",
+    "at": "2026-10-03T20:19:12.374306+02:00",
     "eligible": true
   }
 }
