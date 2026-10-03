@@ -1,8 +1,8 @@
 {
-  "status": "delays",
-  "since": "2026-10-03T17:08:44.054320+02:00",
-  "alerted": true,
-  "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+  "status": "open",
+  "since": "2026-10-03T17:48:44.055195+02:00",
+  "alerted": false,
+  "notice": "",
   "last_checked_date": "2026-10-03",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-03T17:43:44.055761+02:00",
+  "last_observed_at": "2026-10-03T17:48:44.055195+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -349,11 +349,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-01T19:31:43.783920+02:00:closed",
-      "subject": "Hungry Monkey: 19:31 check unconfirmed - last confirmed not taking orders at 19:26",
-      "delivered_at": "2026-10-01T19:32:58.480361+02:00"
-    },
     {
       "id": "2026-10-01T19:36:43.784400+02:00:delays",
       "subject": "Hungry Monkey is taking orders again (19:36) - basket test passed",
@@ -848,14 +843,18 @@
       "id": "2026-10-03T17:43:44.055761+02:00:delays",
       "subject": "Hungry Monkey: 17:43 check unconfirmed - last confirmed showing a long-delays warning at 17:38",
       "delivered_at": "2026-10-03T17:44:37.418039+02:00"
+    },
+    {
+      "id": "2026-10-03T17:48:44.055195+02:00:open",
+      "subject": "Hungry Monkey: long-delays warning cleared (17:48) - basket test passed",
+      "delivered_at": "2026-10-03T17:49:38.240610+02:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-03T17:38:44.055214+02:00",
+  "last_confirmed_at": "2026-10-03T17:48:44.055195+02:00",
   "last_sample_check": {
-    "at": "2026-10-03T17:43:44.055761+02:00",
+    "at": "2026-10-03T17:48:44.055195+02:00",
     "eligible": true
-  },
-  "recovery_candidate_at": "2026-10-03T17:43:44.055761+02:00"
+  }
 }
