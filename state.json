@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-03T19:59:12.373000+02:00",
+  "last_observed_at": "2026-10-03T20:04:12.374836+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -174,7 +174,7 @@
       }
     },
     {
-      "name": "TopDogs Gibraltar",
+      "name": "OAKBERRY",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -231,104 +231,6 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs for \u00a318\nChoose three of your favourite hotdogs for only \u00a318\n\u00a318.00\nNew! Signature Rolls\nChicken",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs for \u00a318\nChoose three of your favourite hotdogs for only \u00a318\n\u00a318.00\nNew! Signature Rolls\nChicken",
-            "notices": [
-              {
-                "text": "Coke\n1\nAdd to order\n\u00a31.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "OAKBERRY",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Classic Bowl (350ml)\n\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\nFruits\nSelect up to 9 options\n0/9\nBanana\nKiwi\nChopped Dates\n\u00a31.20\nMango Puree\nStrawberries\nGoji Berries\nBlueberries\n\u00a31.20\nPassion Fruit\n\u00a31.20\nNuts & Seeds\nSelect up to 5 options\n0/5\nPumpkin Seeds\nChia Seeds\nHemp Seeds\nSliced Almonds\nOut of stock\nPa\u00e7oca Zero\n\u00a31.20\nCreamy\nSelect up to 9 options\n0/9\nCondensed Milk\nPowdered Milk\nAlmond Butter\n\u00a31.20\nChia Pudding\nNatural Yoghurt\nPistachio Cream\n\u00a32.50\nHazelnut Choco Cream\n\u00a31.20\nHoney\nCrunchy\nSelect up to 6 options\n0/6\nGranola\nGranola Signature\nSweet Toasted Coconut Chips\n\u00a31.20\nCacao Nibs\n\u00a31.20\nOAK Boosters\nSelect up to 3 options\n0/3\nWhey Protein\n\u00a32.50\nVegan Protein\n\u00a32.50\nCollagen\n\u00a32.50\n1\nAdd to order\n\u00a311.90",
-              "buttons": [
-                "",
-                "",
-                "",
-                "Add to order\n\u00a311.90"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": false,
-        "steps": [
-          {
-            "phase": "before_item",
             "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCreate your perfect blend with Acai Smoothies - Build Your Own from just \u00a310.70!\nExplore our Signature Bowls! Fuel up with our Tiger Bowls and more from only \u00a314.50!\nTop Selling Items\nAcai Bowls (Build Your Own)\nSignature Bowls\nAcai Smoothies (Build Your Own)\nSignature Smoothies (500ml)\nOAK Products\nP\nProtein Shakes\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\u00a311.90\nWorks Bowl (500ml)\nYour WORKS is custom made, so please pick unlimited toppings of your preference. For the WORKS size (500ml), we suggest up to 6 toppings for a perfect Acai/Toppings ratio.\n\u00a315.90\nThe OAK Bowl (650ml)\nYour OAK is custom made, so please pick unlimited toppings of your preference. For the OAK size (650ml), we suggest up to 7 toppings for a perfect Acai/Toppings ratio.\n\u00a318.90\nPistachio Bowl (500ml)\nA rich and nutty twist a\u00e7a\u00ed with chia pudding, strawberries, granola and a smooth pistachio cream.\n\u00a318.50\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nAcai Bowls (Build Your Own)\nBuild your own acai bowl\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest ",
             "notices": []
           },
@@ -347,10 +249,15 @@
                 "has_inputs": false
               }
             ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nClassic Bowl (350ml)\n\u00a311.90\n1\nSubtotal\n\u00a311.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a315.19\nAdd special instructions\nCheckout\nCreate your perfect blend with Acai Smoothies - Build Your Own from just \u00a310.70!\nExplore our Signature Bowls! Fuel up with our Tiger Bowls and more from only \u00a314.50!\nTop Selling Items\nAcai Bowls (Build Your Own)\nSignature Bowls\nAcai Smoothies (Build Your Own)\nSignature Smoothies (500ml)\nOAK Products\nP\nProtein Shakes\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\u00a311.90\nWorks Bowl (500ml)\nYour WORKS is custom made, so please pick unlimited toppings of your preference. For the WORKS size (500ml), we suggest up to 6 toppings for a perfect Acai/Toppings ratio.\n\u00a315.90\nThe OAK Bowl (650ml)\nYour OAK is custom made, so please pick unlimited toppings of your preference. For the OAK size (650ml), we suggest up to 7 toppings for a perfect Acai/Toppings ratio.\n\u00a318.90\nPistachio Bowl (500ml)\nA rich and nutty twist a\u00e7a\u00ed with chia pudding, strawberries, granola and a smooth pistachio cream.\n\u00a318.50\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nAcai Bowls (Build Your Own)\nBuild your own acai bowl\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\n1\nClassic Bowl (350ml)\nYour ",
+            "notices": []
           }
         ],
         "item": "Classic Bowl (350ml)",
-        "reason": "notices or ordering unavailable after adding"
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
@@ -945,9 +852,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-03T19:59:12.373000+02:00",
+  "last_confirmed_at": "2026-10-03T20:04:12.374836+02:00",
   "last_sample_check": {
-    "at": "2026-10-03T19:59:12.373000+02:00",
+    "at": "2026-10-03T20:04:12.374836+02:00",
     "eligible": true
   }
 }
