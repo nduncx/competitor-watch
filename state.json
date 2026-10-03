@@ -2,7 +2,7 @@
   "status": "open",
   "since": "2026-10-03T21:59:12.376710+02:00",
   "alerted": false,
-  "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:15pm. Our apologies for the inconvenience caused.",
+  "notice": "",
   "last_checked_date": "2026-10-03",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,18 +10,18 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-03T22:19:12.378043+02:00",
+  "last_observed_at": "2026-10-03T22:24:12.379962+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
       "status": "open",
-      "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:15pm. Our apologies for the inconvenience caused.",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:15pm. Our apologies for the inconvenience caused.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -44,7 +44,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:15pm. Our apologies for the inconvenience caused.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -65,8 +65,8 @@
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
-      "closure_notice_only": true,
-      "stale_closure_notice": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
       "basket_probe": {
         "passed": true,
         "steps": [
@@ -172,19 +172,19 @@
           }
         ],
         "item": "Southern Fried Chicken Strips",
-        "reason": "item appeared in fresh basket despite earlier dismissed closure notice; no current refusal or pre-order"
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
       "name": "3Bros Takeout",
       "status": "open",
-      "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:15pm. Our apologies for the inconvenience caused.",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:15pm. Our apologies for the inconvenience caused.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -207,7 +207,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:15pm. Our apologies for the inconvenience caused.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -228,8 +228,8 @@
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
-      "closure_notice_only": true,
-      "stale_closure_notice": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
       "basket_probe": {
         "passed": true,
         "steps": [
@@ -261,19 +261,19 @@
           }
         ],
         "item": "SFC Chicken Strips",
-        "reason": "item appeared in fresh basket despite earlier dismissed closure notice; no current refusal or pre-order"
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
       "name": "AquaTerra",
       "status": "open",
-      "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:15pm. Our apologies for the inconvenience caused.",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:15pm. Our apologies for the inconvenience caused.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -296,7 +296,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:15pm. Our apologies for the inconvenience caused.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -317,8 +317,8 @@
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
-      "closure_notice_only": true,
-      "stale_closure_notice": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
       "basket_probe": {
         "passed": true,
         "steps": [
@@ -350,7 +350,7 @@
           }
         ],
         "item": "Coca Cola",
-        "reason": "item appeared in fresh basket despite earlier dismissed closure notice; no current refusal or pre-order"
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
   ],
@@ -858,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-03T22:19:12.378043+02:00",
+  "last_confirmed_at": "2026-10-03T22:24:12.379962+02:00",
   "last_sample_check": {
-    "at": "2026-10-03T22:19:12.378043+02:00",
+    "at": "2026-10-03T22:24:12.379962+02:00",
     "eligible": true
   }
 }
