@@ -10,6 +10,7 @@ import competitor_watch as cw
 DELAY = 'Hungry Monkey orders may incur long delays.'
 PREORDER = 'We are currently closed but you can still pre-order.'
 CLOSED = 'Sorry, we are not taking orders right now.'
+PAUSE = 'Everyone is a Hungry Monkey today! We will resume our deliveries at 21:15pm.'
 
 
 def basket_fixture(items=None, outcome='added', dirty=False):
@@ -65,6 +66,53 @@ class BasketTests(unittest.TestCase):
         r,a=self.probe(basket_fixture())
         self.assertEqual(r['status'],'delays');self.assertTrue(r['basket_probe']['passed'])
         self.assertEqual(a,['item:Simple side','add:Simple side'])
+    def notice_probe(self, notice=PAUSE, outcome='added', live_text='', delays=False, stubborn=False):
+        html=basket_fixture(outcome=outcome)
+        if not delays:
+            html=html.replace(DELAY,'')
+        overlay=('<div role="alertdialog"><p>'+notice+'</p><button onclick="'
+                 + ('' if stubborn else 'this.parentElement.remove()') + '">OK</button></div>')
+        html=html.replace('<h2>Basket</h2>',overlay+'<h2>Basket</h2><p>'+live_text+'</p>')
+        page=self.browser.new_page();self.addCleanup(page.close);page.set_content(html)
+        with contextlib.redirect_stdout(io.StringIO()):
+            observed=cw.read_venue_page(page)
+            result=cw.probe_ordering(page,observed)
+        return observed,result,page.evaluate('window.actions')
+    def test_dismissed_pause_is_overridden_only_by_successful_fresh_basket(self):
+        before,r,a=self.notice_probe()
+        self.assertEqual(before['status'],'platform_closed');self.assertTrue(before['closure_notice_only'])
+        self.assertEqual(r['status'],'open');self.assertTrue(r['basket_probe']['passed'])
+        self.assertTrue(r['stale_closure_notice']);self.assertIn(PAUSE,r['notice'])
+        self.assertEqual(a,['item:Simple side','add:Simple side'])
+    def test_dismissed_generic_closure_can_also_be_stale(self):
+        before,r,a=self.notice_probe(notice=CLOSED)
+        self.assertEqual(before['status'],'closed');self.assertEqual(r['status'],'open')
+        self.assertTrue(r['basket_probe']['passed']);self.assertIn(CLOSED,r['notice'])
+    def test_stale_closure_does_not_clear_a_real_long_delay_warning(self):
+        before,r,a=self.notice_probe(delays=True)
+        self.assertEqual(r['status'],'delays');self.assertTrue(r['basket_probe']['passed'])
+        self.assertIn(DELAY,r['notice']);self.assertIn(PAUSE,r['notice'])
+    def test_live_refusal_after_dismissing_notice_prevents_basket_test(self):
+        before,r,a=self.notice_probe(live_text=CLOSED)
+        self.assertFalse(before['closure_notice_only']);self.assertEqual(r['status'],'platform_closed')
+        self.assertFalse(r['basket_probe']['passed']);self.assertEqual(a,[])
+    def test_stale_pause_never_overrides_preorder_venue(self):
+        before,r,a=self.notice_probe(live_text=PREORDER)
+        self.assertEqual(r['status'],'venue_closed');self.assertEqual(a,[])
+    def test_failed_add_retains_observed_closure(self):
+        before,r,a=self.notice_probe(outcome='no_effect')
+        self.assertEqual(r['status'],'platform_closed');self.assertFalse(r['basket_probe']['passed'])
+        self.assertIn(PAUSE,r['notice'])
+    def test_new_refusal_after_add_wins_over_old_pause_notice(self):
+        before,r,a=self.notice_probe(outcome='closed')
+        self.assertEqual(r['status'],'closed');self.assertFalse(r['basket_probe']['passed'])
+    def test_new_pause_after_add_cannot_be_ignored(self):
+        before,r,a=self.notice_probe(outcome='pause')
+        self.assertEqual(r['status'],'platform_closed');self.assertFalse(r['basket_probe']['passed'])
+    def test_undismissed_pause_never_gets_basket_test(self):
+        before,r,a=self.notice_probe(stubborn=True)
+        self.assertTrue(before['unresolved_notice']);self.assertFalse(before['closure_notice_only'])
+        self.assertEqual(r['status'],'platform_closed');self.assertEqual(a,[])
     def test_required_choices_are_skipped_without_filling_them(self):
         r,a=self.probe(basket_fixture([{'name':'Meal','required':True},{'name':'Simple side'}]))
         self.assertTrue(r['basket_probe']['passed']);self.assertEqual(r['basket_probe']['item'],'Simple side')

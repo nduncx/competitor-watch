@@ -9,8 +9,9 @@ delays" notice.
 How it decides:
   1. Loads the Hungry Monkey directory and picks a few venues it lists as open.
   2. Presses ORDER NOW on each, which opens the venue's ordering page.
-  3. If every venue refuses orders - or any page shows Hungry Monkey's own
-     "we will resume our deliveries" notice - Hungry Monkey is closed.
+  3. Dismiss status notices and test a simple item in a fresh basket. An old
+     closure notice can remain after orders resume; only a successful basket
+     test can override it. Live refusals and pre-order stores remain excluded.
      One venue refusing while the others accept just means that venue is shut.
 
 Usage
@@ -401,9 +402,17 @@ def read_venue_page(venue_page, deadline=None) -> dict:
         order_button, unresolved = False, True
     if status not in {"closed", "platform_closed", "venue_closed"} and (unresolved or not order_button):
         status = "unknown"
+    venue_preorder = any(VENUE_CLOSED_LINE.fullmatch(line.strip()) for line in combined.splitlines())
+    if venue_preorder:
+        status = "venue_closed"
+    final_status = classify_venue(final_text)
+    closure_notice_only = (status in {"closed", "platform_closed"}
+                           and final_status in {"open", "delays"} and order_button
+                           and not unresolved and not venue_preorder)
     result = {"status": status, "notice": extract_notice(combined, popups),
               "url": venue_page.url, "text": combined, "notice_transcript": transcript,
-              "unresolved_notice": unresolved, "order_button_after_notices": order_button}
+              "unresolved_notice": unresolved, "order_button_after_notices": order_button,
+              "final_status": final_status, "closure_notice_only": closure_notice_only}
     log("Notice sequence: " + json.dumps({k: v for k, v in result.items() if k != "text"}, ensure_ascii=False))
     return result
 
@@ -415,7 +424,8 @@ def probe_ordering(venue_page, result: dict, deadline=None) -> dict:
     result["notice_transcript"] = list(result.get("notice_transcript", []))
     proof = {"passed": False, "steps": [], "item": None}
     result["basket_probe"] = proof
-    if result["status"] not in {"open", "delays"}:
+    initial_status = result["status"]
+    if initial_status not in {"open", "delays"} and not result.get("closure_notice_only", False):
         proof["reason"] = "closure, pre-order, or unresolved page: no basket test"
         return result
 
@@ -425,7 +435,9 @@ def probe_ordering(venue_page, result: dict, deadline=None) -> dict:
         proof["steps"].append({"phase": phase, "text": snapshot["text"][:1800],
                                "notices": snapshot["notices"]})
         result["text"] += "\n" + snapshot["text"]
-        classification = classify_venue(result["text"])
+        # Earlier dismissed notices stay in the transcript, but must not prevent
+        # testing the live basket. A fresh refusal at any probe step still wins.
+        classification = classify_venue(snapshot["text"])
         if classification in {"platform_closed", "closed", "venue_closed"}:
             result["status"] = classification
             result["notice"] = extract_notice(result["text"], [])
@@ -480,6 +492,11 @@ def probe_ordering(venue_page, result: dict, deadline=None) -> dict:
             proof["passed"] = True
             proof["reason"] = "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
             result["status"] = "delays" if any(p in result["text"].lower() for p in DELAY_PHRASES) else "open"
+            result["notice"] = "\n\n".join(dedupe(
+                [result.get("notice", "")] + extract_notice(result["text"], []).splitlines()))
+            if initial_status in {"closed", "platform_closed"}:
+                result["stale_closure_notice"] = True
+                proof["reason"] = "item appeared in fresh basket despite earlier dismissed closure notice; no current refusal or pre-order"
             return result
         proof.setdefault("reason", "no eligible simple item or addition to basket could not be verified")
     except Exception as exc:
@@ -490,7 +507,7 @@ def probe_ordering(venue_page, result: dict, deadline=None) -> dict:
                 return result
         except Exception:
             pass
-    result["status"] = "unknown"
+    result["status"] = initial_status if initial_status in {"closed", "platform_closed"} else "unknown"
     return result
 
 
@@ -543,7 +560,7 @@ def check_platform() -> dict:
                 try:
                     venue_page, _ = open_venue(context, page, card, deadline)
                     result = read_venue_page(venue_page, deadline)
-                    if result['status'] in {'open', 'delays'}:
+                    if result['status'] in {'open', 'delays'} or result.get('closure_notice_only', False):
                         if card['looks_open']:
                             result = probe_ordering(venue_page, result, deadline)
                         else:
@@ -1023,6 +1040,8 @@ def run_check(dry_run: bool = False) -> int:
                                "notice_transcript": v.get("notice_transcript", []),
                                "unresolved_notice": v.get("unresolved_notice", False),
                                "order_button_after_notices": v.get("order_button_after_notices", False),
+                               "closure_notice_only": v.get("closure_notice_only", False),
+                               "stale_closure_notice": v.get("stale_closure_notice", False),
                                "basket_probe": v.get("basket_probe", {})}
                               for v in result.get("venues", [])])
     save_state(state)
