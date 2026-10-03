@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-03T21:29:12.376181+02:00",
+  "last_observed_at": "2026-10-03T21:34:12.376098+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -63,7 +63,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Panzerotto",
+      "name": "El Kasbah",
       "status": "platform_closed",
       "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:15pm. Our apologies for the inconvenience caused.",
       "notice_transcript": [
@@ -113,7 +113,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Vinopolis Gastrobar",
+      "name": "Burger King",
       "status": "platform_closed",
       "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:15pm. Our apologies for the inconvenience caused.",
       "notice_transcript": [
@@ -164,11 +164,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-01T20:51:43.786671+02:00:closed",
-      "subject": "Hungry Monkey has STOPPED taking orders (20:51)",
-      "delivered_at": "2026-10-01T20:52:22.505917+02:00"
-    },
     {
       "id": "2026-10-01T20:56:43.791011+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:56)",
@@ -663,13 +658,18 @@
       "id": "2026-10-03T21:29:12.376181+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (21:29)",
       "delivered_at": "2026-10-03T21:29:54.592958+02:00"
+    },
+    {
+      "id": "2026-10-03T21:34:12.376098+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (21:34)",
+      "delivered_at": "2026-10-03T21:34:52.688287+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-03T21:29:12.376181+02:00",
+  "last_confirmed_at": "2026-10-03T21:34:12.376098+02:00",
   "last_sample_check": {
-    "at": "2026-10-03T21:29:12.376181+02:00",
+    "at": "2026-10-03T21:34:12.376098+02:00",
     "eligible": true
   }
 }
