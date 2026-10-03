@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-03T18:58:44.057977+02:00",
+  "last_observed_at": "2026-10-03T19:03:44.057853+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -174,7 +174,7 @@
       }
     },
     {
-      "name": "Gela Ti Amo",
+      "name": "Jury`s",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -231,15 +231,102 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best locally",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed Orange Juice\n\u00a33.00\nBrea",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best locally",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed Orange Juice\n\u00a33.00\nBrea",
             "notices": [
               {
-                "text": "Coca Cola\n\nCan 330ml\n\n1\nAdd to order\n\u00a31.50",
+                "text": "Coke\n\n33cl\n\n1\nAdd to order\n\u00a33.10",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a33.10"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.10\n1\nSubtotal\n\u00a33.10\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.39\nAdd special instructions\nCheckout\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion, cream cheese, and hoisin sauce.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing.\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our ",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "TopDogs Gibraltar",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs for \u00a318\nChoose three of your favourite hotdogs for only \u00a318\n\u00a318.00\nNew! Signature Rolls\nChicken",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs for \u00a318\nChoose three of your favourite hotdogs for only \u00a318\n\u00a318.00\nNew! Signature Rolls\nChicken",
+            "notices": [
+              {
+                "text": "Coke\n1\nAdd to order\n\u00a31.50",
                 "buttons": [
                   "",
                   "",
@@ -252,252 +339,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced na",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs",
             "notices": []
           }
         ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Lord Nelson",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Starbucks",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nSummer Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nChilled Salads\nReady to Drink\nWholebean Coffee Core\nCapsules\nM\nMerch\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a34.90\nICED PUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nSummer Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nChilled Salads\nReady to Drink\nWholebean Coffee Core\nCapsules\nM\nMerch\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a34.90\nICED PUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with",
-            "notices": [
-              {
-                "text": "Iced Caramel Macchiato\nChoose a size\nSelect 1 option\nTall\n\u00a35.90\nGrande\n\u00a36.70\nVenti\n\u00a37.40\nWould you like to customise this drink?\nYes, customize\n1\nAdd to order\n\u00a36.70",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a36.70"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "Iced Caramel Macchiato",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nSummer Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nChilled Salads\nReady to Drink\nWholebean Coffee Core\nCapsules\nM\nMerch\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a34.90\nICED PUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nSummer Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nChilled Salads\nReady to Drink\nWholebean Coffee Core\nCapsules\nM\nMerch\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a34.90\nICED PUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with",
-            "notices": [
-              {
-                "text": "Iced Latte\n\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\nChoose a size\nSelect 1 option\nTall\n\u00a34.40\nGrande\n\u00a35.40\nVenti\n\u00a35.90\nWould you like to customise this drink?\nYes, customize\n1\nAdd to order\n\u00a35.40",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a35.40"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "Iced Latte",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nSummer Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nChilled Salads\nReady to Drink\nWholebean Coffee Core\nCapsules\nM\nMerch\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a34.90\nICED PUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nSummer Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nChilled Salads\nReady to Drink\nWholebean Coffee Core\nCapsules\nMerch\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a34.90\nICED PUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with p",
-            "notices": [
-              {
-                "text": "Iced Brown Sugar Oat Shaken Espresso\n\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\nChoose a size\nSelect 1 option\nTall\n\u00a35.90\nGrande\n\u00a36.70\nVenti\n\u00a37.40\nWould you like to customise this drink?\nYes, customize\n1\nAdd to order\n\u00a36.70",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a36.70"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "Iced Brown Sugar Oat Shaken Espresso",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nSummer Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nChilled Salads\nReady to Drink\nWholebean Coffee Core\nCapsules\nMerch\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a34.90\nICED PUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with p",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nSummer Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nChilled Salads\nReady to Drink\nWholebean Coffee Core\nCapsules\nMerch\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a34.90\nICED PUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with p",
-            "notices": [
-              {
-                "text": "Mango Dragonfruit Starbucks Refresha\nChoose a size\nSelect 1 option\nTall\n\u00a34.90\nGrande\n\u00a35.90\nVenti\n\u00a36.70\nWould you like some Extras?\nAdd Coco Milk\n\u00a30.40\nAdd Lemonade\n\u00a30.40\n1\nAdd to order\n\u00a35.90",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a35.90"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "Mango Dragonfruit Starbucks Refresha",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nSummer Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nChilled Salads\nReady to Drink\nWholebean Coffee Core\nCapsules\nMerch\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a34.90\nICED PUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with p",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nSummer Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nChilled Salads\nReady to Drink\nWholebean Coffee Core\nCapsules\nMerch\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a34.90\nICED PUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with p",
-            "notices": [
-              {
-                "text": "Ham & Cheese Croissant\n1\nAdd to order\n\u00a35.90",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a35.90"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nHam & Cheese Croissant\n\u00a35.90\n1\nSubtotal\n\u00a35.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a39.19\nAdd special instructions\nCheckout\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nSummer Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nChilled Salads\nReady to Drink\nWholebean Coffee Core\nCapsules\nMerch\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\n1\nHam & Cheese Croissant\n\u00a35.90\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin",
-            "notices": []
-          }
-        ],
-        "item": "Ham & Cheese Croissant",
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -1006,9 +852,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-03T18:58:44.057977+02:00",
+  "last_confirmed_at": "2026-10-03T19:03:44.057853+02:00",
   "last_sample_check": {
-    "at": "2026-10-03T18:58:44.057977+02:00",
+    "at": "2026-10-03T19:03:44.057853+02:00",
     "eligible": true
   }
 }
