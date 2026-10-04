@@ -10,23 +10,16 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-04T17:02:23.619609+02:00",
+  "last_observed_at": "2026-10-04T17:07:23.621000+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -42,19 +35,6 @@
         },
         {
           "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
           "notices": []
         },
         {
@@ -177,19 +157,12 @@
     },
     {
       "name": "Era",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -205,19 +178,6 @@
         },
         {
           "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
           "notices": []
         },
         {
@@ -266,19 +226,12 @@
     },
     {
       "name": "Beeyo",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -294,19 +247,6 @@
         },
         {
           "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
           "notices": []
         },
         {
@@ -355,11 +295,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-02T20:15:19.811733+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (20:15) - OPEN (basket test)",
-      "delivered_at": "2026-10-02T20:16:24.249005+02:00"
-    },
     {
       "id": "2026-10-02T20:20:19.812157+02:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (20:20)",
@@ -854,13 +789,19 @@
       "id": "2026-10-04T17:02:23.619609+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (17:02) - OPEN (basket test)",
       "delivered_at": "2026-10-04T17:03:17.909771+02:00"
+    },
+    {
+      "id": "2026-10-04T17:07:23.621000+02:00:delays",
+      "subject": "Hungry Monkey: 17:07 check unconfirmed - last confirmed showing a long-delays warning at 17:02",
+      "delivered_at": "2026-10-04T17:08:15.203348+02:00"
     }
   ],
-  "recovery_streak": 0,
-  "last_result": "delays",
+  "recovery_streak": 1,
+  "last_result": "open",
   "last_confirmed_at": "2026-10-04T17:02:23.619609+02:00",
   "last_sample_check": {
-    "at": "2026-10-04T17:02:23.619609+02:00",
+    "at": "2026-10-04T17:07:23.621000+02:00",
     "eligible": true
-  }
+  },
+  "recovery_candidate_at": "2026-10-04T17:07:23.621000+02:00"
 }
