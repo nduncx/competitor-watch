@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-04T22:47:54.474391+02:00",
+  "last_observed_at": "2026-10-04T22:52:54.474315+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,95 +176,6 @@
       }
     },
     {
-      "name": "Smash & Stack",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTurn up the vibes! Our Jerk Chicken Burger is here for a limited time only at just \u00a314.95!\nBig flavor, no compromise! Grab our plant-based beef & chicken-style burgers for just \u00a312.95!\nTop Selling Items\nStarters\nSmash Burgers\nChicken Burgers\nVegan & Vegetarian\nKids Menu\nSauces\nDesserts\nShakes\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Cheese & Bacon Burger\nTopped with melted American cheddar, crispy bacon, fresh lettuce, pickles, mayo, and ketchup.\n\u00a313.95\nNEW! Volcano Burger\n2 Smashed beef patty, fiery Sriracha mayo, sliced jalape\u00f1os, melted cheddar, fresh pico de gallo, a drizzle of honey mustard and crunchy shredded nachos. Served with fries\n\u00a314.95\nWestern Burger\nCrispy bacon, Emmental cheese, fried onions, fresh lettuce, and smoky BBQ sauce.\n\u00a315.95\nNEW! Kentucky Chicken Bucket (For 2)\nA sharing bucket loaded with crispy Kentucky-style chicken and golden fries, served with BBQ sauce and honey mustard dip. Perfect for two\n\u00a319.95\nStarters\nNEW! Mini Duck Spring Rolls\nServed With Hoin Sin Sauce\n\u00a39.95\nNEW! Mac & Cheese Balls\nServed With Garlic Mayo\n\u00a39.95\nNEW! Corn Dogs (4 pcs)\nFour golden-fried corn dogs with a crispy cornmeal coating, topped with ketchup, mustard sauce, and crispy onions.\n\u00a39.95\nNEW! Pork Belly Chunks\nCrispy pork belly chunks, slow-cooked for maximum flavour and served with BBQ sauce and sriracha dip.\n\u00a39.95\nNEW! Pork Rib Bites\nTender, slow-cooked pork rib bites, crispy on the outside and juicy inside, served with BBQ sauce and sriracha mayo\n\u00a39.95\nBBQ American Buffalo Wings\nSmokey BBQ\n\u00a38.95\nHot & Spicy American Buffalo Wings\nHot & Spicy\n\u00a38.95\nAmerican Chicken Tenders\nCrispy golden and bursting with flavour, served wi",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTurn up the vibes! Our Jerk Chicken Burger is here for a limited time only at just \u00a314.95!\nBig flavor, no compromise! Grab our plant-based beef & chicken-style burgers for just \u00a312.95!\nTop Selling Items\nStarters\nSmash Burgers\nChicken Burgers\nVegan & Vegetarian\nKids Menu\nSauces\nDesserts\nShakes\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Cheese & Bacon Burger\nTopped with melted American cheddar, crispy bacon, fresh lettuce, pickles, mayo, and ketchup.\n\u00a313.95\nNEW! Volcano Burger\n2 Smashed beef patty, fiery Sriracha mayo, sliced jalape\u00f1os, melted cheddar, fresh pico de gallo, a drizzle of honey mustard and crunchy shredded nachos. Served with fries\n\u00a314.95\nWestern Burger\nCrispy bacon, Emmental cheese, fried onions, fresh lettuce, and smoky BBQ sauce.\n\u00a315.95\nNEW! Kentucky Chicken Bucket (For 2)\nA sharing bucket loaded with crispy Kentucky-style chicken and golden fries, served with BBQ sauce and honey mustard dip. Perfect for two\n\u00a319.95\nStarters\nNEW! Mini Duck Spring Rolls\nServed With Hoin Sin Sauce\n\u00a39.95\nNEW! Mac & Cheese Balls\nServed With Garlic Mayo\n\u00a39.95\nNEW! Corn Dogs (4 pcs)\nFour golden-fried corn dogs with a crispy cornmeal coating, topped with ketchup, mustard sauce, and crispy onions.\n\u00a39.95\nNEW! Pork Belly Chunks\nCrispy pork belly chunks, slow-cooked for maximum flavour and served with BBQ sauce and sriracha dip.\n\u00a39.95\nNEW! Pork Rib Bites\nTender, slow-cooked pork rib bites, crispy on the outside and juicy inside, served with BBQ sauce and sriracha mayo\n\u00a39.95\nBBQ American Buffalo Wings\nSmokey BBQ\n\u00a38.95\nHot & Spicy American Buffalo Wings\nHot & Spicy\n\u00a38.95\nAmerican Chicken Tenders\nCrispy golden and bursting with flavour, served wi",
-            "notices": [
-              {
-                "text": "Coke Can\n1\nAdd to order\n\u00a32.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Can\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nTurn up the vibes! Our Jerk Chicken Burger is here for a limited time only at just \u00a314.95!\nBig flavor, no compromise! Grab our plant-based beef & chicken-style burgers for just \u00a312.95!\nTop Selling Items\nStarters\nSmash Burgers\nChicken Burgers\nVegan & Vegetarian\nKids Menu\nSauces\nDesserts\nShakes\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Cheese & Bacon Burger\nTopped with melted American cheddar, crispy bacon, fresh lettuce, pickles, mayo, and ketchup.\n\u00a313.95\nNEW! Volcano Burger\n2 Smashed beef patty, fiery Sriracha mayo, sliced jalape\u00f1os, melted cheddar, fresh pico de gallo, a drizzle of honey mustard and crunchy shredded nachos. Served with fries\n\u00a314.95\nWestern Burger\nCrispy bacon, Emmental cheese, fried onions, fresh lettuce, and smoky BBQ sauce.\n\u00a315.95\nNEW! Kentucky Chicken Bucket (For 2)\nA sharing bucket loaded with crispy Kentucky-style chicken and golden fries, served with BBQ sauce and honey mustard dip. Perfect for two\n\u00a319.95\nStarters\nNEW! Mini Duck Spring Rolls\nServed With Hoin Sin Sauce\n\u00a39.95\nNEW! Mac & Cheese Balls\nServed With Garlic Mayo\n\u00a39.95\nNEW! Corn Dogs (4 pcs)\nFour golden-fried corn dogs with a crispy cornmeal coating, topped with ketchup, mustard sauce, and crispy onions.\n\u00a39.95\nNEW! Pork Belly Chunks\nCrispy pork belly chunks, slow-cooked for maximum flavour and served with BBQ sauce and sriracha dip.\n\u00a39.95\nNEW! Pork Rib Bites\nTender, slow-cooked pork rib bites, crispy on the outside and juicy inside, served with BBQ sauce and sriracha mayo\n\u00a39.95\nBBQ American Buffalo Wings\nSmokey BBQ\n\u00a38.95\nHot & Spicy American Buffalo",
-            "notices": []
-          }
-        ],
-        "item": "Coke Can",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Chinese Kitchen",
       "status": "open",
       "notice": "",
@@ -350,6 +261,95 @@
           }
         ],
         "item": "Coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Koodle",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nKoodle\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLunch done right at Koodle! Beef Noodle Box for just \u00a37.95 or Beef Rice Box for only \u00a36.95!\nSeafood lovers, this one's for you! Prawn Rice Lunch Box \u00a38.95 & Prawn Lunch Noodle Box for \u00a39.95!\nTop Selling Items\nStarters\nChicken Noodle & Rice Lunch Box\nBeef Noodle & Rice Lunch Box\nChar Siu Noodle & Rice Lunch Box\nPrawns Noodle & Rice Lunch Box\nChicken\nBeef\nChar Siu\nPrawns\nNoodles\nHouse Special Rice Noodles Soup\nStir Fried Vegetables dishes\nRice\nSoft Drinks\nBeers & Ciders\nRed Wines\nRose Wines\nChampagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCrispy Chicken Sweet Chilli Sauce with Noodle\n\u00a39.95\nHomemade Duck Hoi Sin Fried Dumplings\n4 pieces, served with sweet chilli dip\n\u00a34.95\n1/4 Crispy Aromatic Duck\nServed with pancakes, cucumber, spring onion and hoi sin sauce\n\u00a313.95\nOrange Chicken with Rice\n\u00a39.95\nCurry Chicken with Rice\n\u00a39.95\nStarters\nHomemade Lamb with Leek Fried Dumplings\n4 pieces, served with sweet chilli dip\n\u00a34.95\nHomemade Pork with Vegetables Fried Dumplings\n4 pieces, served with sweet chilli dip\n\u00a34.95\nHomemade Duck Hoi Sin Fried Dumplings\n4 pieces, served with sweet chilli dip\n\u00a34.95\nBao Bun\n2 pieces of steamed buns with filling of choice: Lamb plum, Duck hoisin or pork hoisin sauce\n\u00a38.95\nPan Fried Pork Buns\n3 pieces\n\u00a34.95\nSteamed Char Siu Bao\n2 pieces\n\u00a34.95\nTempura Prawns\n5 pieces of Crispy king prawns served with sweet & sour dip\n\u00a37.95\nFried Mantou\n3 pieces, served with condensed milk dip\n\u00a33.95\nVegetarian Spring Rolls\n3 pieces, perfectly crisp served with sweet and sour dip\n\u00a34.95\nPrawn Crackers\n\u00a32.95\n1/4 Crispy Aromatic Duck\nServed with pancakes, cucumber, spring onion and hoi sin sauce\n\u00a313.95\n1/2 Crispy Aromatic Duck\nServed with ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nKoodle\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLunch done right at Koodle! Beef Noodle Box for just \u00a37.95 or Beef Rice Box for only \u00a36.95!\nSeafood lovers, this one's for you! Prawn Rice Lunch Box \u00a38.95 & Prawn Lunch Noodle Box for \u00a39.95!\nTop Selling Items\nStarters\nChicken Noodle & Rice Lunch Box\nBeef Noodle & Rice Lunch Box\nChar Siu Noodle & Rice Lunch Box\nPrawns Noodle & Rice Lunch Box\nChicken\nBeef\nChar Siu\nPrawns\nNoodles\nHouse Special Rice Noodles Soup\nStir Fried Vegetables dishes\nRice\nSoft Drinks\nBeers & Ciders\nRed Wines\nRose Wines\nChampagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCrispy Chicken Sweet Chilli Sauce with Noodle\n\u00a39.95\nHomemade Duck Hoi Sin Fried Dumplings\n4 pieces, served with sweet chilli dip\n\u00a34.95\n1/4 Crispy Aromatic Duck\nServed with pancakes, cucumber, spring onion and hoi sin sauce\n\u00a313.95\nOrange Chicken with Rice\n\u00a39.95\nCurry Chicken with Rice\n\u00a39.95\nStarters\nHomemade Lamb with Leek Fried Dumplings\n4 pieces, served with sweet chilli dip\n\u00a34.95\nHomemade Pork with Vegetables Fried Dumplings\n4 pieces, served with sweet chilli dip\n\u00a34.95\nHomemade Duck Hoi Sin Fried Dumplings\n4 pieces, served with sweet chilli dip\n\u00a34.95\nBao Bun\n2 pieces of steamed buns with filling of choice: Lamb plum, Duck hoisin or pork hoisin sauce\n\u00a38.95\nPan Fried Pork Buns\n3 pieces\n\u00a34.95\nSteamed Char Siu Bao\n2 pieces\n\u00a34.95\nTempura Prawns\n5 pieces of Crispy king prawns served with sweet & sour dip\n\u00a37.95\nFried Mantou\n3 pieces, served with condensed milk dip\n\u00a33.95\nVegetarian Spring Rolls\n3 pieces, perfectly crisp served with sweet and sour dip\n\u00a34.95\nPrawn Crackers\n\u00a32.95\n1/4 Crispy Aromatic Duck\nServed with pancakes, cucumber, spring onion and hoi sin sauce\n\u00a313.95\n1/2 Crispy Aromatic Duck\nServed with ",
+            "notices": [
+              {
+                "text": "Coca Cola\n\n330ml Can\n\n1\nAdd to order\n\u00a32.65",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.65"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nKoodle\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.65\n1\nSubtotal\n\u00a32.65\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.94\nAdd special instructions\nCheckout\nLunch done right at Koodle! Beef Noodle Box for just \u00a37.95 or Beef Rice Box for only \u00a36.95!\nSeafood lovers, this one's for you! Prawn Rice Lunch Box \u00a38.95 & Prawn Lunch Noodle Box for \u00a39.95!\nTop Selling Items\nStarters\nChicken Noodle & Rice Lunch Box\nBeef Noodle & Rice Lunch Box\nChar Siu Noodle & Rice Lunch Box\nPrawns Noodle & Rice Lunch Box\nChicken\nBeef\nChar Siu\nPrawns\nNoodles\nHouse Special Rice Noodles Soup\nStir Fried Vegetables dishes\nRice\nSoft Drinks\nBeers & Ciders\nRed Wines\nRose Wines\nChampagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCrispy Chicken Sweet Chilli Sauce with Noodle\n\u00a39.95\nHomemade Duck Hoi Sin Fried Dumplings\n4 pieces, served with sweet chilli dip\n\u00a34.95\n1/4 Crispy Aromatic Duck\nServed with pancakes, cucumber, spring onion and hoi sin sauce\n\u00a313.95\nOrange Chicken with Rice\n\u00a39.95\nCurry Chicken with Rice\n\u00a39.95\nStarters\nHomemade Lamb with Leek Fried Dumplings\n4 pieces, served with sweet chilli dip\n\u00a34.95\nHomemade Pork with Vegetables Fried Dumplings\n4 pieces, served with sweet chilli dip\n\u00a34.95\nHomemade Duck Hoi Sin Fried Dumplings\n4 pieces, served with sweet chilli dip\n\u00a34.95\nBao Bun\n2 pieces of steamed buns with filling of choice: Lamb plum, Duck hoisin or pork hoisin sauce\n\u00a38.95\nPan Fried Pork Buns\n3 pieces\n\u00a34.95\nSteamed Char Siu Bao\n2 pieces\n\u00a34.95\nTempura Prawns\n5 pieces of Crispy king prawns served with sweet & sour dip\n\u00a37.95\nFried Mantou\n3 pieces, served with condensed milk dip\n\u00a33.95\nVegetarian Spring Rolls\n3 pieces, perfectly crisp served with sweet and sour dip\n\u00a34.95\nPrawn Crackers\n\u00a32.95\n1/4 Crispy Aromatic Duck\nServed",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-04T22:47:54.474391+02:00",
+  "last_confirmed_at": "2026-10-04T22:52:54.474315+02:00",
   "last_sample_check": {
-    "at": "2026-10-04T22:47:54.474391+02:00",
+    "at": "2026-10-04T22:52:54.474315+02:00",
     "eligible": true
   }
 }
