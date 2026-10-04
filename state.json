@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-04T21:42:54.472761+02:00",
+  "last_observed_at": "2026-10-04T21:47:54.472679+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,95 +176,6 @@
       }
     },
     {
-      "name": "Wagamama",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\nbao buns\ngyoza\nsmall plates big flavour\niconic curries\nlighter bites\ndonburi rice bowls\nteppanyaki\nramen\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.70\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a316.50\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.70\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.00\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.50\nbao buns\ntwo fluffy asian buns with your choice of filling\n112 | spicy teriyaki chicken bao buns\ntwo fluffy, pillowy buns. red pepper. asian slaw. spring onion\n\u00a39.00\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.00\n114 | mixed mushroom bao buns (v)\ntwo fluffy, pillowy buns. panko aubergine. vegan mayo\n\u00a39.00\nVegan\n115 | slow-cooked pork belly bao buns\ntwo fluffy, pillowy buns. panko apple. sriracha. vegan mayo\n\u00a39.00\n116 | hoisin pulled duck bao buns\ntwo fluffy, pil",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\nbao buns\ngyoza\nsmall plates big flavour\niconic curries\nlighter bites\ndonburi rice bowls\nteppanyaki\nramen\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.70\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a316.50\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.70\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.00\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.50\nbao buns\ntwo fluffy asian buns with your choice of filling\n112 | spicy teriyaki chicken bao buns\ntwo fluffy, pillowy buns. red pepper. asian slaw. spring onion\n\u00a39.00\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.00\n114 | mixed mushroom bao buns (v)\ntwo fluffy, pillowy buns. panko aubergine. vegan mayo\n\u00a39.00\nVegan\n115 | slow-cooked pork belly bao buns\ntwo fluffy, pillowy buns. panko apple. sriracha. vegan mayo\n\u00a39.00\n116 | hoisin pulled duck bao buns\ntwo fluffy, pil",
-            "notices": [
-              {
-                "text": "7705 | coke\n\n330ml\n\n1\nAdd to order\n\u00a32.95",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.95"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n7705 | coke\n\u00a32.95\n1\nSubtotal\n\u00a32.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.24\nAdd special instructions\nCheckout\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\nbao buns\ngyoza\nsmall plates big flavour\niconic curries\nlighter bites\ndonburi rice bowls\nteppanyaki\nramen\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.70\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a316.50\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.70\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.00\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.50\nbao buns\ntwo fluffy asian buns with your choice of filling\n112 | spicy teriyaki chicken bao buns\ntwo fluffy, pillowy buns. red pepper. asian slaw. spring onion\n\u00a39.00\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.00\n114 | mixed mushroom bao buns (v)\ntwo fluffy, pillowy buns. panko aubergine. vegan mayo\n\u00a39.00\nVegan\n115 | slow-cooked pork belly bao buns\ntwo fluffy, ",
-            "notices": []
-          }
-        ],
-        "item": "7705 | coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Burger King",
       "status": "open",
       "notice": "",
@@ -350,6 +261,95 @@
           }
         ],
         "item": "Coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Cafetto Nostro",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURGER\nSpicy Chicken Breast Patty, Cheddar Cheese, Guacamole, Jalape\u00f1os, Lettuce & Tomato\n\u00a310.80\nENGLAND BAGUETTE\nR",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURGER\nSpicy Chicken Breast Patty, Cheddar Cheese, Guacamole, Jalape\u00f1os, Lettuce & Tomato\n\u00a310.80\nENGLAND BAGUETTE\nR",
+            "notices": [
+              {
+                "text": "ENGLAND BURGER\n\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\nMAKE IT A MEAL\nSelect up to 1 option\nADD HAND-CUT FRIES AND SOFT DRINK\n\u00a32.30\n1\nAdd to order\n\u00a310.80",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a310.80"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nENGLAND BURGER\n\u00a310.80\n1\nSubtotal\n\u00a310.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a314.09\nAdd special instructions\nCheckout\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\n1\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURG",
+            "notices": []
+          }
+        ],
+        "item": "ENGLAND BURGER",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-04T21:42:54.472761+02:00",
+  "last_confirmed_at": "2026-10-04T21:47:54.472679+02:00",
   "last_sample_check": {
-    "at": "2026-10-04T21:42:54.472761+02:00",
+    "at": "2026-10-04T21:47:54.472679+02:00",
     "eligible": true
   }
 }
