@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-04T17:57:23.625559+02:00",
+  "last_observed_at": "2026-10-04T18:02:23.621254+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -223,6 +223,38 @@
         "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "Lord Nelson",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
     },
     {
       "name": "Starbucks",
@@ -902,9 +934,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-04T17:57:23.625559+02:00",
+  "last_confirmed_at": "2026-10-04T18:02:23.621254+02:00",
   "last_sample_check": {
-    "at": "2026-10-04T17:57:23.625559+02:00",
+    "at": "2026-10-04T18:02:23.621254+02:00",
     "eligible": true
   }
 }
