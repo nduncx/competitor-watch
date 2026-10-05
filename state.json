@@ -10,18 +10,18 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-05T12:19:48.942360+02:00",
+  "last_observed_at": "2026-10-05T12:24:48.942459+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "open",
-      "notice": "",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
               "buttons": [
                 "OK"
               ],
@@ -44,7 +44,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
               "buttons": [
                 "OK"
               ],
@@ -177,14 +177,14 @@
     },
     {
       "name": "Papichurro",
-      "status": "open",
-      "notice": "",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
               "buttons": [
                 "OK"
               ],
@@ -207,7 +207,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
               "buttons": [
                 "OK"
               ],
@@ -355,11 +355,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-02T21:35:19.814584+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (21:35) - OPEN (basket test)",
-      "delivered_at": "2026-10-02T21:36:27.813093+02:00"
-    },
     {
       "id": "2026-10-02T21:40:19.815596+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:40) - OPEN (basket test)",
@@ -854,13 +849,18 @@
       "id": "2026-10-05T12:19:48.942360+02:00:delays",
       "subject": "Hungry Monkey is warning of long delays (12:19) - OPEN (basket test)",
       "delivered_at": "2026-10-05T12:20:40.537403+02:00"
+    },
+    {
+      "id": "2026-10-05T12:24:48.942459+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (12:24) - OPEN (basket test)",
+      "delivered_at": "2026-10-05T12:25:39.879271+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-10-05T12:19:48.942360+02:00",
+  "last_confirmed_at": "2026-10-05T12:24:48.942459+02:00",
   "last_sample_check": {
-    "at": "2026-10-05T12:19:48.942360+02:00",
+    "at": "2026-10-05T12:24:48.942459+02:00",
     "eligible": true
   }
 }
