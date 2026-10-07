@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-06T22:55:09.858269+02:00",
+  "last_observed_at": "2026-10-07T15:24:30.627119+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,7 +176,7 @@
       }
     },
     {
-      "name": "Birdie Cafe",
+      "name": "54 Dining & Caf\u00e9",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -235,12 +235,101 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35\n23. Chicken Noodles\n\u00a37.35\n23A. Plain Noodles\n\u00a35.25\nSpecial Dishes\n36. Beef in Oyster Sauce\n\u00a38.2",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLane 3 Feast! Get Ensaladilla Rusa, 8 Croquettes, 16 Chicken Strips & 1.5L bottle only for \u00a331.15!\nDon't miss out our Daily Favourites like Zucchini stuffed with Cheese only for \u00a34.20!\n2 Full Wheels of Churros with choice of 2 sauces only for \u00a35!\nTop Selling Items\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nBeach Medley Relay\nChurros, Papitas & Churro Pops\nNEW! Homemade Daily Gibraltarian Delights\nBaguettes / Rolls\nToast\nBreakfast\nDaily Favourites\nStarters\nSpecials\nBurger\nHot Lunches\nOn Their Own\nSalads\nFish\nMeat & Chicken\nPaella\nPortuguese Cuisine\nSnacks\nDrinks\nCoffee\nTea\nBeer & Cider\nWines - Rioja & Ribera del Duero\nWhite Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPapitas\n\u00a32.40\nEgg, Bacon & Sausage\n\u00a35.50\nChurros\n1 full churro wheel\n\u00a32.40\nSerrano Ham\n\u00a34.56\nChicken Tikka with Rice or Chips\n\u00a38.35\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nAvailable Monday-Sunday until 12pm. Limited Time Offer.\n2 Full Wheels of Churros with choice of 2 sauces for \u00a35!\n\u00a35.00\nBeach Medley Relay\nWhich lane will win today?\nLane 1 (2 persons)\n1 Tapa of Ensaladilla Rusa; 4 Homemade Croquettes; 12 Chicken Strips; 2 Soft Drinks (can) + 1 FREE Soft Drink\n\u00a319.15\nLane 2 (2 persons)\n1 Momemade Torta de Patata; 4 Homemade Chicken Croquettes; 6 homemade Breaded Chicken; 2 Soft Drinks (can) + 1 FREE soft drink.\n\u00a326.40\nLane 3 (4 persons)\n1 Portion of Ensaladilla Rusa; 8 Homemade Croquettes; 16 Chicken Strips; 1.5L FREE bottle of soft drink\n\u00a332.20\nLane 4 (4 persons)\n2 Homemade Torta de Patata; 8 Homemade Croquettes; 8 Homemade Breaded Chicken; 1 FREE 1.5L Bottle Soft drink\n\u00a343.85\nChurros, Papitas & Churro Pops\nPapitas\n\u00a32.40\nChurros\n1 ful",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35\n23. Chicken Noodles\n\u00a37.35\n23A. Plain Noodles\n\u00a35.25\nSpecial Dishes\n36. Beef in Oyster Sauce\n\u00a38.2",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLane 3 Feast! Get Ensaladilla Rusa, 8 Croquettes, 16 Chicken Strips & 1.5L bottle only for \u00a331.15!\nDon't miss out our Daily Favourites like Zucchini stuffed with Cheese only for \u00a34.20!\n2 Full Wheels of Churros with choice of 2 sauces only for \u00a35!\nTop Selling Items\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nBeach Medley Relay\nChurros, Papitas & Churro Pops\nNEW! Homemade Daily Gibraltarian Delights\nBaguettes / Rolls\nToast\nBreakfast\nDaily Favourites\nStarters\nSpecials\nBurger\nHot Lunches\nOn Their Own\nSalads\nFish\nMeat & Chicken\nPaella\nPortuguese Cuisine\nSnacks\nDrinks\nCoffee\nTea\nBeer & Cider\nWines - Rioja & Ribera del Duero\nWhite Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPapitas\n\u00a32.40\nEgg, Bacon & Sausage\n\u00a35.50\nChurros\n1 full churro wheel\n\u00a32.40\nSerrano Ham\n\u00a34.56\nChicken Tikka with Rice or Chips\n\u00a38.35\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nAvailable Monday-Sunday until 12pm. Limited Time Offer.\n2 Full Wheels of Churros with choice of 2 sauces for \u00a35!\n\u00a35.00\nBeach Medley Relay\nWhich lane will win today?\nLane 1 (2 persons)\n1 Tapa of Ensaladilla Rusa; 4 Homemade Croquettes; 12 Chicken Strips; 2 Soft Drinks (can) + 1 FREE Soft Drink\n\u00a319.15\nLane 2 (2 persons)\n1 Momemade Torta de Patata; 4 Homemade Chicken Croquettes; 6 homemade Breaded Chicken; 2 Soft Drinks (can) + 1 FREE soft drink.\n\u00a326.40\nLane 3 (4 persons)\n1 Portion of Ensaladilla Rusa; 8 Homemade Croquettes; 16 Chicken Strips; 1.5L FREE bottle of soft drink\n\u00a332.20\nLane 4 (4 persons)\n2 Homemade Torta de Patata; 8 Homemade Croquettes; 8 Homemade Breaded Chicken; 1 FREE 1.5L Bottle Soft drink\n\u00a343.85\nChurros, Papitas & Churro Pops\nPapitas\n\u00a32.40\nChurros\n1 ful",
+            "notices": [
+              {
+                "text": "Coke (Can)\n1\nAdd to order\n\u00a31.80",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.80"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke (Can)\n\u00a31.80\n1\nSubtotal\n\u00a31.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.09\nAdd special instructions\nCheckout\nLane 3 Feast! Get Ensaladilla Rusa, 8 Croquettes, 16 Chicken Strips & 1.5L bottle only for \u00a331.15!\nDon't miss out our Daily Favourites like Zucchini stuffed with Cheese only for \u00a34.20!\n2 Full Wheels of Churros with choice of 2 sauces only for \u00a35!\nTop Selling Items\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nBeach Medley Relay\nChurros, Papitas & Churro Pops\nNEW! Homemade Daily Gibraltarian Delights\nBaguettes / Rolls\nToast\nBreakfast\nDaily Favourites\nStarters\nSpecials\nBurger\nHot Lunches\nOn Their Own\nSalads\nFish\nMeat & Chicken\nPaella\nPortuguese Cuisine\nSnacks\nDrinks\nCoffee\nTea\nBeer & Cider\nWines - Rioja & Ribera del Duero\nWhite Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPapitas\n\u00a32.40\nEgg, Bacon & Sausage\n\u00a35.50\nChurros\n1 full churro wheel\n\u00a32.40\nSerrano Ham\n\u00a34.56\nChicken Tikka with Rice or Chips\n\u00a38.35\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nAvailable Monday-Sunday until 12pm. Limited Time Offer.\n2 Full Wheels of Churros with choice of 2 sauces for \u00a35!\n\u00a35.00\nBeach Medley Relay\nWhich lane will win today?\nLane 1 (2 persons)\n1 Tapa of Ensaladilla Rusa; 4 Homemade Croquettes; 12 Chicken Strips; 2 Soft Drinks (can) + 1 FREE Soft Drink\n\u00a319.15\nLane 2 (2 persons)\n1 Momemade Torta de Patata; 4 Homemade Chicken Croquettes; 6 homemade Breaded Chicken; 2 Soft Drinks (can) + 1 FREE soft drink.\n\u00a326.40\nLane 3 (4 persons)\n1 Portion of Ensaladilla Rusa; 8 Homemade Croquettes; 16 Chicken Strips; 1.5L FREE bottle of soft drink\n\u00a332.20\nLane 4 (4 persons)\n2 Homemade Torta de Patata; 8 Homemade Croquettes; 8 Homemade Breaded Ch",
+            "notices": []
+          }
+        ],
+        "item": "Coke (Can)",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Poptata Chicken",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a343!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a320!\n\u2b50\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE Premium Sauces - Choose your favourites!\n\u00a345.00\nTop Selling Items\nA quick look at our top selle",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a343!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a320!\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE Premium Sauces - Choose your favourites!\n\u00a345.00\nTop Selling Items\nA quick look at our top sellers",
             "notices": [
               {
                 "text": "Coke\n1\nAdd to order\n\u00a32.00",
@@ -256,170 +345,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a343!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a320!\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE P",
             "notices": []
           }
         ],
         "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
-    },
-    {
-      "name": "Donations, Gifts, Vouchers and Bags!",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": [
-            {
-              "text": "Donate, Vouchers, Gifts or Bag For Life ?\nDonate \u00a32 - Get a \u00a32 Hungry Monkey Voucher\nLimited Edition Monkey!\nHungry Monkey Vouchers\nGifts\nBag For Life\nContinue",
-              "buttons": [
-                "Continue"
-              ],
-              "has_inputs": false
-            }
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Neha Curry House",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nTop Selling Items\nB\nBooze Promos!\nVapes\nIndian Starters\nChinese Entrees\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nKid's Meal\nTandoori Kebabs & Tikka\nChips\nNeha Fried Chicken\nThai Noodles (Gluten Free)\nChinese Noodles\nStuffed Naans\nThai Curries (*NEW*)\nRice Dishes & Biryani Dishes\nIndian Veg Curries\nIndian Chicken Curries (Boneless)\nIndian Chicken Curries (On-The-Bone)\nIndian Seafood Curries\nIndian Lamb Curries\nSauces & Chutneys\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThai Green Curry Chicken (Chef Special!)\n\u00a38.75\n**NEW** Chicken Dilruba (MUST TRY!)\nTender Chicken cooked in a delicious curry with a milder, tangy, and creamy taste,\n\u00a38.40\nPaneer Dopiaza\nSoft paneer cubes cooked in a rich, spiced onion-based gravy with double the onionssaut\u00e9ed and caramelizedfor layers of sweet and savory flavor. A hearty North Indian favorite.\n\u00a36.99\nVegetarian\nChicken Hakka Noodles\nStir-fried noodles tossed with tender chicken, fresh vegetables, and savory Indo-Chinese sauces. A delicious, well-balanced dish full of flavor and texture.\n\u00a37.99\nKung Pao King Prawn\nJuicy king prawns stir-fried with bell peppers, onions, dried chilies, and roasted peanuts in a sweet, spicy Indo-Chinese sauce. A bold and flavorful se",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nTop Selling Items\nBooze Promos!\nVapes\nIndian Starters\nChinese Entrees\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nKid's Meal\nTandoori Kebabs & Tikka\nChips\nNeha Fried Chicken\nThai Noodles (Gluten Free)\nChinese Noodles\nStuffed Naans\nThai Curries (*NEW*)\nRice Dishes & Biryani Dishes\nIndian Veg Curries\nIndian Chicken Curries (Boneless)\nIndian Chicken Curries (On-The-Bone)\nIndian Seafood Curries\nIndian Lamb Curries\nSauces & Chutneys\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThai Green Curry Chicken (Chef Special!)\n\u00a38.75\n**NEW** Chicken Dilruba (MUST TRY!)\nTender Chicken cooked in a delicious curry with a milder, tangy, and creamy taste,\n\u00a38.40\nPaneer Dopiaza\nSoft paneer cubes cooked in a rich, spiced onion-based gravy with double the onionssaut\u00e9ed and caramelizedfor layers of sweet and savory flavor. A hearty North Indian favorite.\n\u00a36.99\nVegetarian\nChicken Hakka Noodles\nStir-fried noodles tossed with tender chicken, fresh vegetables, and savory Indo-Chinese sauces. A delicious, well-balanced dish full of flavor and texture.\n\u00a37.99\nKung Pao King Prawn\nJuicy king prawns stir-fried with bell peppers, onions, dried chilies, and roasted peanuts in a sweet, spicy Indo-Chinese sauce. A bold and flavorful seaf",
-            "notices": [
-              {
-                "text": "Coke Zero (Glass Bottle)\n\n330ml Bottle\n\n1\nAdd to order\n\u00a31.99",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.99"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero (Glass Bottle)\n\u00a31.99\n1\nSubtotal\n\u00a31.99\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.28\nAdd special instructions\nCheckout\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nTop Selling Items\nBooze Promos!\nVapes\nIndian Starters\nChinese Entrees\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nKid's Meal\nTandoori Kebabs & Tikka\nChips\nNeha Fried Chicken\nThai Noodles (Gluten Free)\nChinese Noodles\nStuffed Naans\nThai Curries (*NEW*)\nRice Dishes & Biryani Dishes\nIndian Veg Curries\nIndian Chicken Curries (Boneless)\nIndian Chicken Curries (On-The-Bone)\nIndian Seafood Curries\nIndian Lamb Curries\nSauces & Chutneys\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThai Green Curry Chicken (Chef Special!)\n\u00a38.75\n**NEW** Chicken Dilruba (MUST TRY!)\nTender Chicken cooked in a delicious curry with a milder, tangy, and creamy taste,\n\u00a38.40\nPaneer Dopiaza\nSoft paneer cubes cooked in a rich, spiced onion-based gravy with double the onionssaut\u00e9ed and caramelizedfor layers of sweet and savory flavor. A hearty North Indian favorite.\n\u00a36.99\nVegetarian\nChicken Hakka Noodles\nStir-fried noodles tossed with tender chicken, fresh vegetables, and savory Indo-Chinese sauces. A delicious, well-balanced dish full of flavor and texture.\n\u00a37.99\nKung Pao King Prawn\nJuicy king prawns stir-fried with bell",
-            "notices": []
-          }
-        ],
-        "item": "Coke Zero (Glass Bottle)",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-03T17:48:44.055195+02:00:open",
-      "subject": "Hungry Monkey: long-delays warning cleared (17:48) - basket test passed",
-      "delivered_at": "2026-10-03T17:49:38.240610+02:00"
-    },
     {
       "id": "2026-10-03T20:19:12.374306+02:00:delays",
       "subject": "Hungry Monkey is warning of long delays (20:19) - OPEN (basket test)",
@@ -914,40 +849,18 @@
       "id": "monitor:2026-10-06T23:00:09.788398+02:00:no_samples",
       "subject": "Competitor Watch: no suitable stores available to test",
       "delivered_at": "2026-10-06T23:01:39.983530+02:00"
+    },
+    {
+      "id": "monitor:2026-10-07T15:24:30.571335+02:00:restored",
+      "subject": "Competitor Watch: suitable stores available again",
+      "delivered_at": "2026-10-07T15:25:26.844727+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-06T22:55:09.858269+02:00",
+  "last_confirmed_at": "2026-10-07T15:24:30.627119+02:00",
   "last_sample_check": {
-    "at": "2026-10-06T23:25:09.857094+02:00",
-    "eligible": false,
-    "exclusions_confirmed": true,
-    "venues": [
-      {
-        "name": "Essaouira",
-        "status": "venue_closed"
-      },
-      {
-        "name": "3Bros Takeout",
-        "status": "venue_closed"
-      },
-      {
-        "name": "4 Stagioni",
-        "status": "venue_closed"
-      },
-      {
-        "name": "54 Dining & Caf\u00e9",
-        "status": "venue_closed"
-      },
-      {
-        "name": "AquaTerra",
-        "status": "venue_closed"
-      },
-      {
-        "name": "BABA",
-        "status": "venue_closed"
-      }
-    ]
+    "at": "2026-10-07T15:24:30.627119+02:00",
+    "eligible": true
   }
 }
