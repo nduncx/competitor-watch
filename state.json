@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-08T12:29:42.212833+02:00",
+  "last_observed_at": "2026-10-08T12:34:42.211911+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -174,58 +174,6 @@
         "item": "Southern Fried Chicken Strips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
-    },
-    {
-      "name": "Papichurro",
-      "status": "venue_closed",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\n\nWe are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
     },
     {
       "name": "Sanu Brunch & Co",
@@ -407,11 +355,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-04T15:07:23.616076+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (15:07) - OPEN (basket test)",
-      "delivered_at": "2026-10-04T15:08:17.109339+02:00"
-    },
     {
       "id": "2026-10-04T15:12:23.614101+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (15:12) - OPEN (basket test)",
@@ -906,13 +849,18 @@
       "id": "2026-10-08T12:29:42.212833+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (12:29) - OPEN (basket test)",
       "delivered_at": "2026-10-08T12:30:49.837805+02:00"
+    },
+    {
+      "id": "2026-10-08T12:34:42.211911+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (12:34) - OPEN (basket test)",
+      "delivered_at": "2026-10-08T12:35:35.608180+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-10-08T12:29:42.212833+02:00",
+  "last_confirmed_at": "2026-10-08T12:34:42.211911+02:00",
   "last_sample_check": {
-    "at": "2026-10-08T12:29:42.212833+02:00",
+    "at": "2026-10-08T12:34:42.211911+02:00",
     "eligible": true
   }
 }
