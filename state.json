@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-08T21:45:55.120887+02:00",
+  "last_observed_at": "2026-10-08T21:50:55.122317+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,95 +176,6 @@
       }
     },
     {
-      "name": "Piccadilly Garden Bar",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lunchtime Menu: John Dory, Masala or Peppered Steak - all for just \u00a312.95!\nFresh and delicious Salads from just \u00a310.95 - perfect for any craving!\nTop Selling Items\nSpecials Of The Day\nBreakfast\nLunchtime Menu\nPortions (Raciones)\nSalads\nMains\nKids Menu\nDesserts\nSoft Drinks\nBeers\nRed Wine\nCiders\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAuthentic Fish and Chips\nDeep fried Cod fillet in homemade batter, served with homemade chips\n\u00a315.95\nPeppered Fillet Steak and Chips\n\u00a324.95\nRussian Salad (Ensaladilla Rusa)\n\u00a310.95\nJohn Dory Piccadilly Style\nDeep fried fillet of john dory in a creamy prawn sauce served with chips. A must try!\n\u00a319.95\nTuna Salad (Mixta)\n\u00a310.95\nSpecials Of The Day\nPrawns Pil Pil with Chorizo\n\u00a313.94\nBreakfast\nAvailable until 12pm\nFull English Breakfast\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a38.95\nFull English Breakfast (Double)\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a312.95\nSpinach and Mushroom Omlette\n\u00a310.95\nVegetarian\nSpinach Omlette\n\u00a38.95\nVegetarian\nVeggie Breakfast\nEgg, veggie sausage, saut\u00e9ed spinach and mushroom, hash browns, grilled tomatoes and toast.\n\u00a39.95\nXXL Molleta - Bacon\n\u00a35.50\nXXL Molleta - Ham and Cheese\n\u00a35.50\nXXL Molleta - Breakfast Molleta\nBacon, sausage and egg.\n\u00a36.95\nXXL Molleta - Bacon and Egg\n\u00a35.95\nXXL Molleta - Bacon, Egg, Cheese and Onion\n\u00a36.95\nXXL Molleta - Catalana\nSerrano ham, olive oil and tomato.\n\u00a35.75\nXXL Molleta - Ham, Cheese and Egg\n\u00a35.75\nXXL Molleta - Lomo en Manteca and Egg\n\u00a36.75\nXXL Molleta - Sausage\n\u00a35.50\nXXL Molleta - Sausage and Egg\n\u00a35.95\nXXL Molleta - Tuna, Lettuce and Tomato\n\u00a35.95\nLunchtime Menu\nAvail",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lunchtime Menu: John Dory, Masala or Peppered Steak - all for just \u00a312.95!\nFresh and delicious Salads from just \u00a310.95 - perfect for any craving!\nTop Selling Items\nSpecials Of The Day\nBreakfast\nLunchtime Menu\nPortions (Raciones)\nSalads\nMains\nKids Menu\nDesserts\nSoft Drinks\nBeers\nRed Wine\nCiders\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAuthentic Fish and Chips\nDeep fried Cod fillet in homemade batter, served with homemade chips\n\u00a315.95\nPeppered Fillet Steak and Chips\n\u00a324.95\nRussian Salad (Ensaladilla Rusa)\n\u00a310.95\nJohn Dory Piccadilly Style\nDeep fried fillet of john dory in a creamy prawn sauce served with chips. A must try!\n\u00a319.95\nTuna Salad (Mixta)\n\u00a310.95\nSpecials Of The Day\nPrawns Pil Pil with Chorizo\n\u00a313.94\nBreakfast\nAvailable until 12pm\nFull English Breakfast\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a38.95\nFull English Breakfast (Double)\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a312.95\nSpinach and Mushroom Omlette\n\u00a310.95\nVegetarian\nSpinach Omlette\n\u00a38.95\nVegetarian\nVeggie Breakfast\nEgg, veggie sausage, saut\u00e9ed spinach and mushroom, hash browns, grilled tomatoes and toast.\n\u00a39.95\nXXL Molleta - Bacon\n\u00a35.50\nXXL Molleta - Ham and Cheese\n\u00a35.50\nXXL Molleta - Breakfast Molleta\nBacon, sausage and egg.\n\u00a36.95\nXXL Molleta - Bacon and Egg\n\u00a35.95\nXXL Molleta - Bacon, Egg, Cheese and Onion\n\u00a36.95\nXXL Molleta - Catalana\nSerrano ham, olive oil and tomato.\n\u00a35.75\nXXL Molleta - Ham, Cheese and Egg\n\u00a35.75\nXXL Molleta - Lomo en Manteca and Egg\n\u00a36.75\nXXL Molleta - Sausage\n\u00a35.50\nXXL Molleta - Sausage and Egg\n\u00a35.95\nXXL Molleta - Tuna, Lettuce and Tomato\n\u00a35.95\nLunchtime Menu\nAvail",
-            "notices": [
-              {
-                "text": "7Up\n1\nAdd to order\n\u00a31.90",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.90"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n7Up\n\u00a31.90\n1\nSubtotal\n\u00a31.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.19\nAdd special instructions\nCheckout\nTry our Lunchtime Menu: John Dory, Masala or Peppered Steak - all for just \u00a312.95!\nFresh and delicious Salads from just \u00a310.95 - perfect for any craving!\nTop Selling Items\nSpecials Of The Day\nBreakfast\nLunchtime Menu\nPortions (Raciones)\nSalads\nMains\nKids Menu\nDesserts\nSoft Drinks\nBeers\nRed Wine\nCiders\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAuthentic Fish and Chips\nDeep fried Cod fillet in homemade batter, served with homemade chips\n\u00a315.95\nPeppered Fillet Steak and Chips\n\u00a324.95\nRussian Salad (Ensaladilla Rusa)\n\u00a310.95\nJohn Dory Piccadilly Style\nDeep fried fillet of john dory in a creamy prawn sauce served with chips. A must try!\n\u00a319.95\nTuna Salad (Mixta)\n\u00a310.95\nSpecials Of The Day\nPrawns Pil Pil with Chorizo\n\u00a313.94\nBreakfast\nAvailable until 12pm\nFull English Breakfast\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a38.95\nFull English Breakfast (Double)\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a312.95\nSpinach and Mushroom Omlette\n\u00a310.95\nVegetarian\nSpinach Omlette\n\u00a38.95\nVegetarian\nVeggie Breakfast\nEgg, veggie sausage, saut\u00e9ed spinach and mushroom, hash browns, grilled tomatoes and toast.\n\u00a39.95\nXXL Molleta - Bacon\n\u00a35.50\nXXL Molleta - Ham and Cheese\n\u00a35.50\nXXL Molleta - Breakfast Molleta\nBacon, sausage and egg.\n\u00a36.95\nXXL Molleta - Bacon and Egg\n\u00a35.95\nXXL Molleta - Bacon, Egg, Cheese and Onion\n\u00a36.95\nXXL Molleta - Catalana\nSerrano ham, olive oil and tomato.\n\u00a35.75\nXXL Molleta - Ham, Cheese and Egg\n\u00a35.75\nXXL Molleta - Lomo en Manteca and Egg\n\u00a36.75\nXXL Molleta - Sausage\n\u00a35.50\nXXL Mo",
-            "notices": []
-          }
-        ],
-        "item": "7Up",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "AquaTerra",
       "status": "delays",
       "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
@@ -352,14 +263,98 @@
         "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "Cafetto Nostro",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURGER\nSpicy Chicken Breast Patty, Cheddar Cheese, Guacamole, Jalape\u00f1os, Lettuce & Tomato\n\u00a310.80\nENGLAND BAGUETTE\nR",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURGER\nSpicy Chicken Breast Patty, Cheddar Cheese, Guacamole, Jalape\u00f1os, Lettuce & Tomato\n\u00a310.80\nENGLAND BAGUETTE\nR",
+            "notices": [
+              {
+                "text": "ENGLAND BURGER\n\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\nMAKE IT A MEAL\nSelect up to 1 option\nADD HAND-CUT FRIES AND SOFT DRINK\n\u00a32.30\n1\nAdd to order\n\u00a310.80",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a310.80"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nENGLAND BURGER\n\u00a310.80\n1\nSubtotal\n\u00a310.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a314.09\nAdd special instructions\nCheckout\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\n1\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pesto Genovese, Rocket and Sundried Tomatoes.\n\u00a310.80\nGERMANY BURGER\nDouble Smashed Beef Patties, Bratwurst Sausage, Caramelized Onions, Cheddar Cheese, Mustard mayo.\n\u00a310.80\nMEXICO BURG",
+            "notices": []
+          }
+        ],
+        "item": "ENGLAND BURGER",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-04T18:37:23.616231+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (18:37) - OPEN (basket test)",
-      "delivered_at": "2026-10-04T18:38:30.122958+02:00"
-    },
     {
       "id": "2026-10-04T18:42:23.625904+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (18:42) - OPEN (basket test)",
@@ -854,13 +849,18 @@
       "id": "2026-10-08T21:45:55.120887+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (21:45) - OPEN (basket test)",
       "delivered_at": "2026-10-08T21:46:48.519179+02:00"
+    },
+    {
+      "id": "2026-10-08T21:50:55.122317+02:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (21:50) - OPEN (basket test)",
+      "delivered_at": "2026-10-08T21:51:51.139964+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-10-08T21:45:55.120887+02:00",
+  "last_confirmed_at": "2026-10-08T21:50:55.122317+02:00",
   "last_sample_check": {
-    "at": "2026-10-08T21:45:55.120887+02:00",
+    "at": "2026-10-08T21:50:55.122317+02:00",
     "eligible": true
   }
 }
