@@ -416,11 +416,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-10-04T19:17:54.469257+02:00:delays",
-      "subject": "Hungry Monkey: 19:17 check unconfirmed - last confirmed showing a long-delays warning at 19:12",
-      "delivered_at": "2026-10-04T19:18:43.810522+02:00"
-    },
-    {
       "id": "2026-10-04T19:22:54.469669+02:00:open",
       "subject": "Hungry Monkey: long-delays warning cleared (19:22) - basket test passed",
       "delivered_at": "2026-10-04T19:23:44.580063+02:00"
@@ -914,13 +909,45 @@
       "id": "2026-10-08T22:25:55.122582+02:00:open",
       "subject": "Hungry Monkey: long-delays warning cleared (22:25) - basket test passed",
       "delivered_at": "2026-10-08T22:26:49.558634+02:00"
+    },
+    {
+      "id": "monitor:2026-10-08T23:00:55.051330+02:00:no_samples",
+      "subject": "Competitor Watch: no suitable stores available to test",
+      "delivered_at": "2026-10-08T23:02:24.589303+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "open",
   "last_confirmed_at": "2026-10-08T22:55:55.122529+02:00",
   "last_sample_check": {
-    "at": "2026-10-08T22:55:55.122529+02:00",
-    "eligible": true
+    "at": "2026-10-08T23:00:55.121142+02:00",
+    "eligible": false,
+    "exclusions_confirmed": true,
+    "venues": [
+      {
+        "name": "Essaouira",
+        "status": "venue_closed"
+      },
+      {
+        "name": "3Bros Takeout",
+        "status": "venue_closed"
+      },
+      {
+        "name": "4 Stagioni",
+        "status": "venue_closed"
+      },
+      {
+        "name": "54 Dining & Caf\u00e9",
+        "status": "venue_closed"
+      },
+      {
+        "name": "AquaTerra",
+        "status": "venue_closed"
+      },
+      {
+        "name": "BABA",
+        "status": "venue_closed"
+      }
+    ]
   }
 }
