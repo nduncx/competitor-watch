@@ -633,7 +633,7 @@
   "last_result": "closed",
   "last_confirmed_at": "2026-10-08T20:35:55.119995+02:00",
   "last_sample_check": {
-    "at": "2026-10-08T20:40:55.120225+02:00",
+    "at": "2026-10-08T20:45:55.119650+02:00",
     "eligible": false,
     "exclusions_confirmed": false,
     "venues": [
@@ -643,11 +643,11 @@
       },
       {
         "name": "Ramsons Watergardens",
-        "status": "unknown"
+        "status": "closed"
       },
       {
         "name": "Boss Kitchen",
-        "status": "closed"
+        "status": "unknown"
       },
       {
         "name": "Crown Pharmacy",
