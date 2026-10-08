@@ -10,23 +10,16 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-08T12:34:42.211911+02:00",
+  "last_observed_at": "2026-10-08T12:39:42.212087+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -42,19 +35,6 @@
         },
         {
           "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
           "notices": []
         },
         {
@@ -177,19 +157,12 @@
     },
     {
       "name": "Sanu Brunch & Co",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -205,19 +178,6 @@
         },
         {
           "step": 1,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
           "notices": []
         },
         {
@@ -266,14 +226,14 @@
     },
     {
       "name": "Birdie Cafe",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -296,7 +256,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -355,11 +315,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-04T15:12:23.614101+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (15:12) - OPEN (basket test)",
-      "delivered_at": "2026-10-04T15:13:17.049187+02:00"
-    },
     {
       "id": "2026-10-04T15:17:23.616750+02:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (15:17)",
@@ -854,13 +809,19 @@
       "id": "2026-10-08T12:34:42.211911+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (12:34) - OPEN (basket test)",
       "delivered_at": "2026-10-08T12:35:35.608180+02:00"
+    },
+    {
+      "id": "2026-10-08T12:39:42.212087+02:00:delays",
+      "subject": "Hungry Monkey: 12:39 check unconfirmed - last confirmed showing a long-delays warning at 12:34",
+      "delivered_at": "2026-10-08T12:40:32.669028+02:00"
     }
   ],
-  "recovery_streak": 0,
-  "last_result": "delays",
+  "recovery_streak": 1,
+  "last_result": "open",
   "last_confirmed_at": "2026-10-08T12:34:42.211911+02:00",
   "last_sample_check": {
-    "at": "2026-10-08T12:34:42.211911+02:00",
+    "at": "2026-10-08T12:39:42.212087+02:00",
     "eligible": true
-  }
+  },
+  "recovery_candidate_at": "2026-10-08T12:39:42.212087+02:00"
 }
