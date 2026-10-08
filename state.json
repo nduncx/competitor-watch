@@ -10,18 +10,18 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-08T22:15:55.122931+02:00",
+  "last_observed_at": "2026-10-08T22:20:55.122470+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -44,7 +44,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -177,14 +177,14 @@
     },
     {
       "name": "3Bros Takeout",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -207,7 +207,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -266,36 +266,14 @@
     },
     {
       "name": "BABA",
-      "status": "unknown",
+      "status": "open",
       "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Venue not found\nSorry, we couldn't find what you were looking for. Please try again.",
-              "buttons": [],
-              "has_inputs": false
-            }
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Dirty Burger",
-      "status": "delays",
-      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -318,7 +296,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -346,20 +324,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nSpecials\nOG",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in every bite.\n\u00a37.50\nBABA Korean Wings x10\nDouble-fried for extra crunch, then coated in a glossy Ko",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nSpecials\nOG",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in every bite.\n\u00a37.50\nBABA Korean Wings x10\nDouble-fried for extra crunch, then coated in a glossy Ko",
             "notices": [
               {
-                "text": "Coke Zero\n\nCan 33cl\n\n1\nAdd to order\n\u00a32.00",
+                "text": "Coke 1.75L Bottle\n1\nAdd to order\n\u00a33.99",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.00"
+                  "Add to order\n\u00a33.99"
                 ],
                 "has_inputs": false
               }
@@ -367,21 +345,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions, Ital",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 1.75L Bottle\n\u00a33.99\n1\nSubtotal\n\u00a33.99\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a37.28\nAdd special instructions\nCheckout\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury",
             "notices": []
           }
         ],
-        "item": "Coke Zero",
+        "item": "Coke 1.75L Bottle",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-04T19:07:54.468954+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (19:07) - OPEN (basket test)",
-      "delivered_at": "2026-10-04T19:08:47.750553+02:00"
-    },
     {
       "id": "2026-10-04T19:12:54.468776+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (19:12) - OPEN (basket test)",
@@ -876,13 +849,19 @@
       "id": "2026-10-08T22:15:55.122931+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (22:15) - OPEN (basket test)",
       "delivered_at": "2026-10-08T22:18:05.785911+02:00"
+    },
+    {
+      "id": "2026-10-08T22:20:55.122470+02:00:delays",
+      "subject": "Hungry Monkey: 22:20 check unconfirmed - last confirmed showing a long-delays warning at 22:15",
+      "delivered_at": "2026-10-08T22:21:50.207557+02:00"
     }
   ],
-  "recovery_streak": 0,
-  "last_result": "delays",
+  "recovery_streak": 1,
+  "last_result": "open",
   "last_confirmed_at": "2026-10-08T22:15:55.122931+02:00",
   "last_sample_check": {
-    "at": "2026-10-08T22:15:55.122931+02:00",
+    "at": "2026-10-08T22:20:55.122470+02:00",
     "eligible": true
-  }
+  },
+  "recovery_candidate_at": "2026-10-08T22:20:55.122470+02:00"
 }
