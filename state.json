@@ -253,11 +253,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-10-04T15:57:23.617979+02:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (15:57)",
-      "delivered_at": "2026-10-04T15:58:01.408654+02:00"
-    },
-    {
       "id": "2026-10-04T16:02:23.618001+02:00:closed",
       "subject": "Hungry Monkey: 16:02 check unconfirmed - last confirmed not taking orders at 15:57",
       "delivered_at": "2026-10-04T16:03:15.821221+02:00"
@@ -751,13 +746,37 @@
       "id": "2026-10-08T20:25:55.118633+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (20:25) - OPEN (basket test)",
       "delivered_at": "2026-10-08T20:27:37.219528+02:00"
+    },
+    {
+      "id": "monitor:2026-10-08T20:30:55.046655+02:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-10-08T20:32:17.220953+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
   "last_confirmed_at": "2026-10-08T20:25:55.118633+02:00",
   "last_sample_check": {
-    "at": "2026-10-08T20:25:55.118633+02:00",
-    "eligible": true
+    "at": "2026-10-08T20:30:55.122292+02:00",
+    "eligible": false,
+    "exclusions_confirmed": false,
+    "venues": [
+      {
+        "name": "Essaouira",
+        "status": "closed"
+      },
+      {
+        "name": "Ramsons Watergardens",
+        "status": "closed"
+      },
+      {
+        "name": "Boss Kitchen",
+        "status": "unknown"
+      },
+      {
+        "name": "Crown Pharmacy",
+        "status": "closed"
+      }
+    ]
   }
 }
