@@ -296,11 +296,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-10-05T12:49:48.943607+02:00:open",
-      "subject": "Hungry Monkey: long-delays warning cleared (12:49) - basket test passed",
-      "delivered_at": "2026-10-05T12:50:40.306573+02:00"
-    },
-    {
       "id": "2026-10-05T20:45:53.152090+02:00:delays",
       "subject": "Hungry Monkey is warning of long delays (20:45) - OPEN (basket test)",
       "delivered_at": "2026-10-05T20:46:44.266664+02:00"
@@ -794,14 +789,18 @@
       "id": "2026-10-09T20:31:50.806129+02:00:closed",
       "subject": "Hungry Monkey: 20:31 check unconfirmed - last confirmed not taking orders at 20:26",
       "delivered_at": "2026-10-09T20:32:43.824942+02:00"
+    },
+    {
+      "id": "monitor:2026-10-09T20:36:50.735973+02:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-10-09T20:37:26.371597+02:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "open",
   "last_confirmed_at": "2026-10-09T20:26:50.804638+02:00",
   "last_sample_check": {
     "at": "2026-10-09T20:31:50.806129+02:00",
     "eligible": true
-  },
-  "recovery_candidate_at": "2026-10-09T20:31:50.806129+02:00"
+  }
 }
