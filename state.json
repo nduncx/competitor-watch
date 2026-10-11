@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-11T19:04:00.749249+02:00",
+  "last_observed_at": "2026-10-11T19:09:00.741564+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -266,6 +266,196 @@
     },
     {
       "name": "TopDogs Gibraltar",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Coke\n1\nAdd to order\n\u00a31.50",
+              "buttons": [
+                "",
+                "",
+                "",
+                "Add to order\n\u00a31.50"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": false,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs for \u00a318\nChoose three of your favourite hotdogs for only \u00a318\n\u00a318.00\nNew! Signature Rolls\nChicken",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs for \u00a318\nChoose three of your favourite hotdogs for only \u00a318\n\u00a318.00\nNew! Signature Rolls\nChicken",
+            "notices": [
+              {
+                "text": "Coke\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          }
+        ],
+        "item": "Coke",
+        "reason": "notices or ordering unavailable after adding"
+      }
+    },
+    {
+      "name": "Candy Castle",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Pepsi Max\n\nPepsi Max 500ml bottle\n\n1\nAdd to order\n\u00a32.50",
+              "buttons": [
+                "",
+                "",
+                "",
+                "Add to order\n\u00a32.50"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": false,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nGelato\nBuild Your Gelato\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nGelato\nOne scoop of smooth, creamy gelato. The perfect sweet treat anytime.\nLemon Sorbet\nZesty lemon sorbet with a cool, refreshing finish.\n\u00a33.95\nDulce De Leche\nCaramelised milk with a rich, sweet taste.\n\u00a33.95\nVanilla Tahiti\nFragrant, Smooth, And Creamy Vanilla Flavour.\n\u00a33.95\nMilk Chocolate\nTraditional milk chocolate.\n\u00a33.95\nOreo\nVanilla ice cream with crunchy Oreo pieces.\n\u00a33.90\nHappy Hippo\nCrispy Happy Hippo wafer with creamy chocolate filling.\n\u00a33.95\nPr\u00edncipe\nCrunchy Pr\u00edncipe biscuits with smooth chocolate cream.\n\u00a33.95\nCheesecake\nCreamy cheesecake with biscuit and strawberry pieces.\n\u00a33.95\nAfter Eight\nRefreshing mint with crunchy chocolate chips.\n\u00a33.95\nPistachio\nNutty Sicilian pistachio with a creamy finish.\n\u00a34.95\nBanoffee Pie\nCreamy Banana & Toffee With Crunchy Biscuit\n\u00a33.95\nTiramisu\nCrea",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nGelato\nBuild Your Gelato\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nGelato\nOne scoop of smooth, creamy gelato. The perfect sweet treat anytime.\nLemon Sorbet\nZesty lemon sorbet with a cool, refreshing finish.\n\u00a33.95\nDulce De Leche\nCaramelised milk with a rich, sweet taste.\n\u00a33.95\nVanilla Tahiti\nFragrant, Smooth, And Creamy Vanilla Flavour.\n\u00a33.95\nMilk Chocolate\nTraditional milk chocolate.\n\u00a33.95\nOreo\nVanilla ice cream with crunchy Oreo pieces.\n\u00a33.90\nHappy Hippo\nCrispy Happy Hippo wafer with creamy chocolate filling.\n\u00a33.95\nPr\u00edncipe\nCrunchy Pr\u00edncipe biscuits with smooth chocolate cream.\n\u00a33.95\nCheesecake\nCreamy cheesecake with biscuit and strawberry pieces.\n\u00a33.95\nAfter Eight\nRefreshing mint with crunchy chocolate chips.\n\u00a33.95\nPistachio\nNutty Sicilian pistachio with a creamy finish.\n\u00a34.95\nBanoffee Pie\nCreamy Banana & Toffee With Crunchy Biscuit\n\u00a33.95\nTiramisu\nCrea",
+            "notices": [
+              {
+                "text": "Pepsi Max\n\nPepsi Max 500ml bottle\n\n1\nAdd to order\n\u00a32.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          }
+        ],
+        "item": "Pepsi Max",
+        "reason": "notices or ordering unavailable after adding"
+      }
+    },
+    {
+      "name": "Crown Pharmacy",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -324,20 +514,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs for \u00a318\nChoose three of your favourite hotdogs for only \u00a318\n\u00a318.00\nNew! Signature Rolls\nChicken",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABLETS\n\u00a31.90\nPANADOL EXTRA 32 TABLETS\n\u00a33.87\nPANADOL ADVANCE 16T 500MG\n\u00a31.63\nPANADOL ADVANCE 32T 500MG\n\u00a32.77\nPARACETAMOL 500MG 32 TABLETS\nEFFECTIVE PAIN R",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs for \u00a318\nChoose three of your favourite hotdogs for only \u00a318\n\u00a318.00\nNew! Signature Rolls\nChicken",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABLETS\n\u00a31.90\nPANADOL EXTRA 32 TABLETS\n\u00a33.87\nPANADOL ADVANCE 16T 500MG\n\u00a31.63\nPANADOL ADVANCE 32T 500MG\n\u00a32.77\nPARACETAMOL 500MG 32 TABLETS\nEFFECTIVE PAIN R",
             "notices": [
               {
-                "text": "Coke\n1\nAdd to order\n\u00a31.50",
+                "text": "ALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\n\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\n1\nAdd to order\n\u00a31.34",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.50"
+                  "Add to order\n\u00a31.34"
                 ],
                 "has_inputs": false
               }
@@ -345,11 +535,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\n\u00a31.34\n1\nSubtotal\n\u00a31.34\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.63\nAdd special instructions\nCheckout\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\n1\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABLETS\n\u00a31.90\nP",
             "notices": []
           }
         ],
-        "item": "Coke",
+        "item": "ALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +1048,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-11T19:04:00.749249+02:00",
+  "last_confirmed_at": "2026-10-11T19:09:00.741564+02:00",
   "last_sample_check": {
-    "at": "2026-10-11T19:04:00.749249+02:00",
+    "at": "2026-10-11T19:09:00.741564+02:00",
     "eligible": true
   }
 }
