@@ -1,8 +1,8 @@
 {
-  "status": "closed",
-  "since": "2026-10-11T13:47:53.928062+02:00",
-  "alerted": true,
-  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+  "status": "open",
+  "since": "2026-10-11T14:08:25.756008+02:00",
+  "alerted": false,
+  "notice": "",
   "last_checked_date": "2026-10-11",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-11T14:03:25.772054+02:00",
+  "last_observed_at": "2026-10-11T14:08:25.756008+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -355,11 +355,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-08T09:54:42.205205+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (09:54) - OPEN (basket test)",
-      "delivered_at": "2026-10-08T09:55:49.246421+02:00"
-    },
     {
       "id": "2026-10-08T09:59:42.205996+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (09:59) - OPEN (basket test)",
@@ -854,14 +849,18 @@
       "id": "2026-10-11T14:03:25.772054+02:00:closed",
       "subject": "Hungry Monkey: 14:03 check unconfirmed - last confirmed not taking orders at 13:57",
       "delivered_at": "2026-10-11T14:04:20.964948+02:00"
+    },
+    {
+      "id": "2026-10-11T14:08:25.756008+02:00:open",
+      "subject": "Hungry Monkey is taking orders again (14:08) - basket test passed",
+      "delivered_at": "2026-10-11T14:09:21.288107+02:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-11T13:57:53.927370+02:00",
+  "last_confirmed_at": "2026-10-11T14:08:25.756008+02:00",
   "last_sample_check": {
-    "at": "2026-10-11T14:03:25.772054+02:00",
+    "at": "2026-10-11T14:08:25.756008+02:00",
     "eligible": true
-  },
-  "recovery_candidate_at": "2026-10-11T14:03:25.772054+02:00"
+  }
 }
