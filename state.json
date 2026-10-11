@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-11T19:59:00.743422+02:00",
+  "last_observed_at": "2026-10-11T20:04:00.742903+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,7 +176,7 @@
       }
     },
     {
-      "name": "Crown Pharmacy",
+      "name": "OAKBERRY",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -235,106 +235,6 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABLETS\n\u00a31.90\nPANADOL EXTRA 32 TABLETS\n\u00a33.87\nPANADOL ADVANCE 16T 500MG\n\u00a31.63\nPANADOL ADVANCE 32T 500MG\n\u00a32.77\nPARACETAMOL 500MG 32 TABLETS\nEFFECTIVE PAIN R",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABLETS\n\u00a31.90\nPANADOL EXTRA 32 TABLETS\n\u00a33.87\nPANADOL ADVANCE 16T 500MG\n\u00a31.63\nPANADOL ADVANCE 32T 500MG\n\u00a32.77\nPARACETAMOL 500MG 32 TABLETS\nEFFECTIVE PAIN R",
-            "notices": [
-              {
-                "text": "ALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\n\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\n1\nAdd to order\n\u00a31.34",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.34"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\n\u00a31.34\n1\nSubtotal\n\u00a31.34\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.63\nAdd special instructions\nCheckout\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\n1\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABLETS\n\u00a31.90\nP",
-            "notices": []
-          }
-        ],
-        "item": "ALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "OAKBERRY",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Classic Bowl (350ml)\n\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\nFruits\nSelect up to 9 options\n0/9\nBanana\nKiwi\nChopped Dates\n\u00a31.20\nMango Puree\nStrawberries\nGoji Berries\nBlueberries\n\u00a31.20\nRaspberries\n\u00a31.20\nPassion Fruit\n\u00a31.20\nNuts & Seeds\nSelect up to 5 options\n0/5\nPumpkin Seeds\nChia Seeds\nHemp Seeds\nSliced Almonds\nOut of stock\nPa\u00e7oca Zero\n\u00a31.20\nCreamy\nSelect up to 9 options\n0/9\nCondensed Milk\nPowdered Milk\nPeanut Butter\nChia Pudding\nNatural Yoghurt\nPistachio Cream\n\u00a32.50\nHazelnut Choco Cream\n\u00a31.20\nHoney\nCrunchy\nSelect up to 6 options\n0/6\nGranola\nGranola Signature\nSweet Toasted Coconut Chips\n\u00a31.20\nCacao Nibs\n\u00a31.20\nOAK Boosters\nSelect up to 3 options\n0/3\nWhey Protein\n\u00a32.50\nVegan Protein\n\u00a32.50\nCollagen\n\u00a32.50\n1\nAdd to order\n\u00a311.90",
-              "buttons": [
-                "",
-                "",
-                "",
-                "Add to order\n\u00a311.90"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": false,
-        "steps": [
-          {
-            "phase": "before_item",
             "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCreate your perfect blend with Acai Smoothies - Build Your Own from just \u00a310.70!\nExplore our Signature Bowls! Fuel up with our Tiger Bowls and more from only \u00a314.50!\nTop Selling Items\nAcai Bowls (Build Your Own)\nSignature Bowls\nAcai Smoothies (Build Your Own)\nSignature Smoothies (500ml)\nOAK Products\nP\nProtein Shakes\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\u00a311.90\nWorks Bowl (500ml)\nYour WORKS is custom made, so please pick unlimited toppings of your preference. For the WORKS size (500ml), we suggest up to 6 toppings for a perfect Acai/Toppings ratio.\n\u00a315.90\nThe OAK Bowl (650ml)\nYour OAK is custom made, so please pick unlimited toppings of your preference. For the OAK size (650ml), we suggest up to 7 toppings for a perfect Acai/Toppings ratio.\n\u00a318.90\nPistachio Bowl (500ml)\nA rich and nutty twist a\u00e7a\u00ed with chia pudding, strawberries, granola and a smooth pistachio cream.\n\u00a318.50\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nAcai Bowls (Build Your Own)\nBuild your own acai bowl\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest ",
             "notices": []
           },
@@ -353,10 +253,15 @@
                 "has_inputs": false
               }
             ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nClassic Bowl (350ml)\n\u00a311.90\n1\nSubtotal\n\u00a311.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a315.19\nAdd special instructions\nCheckout\nCreate your perfect blend with Acai Smoothies - Build Your Own from just \u00a310.70!\nExplore our Signature Bowls! Fuel up with our Tiger Bowls and more from only \u00a314.50!\nTop Selling Items\nAcai Bowls (Build Your Own)\nSignature Bowls\nAcai Smoothies (Build Your Own)\nSignature Smoothies (500ml)\nOAK Products\nP\nProtein Shakes\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\u00a311.90\nWorks Bowl (500ml)\nYour WORKS is custom made, so please pick unlimited toppings of your preference. For the WORKS size (500ml), we suggest up to 6 toppings for a perfect Acai/Toppings ratio.\n\u00a315.90\nThe OAK Bowl (650ml)\nYour OAK is custom made, so please pick unlimited toppings of your preference. For the OAK size (650ml), we suggest up to 7 toppings for a perfect Acai/Toppings ratio.\n\u00a318.90\nPistachio Bowl (500ml)\nA rich and nutty twist a\u00e7a\u00ed with chia pudding, strawberries, granola and a smooth pistachio cream.\n\u00a318.50\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nAcai Bowls (Build Your Own)\nBuild your own acai bowl\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\n1\nClassic Bowl (350ml)\nYour ",
+            "notices": []
           }
         ],
         "item": "Classic Bowl (350ml)",
-        "reason": "notices or ordering unavailable after adding"
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
@@ -953,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-11T19:59:00.743422+02:00",
+  "last_confirmed_at": "2026-10-11T20:04:00.742903+02:00",
   "last_sample_check": {
-    "at": "2026-10-11T19:59:00.743422+02:00",
+    "at": "2026-10-11T20:04:00.742903+02:00",
     "eligible": true
   }
 }
