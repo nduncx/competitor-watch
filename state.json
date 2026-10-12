@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-12T20:31:58.534098+02:00",
+  "last_observed_at": "2026-10-12T20:36:58.533679+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,38 +177,6 @@
     },
     {
       "name": "Ramsons Watergardens",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Boss Kitchen",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Crown Pharmacy",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -267,20 +235,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABLETS\n\u00a31.90\nPANADOL EXTRA 32 TABLETS\n\u00a33.87\nPANADOL ADVANCE 16T 500MG\n\u00a31.63\nPANADOL ADVANCE 32T 500MG\n\u00a32.77\nPARACETAMOL 500MG 32 TABLETS\nEFFECTIVE PAIN R",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nSmall Chips\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\u00a32.20\nLarge Chips\nCrunchy exterior and fluffy interior chips with a s",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABLETS\n\u00a31.90\nPANADOL EXTRA 32 TABLETS\n\u00a33.87\nPANADOL ADVANCE 16T 500MG\n\u00a31.63\nPANADOL ADVANCE 32T 500MG\n\u00a32.77\nPARACETAMOL 500MG 32 TABLETS\nEFFECTIVE PAIN R",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nSmall Chips\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\u00a32.20\nLarge Chips\nCrunchy exterior and fluffy interior chips with a s",
             "notices": [
               {
-                "text": "ALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\n\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\n1\nAdd to order\n\u00a31.34",
+                "text": "Small Chips\n\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\nSauce It Up!\nSelect up to 2 options\n0/2\nKetchup\nMayonnaise\nCocktail\nBBQ Sauce\nAlioli\n\u00a31.00\nMustard\nSriracha Chilli Sauce\nSalsa Pimienta [NEW]\n\u00a31.00\nSriracha Spicy Mayo Sauce [NEW]\nPiri Piri\nThai Sweet Chilli\nGaucha\nYoghurt Sauce\nPiccalilly\nBranston Pickle\nHoney Mustard\nSalt\nVinegar\nOlive Oil\nOlive Oil, Salt & Vinegar\nButter\nWould You Like Salt & Vinegar On Them Fries?\nSelect up to 2 options\n0/2\nAdd Salt\nAdd Vinegar\nFancy Any Sides?!\nSelect up to 1 option\n- - Small Chips\n\u00a32.20\n- - Large Chips\n\u00a33.75\n- - Small Sweet Potato Fries\n\u00a33.70\n- - Chicken Nuggets [Portion of 6]\n\u00a34.99\n- - Popcorn Chicken [Portion of 10]\n\u00a32.50\n- - Sweet Chilli Chicken Bites [Portion Of 6]\n\u00a34.80\n- - Chilli Cheese Poppers [Portion of 3]\n\u00a33.50\n- - Nacho Cheese Triangles [Portion Of 4]\n\u00a34.80\n- - Mozzarella Sticks [Portion of 6]\n\u00a35.40\n- - x1 Vegetable Samosa\n\u00a31.25\n- - x2 Vegetable Samosa [OFFER]\n\u00a32.25\n- - x1 Chicken Samosa\n\u00a31.25\n- - x2 Chicken Samosa [ OFFER!!! ]\n\u00a32.25\n1\nAdd to order\n\u00a32.20",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.34"
+                  "Add to order\n\u00a32.20"
                 ],
                 "has_inputs": false
               }
@@ -288,33 +256,17 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\n\u00a31.34\n1\nSubtotal\n\u00a31.34\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.63\nAdd special instructions\nCheckout\nFast relief, trusted care - get the painkillers you need today! Panadol only from \u00a31.90!\nFor healthy-looking skin every day! Skin Care products - Choose from E45, Nivea, Garnier & more!\nTOP SELLING ITEMS\nMASKS\nHAND SANITISER / ANTIBACTERIAL\nCHILDREN'S & BABY MEDICINES\nPAIN KILLERS\nPLASTERS & CLEANSING + ANTISEPTIC SPRAY\nBLOOD PRESSURE & THERMOMETERS\nCONSTIPATION\nINDIGESTION\nEYE, NOSE & EAR\nCOUGH & COLD\nHAYFEVER & ALLERGY\nVITAMINS\nDENTAL CARE\nBATH\nHAIR CARE\nINECTO PRODUCTS\nINTIMATE\nINCONTINENCE\nCOLD SORE\nTRAVEL SICKNESS\nISDIN\nPREGNANCY\nSKIN CARE\nLIP CARE\nMAM BABY PRODUCTS\nPROFOOT\nHANDS & NAILS\nSLEEPING TABLETS\nHEAD LICE\nSWEETENERS\nMUSCLE RELIEF CREAMS\nGET READY FOR SKI SEASON\nTOP SELLING ITEMS\nA quick look at our top sellers chosen by you!\n1\nALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S\nSKIN FRIENDLY FOR OPTIMAL HEALING BREATHABLE FLEXIBLE & DURABLE\n\u00a31.34\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nIBUPROFEN 400MG 48 TABLETS\n\u00a35.58\nMASKS\nSURGICAL MASK\n\u00a30.50\nHAND SANITISER / ANTIBACTERIAL\nDETTOL ANTIBACTERIAL WIPES 15'S\n\u00a32.48\nCHILDREN'S & BABY MEDICINES\nNUROFEN CHILDREN ORANGE\n200ML\n\u00a35.10\nNUROFEN CHILDREN STRAWBERRY 3 MONTH-9 YEAR\n100ML\n\u00a35.10\nCALPOL INFANT 100ML\n\u00a35.14\nBENYLIN CHILDREN'S NIGHT COUGHS 6+ YEAR 125ML\nEFFECTIVE RELIEF FROM COUGH & CONGESTION LAST FOR UP TO 8 HOURS SUGAR FREE\n\u00a37.91\nCALPOL SIXPLUS SUGAR FREE STRAWBERRY 200ML\n\u00a37.10\nSUDOCREM 400MG\n\u00a312.18\nJOHNSON'S BABY POWDER 200g\nFREE FROM PARABENS\n\u00a33.84\nGRIPE WATER 150ML\nRELIEF OF WIND AND GRIPE ALCOHOL FREE SUGAR FREE\n\u00a34.62\nPAIN KILLERS\nPANADOL EXTRA 16 TABLETS\n\u00a31.90\nP",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Chips\n\u00a32.20\n1\nSubtotal\n\u00a32.20\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.49\nAdd special instructions\nCheckout\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\n1\nSmall Chips\nCrunchy exterior and fluffy interior",
             "notices": []
           }
         ],
-        "item": "ALVITA SENSITIVE PLASTERS HYPOALLERGENIC 20'S",
+        "item": "Small Chips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Las Iguanas",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Mac & Wings by PizzaExpress",
-      "status": "unknown",
+      "name": "Boss Kitchen",
+      "status": "open",
       "notice": "",
       "notice_transcript": [
         {
@@ -356,6 +308,11 @@
         {
           "step": 2,
           "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
@@ -363,167 +320,37 @@
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {
-        "passed": false,
+        "passed": true,
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving some crunch? Choose 5 or 10 Breadcrumb-coated Chicken Tenders with dip from \u00a37.50!\nIrresistible oven-baked Wings, topped with fresh parsley only from \u00a38.50!\nTop Selling Items\nMac & Wings\nLoaded Mac & Cheese\nChicken Wings\nButtermilk Chicken Tenders\nPotato Bites\nSides\nDips\nSoft Drinks\nDesserts\nBeer & Cider\nRed Wines\nWhite Wines\nRose Wines\nProsecco & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\n5 Chicken Tenders\n\u00a37.50\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\n6 Hot Honey Wings\nThe Hot & Sweet Ones - Drizzled with Hot Honey\n\u00a38.50\nGluten Free\nMac & Wings\nThe clue is in the name\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\nLoaded Mac & Cheese\nMac oozing with mozzarella, Cheddar & Gran Milano cheese sauce, garlic oil & crispy breadcrumbs\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\nNduja Mac\nThe Spicy Sausage One - Our Classic Mac with plenty of hot Nduja\n\u00a312.20\nMushroom Mac\nThe Shroomy & Gooey One - Chock-full of chestnut mushrooms\n\u00a312.20\nVegetarian\nChicken Wings\nIrresistible oven-baked wings, topped with fresh parsley\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\n12 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a313.75\nGluten Free",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper C",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving some crunch? Choose 5 or 10 Breadcrumb-coated Chicken Tenders with dip from \u00a37.50!\nIrresistible oven-baked Wings, topped with fresh parsley only from \u00a38.50!\nTop Selling Items\nMac & Wings\nLoaded Mac & Cheese\nChicken Wings\nButtermilk Chicken Tenders\nPotato Bites\nSides\nDips\nSoft Drinks\nDesserts\nBeer & Cider\nRed Wines\nWhite Wines\nRose Wines\nProsecco & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\n5 Chicken Tenders\n\u00a37.50\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\n6 Hot Honey Wings\nThe Hot & Sweet Ones - Drizzled with Hot Honey\n\u00a38.50\nGluten Free\nMac & Wings\nThe clue is in the name\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\nLoaded Mac & Cheese\nMac oozing with mozzarella, Cheddar & Gran Milano cheese sauce, garlic oil & crispy breadcrumbs\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\nNduja Mac\nThe Spicy Sausage One - Our Classic Mac with plenty of hot Nduja\n\u00a312.20\nMushroom Mac\nThe Shroomy & Gooey One - Chock-full of chestnut mushrooms\n\u00a312.20\nVegetarian\nChicken Wings\nIrresistible oven-baked wings, topped with fresh parsley\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\n12 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a313.75\nGluten Free",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper C",
             "notices": [
               {
-                "text": "Classic Mac\n\nThe Cheesy & Crispy One - All. The. Cheese.\n\nVegetarian\nChoose your Pasta\nSelect 1 option\nClassic Mac\n1118 kcal\nClassic Mac - Gluten-Free Fusilli\n1076 kcal\n1\nAdd to order\n\u00a311.65",
+                "text": "Coke 330ml\n1\nAdd to order\n\u00a32.35",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a311.65"
+                  "Add to order\n\u00a32.35"
                 ],
                 "has_inputs": false
               }
             ]
           },
           {
-            "phase": "skip_item",
-            "item": "Classic Mac",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving some crunch? Choose 5 or 10 Breadcrumb-coated Chicken Tenders with dip from \u00a37.50!\nIrresistible oven-baked Wings, topped with fresh parsley only from \u00a38.50!\nTop Selling Items\nMac & Wings\nLoaded Mac & Cheese\nChicken Wings\nButtermilk Chicken Tenders\nPotato Bites\nSides\nDips\nSoft Drinks\nDesserts\nBeer & Cider\nRed Wines\nWhite Wines\nRose Wines\nProsecco & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\n5 Chicken Tenders\n\u00a37.50\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\n6 Hot Honey Wings\nThe Hot & Sweet Ones - Drizzled with Hot Honey\n\u00a38.50\nGluten Free\nMac & Wings\nThe clue is in the name\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\nLoaded Mac & Cheese\nMac oozing with mozzarella, Cheddar & Gran Milano cheese sauce, garlic oil & crispy breadcrumbs\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\nNduja Mac\nThe Spicy Sausage One - Our Classic Mac with plenty of hot Nduja\n\u00a312.20\nMushroom Mac\nThe Shroomy & Gooey One - Chock-full of chestnut mushrooms\n\u00a312.20\nVegetarian\nChicken Wings\nIrresistible oven-baked wings, topped with fresh parsley\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\n12 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a313.75\nGluten Free",
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 330ml\n\u00a32.35\n1\nSubtotal\n\u00a32.35\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.64\nAdd special instructions\nCheckout\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our s",
             "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving some crunch? Choose 5 or 10 Breadcrumb-coated Chicken Tenders with dip from \u00a37.50!\nIrresistible oven-baked Wings, topped with fresh parsley only from \u00a38.50!\nTop Selling Items\nMac & Wings\nLoaded Mac & Cheese\nChicken Wings\nButtermilk Chicken Tenders\nPotato Bites\nSides\nDips\nSoft Drinks\nDesserts\nBeer & Cider\nRed Wines\nWhite Wines\nRose Wines\nProsecco & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\n5 Chicken Tenders\n\u00a37.50\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\n6 Hot Honey Wings\nThe Hot & Sweet Ones - Drizzled with Hot Honey\n\u00a38.50\nGluten Free\nMac & Wings\nThe clue is in the name\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\nLoaded Mac & Cheese\nMac oozing with mozzarella, Cheddar & Gran Milano cheese sauce, garlic oil & crispy breadcrumbs\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\nNduja Mac\nThe Spicy Sausage One - Our Classic Mac with plenty of hot Nduja\n\u00a312.20\nMushroom Mac\nThe Shroomy & Gooey One - Chock-full of chestnut mushrooms\n\u00a312.20\nVegetarian\nChicken Wings\nIrresistible oven-baked wings, topped with fresh parsley\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\n12 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a313.75\nGluten Free",
-            "notices": [
-              {
-                "text": "Pepperoni & Jalape\u00f1o Mac\n\nThe Fiery & Smoky One - Packing heat\u200b\n\nChoose your Pasta\nSelect 1 option\nPepperoni & Jalape\u00f1o \u200bMac\n1220 kcal\nPepperoni & Jalape\u00f1o Mac - Gluten-Free Fusilli\n1178 kcal\n1\nAdd to order\n\u00a312.20",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a312.20"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "Pepperoni & Jalape\u00f1o Mac",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving some crunch? Choose 5 or 10 Breadcrumb-coated Chicken Tenders with dip from \u00a37.50!\nIrresistible oven-baked Wings, topped with fresh parsley only from \u00a38.50!\nTop Selling Items\nMac & Wings\nLoaded Mac & Cheese\nChicken Wings\nButtermilk Chicken Tenders\nPotato Bites\nSides\nDips\nSoft Drinks\nDesserts\nBeer & Cider\nRed Wines\nWhite Wines\nRose Wines\nProsecco & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\n5 Chicken Tenders\n\u00a37.50\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\n6 Hot Honey Wings\nThe Hot & Sweet Ones - Drizzled with Hot Honey\n\u00a38.50\nGluten Free\nMac & Wings\nThe clue is in the name\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\nLoaded Mac & Cheese\nMac oozing with mozzarella, Cheddar & Gran Milano cheese sauce, garlic oil & crispy breadcrumbs\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\nNduja Mac\nThe Spicy Sausage One - Our Classic Mac with plenty of hot Nduja\n\u00a312.20\nMushroom Mac\nThe Shroomy & Gooey One - Chock-full of chestnut mushrooms\n\u00a312.20\nVegetarian\nChicken Wings\nIrresistible oven-baked wings, topped with fresh parsley\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\n12 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a313.75\nGluten Free",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving some crunch? Choose 5 or 10 Breadcrumb-coated Chicken Tenders with dip from \u00a37.50!\nIrresistible oven-baked Wings, topped with fresh parsley only from \u00a38.50!\nTop Selling Items\nMac & Wings\nLoaded Mac & Cheese\nChicken Wings\nButtermilk Chicken Tenders\nPotato Bites\nSides\nDips\nSoft Drinks\nDesserts\nBeer & Cider\nRed Wines\nWhite Wines\nRose Wines\nProsecco & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\n5 Chicken Tenders\n\u00a37.50\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\n6 Hot Honey Wings\nThe Hot & Sweet Ones - Drizzled with Hot Honey\n\u00a38.50\nGluten Free\nMac & Wings\nThe clue is in the name\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\nLoaded Mac & Cheese\nMac oozing with mozzarella, Cheddar & Gran Milano cheese sauce, garlic oil & crispy breadcrumbs\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\nNduja Mac\nThe Spicy Sausage One - Our Classic Mac with plenty of hot Nduja\n\u00a312.20\nMushroom Mac\nThe Shroomy & Gooey One - Chock-full of chestnut mushrooms\n\u00a312.20\nVegetarian\nChicken Wings\nIrresistible oven-baked wings, topped with fresh parsley\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\n12 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a313.75\nGluten Free",
-            "notices": [
-              {
-                "text": "5 Chicken Tenders\n\n363 kcal\n\nChoose your Dip\nSelect 1 option\nAdd Sweet & Smokey BBQ Dip\n44 kcal\nAdd Spicy Tomato & Chilli Dip\n36 kcal\nAdd Garlic & Herb Dip\n197 kcal\nAdd Pesto Dip\nNo Dip\n1\nAdd to order\n\u00a37.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a37.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "5 Chicken Tenders",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving some crunch? Choose 5 or 10 Breadcrumb-coated Chicken Tenders with dip from \u00a37.50!\nIrresistible oven-baked Wings, topped with fresh parsley only from \u00a38.50!\nTop Selling Items\nMac & Wings\nLoaded Mac & Cheese\nChicken Wings\nButtermilk Chicken Tenders\nPotato Bites\nSides\nDips\nSoft Drinks\nDesserts\nBeer & Cider\nRed Wines\nWhite Wines\nRose Wines\nProsecco & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\n5 Chicken Tenders\n\u00a37.50\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\n6 Hot Honey Wings\nThe Hot & Sweet Ones - Drizzled with Hot Honey\n\u00a38.50\nGluten Free\nMac & Wings\nThe clue is in the name\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\nLoaded Mac & Cheese\nMac oozing with mozzarella, Cheddar & Gran Milano cheese sauce, garlic oil & crispy breadcrumbs\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\nNduja Mac\nThe Spicy Sausage One - Our Classic Mac with plenty of hot Nduja\n\u00a312.20\nMushroom Mac\nThe Shroomy & Gooey One - Chock-full of chestnut mushrooms\n\u00a312.20\nVegetarian\nChicken Wings\nIrresistible oven-baked wings, topped with fresh parsley\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\n12 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a313.75\nGluten Free",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving some crunch? Choose 5 or 10 Breadcrumb-coated Chicken Tenders with dip from \u00a37.50!\nIrresistible oven-baked Wings, topped with fresh parsley only from \u00a38.50!\nTop Selling Items\nMac & Wings\nLoaded Mac & Cheese\nChicken Wings\nButtermilk Chicken Tenders\nPotato Bites\nSides\nDips\nSoft Drinks\nDesserts\nBeer & Cider\nRed Wines\nWhite Wines\nRose Wines\nProsecco & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\n5 Chicken Tenders\n\u00a37.50\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\n6 Hot Honey Wings\nThe Hot & Sweet Ones - Drizzled with Hot Honey\n\u00a38.50\nGluten Free\nMac & Wings\nThe clue is in the name\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\nLoaded Mac & Cheese\nMac oozing with mozzarella, Cheddar & Gran Milano cheese sauce, garlic oil & crispy breadcrumbs\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\nNduja Mac\nThe Spicy Sausage One - Our Classic Mac with plenty of hot Nduja\n\u00a312.20\nMushroom Mac\nThe Shroomy & Gooey One - Chock-full of chestnut mushrooms\n\u00a312.20\nVegetarian\nChicken Wings\nIrresistible oven-baked wings, topped with fresh parsley\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\n12 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a313.75\nGluten Free",
-            "notices": [
-              {
-                "text": "Truffle Mac\n\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\nChoose your Pasta\nSelect 1 option\nTruffle \u200bMac\nTruffle Mac - Gluten-Free Fusilli\n1\nAdd to order\n\u00a312.20",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a312.20"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "Truffle Mac",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving some crunch? Choose 5 or 10 Breadcrumb-coated Chicken Tenders with dip from \u00a37.50!\nIrresistible oven-baked Wings, topped with fresh parsley only from \u00a38.50!\nTop Selling Items\nMac & Wings\nLoaded Mac & Cheese\nChicken Wings\nButtermilk Chicken Tenders\nPotato Bites\nSides\nDips\nSoft Drinks\nDesserts\nBeer & Cider\nRed Wines\nWhite Wines\nRose Wines\nProsecco & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\n5 Chicken Tenders\n\u00a37.50\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\n6 Hot Honey Wings\nThe Hot & Sweet Ones - Drizzled with Hot Honey\n\u00a38.50\nGluten Free\nMac & Wings\nThe clue is in the name\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\nLoaded Mac & Cheese\nMac oozing with mozzarella, Cheddar & Gran Milano cheese sauce, garlic oil & crispy breadcrumbs\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\nNduja Mac\nThe Spicy Sausage One - Our Classic Mac with plenty of hot Nduja\n\u00a312.20\nMushroom Mac\nThe Shroomy & Gooey One - Chock-full of chestnut mushrooms\n\u00a312.20\nVegetarian\nChicken Wings\nIrresistible oven-baked wings, topped with fresh parsley\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\n12 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a313.75\nGluten Free",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving some crunch? Choose 5 or 10 Breadcrumb-coated Chicken Tenders with dip from \u00a37.50!\nIrresistible oven-baked Wings, topped with fresh parsley only from \u00a38.50!\nTop Selling Items\nMac & Wings\nLoaded Mac & Cheese\nChicken Wings\nButtermilk Chicken Tenders\nPotato Bites\nSides\nDips\nSoft Drinks\nDesserts\nBeer & Cider\nRed Wines\nWhite Wines\nRose Wines\nProsecco & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\n5 Chicken Tenders\n\u00a37.50\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\n6 Hot Honey Wings\nThe Hot & Sweet Ones - Drizzled with Hot Honey\n\u00a38.50\nGluten Free\nMac & Wings\nThe clue is in the name\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\nLoaded Mac & Cheese\nMac oozing with mozzarella, Cheddar & Gran Milano cheese sauce, garlic oil & crispy breadcrumbs\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\nNduja Mac\nThe Spicy Sausage One - Our Classic Mac with plenty of hot Nduja\n\u00a312.20\nMushroom Mac\nThe Shroomy & Gooey One - Chock-full of chestnut mushrooms\n\u00a312.20\nVegetarian\nChicken Wings\nIrresistible oven-baked wings, topped with fresh parsley\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\n12 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a313.75\nGluten Free",
-            "notices": [
-              {
-                "text": "6 Hot Honey Wings\n\nThe Hot & Sweet Ones - Drizzled with Hot Honey586 kcal\n\nGluten Free\nChoose your Dip\nSelect 1 option\nAdd Sweet & Smokey BBQ Dip\n44 kcal\nAdd Spicy Tomato & Chilli Dip\n36 kcal\nAdd Garlic & Herb Dip\n197 kcal\nAdd Pesto Dip\nNo Dip\n1\nAdd to order\n\u00a38.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a38.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "6 Hot Honey Wings",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving some crunch? Choose 5 or 10 Breadcrumb-coated Chicken Tenders with dip from \u00a37.50!\nIrresistible oven-baked Wings, topped with fresh parsley only from \u00a38.50!\nTop Selling Items\nMac & Wings\nLoaded Mac & Cheese\nChicken Wings\nButtermilk Chicken Tenders\nPotato Bites\nSides\nDips\nSoft Drinks\nDesserts\nBeer & Cider\nRed Wines\nWhite Wines\nRose Wines\nProsecco & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\n5 Chicken Tenders\n\u00a37.50\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\n6 Hot Honey Wings\nThe Hot & Sweet Ones - Drizzled with Hot Honey\n\u00a38.50\nGluten Free\nMac & Wings\nThe clue is in the name\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\nLoaded Mac & Cheese\nMac oozing with mozzarella, Cheddar & Gran Milano cheese sauce, garlic oil & crispy breadcrumbs\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\nNduja Mac\nThe Spicy Sausage One - Our Classic Mac with plenty of hot Nduja\n\u00a312.20\nMushroom Mac\nThe Shroomy & Gooey One - Chock-full of chestnut mushrooms\n\u00a312.20\nVegetarian\nChicken Wings\nIrresistible oven-baked wings, topped with fresh parsley\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\n12 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a313.75\nGluten Free",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving some crunch? Choose 5 or 10 Breadcrumb-coated Chicken Tenders with dip from \u00a37.50!\nIrresistible oven-baked Wings, topped with fresh parsley only from \u00a38.50!\nTop Selling Items\nMac & Wings\nLoaded Mac & Cheese\nChicken Wings\nButtermilk Chicken Tenders\nPotato Bites\nSides\nDips\nSoft Drinks\nDesserts\nBeer & Cider\nRed Wines\nWhite Wines\nRose Wines\nProsecco & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\n5 Chicken Tenders\n\u00a37.50\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\n6 Hot Honey Wings\nThe Hot & Sweet Ones - Drizzled with Hot Honey\n\u00a38.50\nGluten Free\nMac & Wings\nThe clue is in the name\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\nLoaded Mac & Cheese\nMac oozing with mozzarella, Cheddar & Gran Milano cheese sauce, garlic oil & crispy breadcrumbs\nClassic Mac\nThe Cheesy & Crispy One - All. The. Cheese.\n\u00a311.65\nVegetarian\nTruffle Mac\nThe Cultured One - Plenty of Cheese & Lashings of Truffle oil\n\u00a312.20\nPepperoni & Jalape\u00f1o Mac\nThe Fiery & Smoky One - Packing heat\u200b\n\u00a312.20\nNduja Mac\nThe Spicy Sausage One - Our Classic Mac with plenty of hot Nduja\n\u00a312.20\nMushroom Mac\nThe Shroomy & Gooey One - Chock-full of chestnut mushrooms\n\u00a312.20\nVegetarian\nChicken Wings\nIrresistible oven-baked wings, topped with fresh parsley\n6 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a38.50\nGluten Free\n12 BBQ Wings\nThe Saucy & Sticky Ones - Drenched in BBQ sauce\n\u00a313.75\nGluten Free",
-            "notices": [
-              {
-                "text": "6 BBQ Wings\n\nThe Saucy & Sticky Ones - Drenched in BBQ sauce532 kcal\n\nGluten Free\nChoose your Dip\nSelect 1 option\nAdd Sweet & Smokey BBQ Dip\n44 kcal\nAdd Spicy Tomato & Chilli Dip\n36 kcal\nAdd Garlic & Herb Dip\n197 kcal\nAdd Pesto Dip\nNo Dip\n1\nAdd to order\n\u00a38.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a38.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "6 BBQ Wings",
-            "reason": "pre-order or required choices or disabled add"
           }
         ],
-        "item": null,
-        "reason": "no eligible simple item or addition to basket could not be verified"
+        "item": "Coke 330ml",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
   ],
@@ -1031,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-12T20:31:58.534098+02:00",
+  "last_confirmed_at": "2026-10-12T20:36:58.533679+02:00",
   "last_sample_check": {
-    "at": "2026-10-12T20:31:58.534098+02:00",
+    "at": "2026-10-12T20:36:58.533679+02:00",
     "eligible": true
   }
 }
