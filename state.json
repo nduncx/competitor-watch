@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-12T17:26:21.261186+02:00",
+  "last_observed_at": "2026-10-12T17:31:21.261205+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,95 +176,6 @@
       }
     },
     {
-      "name": "Cafe Louis",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCakes & Desserts\nEnd of the Day Mystery Boxes\nWater\nCoffee & Tea\nBreads\nSalads\nLunch Sandwiches\nTea\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nWaffles & Other Sweets\nJuices\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCakes & Desserts\nMacarons (Assorted Flavours & Colours)\n\u00a32.40\nBox of Macarons (Assorted Flavours & Colours)\n\u00a322.00\nPistachio & White chocolate pie\n\u00a34.25\nCheesecake\n\u00a34.10\nVictoria Sponge Cake\nOut of stock\nLemon & Meringue Tart\n\u00a34.25\nBrownie\n\u00a34.25\nEnd of the Day Mystery Boxes\nAvailable from 5PM till 6PM\nMystery Box - Guaranteed 1 x bread and 1 x sandwich\n\u00a315.00\nMystery Box - Guaranteed One Bread\n\u00a310.00\nPackages End of day mystery box\nA mystery box in every sense of the word. Complete pot luck with the potential to be massively suprised!\n\u00a35.00\nWater\nCuevas Still Water SML\nBottle\n\u00a31.30\nCuevas Still Water LRG\nBottle\n\u00a32.20\nHighland Still Water LRG\nBottle\n",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCakes & Desserts\nEnd of the Day Mystery Boxes\nWater\nCoffee & Tea\nBreads\nSalads\nLunch Sandwiches\nTea\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nWaffles & Other Sweets\nJuices\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCakes & Desserts\nMacarons (Assorted Flavours & Colours)\n\u00a32.40\nBox of Macarons (Assorted Flavours & Colours)\n\u00a322.00\nPistachio & White chocolate pie\n\u00a34.25\nCheesecake\n\u00a34.10\nVictoria Sponge Cake\nOut of stock\nLemon & Meringue Tart\n\u00a34.25\nBrownie\n\u00a34.25\nEnd of the Day Mystery Boxes\nAvailable from 5PM till 6PM\nMystery Box - Guaranteed 1 x bread and 1 x sandwich\n\u00a315.00\nMystery Box - Guaranteed One Bread\n\u00a310.00\nPackages End of day mystery box\nA mystery box in every sense of the word. Complete pot luck with the potential to be massively suprised!\n\u00a35.00\nWater\nCuevas Still Water SML\nBottle\n\u00a31.30\nCuevas Still Water LRG\nBottle\n\u00a32.20\nHighland Still Water LRG\nBottle\n",
-            "notices": [
-              {
-                "text": "Coke\n\nCan\n\n1\nAdd to order\n\u00a32.30",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.30"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.30\n1\nSubtotal\n\u00a32.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.59\nAdd special instructions\nCheckout\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nTop Selling Items\nSparkling Wine\nWines\nCakes & Desserts\nEnd of the Day Mystery Boxes\nWater\nCoffee & Tea\nBreads\nSalads\nLunch Sandwiches\nTea\nBeers & Ciders\nViennoiserie & Danish Pastry\nBreakfast Menu\nCoffee & Tea (Delta Go-Chill)\nWaffles & Other Sweets\nJuices\nSoft Drinks\n1\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCakes & Desserts\nMacarons (Assorted Flavours & Colours)\n\u00a32.40\nBox of Macarons (Assorted Flavours & Colours)\n\u00a322.00\nPistachio & White chocolate pie\n\u00a34.25\nCheesecake\n\u00a34.10\nVictoria Sponge Cake\nOut of stock\nLemon & Meringue Tart\n\u00a34.25\nBrownie\n\u00a34.25\nEnd of the Day Mystery Boxes\nAvailable from 5PM till 6PM\nMystery Box - Guaranteed 1 x bread and 1 x sandwich\n\u00a315.00\nMystery Box - Guaranteed One Bread\n\u00a310.00\nPackages End of day mystery box\nA mystery box in every sense of the word. Complete pot luck with the potential to be massively suprised!\n\u00a35.00\nWater\nCuevas",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Costa Coffee",
       "status": "open",
       "notice": "",
@@ -350,6 +261,95 @@
           }
         ],
         "item": "Coca Cola Pet 50",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Piece Of Cake",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Novelty Cakes: Barbie, Stitch & more design (Pre-order 3 working days) from \u00a372!\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nHot Chocolate Bombes\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nNovelty Cakes Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nToday's Specials\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed Velvet & White Chocolate Chip Cookies\n\u00a33.00\nCupcakes\nKinder Bueno Cupcake\nLuxury Range. Chocolate sponge cupcake filled with kinder hazelnut, topped with chocolate ganache, Kinder hazelnut frosting and a Kinder Bueno Chocolate piece.\n\u00a33.90\nWhite Chocaholic Cupcake\n\u00a33.90\nCarrot Cupcake\nClassic Range. Carrot Spon",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Novelty Cakes: Barbie, Stitch & more design (Pre-order 3 working days) from \u00a372!\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nHot Chocolate Bombes\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nNovelty Cakes Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nToday's Specials\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed Velvet & White Chocolate Chip Cookies\n\u00a33.00\nCupcakes\nKinder Bueno Cupcake\nLuxury Range. Chocolate sponge cupcake filled with kinder hazelnut, topped with chocolate ganache, Kinder hazelnut frosting and a Kinder Bueno Chocolate piece.\n\u00a33.90\nWhite Chocaholic Cupcake\n\u00a33.90\nCarrot Cupcake\nClassic Range. Carrot Spon",
+            "notices": [
+              {
+                "text": "Pepsi Can\n1\nAdd to order\n\u00a31.70",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.70"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Can\n\u00a31.70\n1\nSubtotal\n\u00a31.70\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.99\nAdd special instructions\nCheckout\nEnjoy our Novelty Cakes: Barbie, Stitch & more design (Pre-order 3 working days) from \u00a372!\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nHot Chocolate Bombes\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nNovelty Cakes Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nToday's Specials\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed Velvet & White Chocolate Chip Cookies\n\u00a33.00\nCupcakes\nKinder Bueno Cupcake\nLuxury Range. Chocolate sponge cupcake filled with kinder hazelnut, topped with chocolate ganache, Kinder hazelnut frosting and a Kinder ",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi Can",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-12T17:26:21.261186+02:00",
+  "last_confirmed_at": "2026-10-12T17:31:21.261205+02:00",
   "last_sample_check": {
-    "at": "2026-10-12T17:26:21.261186+02:00",
+    "at": "2026-10-12T17:31:21.261205+02:00",
     "eligible": true
   }
 }
