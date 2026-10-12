@@ -920,10 +920,14 @@
   "last_result": "open",
   "last_confirmed_at": "2026-10-12T22:56:58.536778+02:00",
   "last_sample_check": {
-    "at": "2026-10-12T23:01:58.536412+02:00",
+    "at": "2026-10-12T23:06:58.542243+02:00",
     "eligible": false,
     "exclusions_confirmed": true,
     "venues": [
+      {
+        "name": "Essaouira",
+        "status": "venue_closed"
+      },
       {
         "name": "3Bros Takeout",
         "status": "venue_closed"
@@ -942,10 +946,6 @@
       },
       {
         "name": "BABA",
-        "status": "venue_closed"
-      },
-      {
-        "name": "Babu Takeaway & Restaurant 1947",
         "status": "venue_closed"
       }
     ]
