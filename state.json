@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-15T20:09:38.066846+02:00",
+  "last_observed_at": "2026-10-15T20:14:38.058969+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -266,6 +266,58 @@
     },
     {
       "name": "The Star Bar",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Haagen Dazs",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -324,20 +376,72 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy two satisfying Full English Breakfasts for only \u00a325.95 - a great deal for a great meal!\nIndulge in a delicious Toastie with Three Fillings of your choice all for just \u00a36.90!\nTop Selling Items\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nBreakfast Menu\nStarters\nMains\nBurgers & Wraps\nPastas\nSalads\nHome Baked Rolls or Freshly Cut Sandwiches\nSide Dishes\nKids Menu\nHomemade Desserts\nSoft Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRos\u00e9 Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12pm\nAmerican Style Nachos\nJalapenos, Mexican tomato sauce & cheddar cheese\n\u00a39.50\nVegetarian\nChicken Wings\nWith sour cream - 7 pieces\n\u00a38.95\nBritish Fish & Chips - Our Most Popular Dish\n12 oz Atlantic cod fillet coated in a light beer batter, served with hand cut chips, peas & tartar sauce\n\u00a317.95\nSignature Star Burger\nFresh minced beef steak, Manchego cheese, Serrano ham, roast pepper & mayo served with hand cut chips.\n\u00a316.95\nCrispy Duck and Hoisin Wrap\nSpinach, red onion, cucumber, Hoisin mayo & hand cut chips\n\u00a315.95\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nIt's what we are famous for! Available All Day, Every day\n2 Full English Breakfasts Only for \u00a319.50\nTwo fried eggs, two rashers of Danish bacon, two pork sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans with traditional black pudding & toast.\n\u00a319.50\nBreakfast Menu\nAvailable until 12pm\nAward Winning Star Bar Breakfast\nTwo fried eggs, two rashers of Danish bacon, two Cumberland sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans & toast. Its what we are famous for!\n\u00a311.95\nEarly Starter\nHalf sized breakfast for the smaller app",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nCookie Crunch\u00a0Creation\n\u00a39.00\nMacadamia Crunch\u00a0Creation\n\u00a39.00\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nButter Croissant\nA golden, flaky croissant made with rich, buttery layers that melt in your mouth perfect for breakfast or a tasty snack anytime.\n\u00a31.90\nPain au Chocolate\nA flaky, buttery pastry wrapped around rich, melted chocolate perfectly warm and delicious for a sweet start to your day or an afternoon treat.\n\u00a31.90\nSweet Combos",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy two satisfying Full English Breakfasts for only \u00a325.95 - a great deal for a great meal!\nIndulge in a delicious Toastie with Three Fillings of your choice all for just \u00a36.90!\nTop Selling Items\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nBreakfast Menu\nStarters\nMains\nBurgers & Wraps\nPastas\nSalads\nHome Baked Rolls or Freshly Cut Sandwiches\nSide Dishes\nKids Menu\nHomemade Desserts\nSoft Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRos\u00e9 Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12pm\nAmerican Style Nachos\nJalapenos, Mexican tomato sauce & cheddar cheese\n\u00a39.50\nVegetarian\nChicken Wings\nWith sour cream - 7 pieces\n\u00a38.95\nBritish Fish & Chips - Our Most Popular Dish\n12 oz Atlantic cod fillet coated in a light beer batter, served with hand cut chips, peas & tartar sauce\n\u00a317.95\nSignature Star Burger\nFresh minced beef steak, Manchego cheese, Serrano ham, roast pepper & mayo served with hand cut chips.\n\u00a316.95\nCrispy Duck and Hoisin Wrap\nSpinach, red onion, cucumber, Hoisin mayo & hand cut chips\n\u00a315.95\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nIt's what we are famous for! Available All Day, Every day\n2 Full English Breakfasts Only for \u00a319.50\nTwo fried eggs, two rashers of Danish bacon, two pork sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans with traditional black pudding & toast.\n\u00a319.50\nBreakfast Menu\nAvailable until 12pm\nAward Winning Star Bar Breakfast\nTwo fried eggs, two rashers of Danish bacon, two Cumberland sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans & toast. Its what we are famous for!\n\u00a311.95\nEarly Starter\nHalf sized breakfast for the smaller app",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nCookie Crunch\u00a0Creation\n\u00a39.00\nMacadamia Crunch\u00a0Creation\n\u00a39.00\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nButter Croissant\nA golden, flaky croissant made with rich, buttery layers that melt in your mouth perfect for breakfast or a tasty snack anytime.\n\u00a31.90\nPain au Chocolate\nA flaky, buttery pastry wrapped around rich, melted chocolate perfectly warm and delicious for a sweet start to your day or an afternoon treat.\n\u00a31.90\nSweet Combos",
             "notices": [
               {
-                "text": "Coke 33cl\n1\nAdd to order\n\u00a32.60",
+                "text": "Create Your Own Tub (500ml)\n\nChoose up to 2 Flavours\n\nChoose your 1st Ice Cream Flavour\nSelect 1 option\nAdd Cookies & Cream - 1st Flavour\nAdd Macadamia Nut Brittle - 1st Flavour\nAdd Vanilla - 1st Flavour\nAdd Salted Caramel - 1st Flavour\nAdd Strawberries & Cream - 1st Flavour\nAdd Vanilla Caramel Brownie - 1st Flavour\nAdd Strawberry Cheesecake - 1st Flavour\nAdd Peanut Butter Crunch - 1st Flavour\nAdd Pralines & Cream - 1st Flavour\nAdd Caramel Biscuit & Cream - 1st Flavour\nAdd Dulce de Leche - 1st Flavour\nAdd Rum Raisin - 1st Flavour\nAdd Pistachio & Cream - 1st Flavour\nAdd Raspberry Sorbet - 1st Flavour\nAdd Mango Sorbet - 1st Flavour\nAdd Lemon Sorbet - 1st Flavour\nAdd Rome Tiramisu - 1st Flavour\nAdd Mango & raspberry - 1st Flavour\nChoose your 2nd Ice Cream Flavour\nSelect 1 option\nAdd Cookies & Cream - 2nd Flavour\nAdd Macadamia Nut Brittle - 2nd Flavour\nAdd Vanilla - 2nd Flavour\nAdd Salted Caramel - 2nd Flavour\nAdd Strawberries & Cream - 2nd Flavour\nAdd Vanilla Caramel Brownie - 2nd Flavour\nAdd Strawberry Cheesecake - 2nd Flavour\nAdd Peanut Butter Crunch - 2nd Flavour\nAdd Pralines & Cream - 2nd Flavour\nAdd Caramel Biscuit & Cream - 2nd Flavour\nAdd Dulce de Leche - 2nd Flavour\nAdd Rum Raisin - 2nd Flavour\nAdd Pistachio & Cream - 2nd Flavour\nAdd Raspberry Sorbet - 2nd Flavour\nAdd Mango Sorbet - 2nd Flavour\nAdd Lemon Sorbet - 2nd Flavour\nAdd Rome Tiramisu - 2nd Flavour\nAdd Mango & raspberry - 2nd Flavour\nWould you like Extra Toppings?\nAdd Dark Chocolate Sauce\n\u00a31.00\nAdd Milk Chocolate Sauce\n\u00a31.00\nAdd Caramel Sauce\n\u00a31.00\nAdd Pistachio Sauce\n\u00a31.00\nAdd Tropical Fruit Coulis\n\u00a31.00\nAdd Red Fruit Coulis\n\u00a31.00\nAdd Mixed Seasonal Fruits\n\u00a31.00\nAdd Caramelised Hazelnut\n\u00a31.00\nAdd Crushed Peanut\n\u00a31.00\nAdd Crushed Speculous Biscuits\n\u00a31.00\nAdd Multi Coloured Milk Chocolate Beans\n\u00a31.00\nAdd Dark Chocolate Curls\n\u00a31.00\n1\nAdd to order\n\u00a38.90",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.60"
+                  "Add to order\n\u00a38.90"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "Create Your Own Tub (500ml)",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nCookie Crunch\u00a0Creation\n\u00a39.00\nMacadamia Crunch\u00a0Creation\n\u00a39.00\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nButter Croissant\nA golden, flaky croissant made with rich, buttery layers that melt in your mouth perfect for breakfast or a tasty snack anytime.\n\u00a31.90\nPain au Chocolate\nA flaky, buttery pastry wrapped around rich, melted chocolate perfectly warm and delicious for a sweet start to your day or an afternoon treat.\n\u00a31.90\nSweet Combos",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nCookie Crunch\u00a0Creation\n\u00a39.00\nMacadamia Crunch\u00a0Creation\n\u00a39.00\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nButter Croissant\nA golden, flaky croissant made with rich, buttery layers that melt in your mouth perfect for breakfast or a tasty snack anytime.\n\u00a31.90\nPain au Chocolate\nA flaky, buttery pastry wrapped around rich, melted chocolate perfectly warm and delicious for a sweet start to your day or an afternoon treat.\n\u00a31.90\nSweet Combos",
+            "notices": [
+              {
+                "text": "Create Your Own 1L Ice Cream\n\nChoose up to 4 Flavours\n\nChoose your 1st Ice Cream Flavour\nSelect 1 option\nAdd Cookies & Cream - 1st Flavour\nAdd Macadamia Nut Brittle - 1st Flavour\nAdd Vanilla - 1st Flavour\nAdd Salted Caramel - 1st Flavour\nAdd Strawberries & Cream - 1st Flavour\nAdd Vanilla Caramel Brownie - 1st Flavour\nAdd Strawberry Cheesecake - 1st Flavour\nAdd Peanut Butter Crunch - 1st Flavour\nAdd Pralines & Cream - 1st Flavour\nAdd Caramel Biscuit & Cream - 1st Flavour\nAdd Dulce de Leche - 1st Flavour\nAdd Rum Raisin - 1st Flavour\nAdd Pistachio & Cream - 1st Flavour\nAdd Raspberry Sorbet - 1st Flavour\nAdd Mango Sorbet - 1st Flavour\nAdd Lemon Sorbet - 1st Flavour\nAdd Rome Tiramisu - 1st Flavour\nAdd Mango & raspberry - 1st Flavour\nChoose your 2nd Ice Cream Flavour\nSelect 1 option\nAdd Cookies & Cream - 2nd Flavour\nAdd Macadamia Nut Brittle - 2nd Flavour\nAdd Vanilla - 2nd Flavour\nAdd Salted Caramel - 2nd Flavour\nAdd Strawberries & Cream - 2nd Flavour\nAdd Vanilla Caramel Brownie - 2nd Flavour\nAdd Strawberry Cheesecake - 2nd Flavour\nAdd Peanut Butter Crunch - 2nd Flavour\nAdd Pralines & Cream - 2nd Flavour\nAdd Caramel Biscuit & Cream - 2nd Flavour\nAdd Dulce de Leche - 2nd Flavour\nAdd Rum Raisin - 2nd Flavour\nAdd Pistachio & Cream - 2nd Flavour\nAdd Raspberry Sorbet - 2nd Flavour\nAdd Mango Sorbet - 2nd Flavour\nAdd Lemon Sorbet - 2nd Flavour\nAdd Rome Tiramisu - 2nd Flavour\nAdd Mango & raspberry - 2nd Flavour\nChoose your 3rd Ice Cream Flavour\nSelect 1 option\nAdd Cookies & Cream - 3rd Flavour\nAdd Macadamia Nut Brittle - 3rd Flavour\nAdd Vanilla - 3rd Flavour\nAdd Salted Caramel - 3rd Flavour\nAdd Strawberries & Cream - 3rd Flavour\nAdd Vanilla Caramel Brownie - 3rd Flavour\nAdd Strawberry Cheesecake - 3rd Flavour\nAdd Peanut Butter Crunch - 3rd Flavour\nAdd Pralines & Cream - 3rd Flavour\nAdd Caramel Biscuit & Cream - 3rd Flavour\nAdd Dulce de Leche - 3rd Flavour\nAdd Rum Raisin - 3rd Flavour\nAdd Pistachio & Cream - 3rd Flavour\nAdd Raspberry Sorbet - 3rd Flavour\nAdd Mango Sorbet - 3rd Flavour\nAdd Lemon Sorbet - 3rd Flavour\nAdd Rome Tiramisu - 3rd Flavour\nAdd Mango & raspberry - 3rd Flavour\nChoose your 4th Ice Cream Flavour\nSelect 1 option\nAdd Cookies & Cream - 4th Flavour\nAdd Macadamia Nut Brittle - 4th Flavour\nAdd Vanilla - 4th Flavour\nAdd Salted Caramel - 4th Flavour\nAdd Strawberries & Cream - 4th Flavour\nAdd Vanilla Caramel Brownie - 4th Flavour\nAdd Strawberry Cheesecake - 4th Flavour\nAdd Peanut Butter Crunch - 4th Flavour\nAdd Pralines & Cream - 4th Flavour\nAdd Caramel Biscuit & Cream - 4th Flavour\nAdd Dulce de Leche - 4th Flavour\nAdd Rum Raisin - 4th Flavour\nAdd Pistachio & Cream - 4th Flavour\nAdd Raspberry Sorbet - 4th Flavour\nAdd Mango Sorbet - 4th Flavour\nAdd Lemon Sorbet - 4th Flavour\nAdd Rome Tiramisu - 4th Flavour\nAdd Mango & raspberry - 4th Flavour\nWould you like Extra Toppings?\nAdd Dark Chocolate Sauce\n\u00a31.00\nAdd Milk Chocolate Sauce\n\u00a31.00\nAdd Caramel Sauce\n\u00a31.00\nAdd Pistachio Sauce\n\u00a31.00\nAdd Tropical Fruit Coulis\n\u00a31.00\nAdd Red Fruit Coulis\n\u00a31.00\nAdd Mixed Seasonal Fruits\n\u00a31.00\nAdd Caramelised Hazelnut\n\u00a31.00\nAdd Crushed Peanut\n\u00a31.00\nAdd Crushed Speculous Biscuits\n\u00a31.00\nAdd Multi Coloured Milk Chocolate Beans\n\u00a31.00\nAdd Dark Chocolate Curls\n\u00a31.00\n1\nAdd to order\n\u00a316.90",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a316.90"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "Create Your Own 1L Ice Cream",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nCookie Crunch\u00a0Creation\n\u00a39.00\nMacadamia Crunch\u00a0Creation\n\u00a39.00\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nButter Croissant\nA golden, flaky croissant made with rich, buttery layers that melt in your mouth perfect for breakfast or a tasty snack anytime.\n\u00a31.90\nPain au Chocolate\nA flaky, buttery pastry wrapped around rich, melted chocolate perfectly warm and delicious for a sweet start to your day or an afternoon treat.\n\u00a31.90\nSweet Combos",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nCookie Crunch\u00a0Creation\n\u00a39.00\nMacadamia Crunch\u00a0Creation\n\u00a39.00\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nButter Croissant\nA golden, flaky croissant made with rich, buttery layers that melt in your mouth perfect for breakfast or a tasty snack anytime.\n\u00a31.90\nPain au Chocolate\nA flaky, buttery pastry wrapped around rich, melted chocolate perfectly warm and delicious for a sweet start to your day or an afternoon treat.\n\u00a31.90\nSweet Combos",
+            "notices": [
+              {
+                "text": "2 Chocolate Cookies\nWould you like Extra Toppings?\nAdd Dark Chocolate Sauce\n\u00a31.00\nAdd Milk Chocolate Sauce\n\u00a31.00\nAdd Caramel Sauce\n\u00a31.00\nAdd Pistachio Sauce\n\u00a31.00\nAdd Tropical Fruit Coulis\n\u00a31.00\nAdd Red Fruit Coulis\n\u00a31.00\nAdd Mixed Seasonal Fruits\n\u00a31.00\nAdd Caramelised Hazelnut\n\u00a31.00\nAdd Crushed Peanut\n\u00a31.00\nAdd Crushed Speculous Biscuits\n\u00a31.00\nAdd Multi Coloured Milk Chocolate Beans\n\u00a31.00\nAdd Dark Chocolate Curls\n\u00a31.00\n1\nAdd to order\n\u00a35.40",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a35.40"
                 ],
                 "has_inputs": false
               }
@@ -345,11 +449,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 33cl\n\u00a32.60\n1\nSubtotal\n\u00a32.60\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.89\nAdd special instructions\nCheckout\nEnjoy two satisfying Full English Breakfasts for only \u00a325.95 - a great deal for a great meal!\nIndulge in a delicious Toastie with Three Fillings of your choice all for just \u00a36.90!\nTop Selling Items\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nBreakfast Menu\nStarters\nMains\nBurgers & Wraps\nPastas\nSalads\nHome Baked Rolls or Freshly Cut Sandwiches\nSide Dishes\nKids Menu\nHomemade Desserts\nSoft Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRos\u00e9 Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12pm\nAmerican Style Nachos\nJalapenos, Mexican tomato sauce & cheddar cheese\n\u00a39.50\nVegetarian\nChicken Wings\nWith sour cream - 7 pieces\n\u00a38.95\nBritish Fish & Chips - Our Most Popular Dish\n12 oz Atlantic cod fillet coated in a light beer batter, served with hand cut chips, peas & tartar sauce\n\u00a317.95\nSignature Star Burger\nFresh minced beef steak, Manchego cheese, Serrano ham, roast pepper & mayo served with hand cut chips.\n\u00a316.95\nCrispy Duck and Hoisin Wrap\nSpinach, red onion, cucumber, Hoisin mayo & hand cut chips\n\u00a315.95\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nIt's what we are famous for! Available All Day, Every day\n2 Full English Breakfasts Only for \u00a319.50\nTwo fried eggs, two rashers of Danish bacon, two pork sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans with traditional black pudding & toast.\n\u00a319.50\nBreakfast Menu\nAvailable until 12pm\nAward Winning Star Bar Breakfast\nTwo fried eggs, two rashers of Danish bacon, two Cumberland sausages, sauteed mushrooms, grilled tomato, hash browns & baked bea",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n2 Chocolate Cookies\n\u00a35.40\n1\nSubtotal\n\u00a35.40\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a38.69\nAdd special instructions\nCheckout\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n1\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nCookie Crunch\u00a0Creation\n\u00a39.00\nMacadamia Crunch\u00a0Creation\n\u00a39.00\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n1\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nButter Croissant\nA golden, flaky croissant made with rich, buttery layers that melt in your mouth perfect for breakfast or a tasty snack anytime.\n\u00a31.90\nPain au Chocolate\nA flaky, buttery pastry wrapped around rich, me",
             "notices": []
           }
         ],
-        "item": "Coke 33cl",
+        "item": "2 Chocolate Cookies",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +962,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-15T20:09:38.066846+02:00",
+  "last_confirmed_at": "2026-10-15T20:14:38.058969+02:00",
   "last_sample_check": {
-    "at": "2026-10-15T20:09:38.066846+02:00",
+    "at": "2026-10-15T20:14:38.058969+02:00",
     "eligible": true
   }
 }
