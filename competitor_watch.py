@@ -306,7 +306,17 @@ NOTICE_SNAPSHOT = r"""() => {
   const withButtons = dialogs.filter(e => [...e.querySelectorAll('button, [role="button"]')].some(visible));
   const leaves = dialogs.filter(e => !dialogs.some(other => other !== e && e.contains(other)
     && (withButtons.includes(other) || !withButtons.includes(e))));
-  return {text: document.body.innerText || '', notices: leaves.map(e => ({
+  // Read refusal text independently of dialogs, even while a notice covers
+  // the live basket. A stale dialog alone must not establish a closure.
+  const outside = [];
+  const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+  let node;
+  while ((node = walker.nextNode())) {
+    const parent = node.parentElement;
+    if (parent && visible(parent) && !dialogs.some(e => e.contains(parent)))
+      outside.push(node.textContent);
+  }
+  return {text: document.body.innerText || '', outside_notices: outside.join('\n'), notices: leaves.map(e => ({
     text: e.innerText || '', buttons: [...e.querySelectorAll('button, [role="button"]')].filter(visible).map(b => b.innerText.trim()),
     has_inputs: [...e.querySelectorAll('input, textarea, select, [contenteditable="true"]')].some(visible)
   }))};
@@ -330,6 +340,8 @@ def known_promotion(notice: dict) -> bool:
 
 def read_venue_page(venue_page, deadline=None) -> dict:
     """Read the complete bounded sequence; never clear evidence by dismissing it."""
+    from playwright.sync_api import TimeoutError as PlaywrightTimeout
+
     needles = PLATFORM_CLOSED_PHRASES + CLOSED_PHRASES + OPEN_PHRASES + PAGE_LOADED_PHRASES
     try:
         venue_page.wait_for_function(PAGE_HAS_TEXT, arg=needles, timeout=budget_ms(deadline, 30_000))
@@ -339,12 +351,14 @@ def read_venue_page(venue_page, deadline=None) -> dict:
     transcript, texts, popups = [], [], []
     unresolved = False
     final_text = ""
+    outside_text = ""
     notice_clicks = 0
     cookie_clicks = 0
     for step in range(6):
         try:
             snapshot = notice_snapshot(venue_page)
             final_text = snapshot["text"]
+            outside_text = snapshot["outside_notices"]
             texts.append(final_text)
             notices = snapshot["notices"]
             transcript.append({"step": step, "notices": notices})
@@ -359,34 +373,52 @@ def read_venue_page(venue_page, deadline=None) -> dict:
             if step == 5 or unknown_notices or any(n['has_inputs'] for n in notices):
                 unresolved = True
                 break
-            # Fresh GitHub contexts show consent above the operational notice. Reject it explicitly.
+            # Consent and operational notices can appear in either stacking order.
+            # Only click a recognised, uncovered acknowledgement; never force a
+            # click through an overlay or discard its recorded evidence.
+            choices = []
             if cookie_notices:
                 if cookie_clicks or len(cookie_notices) != 1:
                     unresolved = True
                     break
                 notice = cookie_notices[0]
                 labels = [b for b in notice['buttons'] if b == 'Reject non-essential']
-                cookie_clicks += 1
-            elif len(notices) == 1 and notice_clicks < 4:
-                notice = notices[0]
+                if len(labels) != 1:
+                    unresolved = True
+                    break
+                choices.append((labels[0], True))
+            for notice in notices:
+                if notice in cookie_notices or notice_clicks >= 4:
+                    continue
                 labels = [b for b in notice["buttons"] if DISMISS_LABEL.fullmatch(b)]
-                notice_clicks += 1
-            else:
+                if len(labels) == 1:
+                    choices.append((labels[0], False))
+            clicked = False
+            for label, is_cookie in choices:
+                button = venue_page.get_by_role("button", name=label, exact=True)
+                if button.count() != 1:
+                    continue
+                try:
+                    button.click(trial=True, timeout=budget_ms(deadline, 1_000))
+                except PlaywrightTimeout:
+                    transcript[-1].setdefault("covered_buttons", []).append(label)
+                    continue
+                button.click(timeout=budget_ms(deadline, 2_000))
+                cookie_clicks += int(is_cookie)
+                notice_clicks += int(not is_cookie)
+                transcript[-1]["action"] = label
+                clicked = True
+                break
+            if not clicked:
                 unresolved = True
                 break
-            if len(labels) != 1:
-                unresolved = True
-                break
-            # The button may belong to nested wrappers; an exact role match identifies one DOM node.
-            button = venue_page.get_by_role("button", name=labels[0], exact=True)
-            button.click(timeout=budget_ms(deadline, 2_000))
-            transcript[-1]["action"] = labels[0]
             venue_page.wait_for_function(
                 'old => JSON.stringify((' + NOTICE_SNAPSHOT + ')().notices.map(n => n.text)) !== JSON.stringify(old)',
                 arg=[n['text'] for n in notices], timeout=budget_ms(deadline, 2_500))
             venue_page.wait_for_timeout(budget_ms(deadline, 500))
         except Exception as exc:
-            transcript.append({"step": step, "error": type(exc).__name__})
+            transcript.append({"step": step, "error": type(exc).__name__,
+                               "reason": "budget" if isinstance(exc, TimeoutError) else "notice action failed"})
             unresolved = True
             break
     combined = "\n".join(texts + popups)
@@ -400,7 +432,12 @@ def read_venue_page(venue_page, deadline=None) -> dict:
             order_control.click(trial=True, timeout=budget_ms(deadline, 1_000))
     except Exception:
         order_button, unresolved = False, True
-    if status not in {"closed", "platform_closed", "venue_closed"} and (unresolved or not order_button):
+    # A popup can be stale. An unresolved popup alone cannot establish closure;
+    # an independent refusal on the live page still does, even beneath it.
+    outside_status = classify_venue(outside_text)
+    if unresolved and outside_status not in {"closed", "platform_closed"}:
+        status = "unknown"
+    elif status not in {"closed", "platform_closed", "venue_closed"} and not order_button:
         status = "unknown"
     venue_preorder = any(VENUE_CLOSED_LINE.fullmatch(line.strip()) for line in combined.splitlines())
     if venue_preorder:
@@ -412,6 +449,7 @@ def read_venue_page(venue_page, deadline=None) -> dict:
     result = {"status": status, "notice": extract_notice(combined, popups),
               "url": venue_page.url, "text": combined, "notice_transcript": transcript,
               "unresolved_notice": unresolved, "order_button_after_notices": order_button,
+              "outside_notice_status": outside_status,
               "final_status": final_status, "closure_notice_only": closure_notice_only}
     log("Notice sequence: " + json.dumps({k: v for k, v in result.items() if k != "text"}, ensure_ascii=False))
     return result

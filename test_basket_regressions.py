@@ -112,7 +112,7 @@ class BasketTests(unittest.TestCase):
     def test_undismissed_pause_never_gets_basket_test(self):
         before,r,a=self.notice_probe(stubborn=True)
         self.assertTrue(before['unresolved_notice']);self.assertFalse(before['closure_notice_only'])
-        self.assertEqual(r['status'],'platform_closed');self.assertEqual(a,[])
+        self.assertEqual(r['status'],'unknown');self.assertEqual(a,[])
     def test_required_choices_are_skipped_without_filling_them(self):
         r,a=self.probe(basket_fixture([{'name':'Meal','required':True},{'name':'Simple side'}]))
         self.assertTrue(r['basket_probe']['passed']);self.assertEqual(r['basket_probe']['item'],'Simple side')

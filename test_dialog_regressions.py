@@ -169,7 +169,51 @@ class DialogRegressionTests(unittest.TestCase):
           <button>Reject non-essential</button>
         </div>"""
         result,_=self.inspect(html)
+        self.assertEqual(result['status'],'unknown')
+        self.assertIn(CLOSED,result['notice'])
+
+    def test_closure_above_cookie_reaches_the_live_order_control(self):
+        html=fixture([[CLOSED,'GOT IT']])+"""
+        <style>md-dialog {position:fixed;inset:0;z-index:200;background:white}</style>
+        <div role="dialog" id="cookies" style="position:fixed;inset:0;z-index:100;background:white">
+          We use cookies to improve your online experience. See our cookie policy.
+          <button onclick="window.pressed.push('Reject non-essential');this.parentElement.remove()">Reject non-essential</button>
+        </div>"""
+        result,pressed=self.inspect(html)
+        self.assertEqual(pressed,['GOT IT','Reject non-essential'])
+        self.assertFalse(result['unresolved_notice'])
+        self.assertTrue(result['closure_notice_only'])
+
+    def test_unresolved_pause_with_independent_basket_refusal_stays_closed(self):
+        result,_=self.inspect(fixture([[PAUSE,'OK']],basket=CLOSED,stubborn=True))
+        self.assertTrue(result['unresolved_notice'])
+        self.assertEqual(result['outside_notice_status'],'closed')
+        self.assertEqual(result['status'],'platform_closed')
+
+    def test_unknown_notice_cannot_hide_independent_basket_refusal(self):
+        result,pressed=self.inspect(fixture([['Unfamiliar promotion','Continue']],basket=CLOSED))
+        self.assertEqual(pressed,[])
+        self.assertTrue(result['unresolved_notice'])
         self.assertEqual(result['status'],'closed')
+
+    def test_unknown_notice_refusal_without_live_refusal_stays_unknown(self):
+        result,pressed=self.inspect(fixture([[CLOSED+' Confirm your account','Continue']]))
+        self.assertEqual(pressed,[])
+        self.assertEqual(result['outside_notice_status'],'open')
+        self.assertEqual(result['status'],'unknown')
+
+    def test_closure_above_cookie_preserves_a_real_basket_refusal(self):
+        html=fixture([[CLOSED,'GOT IT']],basket=CLOSED)+"""
+        <style>md-dialog {position:fixed;inset:0;z-index:200;background:white}</style>
+        <div role="dialog" id="cookies" style="position:fixed;inset:0;z-index:100;background:white">
+          We use cookies to improve your online experience. See our cookie policy.
+          <button onclick="window.pressed.push('Reject non-essential');this.parentElement.remove()">Reject non-essential</button>
+        </div>"""
+        result,pressed=self.inspect(html)
+        self.assertEqual(pressed,['GOT IT','Reject non-essential'])
+        self.assertFalse(result['unresolved_notice'])
+        self.assertEqual(result['status'],'closed')
+        self.assertFalse(result['closure_notice_only'])
 
     def test_cookie_with_no_reject_option_is_not_accepted(self):
         result,pressed=self.inspect(fixture([['We use cookies. See our cookie policy.','Accept all']]))
