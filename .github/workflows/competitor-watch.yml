@@ -29,6 +29,7 @@ jobs:
       TRADING_HOURS: ${{ vars.TRADING_HOURS }}
       ALERT_ON_DELAYS: ${{ vars.ALERT_ON_DELAYS }}
       SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      OPS_SLACK_WEBHOOK_URL: ${{ secrets.OPS_SLACK_WEBHOOK_URL }}
     steps:
       - uses: actions/checkout@v4
       - name: Load latest detector and saved state after waiting for the runner
@@ -54,7 +55,7 @@ jobs:
         run: |
           git config user.name "competitor-watch"
           git config user.email "competitor-watch@users.noreply.github.com"
-      - name: Check every five minutes in a bounded session
+      - name: Check every two minutes in a bounded session
         if: ${{ inputs.test_email != true && inputs.dry_run != true }}
         run: python continuous_watch.py
       - name: Validate live website without notifications
