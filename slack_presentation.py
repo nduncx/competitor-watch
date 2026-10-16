@@ -88,6 +88,12 @@ def slack_payload(subject, body, target='Hungry Monkey', timezone='Europe/Gibral
     elif subject == 'Competitor Watch: suitable stores available again':
         headline = '✅ MONITORING COVERAGE RESTORED'
         summary = 'Suitable stores can be checked again. This is not a competitor reopening alert.'
+    elif subject == 'Competitor Watch: Ops alerts delivery problem':
+        headline = '⚠️ OPS ALERT DELIVERY PENDING'
+        summary = 'The copy to #ops-alerts is queued for retry. Checks and #competitor-watch alerts continue independently.'
+    elif subject == 'Competitor Watch: Ops alerts delivery restored':
+        headline = '✅ OPS ALERT DELIVERY RESTORED'
+        summary = 'Queued status cards reached #ops-alerts. This is not a competitor reopening alert.'
     elif subject.lower() == 'competitor watch: test notification':
         headline = '🧪 COMPETITOR WATCH — TEST MESSAGE'
         summary = 'Slack delivery is working. This is not a live competitor status report.'

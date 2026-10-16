@@ -1,4 +1,4 @@
-"""Run five-minute checks inside a bounded GitHub job, with durable health alerts."""
+"""Run two-minute checks inside a bounded GitHub job, with durable health alerts."""
 import datetime as dt
 import json
 import os
@@ -11,7 +11,9 @@ from zoneinfo import ZoneInfo
 import competitor_watch as monitor
 
 HEALTH_FILE = Path('monitor-health.json')
-INTERVAL = 300
+# Keep two independent recovery readings without waiting another five minutes.
+# Starts stay anchored to the cadence; slow checks never overlap.
+INTERVAL = 120
 MAX_SESSION_SECONDS = 5 * 60 * 60
 
 
@@ -48,7 +50,7 @@ def update_health(state, previous, code, started, finished, session_end):
                        f'At {finished:%H:%M} ({monitor.TIMEZONE}), the website loaded successfully. '
                        'The directory showed no current delivery estimates, and all sampled stores '
                        'said they were closed but accepting pre-orders. They were excluded from basket tests.'
-                       '\nThe monitor is running and will check again in five minutes. '
+                       '\nThe monitor is running and will check again in two minutes. '
                        'This does not confirm that Hungry Monkey as a whole is open or closed. '
                        'The previous availability reading is historical, not a current confirmation.')
     elif failed:
@@ -61,7 +63,7 @@ def update_health(state, previous, code, started, finished, session_end):
                        f"At {finished:%H:%M} ({monitor.TIMEZONE}), a check failed. "
                        + reasons.get(code, f'The check exited with code {code}.')
                        + '\nThis is a monitoring problem, not evidence that Hungry Monkey is open or closed.'
-                       + '\nThe running job will retry on the next five-minute check. '
+                       + '\nThe running job will retry on the next two-minute check. '
                        'Queued notifications are retained. Do not treat silence as normal service.')
     else:
         health['last_success_at'] = finished.isoformat()
@@ -70,7 +72,7 @@ def update_health(state, previous, code, started, finished, session_end):
         if failed_before:
             message = ('Competitor Watch: monitoring restored',
                        f'A complete check succeeded at {finished:%H:%M} ({monitor.TIMEZONE}). '
-                       'Five-minute checks have resumed inside the running GitHub job. '
+                       'Two-minute checks have resumed inside the running GitHub job. '
                        'Hungry Monkey status changes are reported separately.')
         elif previous.get('last_exit_code') == 4:
             message = ('Competitor Watch: suitable stores available again',
@@ -90,6 +92,24 @@ def now():
     return dt.datetime.now(ZoneInfo(monitor.TIMEZONE))
 
 
+def update_ops_health(state, health, at):
+    pending = bool(state.get('pending_ops_notifications'))
+    active = state.get('ops_delivery_alert_active', False)
+    if pending != active:
+        subject = 'Competitor Watch: Ops alerts delivery ' + ('problem' if pending else 'restored')
+        body = (f'At {at:%H:%M} ({monitor.TIMEZONE}), '
+                + ('the copy to #ops-alerts is pending and retained for retry. '
+                   'Checks and #competitor-watch alerts continue independently.' if pending else
+                   'the queued status cards reached #ops-alerts.'))
+        state.setdefault('pending_notifications', []).append({
+            'id': 'ops-health:' + at.isoformat(), 'subject': subject,
+            'body': body, 'attach_screenshot': False, 'observed_at': at.isoformat()})
+        state['ops_delivery_alert_active'] = pending
+    health['ops_notification_delivery_confirmed'] = not pending
+    health['ops_delivery_status'] = ('pending' if pending else
+                                    ('healthy' if monitor.OPS_SLACK_WEBHOOK_URL else 'disabled'))
+
+
 def attempt(session_end):
     started = now()
     try:
@@ -100,6 +120,7 @@ def attempt(session_end):
     previous = json.loads(HEALTH_FILE.read_text()) if HEALTH_FILE.exists() else {}
     state = monitor.load_state()
     health = update_health(state, previous, code, started, now(), session_end)
+    update_ops_health(state, health, now())
     # Save queued messages before transport. Only the existing Slack ack path removes them.
     monitor.save_state(state)
     temporary = HEALTH_FILE.with_suffix('.json.tmp')
@@ -107,6 +128,10 @@ def attempt(session_end):
     temporary.replace(HEALTH_FILE)
     delivered = monitor.flush_notifications(state)
     health['notification_delivery_confirmed'] = delivered
+    pending_ops = bool(state.get('pending_ops_notifications'))
+    health['ops_notification_delivery_confirmed'] = not pending_ops
+    health['ops_delivery_status'] = ('pending' if pending_ops else
+                                    ('healthy' if monitor.OPS_SLACK_WEBHOOK_URL else 'disabled'))
     if not delivered:
         health['status'] = 'delivery_pending'
     temporary.write_text(json.dumps(health, indent=2) + '\n')
@@ -137,7 +162,7 @@ def run_session(run_attempt=attempt, save_checkpoint=checkpoint,
     session_end = min(end, started + dt.timedelta(seconds=MAX_SESSION_SECONDS))
     deadline = monotonic() + (session_end - started).total_seconds()
     last_code = 0
-    print(f'Five-minute worker active until {session_end.isoformat()}', flush=True)
+    print(f'Two-minute worker active until {session_end.isoformat()}', flush=True)
     while monotonic() < deadline and now_fn() < session_end:
         tick = monotonic()
         last_code = run_attempt(session_end)

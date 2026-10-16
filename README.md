@@ -2,21 +2,23 @@
 
 Monitors Hungry Monkey delivery availability and posts availability updates to Rock Hero’s #competitor-watch Slack channel.
 
+When `OPS_SLACK_WEBHOOK_URL` is configured, confirmed open/busy/closed changes also go directly to #ops-alerts using the identical Slack card payload. Repeated incident reminders, unconfirmed changes, historical corrections, tests and monitoring/coverage notices stay in #competitor-watch. Each destination has its own durable outbox and acknowledged receipts: an Ops delivery failure does not block website checks or primary alerts, and is reported in #competitor-watch and `monitor-health.json`. An acknowledged primary message is not resent just because its Ops copy needs a retry. Disable the old Slack forwarding workflow when enabling direct Ops delivery to avoid duplicate copies.
+
 ## Alerts
 
 - Alert window: **09:00–23:30 Europe/Gibraltar**, daily.
 - Aims for three usable venues, including Essaouira when eligible. Pre-order stores are excluded and replaced; at most six venue candidates are inspected.
 - Sends a status message on every successful check while delays or closure continue.
 - Recovery requires two consecutive successful checks: this covers closed → delays/open and delays → normal. The first candidate posts an **unconfirmed check** message naming the last confirmed state, rather than announcing reopening.
-- Sends one reopening message after confirmation, including any continuing delays. If delays remain, five-minute status updates continue.
+- Sends one reopening message after confirmation, including any continuing delays. If delays remain, status updates continue on each successful check.
 - Sends one recovery message when normal service resumes, then stays quiet while normal.
 - Unreadable/failed checks and checks outside the alert window reset recovery confirmation. A gap longer than 12 minutes also resets it. Prior incident state and queued notifications are preserved.
-- Closure and new delay alerts remain immediate. Confirmed recovery normally takes one additional five-minute check.
+- Closure and new delay alerts remain immediate on the first successful reading. Active sessions check every two minutes while preserving two-check recovery. In normal conditions, recovery is confirmed within roughly five minutes of a change, including page loading. Slow/unreadable pages, notification delivery failures and gaps between sessions can take longer; five minutes is not a guaranteed deadline.
 - This is a safeguard against isolated false recovery readings, not independent proof that immediate delivery is available. A generic closure does not establish its cause.
 
 ## Continuous GitHub sessions (26 September 2026)
 
-The regular workflow still requests a start every five minutes. Each start during the alert window now checks immediately, then every five minutes inside the running job for up to five hours or until 23:30 Europe/Gibraltar, whichever comes first. This applies on future dates too. A failed check is retried on the next tick. A queued GitHub start can take over after a session finishes; the concurrency lock prevents overlap.
+The regular workflow still requests a start every five minutes. Each start during the alert window checks immediately, then every two minutes inside the running job for up to five hours or until 23:30 Europe/Gibraltar, whichever comes first. This applies on future dates too. A failed check is retried on the next tick. Checks run sequentially: if a slow check exceeds two minutes, the next starts after it finishes, with no overlapping browser tests. A queued GitHub start can take over after a session finishes; the concurrency lock prevents overlap.
 
 **GitHub can still delay or skip starting jobs.** This improves cadence within an active session, but does not guarantee a maximum five-minute gap between sessions or at morning startup. A dedicated server and independent outage alarm remain future work; OVH/OpenClaw is unchanged.
 
@@ -34,7 +36,7 @@ The informational “Win your order for FREE / Busy Monkey Game” notice observ
 
 ## Settings and tests
 
-Secret: `SLACK_WEBHOOK_URL`. Never commit its value. The existing Slack secret, detector and alert hours are unchanged by the trial.
+Secrets: `SLACK_WEBHOOK_URL` for #competitor-watch and optional `OPS_SLACK_WEBHOOK_URL` for #ops-alerts. Never commit their values. The existing primary Slack secret, detector and alert hours are unchanged.
 
 Use Actions → Competitor watch → Run workflow with the test notification option to test Slack. With no options it runs a real check; the dry-run option checks the live site without alerts or state changes. A manually dispatched run shares the concurrency lock and waits for any active session.
 
@@ -69,4 +71,4 @@ Each venue uses an isolated disposable browser context. The detector tries up to
 
 `test_basket_regressions.py` covers successful addition without Checkout, pre-order exclusions and replacements, required options, unchanged/dirty baskets, refusals revealed after adding, unfamiliar popups, timeouts, and aggregation. These local fixtures do not prove the live site or Slack delivery.
 
-`test_continuous_watch.py` verifies five-minute retries, daily and overnight cutoff, five-hour session limits, failure/recovery messages, durable delivery retries and checkpoint failure handling.
+`test_continuous_watch.py` verifies two-minute retries, the approximate two-reading recovery budget with page loading, sequential slow checks, daily and overnight cutoff, five-hour session limits, failure/recovery messages, durable delivery retries and checkpoint failure handling.

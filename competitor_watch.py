@@ -98,6 +98,7 @@ SCREENSHOT_FILE = Path(setting("SCREENSHOT_FILE", "evidence.png"))
 
 # Email. For Gmail: smtp.gmail.com, port 587, and an App Password (SETUP.md).
 SLACK_WEBHOOK_URL = setting("SLACK_WEBHOOK_URL", "")
+OPS_SLACK_WEBHOOK_URL = setting("OPS_SLACK_WEBHOOK_URL", "")
 
 SMTP_HOST = setting("SMTP_HOST", "smtp.gmail.com")
 SMTP_PORT = int(setting("SMTP_PORT", "587"))
@@ -932,6 +933,7 @@ def import_recovery(state: dict) -> None:
 
 def flush_notifications(state: dict) -> bool:
     """Deliver in observation order, retaining failures for the next check."""
+    import ops_notifications as ops
     pending = state.setdefault("pending_notifications", [])
     while pending:
         item = pending[0]
@@ -941,13 +943,18 @@ def flush_notifications(state: dict) -> bool:
             # Never include transport exceptions that could contain credentials.
             log(f"Notification delivery not confirmed ({type(exc).__name__}); retained for retry.")
             save_state(state)
+            ops.flush(state, OPS_SLACK_WEBHOOK_URL, save_state, log, TIMEZONE)
             return False
         pending.pop(0)
         receipts = state.setdefault("notification_receipts", [])
         receipts.append({"id": item["id"], "subject": item["subject"],
                          "delivered_at": dt.datetime.now(ZoneInfo(TIMEZONE)).isoformat()})
         state["notification_receipts"] = receipts[-100:]
+        # Save the acknowledged primary receipt and its optional Ops copy in one
+        # checkpoint. Ops has a separate queue and never delays primary alerts.
+        ops.enqueue(state, item, OPS_SLACK_WEBHOOK_URL, TARGET_NAME, TIMEZONE)
         save_state(state)
+    ops.flush(state, OPS_SLACK_WEBHOOK_URL, save_state, log, TIMEZONE)
     return True
 
 

@@ -72,16 +72,16 @@ class WorkerTests(unittest.TestCase):
         self.assertFalse(health['notification_delivery_confirmed'])
         self.assertEqual(health['status'],'delivery_pending')
 
-    def test_active_job_retries_on_five_minute_starts_and_stops_at_window_end(self):
+    def test_active_job_retries_on_two_minute_starts_and_stops_at_window_end(self):
         base=START.replace(hour=23,minute=18)
-        elapsed=[0]; starts=[]; checkpoints=[]; codes=iter([2,0,0])
+        elapsed=[0]; starts=[]; checkpoints=[]; codes=iter([2,0,0,0,0,0])
         def check(end):
             starts.append(elapsed[0]);elapsed[0]+=60;return next(codes)
         def sleep(delay): elapsed[0]+=delay
         result=worker.run_session(check,lambda:checkpoints.append(elapsed[0]),
             lambda:base+dt.timedelta(seconds=elapsed[0]),lambda:elapsed[0],sleep)
-        self.assertEqual(starts,[0,300,600])
-        self.assertEqual(len(checkpoints),3)
+        self.assertEqual(starts,[0,120,240,360,480,600])
+        self.assertEqual(len(checkpoints),6)
         self.assertEqual(elapsed[0],720)
         self.assertEqual(result,0)
 
@@ -91,8 +91,61 @@ class WorkerTests(unittest.TestCase):
         def check(end): starts.append(elapsed[0]);return 0
         worker.run_session(check,lambda:None,lambda:base+dt.timedelta(seconds=elapsed[0]),
             lambda:elapsed[0],lambda n:elapsed.__setitem__(0,elapsed[0]+n))
-        self.assertEqual(len(starts),60)
+        self.assertEqual(len(starts),150)
         self.assertEqual(elapsed[0],worker.MAX_SESSION_SECONDS)
+
+    def test_two_reading_recovery_budget_includes_page_loading(self):
+        # A change just after the preceding check needs the next two starts.
+        # Typical 75-second site reads finish confirmation about five minutes
+        # after that preceding start, rather than after two five-minute ticks.
+        elapsed=[0]; starts=[]; sent=[]
+        base=START.replace(hour=23,minute=24)
+        class Clock(dt.datetime):
+            @classmethod
+            def now(cls,tz=None):
+                return base+dt.timedelta(seconds=elapsed[0])
+        def website():
+            elapsed[0]+=75
+            status='closed' if len(starts)==1 else 'open'
+            return {'status':status,'notice':'','detail':'fixture',
+                    'venues':[{'name':'Fixture','status':status,
+                               'basket_probe':{'passed':status=='open'}}]}
+        def check(end):
+            starts.append(elapsed[0])
+            return worker.monitor.run_check()
+        worker.monitor.save_state({'status':'closed','alerted':True,
+            'since':(base-dt.timedelta(minutes=15)).isoformat()})
+        with patch.object(worker.monitor.dt,'datetime',Clock), \
+             patch.object(worker.monitor,'RECOVERY_FILE',Path(self.tmp.name)/'none.json'), \
+             patch.object(worker.monitor,'RECOVERY_CONFIRMATIONS',2), \
+             patch.object(worker.monitor,'check_platform',side_effect=website), \
+             patch.object(worker.monitor,'send_email',
+                side_effect=lambda subject,*args:sent.append((elapsed[0],subject))):
+            worker.run_session(check,lambda:None,
+                lambda:base+dt.timedelta(seconds=elapsed[0]),lambda:elapsed[0],
+                lambda n:elapsed.__setitem__(0,elapsed[0]+n))
+        self.assertEqual(starts,[0,120,240])
+        self.assertIn('check unconfirmed',sent[1][1])
+        self.assertEqual(sent[1][0],195)
+        self.assertIn('taking orders again',sent[2][1])
+        self.assertEqual(sent[2][0],315)
+        self.assertEqual(worker.monitor.load_state()['status'],'open')
+
+    def test_slow_checks_run_sequentially_without_skipping_the_cutoff(self):
+        elapsed=[0]; starts=[]
+        def check(end):
+            starts.append(elapsed[0]);elapsed[0]+=150;return 0
+        base=START.replace(hour=23,minute=23)
+        worker.run_session(check,lambda:None,
+            lambda:base+dt.timedelta(seconds=elapsed[0]),lambda:elapsed[0],
+            lambda n:elapsed.__setitem__(0,elapsed[0]+n))
+        self.assertEqual(starts,[0,150,300])
+
+    def test_saved_health_advertises_two_minute_next_start(self):
+        health=worker.update_health({}, {}, 0, START,
+            START+dt.timedelta(seconds=75),START+dt.timedelta(hours=1))
+        self.assertEqual(health['next_check_at'],
+            (START+dt.timedelta(seconds=120)).isoformat())
 
     def test_outside_hours_does_not_check_or_invent_recovery(self):
         with patch.object(worker,'attempt') as check:
