@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-17T22:27:42.335056+02:00",
+  "last_observed_at": "2026-10-17T22:29:42.335812+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,8 +177,8 @@
     },
     {
       "name": "3Bros Takeout",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -219,55 +219,18 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCheck out Our delicious 3Bros SFC Boneless Bucket only for \u00a322.95\nNEW sides for just \u00a36.90! Pulled Pork Bites and Mac & Cheese bites!!\nTop Selling Items\nBurgers\n3Bros SFC Boneless Bucket only for \u00a322.95!\nSides\n3 Bros Fries\nKids Meals\nDesserts\nDrinks\nIce Creams\nSauces\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nSFC Chicken Strips\n\u00a37.20\nThe SFC Bro + Fries\nBrioche bun, SFC chicken breast, American cheese, sliced tomato, chopped lettuce, red onion & 3Bros sauce.\n\u00a311.80\nBurgers\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nEL Mex Bro + Fries\nBrioche Bun, Double beef patties, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nEL Mex SFC + Fries\nBrioche Bun, SFC Chicken breast, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\nThe Big Bro + Fries\nBrioche bun, four beef patties,double American cheese, red onions, chopped lettuce, sliced ",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCheck out Our delicious 3Bros SFC Boneless Bucket only for \u00a322.95\nNEW sides for just \u00a36.90! Pulled Pork Bites and Mac & Cheese bites!!\nTop Selling Items\nBurgers\n3Bros SFC Boneless Bucket only for \u00a322.95!\nSides\n3 Bros Fries\nKids Meals\nDesserts\nDrinks\nIce Creams\nSauces\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nSFC Chicken Strips\n\u00a37.20\nThe SFC Bro + Fries\nBrioche bun, SFC chicken breast, American cheese, sliced tomato, chopped lettuce, red onion & 3Bros sauce.\n\u00a311.80\nBurgers\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nEL Mex Bro + Fries\nBrioche Bun, Double beef patties, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nEL Mex SFC + Fries\nBrioche Bun, SFC Chicken breast, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\nThe Big Bro + Fries\nBrioche bun, four beef patties,double American cheese, red onions, chopped lettuce, sliced ",
-            "notices": [
-              {
-                "text": "SFC Chicken Strips\n1\nAdd to order\n\u00a37.20",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a37.20"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSFC Chicken Strips\n\u00a37.20\n1\nSubtotal\n\u00a37.20\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a310.49\nAdd special instructions\nCheckout\nCheck out Our delicious 3Bros SFC Boneless Bucket only for \u00a322.95\nNEW sides for just \u00a36.90! Pulled Pork Bites and Mac & Cheese bites!!\nTop Selling Items\nBurgers\n3Bros SFC Boneless Bucket only for \u00a322.95!\nSides\n3 Bros Fries\nKids Meals\nDesserts\nDrinks\nIce Creams\nSauces\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.10\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\n1\nSFC Chicken Strips\n\u00a37.20\nThe SFC Bro + Fries\nBrioche bun, SFC chicken breast, American cheese, sliced tomato, chopped lettuce, red onion & 3Bros sauce.\n\u00a311.80\nBurgers\n\"New\" The Oklahoma Bro + Fries\nBrioche bun double smashed beef patty caramelised onions topped with homemade peppered sauce\n\u00a311.10\nEL Mex Bro + Fries\nBrioche Bun, Double beef patties, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nEL Mex SFC + Fries\nBrioche Bun, SFC Chicken breast, Mexican spicy cheddar cheese, guacamole sauce, chipotle sauce, bacon, lettuce, onion and tomato.\n\u00a313.05\nThe Bacon Cheese Bro + Fries\nBrioche bun, two beef patties, American cheese, double crispy bacon & 3Bros sauce.\n\u00a313.10\nThe Classic Bro + Fries\nBrioche bun, 2 beef patties, American cheese, sliced tomato, chopped lettuce, red onions & 3Bros sauce.\n\u00a311.1",
-            "notices": []
-          }
-        ],
-        "item": "SFC Chicken Strips",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     },
     {
       "name": "AquaTerra",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -308,50 +271,169 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nFish\nTapas and Bao Buns\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nGoat cheese salad\nMix lettuces, cherry tomato, goat cheese, honey mustard dressing and walnuts\n\u00a38.95\nGluten FreeVegetarian\nMelva salad\nTomato, Melva, onion with a balsamic dressing\n\u00a38.95\nMea",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nFish\nTapas and Bao Buns\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nGoat cheese salad\nMix lettuces, cherry tomato, goat cheese, honey mustard dressing and walnuts\n\u00a38.95\nGluten FreeVegetarian\nMelva salad\nTomato, Melva, onion with a balsamic dressing\n\u00a38.95\nMea",
-            "notices": [
-              {
-                "text": "Coca Cola\n\n33cl\n\n1\nAdd to order\n\u00a30.99",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a30.99"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a30.99\n1\nSubtotal\n\u00a30.99\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.28\nAdd special instructions\nCheckout\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nFish\nTapas and Bao Buns\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nGoat cheese salad\nMix lettuces, cherry tomato, goat cheese, honey mustard dressing and wa",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
+    },
+    {
+      "name": "Chatzz",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Firefly",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Kick Ass Burritos",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
@@ -858,9 +940,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-17T22:27:42.335056+02:00",
+  "last_confirmed_at": "2026-10-17T22:29:42.335812+02:00",
   "last_sample_check": {
-    "at": "2026-10-17T22:27:42.335056+02:00",
+    "at": "2026-10-17T22:29:42.335812+02:00",
     "eligible": true
   }
 }
