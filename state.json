@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-17T22:59:42.336886+02:00",
+  "last_observed_at": "2026-10-17T23:01:42.337211+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,9 +176,9 @@
       }
     },
     {
-      "name": "BABA",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
+      "name": "Neha Curry House",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
@@ -219,18 +219,55 @@
         {
           "step": 2,
           "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nB\nBooze Promos!\nVapes\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nBooze Promos!\n5 Cider Combo\nGet 5 Ciders for \u00a310.00\n\u00a310.00\n5 Breezer Combo\nMix & Match Breezers for \u00a312.00\n\u00a312.00\n5 + 1 San Miguel Bottles\nBuy 5 and Get 1 FREE!\n\u00a312.00\n6 x Corona Bottles\nSummer Promo!\n\u00a311.99\n10 + 2 Heineken Bottles\nBuy 10 and Get 2 FREE!\n\u00a325.00\nVapes\nVapes\n2 Bou Vape Combo for \u00a322\n\u00a322.00\nBou 7000: Blueberry Cranberry Cherry\n\u00a312.99\nBou 7000: Melon Pineapple Orange\n\u00a312.99\nBou 7000: Watermelon Kiwi\n\u00a312.99\nBou 7000: Strawberry Kiwi\n\u00a312.99\nBou 7000: Mango Ice\n\u00a311.99\nBou 7000: Mr Blue\n\u00a312.99\nBou 7000: Raspberry Lemon\n\u00a312.99\nBou 7000: Grape Cranberry Blueberry Raspberry\n\u00a312.99\nBou 7000: Melon Banana Pineapple\n\u00a312.99\nBou 7000: Cherry Cola\n\u00a312.99\nDesserts (Indian Sweets)\nIn-House Gulab Jamun\nA rich and delicious Indian dessert made of sweet and soft cheese balls, dipped in sugar syrup.\n\u00a32.50\nIn-House Mango Kulfi (Indian Mango Ice-Cream)\nThe premium mango ice-cream made in-house!\n\u00a33.50\nSoft Drinks\nNeha's Mango Lassi\nNeha's In-House made Mango Lassi!\n\u00a33.50\nPepsi Can\n330ml Can\n\u00a31.50\nPepsi Max Can\n330ml Can\n\u00a31.50\nPepsi Max Cherry Can\n330ml Can\n\u00a31.50\nCoke Zero Can\n330ml Can\n\u00a31.50\nCoca Cola Can\n\u00a31.50\nDiet Coke Can\nCan 330ml\n\u00a31.50\nTango Cherry Can (Sugar Free)\n330ml Can\n\u00a31.50\nTango Apple Can (Sugar Free)\n330ml Can\n\u00a31.50\nFanta Orange Can\n330ml Can\n\u00a31.50\nFanta Lemon Ca",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nBooze Promos!\nVapes\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nBooze Promos!\n5 Cider Combo\nGet 5 Ciders for \u00a310.00\n\u00a310.00\n5 Breezer Combo\nMix & Match Breezers for \u00a312.00\n\u00a312.00\n5 + 1 San Miguel Bottles\nBuy 5 and Get 1 FREE!\n\u00a312.00\n6 x Corona Bottles\nSummer Promo!\n\u00a311.99\n10 + 2 Heineken Bottles\nBuy 10 and Get 2 FREE!\n\u00a325.00\nVapes\nVapes\n2 Bou Vape Combo for \u00a322\n\u00a322.00\nBou 7000: Blueberry Cranberry Cherry\n\u00a312.99\nBou 7000: Melon Pineapple Orange\n\u00a312.99\nBou 7000: Watermelon Kiwi\n\u00a312.99\nBou 7000: Strawberry Kiwi\n\u00a312.99\nBou 7000: Mango Ice\n\u00a311.99\nBou 7000: Mr Blue\n\u00a312.99\nBou 7000: Raspberry Lemon\n\u00a312.99\nBou 7000: Grape Cranberry Blueberry Raspberry\n\u00a312.99\nBou 7000: Melon Banana Pineapple\n\u00a312.99\nBou 7000: Cherry Cola\n\u00a312.99\nDesserts (Indian Sweets)\nIn-House Gulab Jamun\nA rich and delicious Indian dessert made of sweet and soft cheese balls, dipped in sugar syrup.\n\u00a32.50\nIn-House Mango Kulfi (Indian Mango Ice-Cream)\nThe premium mango ice-cream made in-house!\n\u00a33.50\nSoft Drinks\nNeha's Mango Lassi\nNeha's In-House made Mango Lassi!\n\u00a33.50\nPepsi Can\n330ml Can\n\u00a31.50\nPepsi Max Can\n330ml Can\n\u00a31.50\nPepsi Max Cherry Can\n330ml Can\n\u00a31.50\nCoke Zero Can\n330ml Can\n\u00a31.50\nCoca Cola Can\n\u00a31.50\nDiet Coke Can\nCan 330ml\n\u00a31.50\nTango Cherry Can (Sugar Free)\n330ml Can\n\u00a31.50\nTango Apple Can (Sugar Free)\n330ml Can\n\u00a31.50\nFanta Orange Can\n330ml Can\n\u00a31.50\nFanta Lemon Can\n",
+            "notices": [
+              {
+                "text": "Pepsi Can\n\n330ml Can\n\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Can\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nBooze Promos!\nVapes\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nBooze Promos!\n5 Cider Combo\nGet 5 Ciders for \u00a310.00\n\u00a310.00\n5 Breezer Combo\nMix & Match Breezers for \u00a312.00\n\u00a312.00\n5 + 1 San Miguel Bottles\nBuy 5 and Get 1 FREE!\n\u00a312.00\n6 x Corona Bottles\nSummer Promo!\n\u00a311.99\n10 + 2 Heineken Bottles\nBuy 10 and Get 2 FREE!\n\u00a325.00\nVapes\nVapes\n2 Bou Vape Combo for \u00a322\n\u00a322.00\nBou 7000: Blueberry Cranberry Cherry\n\u00a312.99\nBou 7000: Melon Pineapple Orange\n\u00a312.99\nBou 7000: Watermelon Kiwi\n\u00a312.99\nBou 7000: Strawberry Kiwi\n\u00a312.99\nBou 7000: Mango Ice\n\u00a311.99\nBou 7000: Mr Blue\n\u00a312.99\nBou 7000: Raspberry Lemon\n\u00a312.99\nBou 7000: Grape Cranberry Blueberry Raspberry\n\u00a312.99\nBou 7000: Melon Banana Pineapple\n\u00a312.99\nBou 7000: Cherry Cola\n\u00a312.99\nDesserts (Indian Sweets)\nIn-House Gulab Jamun\nA rich and delicious Indian dessert made of sweet and soft cheese balls, dipped in sugar syrup.\n\u00a32.50\nIn-House Mango Kulfi (Indian Mango Ice-Cream)\nThe premium mango ice-cream made in-house!\n\u00a33.50\nSoft Drinks\nNeha's Mango Lassi\nNeha's In-House made Mango Lassi!\n\u00a33.50\n1\nPepsi Can\n330ml Can\n\u00a31.50\nPepsi Max Can\n330ml Can\n\u00a31.50\nPepsi Max Cherry Can\n330ml Can\n\u00a31.50\nCoke Zero Can\n330ml Can\n\u00a31.50\nCoca Cola Can\n\u00a31.50\nDiet Coke Can\nCan 330ml\n\u00a31.50\nTango Cherry Can (Sugar Free)\n330ml C",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi Can",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     },
     {
-      "name": "Birdie Cafe",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
+      "name": "The Shack",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
@@ -271,169 +308,50 @@
         {
           "step": 2,
           "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Papa Luigi",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
+        },
         {
           "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Roosters Fried Chicken",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Thi Vietnamese Restaurant",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry Shacks Big Order Burger: Double patties, cheesy fillet, mozzarella stick & more for \u00a312!\nEnjoy our delicious Kebab in a warm wrap or pitta, toasted in our house butter for \u00a39.20!\nTop Selling Items\nBurgers\nKebab\nChicken kebabs\nWraps\nKids Meals\nPinchitos\nSnacks\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMedium Kebab Box\nMedium Kebab Box served with chips your choice of salad and sauces.\n\u00a39.50\nLarge Kebab Box\nLarge Kebab Box served with chips your choice of salad and sauces.\n\u00a312.50\nChicken Kebab Pitta\nFinest of gibs shawarma chicken kebab\n\u00a39.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nBurgers\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized onions!\n\u00a39.95\nChicken Burger\nCrispy breaded chicken\n\u00a37.50\nShacks Chicken Burger\nCrispy Chicken burger Kebab Meat Cheese Egg\n\u00a310.00\nNEW Shacks Bacon Xl\nDouble patties topped with crispy bacon\n\u00a39.00\nKebab\nKebab ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry Shacks Big Order Burger: Double patties, cheesy fillet, mozzarella stick & more for \u00a312!\nEnjoy our delicious Kebab in a warm wrap or pitta, toasted in our house butter for \u00a39.20!\nTop Selling Items\nBurgers\nKebab\nChicken kebabs\nWraps\nKids Meals\nPinchitos\nSnacks\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMedium Kebab Box\nMedium Kebab Box served with chips your choice of salad and sauces.\n\u00a39.50\nLarge Kebab Box\nLarge Kebab Box served with chips your choice of salad and sauces.\n\u00a312.50\nChicken Kebab Pitta\nFinest of gibs shawarma chicken kebab\n\u00a39.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nBurgers\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized onions!\n\u00a39.95\nChicken Burger\nCrispy breaded chicken\n\u00a37.50\nShacks Chicken Burger\nCrispy Chicken burger Kebab Meat Cheese Egg\n\u00a310.00\nNEW Shacks Bacon Xl\nDouble patties topped with crispy bacon\n\u00a39.00\nKebab\nKebab ",
+            "notices": [
+              {
+                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTry Shacks Big Order Burger: Double patties, cheesy fillet, mozzarella stick & more for \u00a312!\nEnjoy our delicious Kebab in a warm wrap or pitta, toasted in our house butter for \u00a39.20!\nTop Selling Items\nBurgers\nKebab\nChicken kebabs\nWraps\nKids Meals\nPinchitos\nSnacks\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMedium Kebab Box\nMedium Kebab Box served with chips your choice of salad and sauces.\n\u00a39.50\nLarge Kebab Box\nLarge Kebab Box served with chips your choice of salad and sauces.\n\u00a312.50\nChicken Kebab Pitta\nFinest of gibs shawarma chicken kebab\n\u00a39.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nBurgers\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized onions!\n\u00a39.95\nChicken Burger\nCrispy breaded chicken\n\u00a37.50\nShacks Chicken Burger\nCrispy Chicken burger K",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola 33cl",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
@@ -940,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-17T22:59:42.336886+02:00",
+  "last_confirmed_at": "2026-10-17T23:01:42.337211+02:00",
   "last_sample_check": {
-    "at": "2026-10-17T22:59:42.336886+02:00",
+    "at": "2026-10-17T23:01:42.337211+02:00",
     "eligible": true
   }
 }
