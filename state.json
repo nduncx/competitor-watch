@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-17T21:43:42.331931+02:00",
+  "last_observed_at": "2026-10-17T21:45:42.331962+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,95 +176,6 @@
       }
     },
     {
-      "name": "El Kasbah",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
-            "notices": [
-              {
-                "text": "Coca Cola\n1\nAdd to order\n\u00a32.40",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.40"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.40\n1\nSubtotal\n\u00a32.40\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.69\nAdd special instructions\nCheckout\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef s",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Burger King",
       "status": "open",
       "notice": "",
@@ -350,6 +261,95 @@
           }
         ],
         "item": "Coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Candy Castle",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nDubai Chocolates\nBol\u00e7i Pistachio Dubai Chocolate Bar\nSavour the classic Bol\u00e7i Dubai Milk Chocolate bar, imported directly from Turkey. Each 100-gram bar features smooth milk chocolate with pistachio filling and crunchy kadayif pieces, delivering a uniquely delightful taste and texture combination.\n\u00a38.99\nBol\u00e7i Dubai Dark Chocolate Bar\nEnjoy the Bol\u00e7i Dubai Dark Chocolate bar, imported from Turkey. This 100-gram bar blends rich dark chocolate with a pistachio and kadayif filling, giving a bold flavour with a crisp bite.\n\u00a38.99\nFreeze-Dried Candy\nCandy Castle Freeze Dried Watermelon Millions (100g)\nLimited edition! Freeze-dried Watermelon Millions, crunchy and bursting with flavour\n\u00a35.99\nGluten FreeVeganVegetarian\nFreeze Dried Milk Chocolate Strawberries\n\u00a34.49\nFreeze Dried Dark Chocolate Strawberries\n\u00a34.49\nFreeze Dri",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nDubai Chocolates\nBol\u00e7i Pistachio Dubai Chocolate Bar\nSavour the classic Bol\u00e7i Dubai Milk Chocolate bar, imported directly from Turkey. Each 100-gram bar features smooth milk chocolate with pistachio filling and crunchy kadayif pieces, delivering a uniquely delightful taste and texture combination.\n\u00a38.99\nBol\u00e7i Dubai Dark Chocolate Bar\nEnjoy the Bol\u00e7i Dubai Dark Chocolate bar, imported from Turkey. This 100-gram bar blends rich dark chocolate with a pistachio and kadayif filling, giving a bold flavour with a crisp bite.\n\u00a38.99\nFreeze-Dried Candy\nCandy Castle Freeze Dried Watermelon Millions (100g)\nLimited edition! Freeze-dried Watermelon Millions, crunchy and bursting with flavour\n\u00a35.99\nGluten FreeVeganVegetarian\nFreeze Dried Milk Chocolate Strawberries\n\u00a34.49\nFreeze Dried Dark Chocolate Strawberries\n\u00a34.49\nFreeze Dri",
+            "notices": [
+              {
+                "text": "Kingdom Favourites (300g)\n\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\n1\nAdd to order\n\u00a39.90",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a39.90"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nKingdom Favourites (300g)\n\u00a39.90\n1\nSubtotal\n\u00a39.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a313.19\nAdd special instructions\nCheckout\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nDubai Chocolates\nBol\u00e7i Pistachio Dubai Chocolate Bar\nSavour the classic Bol\u00e7i Dubai Milk Chocolate bar, imported directly from Turkey. Each 100-gram bar features smooth milk chocolate with pistachio filling and crunchy kadayif pieces, delivering a uniquely delightful taste and texture combination.\n\u00a38.99\nBol\u00e7i Dubai Dark Chocolate Bar\nEnjoy the Bol\u00e7i Dubai Dark Chocolate bar, imported from Turkey. This 100-gram bar blends rich dark chocolate with a pistachio and kadayif filling, giving a bold flavour with a crisp bite.\n\u00a38.99\nFreeze-Dried Candy\nCandy Castle Freeze Dried Watermelon Millions (100g)\nLimited edition! Freeze-dried Watermelon Millions, crunchy and bursting with flavour\n\u00a35.99\nGluten Free",
+            "notices": []
+          }
+        ],
+        "item": "Kingdom Favourites (300g)",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-17T21:43:42.331931+02:00",
+  "last_confirmed_at": "2026-10-17T21:45:42.331962+02:00",
   "last_sample_check": {
-    "at": "2026-10-17T21:43:42.331931+02:00",
+    "at": "2026-10-17T21:45:42.331962+02:00",
     "eligible": true
   }
 }
