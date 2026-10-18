@@ -73,7 +73,11 @@ PLATFORM_CLOSED_PHRASES = [       # Hungry Monkey's own "we're too busy" notice
 CLOSED_PHRASES = ["not taking orders"]           # the standard closed pop-up + basket panel
 VENUE_CLOSED_LINE = re.compile(r"^we are currently closed(?: but you can still pre[- ]?order)?[.!]?$", re.I)
 PREORDER_ITEM = re.compile(r"\bpre[- ]?order\b", re.I)
-DELAY_PHRASES = ["long delays", "incur delays"]  # their "busy but still open" warning
+DELAY_PHRASES = [
+    "long delays", "incur delays",
+    # Observed weather warning: retain it as a delay, then verify the live basket.
+    "adverse weather conditions we are currently experiencing across gibraltar delays may incur",
+]
 OPEN_PHRASES = ["collection or delivery"]        # the basket's order button when open
 PAGE_LOADED_PHRASES = ["basket", "search menu items"]
 

@@ -34,6 +34,8 @@ The Friday 25 September trial finished successfully at 23:30 that night. Its `tr
 
 The informational “Win your order for FREE / Busy Monkey Game” notice observed on 26 September is recorded and dismissed only through its lone OK button, without forms or entering the promotion. Cookies and subsequent status notices are then inspected. This popup never proves availability: the actual basket test is still required. Other unfamiliar notices remain unknown, with a monitoring-problem alert and retry.
 
+The adverse-weather warning observed on 18 October (“Due to the adverse weather conditions we are currently experiencing across Gibraltar delays may incur. Thank you for your patience!”) follows the existing delay-warning path. Its text is retained, recognized acknowledgements and cookies are handled, and a fresh successful basket addition is still required to report open with delays. Later refusals, pre-order exclusions, unresolved dialogs and the two-check recovery rule keep their existing behavior. Existing Slack cards, primary and Ops delivery, and the two-minute schedule are unchanged.
+
 ## Settings and tests
 
 Secrets: `SLACK_WEBHOOK_URL` for #competitor-watch and optional `OPS_SLACK_WEBHOOK_URL` for #ops-alerts. Never commit their values. The existing primary Slack secret, detector and alert hours are unchanged.
