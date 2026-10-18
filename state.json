@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-18T21:53:50.495887+02:00",
+  "last_observed_at": "2026-10-18T21:55:50.495406+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -63,95 +63,6 @@
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {}
-    },
-    {
-      "name": "Burger King",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips and Drink\n\u00a313.20\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\nNEW!\nLARGE BABY BURGER MEAL Served with",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips and Drink\n\u00a313.20\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\nNEW!\nLARGE BABY BURGER MEAL Served with",
-            "notices": [
-              {
-                "text": "Coke\n1\nAdd to order\n\u00a33.30",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.30"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.30\n1\nSubtotal\n\u00a33.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.59\nAdd special instructions\nCheckout\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nBIG KING XXL Served with Chips and Drink\nLarger Meal, Two Grilled Burgers with Triple Cheese on Them, Sliced Onions, Lettuce, Pickles and BIG King Sauce.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips and Drink\n\u00a313.20\n1X BIG KING & 1X CRISPY CHICKEN ME",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
     },
     {
       "name": "Cafetto Nostro",
@@ -328,6 +239,95 @@
           }
         ],
         "item": "Coca Cola 33cl",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "The Arena",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nSpecial Offer! Whole Roasted Chicken & Chips + 2 Drinks only for \u00a322!\nExplore our Burger selection! Cheddar Lover, Crispy Chicken Burger & more for \u00a312.99!\nTop Selling Items\nSpecial Offer! Whole Roasted Chicken & Chips + 2 drinks only for \u00a322.00!\nMain Meals\nStarters\nOur Famous Roasted Chicken\nBurgers\nBuild Your Own Burger\nSalads\nSoft Drinks\nBeers\nBeer & Cider Bucket Deals!\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCrispy Chicken Wings\nSix tender, crispy chicken wings served with your choice of Jamaican jerk spice, zesty Piri-piri, or sweet and sticky BBQ sauce.\n\u00a38.00\nBBQ Pork Ribs\nOur full rack of pork ribs is marinated in a special blend of spices and seasoning. Coated in a smokey BBQ glazy and served complete with baby sauteed potatoes and mini corn on the comb.\n\u00a317.99\nOne Pot Nachos\nCrispy tortilla chips layered with tomato relish, topped with melted mozzarella and cheddar, guacamole, and sour cream for dipping. Choose from Mexican, Reggae-Reggae or Jamican Jerk Spice sauces.\n\u00a38.25\nVegetarian\n1/2 Classic Roast Chicken with Side\nEnjoy our delicious roasted chicken - juicy, tender and full of flavour marinated in Classic style: A timeless recipe with a traditional twist, served with authentic alioli. Served with a fresh rainbow slow, bursting with vibrant colours and golden crispy French fries and a mini roasted corn on the cob for the perfect finish.\n\u00a314.99\nPiri Piri Roasted Chicken with Side & 2 Soft Drinks for \u00a322!\nEnjoy our delicious roasted chicken - juicy, tender and full of flavour marinated in Piri Piri style: Marinated in Portugals famous Piri Piri sauce, delivering a zesty flavou",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nSpecial Offer! Whole Roasted Chicken & Chips + 2 Drinks only for \u00a322!\nExplore our Burger selection! Cheddar Lover, Crispy Chicken Burger & more for \u00a312.99!\nTop Selling Items\nSpecial Offer! Whole Roasted Chicken & Chips + 2 drinks only for \u00a322.00!\nMain Meals\nStarters\nOur Famous Roasted Chicken\nBurgers\nBuild Your Own Burger\nSalads\nSoft Drinks\nBeers\nBeer & Cider Bucket Deals!\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCrispy Chicken Wings\nSix tender, crispy chicken wings served with your choice of Jamaican jerk spice, zesty Piri-piri, or sweet and sticky BBQ sauce.\n\u00a38.00\nBBQ Pork Ribs\nOur full rack of pork ribs is marinated in a special blend of spices and seasoning. Coated in a smokey BBQ glazy and served complete with baby sauteed potatoes and mini corn on the comb.\n\u00a317.99\nOne Pot Nachos\nCrispy tortilla chips layered with tomato relish, topped with melted mozzarella and cheddar, guacamole, and sour cream for dipping. Choose from Mexican, Reggae-Reggae or Jamican Jerk Spice sauces.\n\u00a38.25\nVegetarian\n1/2 Classic Roast Chicken with Side\nEnjoy our delicious roasted chicken - juicy, tender and full of flavour marinated in Classic style: A timeless recipe with a traditional twist, served with authentic alioli. Served with a fresh rainbow slow, bursting with vibrant colours and golden crispy French fries and a mini roasted corn on the cob for the perfect finish.\n\u00a314.99\nPiri Piri Roasted Chicken with Side & 2 Soft Drinks for \u00a322!\nEnjoy our delicious roasted chicken - juicy, tender and full of flavour marinated in Piri Piri style: Marinated in Portugals famous Piri Piri sauce, delivering a zesty flavou",
+            "notices": [
+              {
+                "text": "Coke\n\nCan\n\n1\nAdd to order\n\u00a32.00",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.00"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nSpecial Offer! Whole Roasted Chicken & Chips + 2 Drinks only for \u00a322!\nExplore our Burger selection! Cheddar Lover, Crispy Chicken Burger & more for \u00a312.99!\nTop Selling Items\nSpecial Offer! Whole Roasted Chicken & Chips + 2 drinks only for \u00a322.00!\nMain Meals\nStarters\nOur Famous Roasted Chicken\nBurgers\nBuild Your Own Burger\nSalads\nSoft Drinks\nBeers\nBeer & Cider Bucket Deals!\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCrispy Chicken Wings\nSix tender, crispy chicken wings served with your choice of Jamaican jerk spice, zesty Piri-piri, or sweet and sticky BBQ sauce.\n\u00a38.00\nBBQ Pork Ribs\nOur full rack of pork ribs is marinated in a special blend of spices and seasoning. Coated in a smokey BBQ glazy and served complete with baby sauteed potatoes and mini corn on the comb.\n\u00a317.99\nOne Pot Nachos\nCrispy tortilla chips layered with tomato relish, topped with melted mozzarella and cheddar, guacamole, and sour cream for dipping. Choose from Mexican, Reggae-Reggae or Jamican Jerk Spice sauces.\n\u00a38.25\nVegetarian\n1/2 Classic Roast Chicken with Side\nEnjoy our delicious roasted chicken - juicy, tender and full of flavour marinated in Classic style: A timeless recipe with a traditional twist, served with authentic alioli. Served with a fresh rainbow slow, bursting with vibrant colours and golden crispy French fries and a mini roasted corn on the cob for the perfect finish.\n\u00a314.99\nPiri Piri Roasted Chicken with Side & 2 Soft Drinks for \u00a322!\nEnjoy our delicious roasted chicken - juicy, tender and full of flavour marina",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -836,9 +836,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-18T21:53:50.495887+02:00",
+  "last_confirmed_at": "2026-10-18T21:55:50.495406+02:00",
   "last_sample_check": {
-    "at": "2026-10-18T21:53:50.495887+02:00",
+    "at": "2026-10-18T21:55:50.495406+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
