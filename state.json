@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-18T22:47:50.499618+02:00",
+  "last_observed_at": "2026-10-18T22:49:50.499022+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -66,8 +66,8 @@
     },
     {
       "name": "Smash & Stack",
-      "status": "unknown",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -940,9 +940,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-18T22:47:50.499618+02:00",
+  "last_confirmed_at": "2026-10-18T22:49:50.499022+02:00",
   "last_sample_check": {
-    "at": "2026-10-18T22:47:50.499618+02:00",
+    "at": "2026-10-18T22:49:50.499022+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
