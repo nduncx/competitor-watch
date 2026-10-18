@@ -356,11 +356,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-10-08T12:14:42.209751+02:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (12:14) - OPEN (basket test)",
-      "delivered_at": "2026-10-08T12:15:36.692099+02:00"
-    },
-    {
       "id": "2026-10-08T12:19:42.211763+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (12:19) - OPEN (basket test)",
       "delivered_at": "2026-10-08T12:20:34.200684+02:00"
@@ -854,6 +849,11 @@
       "id": "monitor:2026-10-17T22:01:42.264942+02:00:restored",
       "subject": "Competitor Watch: monitoring restored",
       "delivered_at": "2026-10-17T22:02:38.006785+02:00"
+    },
+    {
+      "id": "monitor:2026-10-18T09:00:52.305473+02:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-10-18T09:02:10.736012+02:00"
     }
   ],
   "recovery_streak": 0,
