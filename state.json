@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-18T15:27:20.842421+02:00",
+  "last_observed_at": "2026-10-18T15:29:20.842612+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -266,6 +266,58 @@
     },
     {
       "name": "Vinopolis Gastrobar",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Loco Burgers",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -324,20 +376,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nStart with our delicious Argentinean Pasties, served with tangy chimichurri sauce, for just \u00a38.14!\nIndulge in our Secreti Oberico, with mixed vegetables, chips & rich gaucha sauce just \u00a326.21!\nTop Selling Items\nTo Begin - Para Empezar\nVegetables - Vegetales\nFrom The Land - De La Tierra\nFrom the Sea - Del Mar\nDesserts - Postres\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nSelection of mini hamburgers\nSelecci\u00f3n de mini hamburguesas .\n\u00a320.00\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nGrilled octopus platter\nPulpo al piment\u00f3n.\n\u00a313.60\nTo Begin - Para Empezar\nAubergine mousse with bread\nMousse de berenjena con pan\n\u00a38.14\nTandoori wings with yogurt, mint and cucumber dip\nAlitas de pollo tandoori con salsa de yogur, menta y pepino.\n\u00a38.80\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nVeggie croquettes with sweet chili sauce\nCroquetas veganas con salsa de chili dulce.\n\u00a37.50\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nVegetables - Vegetales\nCauliflower with pomegranate and tahini sauce\nColiflor con granada y salsa de tahini.\n\u00a313.06\nGoat cheese walnut and apple salad\nEnsalada de queso de cabra con nueces y manzana.\n\u00a316.54\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nCourgette and onion tortilla with ali oli sauce\nTortilla de calabacin y cebolla con salsa ali oli\n\u00a38.14\nTomato salad with garlic and oregano\nEnsalada de tomate con ajo y ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving something hearty? Try our Lokito 2 Patty Burgers for just \u00a311.50!\nSpice up your meal with our NEW Loco Wings! Sweet Chilli, BBQ & more for \u00a38.95!\nTop Selling Items\nNEW!! LOCO WINGS\nLokito 2 Patty Burgers\nLoco Burgers\nKids Menu\nSides\nSauces\nDesserts\nDrinks\nBeers\nCiders\nRed Wine\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nViva La Pepper Burger\nFour meat patties cheese burger topped with steak in pepper sauce. Served with a small side of loco potato crisps.\n\u00a314.50\nLokito Maradona 2 Patty Burger\nTwo meat patties cheese burger, criollo sausage, loco crisps & chimichurri. Served with loco crazy crisps.\n\u00a311.50\nOle y Ole Loaded Fries\nCheesy loaded fries with chorizo and fried egg\n\u00a38.50\nLokito The Pull 2 Patty Burger\nTwo meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with loco crazy crisps.\n\u00a311.50\nThe Pull Burger\nFour meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with a small side of loco potato crisps.\n\u00a314.50\nNEW!! LOCO WINGS\n6 X SWEET CHILLI WINGS\n6 WHOLE WINGS 12 PIECES SWEET CHILLI SAUCE & LOCO CRISPS\n\u00a38.95\n6 X BBQ WINGS\n6 WHOLE WINGS 12 PIECES WITH BBQ SAUCE & LOCO CRISPS\n\u00a38.95\n6 X GAUCHA WINGS\n6 WHOLE WINGS 12 PIECES WITH GAUCHA SAUCE & LOCO CRISPS\n\u00a38.95\n6 X HONEY MUSTARD WINGS\n6 WHOLE WINGS 12 PIECES WITH MUSTARD SAUCE & LOCO CRISPS\n\u00a38.95\n6 X FRIED CHICKEN WINGS\n6 WHOLE WINGS 12 PIECES & LOCO CRISPS\n\u00a38.95\n6 X HOT BRAVA WINGS\n6 WHOLE WINGS 12 PIECES WITH HOT BRAVA WINGS & LOCO CRISPS\n\u00a38.95\nLokito 2 Patty Burgers\nNEW! Lokito Classic Cheese Bacon 2 Patty Burger\nServed with loco crazy crisps\n\u00a311.50\nLokito Viva La Pepper 2 Patty Burger\nTwo meat patties ch",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nStart with our delicious Argentinean Pasties, served with tangy chimichurri sauce, for just \u00a38.14!\nIndulge in our Secreti Oberico, with mixed vegetables, chips & rich gaucha sauce just \u00a326.21!\nTop Selling Items\nTo Begin - Para Empezar\nVegetables - Vegetales\nFrom The Land - De La Tierra\nFrom the Sea - Del Mar\nDesserts - Postres\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nSelection of mini hamburgers\nSelecci\u00f3n de mini hamburguesas .\n\u00a320.00\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nGrilled octopus platter\nPulpo al piment\u00f3n.\n\u00a313.60\nTo Begin - Para Empezar\nAubergine mousse with bread\nMousse de berenjena con pan\n\u00a38.14\nTandoori wings with yogurt, mint and cucumber dip\nAlitas de pollo tandoori con salsa de yogur, menta y pepino.\n\u00a38.80\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nVeggie croquettes with sweet chili sauce\nCroquetas veganas con salsa de chili dulce.\n\u00a37.50\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nVegetables - Vegetales\nCauliflower with pomegranate and tahini sauce\nColiflor con granada y salsa de tahini.\n\u00a313.06\nGoat cheese walnut and apple salad\nEnsalada de queso de cabra con nueces y manzana.\n\u00a316.54\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nCourgette and onion tortilla with ali oli sauce\nTortilla de calabacin y cebolla con salsa ali oli\n\u00a38.14\nTomato salad with garlic and oregano\nEnsalada de tomate con ajo y ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving something hearty? Try our Lokito 2 Patty Burgers for just \u00a311.50!\nSpice up your meal with our NEW Loco Wings! Sweet Chilli, BBQ & more for \u00a38.95!\nTop Selling Items\nNEW!! LOCO WINGS\nLokito 2 Patty Burgers\nLoco Burgers\nKids Menu\nSides\nSauces\nDesserts\nDrinks\nBeers\nCiders\nRed Wine\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nViva La Pepper Burger\nFour meat patties cheese burger topped with steak in pepper sauce. Served with a small side of loco potato crisps.\n\u00a314.50\nLokito Maradona 2 Patty Burger\nTwo meat patties cheese burger, criollo sausage, loco crisps & chimichurri. Served with loco crazy crisps.\n\u00a311.50\nOle y Ole Loaded Fries\nCheesy loaded fries with chorizo and fried egg\n\u00a38.50\nLokito The Pull 2 Patty Burger\nTwo meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with loco crazy crisps.\n\u00a311.50\nThe Pull Burger\nFour meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with a small side of loco potato crisps.\n\u00a314.50\nNEW!! LOCO WINGS\n6 X SWEET CHILLI WINGS\n6 WHOLE WINGS 12 PIECES SWEET CHILLI SAUCE & LOCO CRISPS\n\u00a38.95\n6 X BBQ WINGS\n6 WHOLE WINGS 12 PIECES WITH BBQ SAUCE & LOCO CRISPS\n\u00a38.95\n6 X GAUCHA WINGS\n6 WHOLE WINGS 12 PIECES WITH GAUCHA SAUCE & LOCO CRISPS\n\u00a38.95\n6 X HONEY MUSTARD WINGS\n6 WHOLE WINGS 12 PIECES WITH MUSTARD SAUCE & LOCO CRISPS\n\u00a38.95\n6 X FRIED CHICKEN WINGS\n6 WHOLE WINGS 12 PIECES & LOCO CRISPS\n\u00a38.95\n6 X HOT BRAVA WINGS\n6 WHOLE WINGS 12 PIECES WITH HOT BRAVA WINGS & LOCO CRISPS\n\u00a38.95\nLokito 2 Patty Burgers\nNEW! Lokito Classic Cheese Bacon 2 Patty Burger\nServed with loco crazy crisps\n\u00a311.50\nLokito Viva La Pepper 2 Patty Burger\nTwo meat patties ch",
             "notices": [
               {
-                "text": "Pepsi\n1\nAdd to order\n\u00a33.10",
+                "text": "7Up\n1\nAdd to order\n\u00a31.90",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a33.10"
+                  "Add to order\n\u00a31.90"
                 ],
                 "has_inputs": false
               }
@@ -345,11 +397,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a33.10\n1\nSubtotal\n\u00a33.10\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.39\nAdd special instructions\nCheckout\nStart with our delicious Argentinean Pasties, served with tangy chimichurri sauce, for just \u00a38.14!\nIndulge in our Secreti Oberico, with mixed vegetables, chips & rich gaucha sauce just \u00a326.21!\nTop Selling Items\nTo Begin - Para Empezar\nVegetables - Vegetales\nFrom The Land - De La Tierra\nFrom the Sea - Del Mar\nDesserts - Postres\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nSelection of mini hamburgers\nSelecci\u00f3n de mini hamburguesas .\n\u00a320.00\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nGrilled octopus platter\nPulpo al piment\u00f3n.\n\u00a313.60\nTo Begin - Para Empezar\nAubergine mousse with bread\nMousse de berenjena con pan\n\u00a38.14\nTandoori wings with yogurt, mint and cucumber dip\nAlitas de pollo tandoori con salsa de yogur, menta y pepino.\n\u00a38.80\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nVeggie croquettes with sweet chili sauce\nCroquetas veganas con salsa de chili dulce.\n\u00a37.50\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nVegetables - Vegetales\nCauliflower with pomegranate and tahini sauce\nColiflor con granada y salsa de tahini.\n\u00a313.06\nGoat cheese walnut and apple salad\nEnsalada de queso de cabra con nueces y manzana.\n\u00a316.54\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nCourgette and onion tortilla with ali oli sauce\nTortilla de calabacin y c",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n7Up\n\u00a31.90\n1\nSubtotal\n\u00a31.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.19\nAdd special instructions\nCheckout\nCraving something hearty? Try our Lokito 2 Patty Burgers for just \u00a311.50!\nSpice up your meal with our NEW Loco Wings! Sweet Chilli, BBQ & more for \u00a38.95!\nTop Selling Items\nNEW!! LOCO WINGS\nLokito 2 Patty Burgers\nLoco Burgers\nKids Menu\nSides\nSauces\nDesserts\nDrinks\nBeers\nCiders\nRed Wine\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nViva La Pepper Burger\nFour meat patties cheese burger topped with steak in pepper sauce. Served with a small side of loco potato crisps.\n\u00a314.50\nLokito Maradona 2 Patty Burger\nTwo meat patties cheese burger, criollo sausage, loco crisps & chimichurri. Served with loco crazy crisps.\n\u00a311.50\nOle y Ole Loaded Fries\nCheesy loaded fries with chorizo and fried egg\n\u00a38.50\nLokito The Pull 2 Patty Burger\nTwo meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with loco crazy crisps.\n\u00a311.50\nThe Pull Burger\nFour meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with a small side of loco potato crisps.\n\u00a314.50\nNEW!! LOCO WINGS\n6 X SWEET CHILLI WINGS\n6 WHOLE WINGS 12 PIECES SWEET CHILLI SAUCE & LOCO CRISPS\n\u00a38.95\n6 X BBQ WINGS\n6 WHOLE WINGS 12 PIECES WITH BBQ SAUCE & LOCO CRISPS\n\u00a38.95\n6 X GAUCHA WINGS\n6 WHOLE WINGS 12 PIECES WITH GAUCHA SAUCE & LOCO CRISPS\n\u00a38.95\n6 X HONEY MUSTARD WINGS\n6 WHOLE WINGS 12 PIECES WITH MUSTARD SAUCE & LOCO CRISPS\n\u00a38.95\n6 X FRIED CHICKEN WINGS\n6 WHOLE WINGS 12 PIECES & LOCO CRISPS\n\u00a38.95\n6 X HOT BRAVA WINGS\n6 WHOLE WINGS 12 PIECES WITH HOT BRAVA WINGS & LOCO CRISPS\n\u00a38.95\nLokito 2 Patty Burgers\nNEW! Lokito Classic Cheese Bacon 2 Patty Burge",
             "notices": []
           }
         ],
-        "item": "Pepsi",
+        "item": "7Up",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +910,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-18T15:27:20.842421+02:00",
+  "last_confirmed_at": "2026-10-18T15:29:20.842612+02:00",
   "last_sample_check": {
-    "at": "2026-10-18T15:27:20.842421+02:00",
+    "at": "2026-10-18T15:29:20.842612+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
