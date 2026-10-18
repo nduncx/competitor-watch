@@ -574,11 +574,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "monitor:2026-10-08T20:35:55.046818+02:00:restored",
-      "subject": "Competitor Watch: monitoring restored",
-      "delivered_at": "2026-10-08T20:36:37.410850+02:00"
-    },
-    {
       "id": "monitor:2026-10-08T20:40:55.046981+02:00:failed",
       "subject": "Competitor Watch: monitoring problem",
       "delivered_at": "2026-10-08T20:42:17.658944+02:00"
@@ -1072,6 +1067,11 @@
       "id": "2026-10-18T13:58:52.395512+02:00:open",
       "subject": "Hungry Monkey is taking orders again (13:58) - basket test passed",
       "delivered_at": "2026-10-18T13:59:46.398285+02:00"
+    },
+    {
+      "id": "monitor:2026-10-18T20:59:50.422652+02:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-10-18T21:01:19.681188+02:00"
     }
   ],
   "recovery_streak": 0,
