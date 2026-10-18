@@ -126,11 +126,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-10-08T20:20:55.118287+02:00:delays",
-      "subject": "Hungry Monkey is taking orders again (20:20) - basket test passed",
-      "delivered_at": "2026-10-08T20:22:34.449854+02:00"
-    },
-    {
       "id": "2026-10-08T20:25:55.118633+02:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (20:25) - OPEN (basket test)",
       "delivered_at": "2026-10-08T20:27:37.219528+02:00"
@@ -624,14 +619,34 @@
       "id": "2026-10-18T13:52:52.394853+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (13:52)",
       "delivered_at": "2026-10-18T13:53:27.627429+02:00"
+    },
+    {
+      "id": "monitor:2026-10-18T13:54:52.327144+02:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-10-18T13:55:33.133060+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
   "last_confirmed_at": "2026-10-18T13:52:52.394853+02:00",
   "last_sample_check": {
-    "at": "2026-10-18T13:52:52.394853+02:00",
-    "eligible": true
+    "at": "2026-10-18T13:54:52.394406+02:00",
+    "eligible": false,
+    "exclusions_confirmed": false,
+    "venues": [
+      {
+        "name": "Essaouira",
+        "status": "closed"
+      },
+      {
+        "name": "Sanu Brunch & Co",
+        "status": "closed"
+      },
+      {
+        "name": "Birdie Cafe",
+        "status": "open"
+      }
+    ]
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
