@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-18T09:32:52.375620+02:00",
+  "last_observed_at": "2026-10-18T09:34:52.375728+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -21,175 +21,12 @@
           "step": 0,
           "notices": [
             {
-              "text": "Due to the adverse weather conditions we are currently experiencing across Gibraltar delays may incur. Thank you for your patience!\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
               "has_inputs": false
             },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Laguna Bar",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Due to the adverse weather conditions we are currently experiencing across Gibraltar delays may incur. Thank you for your patience!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Papichurro",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Due to the adverse weather conditions we are currently experiencing across Gibraltar delays may incur. Thank you for your patience!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Rodilla",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Due to the adverse weather conditions we are currently experiencing across Gibraltar delays may incur. Thank you for your patience!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Piccadilly Garden Bar",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Due to the adverse weather conditions we are currently experiencing across Gibraltar delays may incur. Thank you for your patience!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Costa Coffee",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -205,6 +42,71 @@
         },
         {
           "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Laguna Bar",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
           "notices": []
         },
         {
@@ -222,20 +124,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nSeasonal\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\n\u00a32.65\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\nOut of stock\nSeasonal\nMaplenut Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Iced Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Matcha Latte\nSmooth and comforting matcha green tea blended with steamed milk and a delicious maple nut flavour. A warm, creamy drink with earthy matcha notes, a touch of sweetness, and a rich nutty finish perfect for a cosy moment any time of the day.\n\u00a34.90\nMaplenut Iced Matcha Latte\nA refreshing iced ma",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEvery bite is a crispy delight - enjoy Rueda de Curro for only \u00a32.50!\nWake up to flavour! Enjoy a hot, freshly made Bacon & Egg Roll for just \u00a33.00!\nTop Selling Items\nChurros\nBreakfast Rolls\nCoffee\nTop Selling Items\nA quick look at our top sellers chosen by you!\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nBacon & Egg Roll\n\u00a34.00\nBacon Roll\n\u00a33.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nChurros\nAvailable on Weekdays until 12pm on Weekends until 12:30pm\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nChocolate Dip\n\u00a32.00\nKinder Bueno Dip\n\u00a32.00\nWhite Chocolate Dip\n\u00a32.00\nDulce de leche dip (caramel)\n\u00a32.00\nBreakfast Rolls\nBacon Roll\n\u00a33.50\nBacon & Egg Roll\n\u00a34.00\nCoffee\nWhite Coffee\n\u00a32.50\nBlack Coffee\n\u00a32.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nView allergy information\n\ue8cb",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nSeasonal\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\n\u00a32.65\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\nOut of stock\nSeasonal\nMaplenut Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Iced Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Matcha Latte\nSmooth and comforting matcha green tea blended with steamed milk and a delicious maple nut flavour. A warm, creamy drink with earthy matcha notes, a touch of sweetness, and a rich nutty finish perfect for a cosy moment any time of the day.\n\u00a34.90\nMaplenut Iced Matcha Latte\nA refreshing iced ma",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEvery bite is a crispy delight - enjoy Rueda de Curro for only \u00a32.50!\nWake up to flavour! Enjoy a hot, freshly made Bacon & Egg Roll for just \u00a33.00!\nTop Selling Items\nChurros\nBreakfast Rolls\nCoffee\nTop Selling Items\nA quick look at our top sellers chosen by you!\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nBacon & Egg Roll\n\u00a34.00\nBacon Roll\n\u00a33.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nChurros\nAvailable on Weekdays until 12pm on Weekends until 12:30pm\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nChocolate Dip\n\u00a32.00\nKinder Bueno Dip\n\u00a32.00\nWhite Chocolate Dip\n\u00a32.00\nDulce de leche dip (caramel)\n\u00a32.00\nBreakfast Rolls\nBacon Roll\n\u00a33.50\nBacon & Egg Roll\n\u00a34.00\nCoffee\nWhite Coffee\n\u00a32.50\nBlack Coffee\n\u00a32.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nView allergy information\n\ue8cb\nRueda de Churro\n1\nAdd to order\n\u00a33.00",
             "notices": [
               {
-                "text": "Coca Cola Pet 50\n1\nAdd to order\n\u00a32.35",
+                "text": "Rueda de Churro\n1\nAdd to order\n\u00a33.00",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.35"
+                  "Add to order\n\u00a33.00"
                 ],
                 "has_inputs": false
               }
@@ -243,11 +145,189 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola Pet 50\n\u00a32.35\n1\nSubtotal\n\u00a32.35\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.64\nAdd special instructions\nCheckout\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nSeasonal\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\n\u00a32.65\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\nOut of stock\nSeasonal\nMaplenut Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Iced Latte\nOur Latte with Maple and Hazelnut flavours to bring in the Autumn Season. *Note we cannot deliver with the Cream topping.\n\u00a34.35\nMaplenut Matcha Latte\nSmooth and comforting matcha green tea blended with steamed milk and a delicious maple nut flavour. A warm, creamy drink with earthy matcha notes, a touch of sweetness, and a rich nutty",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nRueda de Churro\n\u00a33.00\n1\nSubtotal\n\u00a33.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.29\nAdd special instructions\nCheckout\nEvery bite is a crispy delight - enjoy Rueda de Curro for only \u00a32.50!\nWake up to flavour! Enjoy a hot, freshly made Bacon & Egg Roll for just \u00a33.00!\nTop Selling Items\nChurros\nBreakfast Rolls\nCoffee\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nBacon & Egg Roll\n\u00a34.00\nBacon Roll\n\u00a33.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nChurros\nAvailable on Weekdays until 12pm on Weekends until 12:30pm\n1\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nChocolate Dip\n\u00a32.00\nKinder Bueno Dip\n\u00a32.00\nWhite Chocolate Dip\n\u00a32.00\nDulce de leche dip (caramel)\n\u00a32.00\nBreakfast Rolls\nBacon Roll\n\u00a33.50\nBacon & Egg Roll\n\u00a34.00\nCoffee\nWhite Coffee\n\u00a32.50\nBlack Coffee\n\u00a32.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nView allergy information\n\ue8cb",
             "notices": []
           }
         ],
-        "item": "Coca Cola Pet 50",
+        "item": "Rueda de Churro",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Papichurro",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.70\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.70\nPapitas Portion x12\n\u00a34.70\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.70\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.70\nPapitas Portion x12\n\u00a34.70\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb\nCoca Cola\n1\nAdd to order\n\u00a32.00",
+            "notices": [
+              {
+                "text": "Coca Cola\n1\nAdd to order\n\u00a32.00",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.00"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.70\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.70\nPapitas Portion x12\n\u00a34.70\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\n1\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Rodilla",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nRodilla\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSnack smart, spend less! Enjoy 2 cold sandwiches & a drink for just \u00a35.90. Opening offer!\nUnbeatable offer! Choose Focaccia & 2 cold sandwiches & a drink - all for \u00a311.95!\nTop Selling Items\nOpening Offers!\nCold Sandwich Platters\nMenu Deals\nBreakfasts and Afternoon Snacks\nGourmet Toasts\nHot Sandwiches\nGourmet Sandwiches\nHot Focaccias\nGourmet Focaccias\nWraps\nCold Sandwiches - Served on White Bread\nCold Sandwiches - Served on Wholemeal Bread\nCold Sandwiches - Served on White Bread with Poppy Seeds\nSalads\nGluten-Free\nChildren's Menu Deals\nSpecial Teas- Served Hot or Cold\nHot Drinks\nCold Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHot Chicken Club Sandwich\n\u00a36.50\n4 Cold Sandwiches + a drink of your choice\n\u00a39.75\nSriracha Chicken Wrap\n\u00a38.00\nChicken, Mustard and Honey Hot Focaccia\n\u00a37.15\nCold Sandwich-Tuna and Tomato Sandwich served on White Bread\nA sandwich unit is a slice/half of a full sandwich. Original white bread with tuna and tomato cream.\n\u00a32.10\nOpening Offers!\nEach sandwich unit is a slice/half of a full sandwich\nSnack Deal: 2 Cold Sandwiches + a drink of your choice\n\u00a35.90\nCombo Principal: Hot Sandwich\nChoose from our Hot Cuban or Club Sandwich and select a drink of your choice\n\u00a37.75\nCombo Principal: Hot Focaccia\nChoose from our delicious Focaccia: Mozzarella and Sun-dried Tomato, Chicken, Mustard and Honey, Roasted Beef or Benedict Egg. Served with a drink of your choice.\n\u00a37.75\nCombo Principal: Serrano Ham Wrap or Baguette\nChoose from a Serrano Ham Wrap or Baguette. Served with a drink of your choice.\n\u00a37.75\nCold Sandwich Platters\nEach sandwich unit is a slice/half of a full sandwich\nPlatter of 12 cold Sandwiches\nEach sa",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nRodilla\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSnack smart, spend less! Enjoy 2 cold sandwiches & a drink for just \u00a35.90. Opening offer!\nUnbeatable offer! Choose Focaccia & 2 cold sandwiches & a drink - all for \u00a311.95!\nTop Selling Items\nOpening Offers!\nCold Sandwich Platters\nMenu Deals\nBreakfasts and Afternoon Snacks\nGourmet Toasts\nHot Sandwiches\nGourmet Sandwiches\nHot Focaccias\nGourmet Focaccias\nWraps\nCold Sandwiches - Served on White Bread\nCold Sandwiches - Served on Wholemeal Bread\nCold Sandwiches - Served on White Bread with Poppy Seeds\nSalads\nGluten-Free\nChildren's Menu Deals\nSpecial Teas- Served Hot or Cold\nHot Drinks\nCold Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHot Chicken Club Sandwich\n\u00a36.50\n4 Cold Sandwiches + a drink of your choice\n\u00a39.75\nSriracha Chicken Wrap\n\u00a38.00\nChicken, Mustard and Honey Hot Focaccia\n\u00a37.15\nCold Sandwich-Tuna and Tomato Sandwich served on White Bread\nA sandwich unit is a slice/half of a full sandwich. Original white bread with tuna and tomato cream.\n\u00a32.10\nOpening Offers!\nEach sandwich unit is a slice/half of a full sandwich\nSnack Deal: 2 Cold Sandwiches + a drink of your choice\n\u00a35.90\nCombo Principal: Hot Sandwich\nChoose from our Hot Cuban or Club Sandwich and select a drink of your choice\n\u00a37.75\nCombo Principal: Hot Focaccia\nChoose from our delicious Focaccia: Mozzarella and Sun-dried Tomato, Chicken, Mustard and Honey, Roasted Beef or Benedict Egg. Served with a drink of your choice.\n\u00a37.75\nCombo Principal: Serrano Ham Wrap or Baguette\nChoose from a Serrano Ham Wrap or Baguette. Served with a drink of your choice.\n\u00a37.75\nCold Sandwich Platters\nEach sandwich unit is a slice/half of a full sandwich\nPlatter of 12 cold Sandwiches\nEach sa",
+            "notices": [
+              {
+                "text": "Coca Cola Zero Sugar can 33cl\n1\nAdd to order\n\u00a32.85",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.85"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nRodilla\nBasket\nCollection or Delivery\nYour order\nCoca Cola Zero Sugar can 33cl\n\u00a32.85\n1\nSubtotal\n\u00a32.85\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.14\nAdd special instructions\nCheckout\nSnack smart, spend less! Enjoy 2 cold sandwiches & a drink for just \u00a35.90. Opening offer!\nUnbeatable offer! Choose Focaccia & 2 cold sandwiches & a drink - all for \u00a311.95!\nTop Selling Items\nOpening Offers!\nCold Sandwich Platters\nMenu Deals\nBreakfasts and Afternoon Snacks\nGourmet Toasts\nHot Sandwiches\nGourmet Sandwiches\nHot Focaccias\nGourmet Focaccias\nWraps\nCold Sandwiches - Served on White Bread\nCold Sandwiches - Served on Wholemeal Bread\nCold Sandwiches - Served on White Bread with Poppy Seeds\nSalads\nGluten-Free\nChildren's Menu Deals\nSpecial Teas- Served Hot or Cold\nHot Drinks\nCold Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHot Chicken Club Sandwich\n\u00a36.50\n4 Cold Sandwiches + a drink of your choice\n\u00a39.75\nSriracha Chicken Wrap\n\u00a38.00\nChicken, Mustard and Honey Hot Focaccia\n\u00a37.15\nCold Sandwich-Tuna and Tomato Sandwich served on White Bread\nA sandwich unit is a slice/half of a full sandwich. Original white bread with tuna and tomato cream.\n\u00a32.10\nOpening Offers!\nEach sandwich unit is a slice/half of a full sandwich\nSnack Deal: 2 Cold Sandwiches + a drink of your choice\n\u00a35.90\nCombo Principal: Hot Sandwich\nChoose from our Hot Cuban or Club Sandwich and select a drink of your choice\n\u00a37.75\nCombo Principal: Hot Focaccia\nChoose from our delicious Focaccia: Mozzarella and Sun-dried Tomato, Chicken, Mustard and Honey, Roasted Beef or Benedict Egg. Served with a drink of your choice.\n\u00a37.75\nCombo Principal: Serrano Ham Wrap or Baguette\nChoose from a Serrano Ham Wrap or Baguette. Served with a drink of your choice.",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola Zero Sugar can 33cl",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -756,9 +836,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-18T09:32:52.375620+02:00",
+  "last_confirmed_at": "2026-10-18T09:34:52.375728+02:00",
   "last_sample_check": {
-    "at": "2026-10-18T09:32:52.375620+02:00",
+    "at": "2026-10-18T09:34:52.375728+02:00",
     "eligible": true
   }
 }
