@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-19T22:56:59.023404+02:00",
+  "last_observed_at": "2026-10-19T22:58:59.023188+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,95 +176,6 @@
       }
     },
     {
-      "name": "Shack 2",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nBurgers\nKebab\nChicken kebabs\nWraps\nKids Meals\nPinchitos\nSnacks\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nBurgers\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized onions!\n\u00a39.95\nShacks Chicken Burger\nCrispy breaded chicken topped with a egg lamb kebab melted cheese , served on a fresh burger bun\n\u00a310.00\nNEW Shacks Bacon Xl\nDouble patties topped with crispy bacon\n\u00a39.0",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nBurgers\nKebab\nChicken kebabs\nWraps\nKids Meals\nPinchitos\nSnacks\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nBurgers\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized onions!\n\u00a39.95\nShacks Chicken Burger\nCrispy breaded chicken topped with a egg lamb kebab melted cheese , served on a fresh burger bun\n\u00a310.00\nNEW Shacks Bacon Xl\nDouble patties topped with crispy bacon\n\u00a39.0",
-            "notices": [
-              {
-                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nBurgers\nKebab\nChicken kebabs\nWraps\nKids Meals\nPinchitos\nSnacks\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nBurgers\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized onions!\n\u00a39.95\nShacks Chicken Burger\nCrispy breaded chicken topped with a egg lamb kebab melted che",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola 33cl",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Birdie Cafe",
       "status": "open",
       "notice": "",
@@ -350,6 +261,155 @@
           }
         ],
         "item": "Coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Donations, Gifts, Vouchers and Bags!",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": [
+            {
+              "text": "Donate, Vouchers, Gifts or Bag For Life ?\nDonate \u00a32 - Get a \u00a32 Hungry Monkey Voucher\nLimited Edition Monkey!\nHungry Monkey Vouchers\nGifts\nBag For Life\nContinue",
+              "buttons": [
+                "Continue"
+              ],
+              "has_inputs": false
+            }
+          ]
+        }
+      ],
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Neha Curry House",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nTop Selling Items\nB\nBooze Promos!\nVapes\nIndian Starters\nChinese Entrees\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nKid's Meal\nTandoori Kebabs & Tikka\nChips\nNeha Fried Chicken\nThai Noodles (Gluten Free)\nChinese Noodles\nStuffed Naans\nThai Curries (*NEW*)\nRice Dishes & Biryani Dishes\nIndian Veg Curries\nIndian Chicken Curries (Boneless)\nIndian Chicken Curries (On-The-Bone)\nIndian Seafood Curries\nIndian Lamb Curries\nSauces & Chutneys\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThai Green Curry Chicken (Chef Special!)\n\u00a38.75\n**NEW** Chicken Dilruba (MUST TRY!)\nTender Chicken cooked in a delicious curry with a milder, tangy, and creamy taste,\n\u00a38.40\nPaneer Dopiaza\nSoft paneer cubes cooked in a rich, spiced onion-based gravy with double the onionssaut\u00e9ed and caramelizedfor layers of sweet and savory flavor. A hearty North Indian favorite.\n\u00a36.99\nVegetarian\nChicken Hakka Noodles\nStir-fried noodles tossed with tender chicken, fresh vegetables, and savory Indo-Chinese sauces. A delicious, well-balanced dish full of flavor and texture.\n\u00a37.99\nKung Pao King Prawn\nJuicy king prawns stir-fried with bell peppers, onions, dried chilies, and roasted peanuts in a sweet, spicy Indo-Chinese sauce. A bold and flavorful se",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nTop Selling Items\nBooze Promos!\nVapes\nIndian Starters\nChinese Entrees\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nKid's Meal\nTandoori Kebabs & Tikka\nChips\nNeha Fried Chicken\nThai Noodles (Gluten Free)\nChinese Noodles\nStuffed Naans\nThai Curries (*NEW*)\nRice Dishes & Biryani Dishes\nIndian Veg Curries\nIndian Chicken Curries (Boneless)\nIndian Chicken Curries (On-The-Bone)\nIndian Seafood Curries\nIndian Lamb Curries\nSauces & Chutneys\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThai Green Curry Chicken (Chef Special!)\n\u00a38.75\n**NEW** Chicken Dilruba (MUST TRY!)\nTender Chicken cooked in a delicious curry with a milder, tangy, and creamy taste,\n\u00a38.40\nPaneer Dopiaza\nSoft paneer cubes cooked in a rich, spiced onion-based gravy with double the onionssaut\u00e9ed and caramelizedfor layers of sweet and savory flavor. A hearty North Indian favorite.\n\u00a36.99\nVegetarian\nChicken Hakka Noodles\nStir-fried noodles tossed with tender chicken, fresh vegetables, and savory Indo-Chinese sauces. A delicious, well-balanced dish full of flavor and texture.\n\u00a37.99\nKung Pao King Prawn\nJuicy king prawns stir-fried with bell peppers, onions, dried chilies, and roasted peanuts in a sweet, spicy Indo-Chinese sauce. A bold and flavorful seaf",
+            "notices": [
+              {
+                "text": "Pepsi Can\n\n330ml Can\n\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Can\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nTop Selling Items\nBooze Promos!\nVapes\nIndian Starters\nChinese Entrees\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nKid's Meal\nTandoori Kebabs & Tikka\nChips\nNeha Fried Chicken\nThai Noodles (Gluten Free)\nChinese Noodles\nStuffed Naans\nThai Curries (*NEW*)\nRice Dishes & Biryani Dishes\nIndian Veg Curries\nIndian Chicken Curries (Boneless)\nIndian Chicken Curries (On-The-Bone)\nIndian Seafood Curries\nIndian Lamb Curries\nSauces & Chutneys\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nTop Selling Items\nA quick look at our top sellers chosen by you!\nThai Green Curry Chicken (Chef Special!)\n\u00a38.75\n**NEW** Chicken Dilruba (MUST TRY!)\nTender Chicken cooked in a delicious curry with a milder, tangy, and creamy taste,\n\u00a38.40\nPaneer Dopiaza\nSoft paneer cubes cooked in a rich, spiced onion-based gravy with double the onionssaut\u00e9ed and caramelizedfor layers of sweet and savory flavor. A hearty North Indian favorite.\n\u00a36.99\nVegetarian\nChicken Hakka Noodles\nStir-fried noodles tossed with tender chicken, fresh vegetables, and savory Indo-Chinese sauces. A delicious, well-balanced dish full of flavor and texture.\n\u00a37.99\nKung Pao King Prawn\nJuicy king prawns stir-fried with bell peppers, onion",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi Can",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +918,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-19T22:56:59.023404+02:00",
+  "last_confirmed_at": "2026-10-19T22:58:59.023188+02:00",
   "last_sample_check": {
-    "at": "2026-10-19T22:56:59.023404+02:00",
+    "at": "2026-10-19T22:58:59.023188+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
