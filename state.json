@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-19T15:14:28.164779+02:00",
+  "last_observed_at": "2026-10-19T15:16:28.164926+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,147 +176,6 @@
       }
     },
     {
-      "name": "Firefly",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a feast for the family with our Family Comfort Pack: 4 mains, 2 rice, 2 naans & 2 sauces \u00a349!\nSatisfy your midweek cravings with a starter, main, and choice of naan or rice for only \u00a310.95!\nSavor the Veggie Lover's Deal vegetarian starters, mains, biryani rice & chapati for just \u00a314.95!\nTop Selling Items\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nSpecial Offer! Family Comfort Pack for only \u00a349!\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nSpecial Offer! Veggie Lover's Deal only for \u00a314.95!\nLUNCH Meal Deal of the Day Non Vegetarian\nLUNCH Meal Deal of the Day Vegetarian\nSunday Lunch Specials\nStarters\nBiryani Dishes\nNaan\nRice\nChips\nChicken\nLamb\nFish\nVegetarian\nSouth Indian\nIndo-Chinese\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Korma\n\u00a38.25\nChicken Tikka Masala\n\u00a38.25\nCreamy Butter Chicken\n\u00a38.25\nKing Prawn Haka Noodles\n\u00a310.95\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Family Comfort Pack for only \u00a349!\nFeeds 4-5 people\nFamily Comfort Pack (feeds 4/5) for only \u00a349!\nIncludes 4 mains: chicken, lamb, veg, south Indian and fish dishes, 2 naans, 2 rice and 2small sauces\n\u00a349.00\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nAvailable only from Monday to Thursday\nMidweek Curry Cravings only for \u00a310.95!\nIncludes 1 starter, 1 main: chicken, lamb, veg, south Indian and fish dishes and 1 naan or 1 rice\n\u00a310.95\n",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a feast for the family with our Family Comfort Pack: 4 mains, 2 rice, 2 naans & 2 sauces \u00a349!\nSatisfy your midweek cravings with a starter, main, and choice of naan or rice for only \u00a310.95!\nSavor the Veggie Lover's Deal vegetarian starters, mains, biryani rice & chapati for just \u00a314.95!\nTop Selling Items\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nSpecial Offer! Family Comfort Pack for only \u00a349!\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nSpecial Offer! Veggie Lover's Deal only for \u00a314.95!\nLUNCH Meal Deal of the Day Non Vegetarian\nLUNCH Meal Deal of the Day Vegetarian\nSunday Lunch Specials\nStarters\nBiryani Dishes\nNaan\nRice\nChips\nChicken\nLamb\nFish\nVegetarian\nSouth Indian\nIndo-Chinese\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Korma\n\u00a38.25\nChicken Tikka Masala\n\u00a38.25\nCreamy Butter Chicken\n\u00a38.25\nKing Prawn Haka Noodles\n\u00a310.95\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Family Comfort Pack for only \u00a349!\nFeeds 4-5 people\nFamily Comfort Pack (feeds 4/5) for only \u00a349!\nIncludes 4 mains: chicken, lamb, veg, south Indian and fish dishes, 2 naans, 2 rice and 2small sauces\n\u00a349.00\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nAvailable only from Monday to Thursday\nMidweek Curry Cravings only for \u00a310.95!\nIncludes 1 starter, 1 main: chicken, lamb, veg, south Indian and fish dishes and 1 naan or 1 rice\n\u00a310.95\n",
-            "notices": [
-              {
-                "text": "Coke\n1\nAdd to order\n\u00a31.25",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.25"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.25\n1\nSubtotal\n\u00a31.25\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.54\nAdd special instructions\nCheckout\nEnjoy a feast for the family with our Family Comfort Pack: 4 mains, 2 rice, 2 naans & 2 sauces \u00a349!\nSatisfy your midweek cravings with a starter, main, and choice of naan or rice for only \u00a310.95!\nSavor the Veggie Lover's Deal vegetarian starters, mains, biryani rice & chapati for just \u00a314.95!\nTop Selling Items\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nSpecial Offer! Family Comfort Pack for only \u00a349!\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nSpecial Offer! Veggie Lover's Deal only for \u00a314.95!\nLUNCH Meal Deal of the Day Non Vegetarian\nLUNCH Meal Deal of the Day Vegetarian\nSunday Lunch Specials\nStarters\nBiryani Dishes\nNaan\nRice\nChips\nChicken\nLamb\nFish\nVegetarian\nSouth Indian\nIndo-Chinese\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Korma\n\u00a38.25\nChicken Tikka Masala\n\u00a38.25\nCreamy Butter Chicken\n\u00a38.25\nKing Prawn Haka Noodles\n\u00a310.95\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Family Comfort Pack for only \u00a349!\nFeeds 4-5 people\nFamily Comfort Pack (feeds 4/5) for only \u00a349!\nIncludes 4 mains: chicken, lamb, veg, south Indian and fish dishes, 2 naans, 2 rice and 2small sauces\n\u00a349.00\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nAvailable only from Monday to Thursday\nMidweek Curry Cravings only for \u00a310.95!\nIncludes ",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Flame Grill & Indian Tex Mex",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
       "name": "54 Dining & Caf\u00e9",
       "status": "open",
       "notice": "",
@@ -402,6 +261,95 @@
           }
         ],
         "item": "Coke (Can)",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "The Little Trucker",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCheap Tuesday Deal! Get our Piri Piri Roll with salad & sauce, 3-4-2 only \u00a312!\nCheap Tuesday! Half Chicken Menu + Chicken Piri Piri Roll only for \u00a315.95!\nTop Selling Items\nWednesday Specials!\nTodays Specials\nBreakfast\nOur Famous Portuguese Piri Piri Chicken\nBurgers\nHot Rolls\nCold Rolls\nCombined Dishes\nSides & Salads\nSauces\nDesserts\nHot Drinks\nMilkshakes\nJuices\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Empanadilla\n\u00a34.20\nThe Little Trucker Angus Burger\nCooked on Barbecue with cheese & bacon in a brioche bun\n\u00a313.50\nPork Loin Roll\n\u00a36.00\nSouthern Fried Chicken Burger\nAn authentic southern fried chicken burger in a brioche bun.\n\u00a38.50\nChicken Roll\n\u00a35.40\nWednesday Specials!\nPaella de Secreto\nPaella de Secreto cooked with vegetables and mushrooms. The recipe? Well thats a secret!\n\u00a35.50\nTodays Specials\nHomemade Chicken Pinchitos\nPollo\n\u00a34.50\nHomemade Fillet Steak Pinchitos\nSolomillo\n\u00a36.20\nHomemade Lamb Pinchitos\nCordero\n\u00a35.50\nThe Little Trucker Angus Burger\nCooked on Barbecue with cheese & bacon in a brioche bun\n\u00a313.50\nChicken Empanadilla\n\u00a34.20\nSpicy Beef Empanadillas\n\u00a34.20\nPrawn & Ali Oli Empanadilla\n\u00a34.20\nSouthern Fried Chicken Burger\nAn authentic southern fried chicken burger in a brioche bun.\n\u00a38.50\nCombi Chorizo Meal\nCooked 180g with Chips and Egg\n\u00a313.50\nCombi Pork Lion\nPork Loin, Chips & Egg\n\u00a313.00\nBreaded Pork with Chips & Egg\n\u00a311.00\nBreaded Chicken with Chips & Egg\n\u00a39.50\nChicken with Chips & Egg\n\u00a311.00\nChicken Tikka with Chips & Egg\n\u00a312.00\nBacon with Chips & Egg\n\u00a311.00\nSausage with Chips & Egg\n\u00a311.00\nBreakfast\nFull English Breakfast\nServed with 2 Sausages, 2 Bacon, 2 Eggs, Baked Beans, tomato, toast and Coffee\n\u00a311.5",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCheap Tuesday Deal! Get our Piri Piri Roll with salad & sauce, 3-4-2 only \u00a312!\nCheap Tuesday! Half Chicken Menu + Chicken Piri Piri Roll only for \u00a315.95!\nTop Selling Items\nWednesday Specials!\nTodays Specials\nBreakfast\nOur Famous Portuguese Piri Piri Chicken\nBurgers\nHot Rolls\nCold Rolls\nCombined Dishes\nSides & Salads\nSauces\nDesserts\nHot Drinks\nMilkshakes\nJuices\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Empanadilla\n\u00a34.20\nThe Little Trucker Angus Burger\nCooked on Barbecue with cheese & bacon in a brioche bun\n\u00a313.50\nPork Loin Roll\n\u00a36.00\nSouthern Fried Chicken Burger\nAn authentic southern fried chicken burger in a brioche bun.\n\u00a38.50\nChicken Roll\n\u00a35.40\nWednesday Specials!\nPaella de Secreto\nPaella de Secreto cooked with vegetables and mushrooms. The recipe? Well thats a secret!\n\u00a35.50\nTodays Specials\nHomemade Chicken Pinchitos\nPollo\n\u00a34.50\nHomemade Fillet Steak Pinchitos\nSolomillo\n\u00a36.20\nHomemade Lamb Pinchitos\nCordero\n\u00a35.50\nThe Little Trucker Angus Burger\nCooked on Barbecue with cheese & bacon in a brioche bun\n\u00a313.50\nChicken Empanadilla\n\u00a34.20\nSpicy Beef Empanadillas\n\u00a34.20\nPrawn & Ali Oli Empanadilla\n\u00a34.20\nSouthern Fried Chicken Burger\nAn authentic southern fried chicken burger in a brioche bun.\n\u00a38.50\nCombi Chorizo Meal\nCooked 180g with Chips and Egg\n\u00a313.50\nCombi Pork Lion\nPork Loin, Chips & Egg\n\u00a313.00\nBreaded Pork with Chips & Egg\n\u00a311.00\nBreaded Chicken with Chips & Egg\n\u00a39.50\nChicken with Chips & Egg\n\u00a311.00\nChicken Tikka with Chips & Egg\n\u00a312.00\nBacon with Chips & Egg\n\u00a311.00\nSausage with Chips & Egg\n\u00a311.00\nBreakfast\nFull English Breakfast\nServed with 2 Sausages, 2 Bacon, 2 Eggs, Baked Beans, tomato, toast and Coffee\n\u00a311.5",
+            "notices": [
+              {
+                "text": "Small Chips\nChoose your Topping\nAdd Salt\nAdd Vinegar\nAdd Ketchup\nAdd Mayo\nAdd Cocktail sauce\nAdd Ali Oli\nAdd Piri Piri Sauce\nAdd Brown Sauce\nWould you like any sauce?\nKetchup\nMayonnaise\nAlioli\nBrown Sauce\nTabasco\nChilli\nMojo Picon\nGaucha\n1\nAdd to order\n\u00a33.75",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a33.75"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Chips\n\u00a33.75\n1\nSubtotal\n\u00a33.75\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a37.04\nAdd special instructions\nCheckout\nCheap Tuesday Deal! Get our Piri Piri Roll with salad & sauce, 3-4-2 only \u00a312!\nCheap Tuesday! Half Chicken Menu + Chicken Piri Piri Roll only for \u00a315.95!\nTop Selling Items\nWednesday Specials!\nTodays Specials\nBreakfast\nOur Famous Portuguese Piri Piri Chicken\nBurgers\nHot Rolls\nCold Rolls\nCombined Dishes\nSides & Salads\nSauces\nDesserts\nHot Drinks\nMilkshakes\nJuices\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Empanadilla\n\u00a34.20\nThe Little Trucker Angus Burger\nCooked on Barbecue with cheese & bacon in a brioche bun\n\u00a313.50\nPork Loin Roll\n\u00a36.00\nSouthern Fried Chicken Burger\nAn authentic southern fried chicken burger in a brioche bun.\n\u00a38.50\nChicken Roll\n\u00a35.40\nWednesday Specials!\nPaella de Secreto\nPaella de Secreto cooked with vegetables and mushrooms. The recipe? Well thats a secret!\n\u00a35.50\nTodays Specials\nHomemade Chicken Pinchitos\nPollo\n\u00a34.50\nHomemade Fillet Steak Pinchitos\nSolomillo\n\u00a36.20\nHomemade Lamb Pinchitos\nCordero\n\u00a35.50\nThe Little Trucker Angus Burger\nCooked on Barbecue with cheese & bacon in a brioche bun\n\u00a313.50\nChicken Empanadilla\n\u00a34.20\nSpicy Beef Empanadillas\n\u00a34.20\nPrawn & Ali Oli Empanadilla\n\u00a34.20\nSouthern Fried Chicken Burger\nAn authentic southern fried chicken burger in a brioche bun.\n\u00a38.50\nCombi Chorizo Meal\nCooked 180g with Chips and Egg\n\u00a313.50\nCombi Pork Lion\nPork Loin, Chips & Egg\n\u00a313.00\nBreaded Pork with Chips & Egg\n\u00a311.00\nBreaded Chicken with Chips & Egg\n\u00a39.50\nChicken with Chips & Egg\n\u00a311.00\nChicken Tikka with Chips & Egg\n\u00a312.00\nBacon with Chips & Egg\n\u00a311.00\nSausage with Chips & Egg\n\u00a311.00\nBreakfast\nFull",
+            "notices": []
+          }
+        ],
+        "item": "Small Chips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -910,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-19T15:14:28.164779+02:00",
+  "last_confirmed_at": "2026-10-19T15:16:28.164926+02:00",
   "last_sample_check": {
-    "at": "2026-10-19T15:14:28.164779+02:00",
+    "at": "2026-10-19T15:16:28.164926+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
