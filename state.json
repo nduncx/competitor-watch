@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-20T20:59:32.597596+02:00",
+  "last_observed_at": "2026-10-20T21:01:45.686962+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,33 +176,98 @@
       }
     },
     {
-      "name": "Boss Kitchen",
-      "status": "unknown",
+      "name": "Wagamama",
+      "status": "open",
       "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Boss Kitchen\nBurgers, Kids Menu, Salt n Pepper, Sandwiches & Wraps\nCollection:15 mins\nDelivery:45 mins\n\u00a33.29\nORDER NOW",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
                 ""
               ],
               "has_inputs": false
             }
-          ]
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste of ginger\n\u00a36.70\nVegan\n11 | positive\npineapple. lime. spinach. cucumber. apple\n\u00a36.70\nVegan\n14 | power\ns",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste of ginger\n\u00a36.70\nVegan\n11 | positive\npineapple. lime. spinach. cucumber. apple\n\u00a36.70\nVegan\n14 | power\ns",
+            "notices": [
+              {
+                "text": "7705 | coke\n\n330ml\n\n1\nAdd to order\n\u00a32.95",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.95"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n7705 | coke\n\u00a32.95\n1\nSubtotal\n\u00a32.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.24\nAdd special instructions\nCheckout\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste",
+            "notices": []
+          }
+        ],
+        "item": "7705 | coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     },
     {
-      "name": "Las Iguanas",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
+      "name": "Kick Ass Burritos",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
@@ -243,169 +308,50 @@
         {
           "step": 2,
           "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Mac & Wings by PizzaExpress",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
+        },
         {
           "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Pizza Express",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Salt n Pepper Kitchen",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Chilli Burrito\nPacked full of veggies this chilli is a real hit\n\u00a37.50\nChicken Tinga Burrito\nShredded an",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Chilli Burrito\nPacked full of veggies this chilli is a real hit\n\u00a37.50\nChicken Tinga Burrito\nShredded an",
+            "notices": [
+              {
+                "text": "Coca Cola\n\nCan139 kcal\n\n1\nAdd to order\n\u00a32.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Ch",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
@@ -912,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-20T20:59:32.597596+02:00",
+  "last_confirmed_at": "2026-10-20T21:01:45.686962+02:00",
   "last_sample_check": {
-    "at": "2026-10-20T20:59:32.597596+02:00",
+    "at": "2026-10-20T21:01:45.686962+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
