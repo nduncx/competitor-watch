@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-20T15:54:18.260729+02:00",
+  "last_observed_at": "2026-10-20T15:56:18.266453+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,95 +176,6 @@
       }
     },
     {
-      "name": "NAAFI Ocean Village",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover timeless elegance with our premium fragrances! Iconic brands: Paco Rabanne, Versace & more!\nHungry? Weve got you covered! Breakfast Bap & Hot Drink for only \u00a36!\nEnjoy our Ham & Cheese Toastie for \u00a34.75! Farmhouse sliced bread filled with delicious ham & cheese!\nCoffee & Hot Drinks\nAll-day Breakfast Meal Deal\nAll-day Breakfast Baps\nSandwiches, Paninis & Toasties\nSmoothies\nIced Drinks\nSoft Drinks\nCakes & Donuts\nIce Cream\nBeers & Ciders\nTop Selling Items\nChocolate Bars\nYankee Candles\nFragrances\nSpirits\nSoft Toy\nCoffee & Hot Drinks\nAmericano\n\u00a33.00\nWhite Americano\n\u00a33.00\nCappuccino\n\u00a33.50\nLatte\n\u00a33.50\nFlat White\n\u00a33.50\nMocha\n\u00a33.75\nHot Chocolate\n\u00a33.50\nNAAFI Tea\n\u00a32.50\nAll-day Breakfast Meal Deal\nChoose your breakfast bap, add a sauce, then add your hot drink!\nBreakfast Bap & Hot Drink for \u00a36!\n\u00a36.00\nAll-day Breakfast Baps\nSausage Bap\nPork Sausages served inside a floured Bap\n\u00a33.95\nBacon Bap\nStreaky Bacon served inside a floured Bap\n\u00a33.95\nSandwiches, Paninis & Toasties\nHam Cheese & Pickle Sandwich Baguette\nWhite sandwich baguette filled with sliced ham and cheese with Branston pickle\n\u00a34.75\nChicken Tikka Sandwich Baguette\nWhite sandwich baguette filled with sliced chicken & Tikka sauce\n\u00a34.75\nBLT Sandwich Baguette\nWhite sandwich baguette filled with bacon, lettuce & tomato slices\n\u00a34.75\nTuna Mayo & Sweetcorn Sandwich Baguette\nWhite sandwich baguette filled with Tuna mayo & sweetcorn\n\u00a34.75\nPesto, Mozarella & Tomato Panini\nWhite panini bread filled with Pesto, Mozarella & sliced tomaoto\n\u00a34.75\nHam & Cheese Toastie\nFarmhouse sliced bread filled with sliced ham & cheese\n\u00a34.75\nTuna Melt Toastie\nFarmhouse sliced bread filled with tuna mayo, cheese & sweetcorn\n\u00a34.75\nSmoothies\nCoco",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover timeless elegance with our premium fragrances! Iconic brands: Paco Rabanne, Versace & more!\nHungry? Weve got you covered! Breakfast Bap & Hot Drink for only \u00a36!\nEnjoy our Ham & Cheese Toastie for \u00a34.75! Farmhouse sliced bread filled with delicious ham & cheese!\nCoffee & Hot Drinks\nAll-day Breakfast Meal Deal\nAll-day Breakfast Baps\nSandwiches, Paninis & Toasties\nSmoothies\nIced Drinks\nSoft Drinks\nCakes & Donuts\nIce Cream\nBeers & Ciders\nTop Selling Items\nChocolate Bars\nYankee Candles\nFragrances\nSpirits\nSoft Toy\nCoffee & Hot Drinks\nAmericano\n\u00a33.00\nWhite Americano\n\u00a33.00\nCappuccino\n\u00a33.50\nLatte\n\u00a33.50\nFlat White\n\u00a33.50\nMocha\n\u00a33.75\nHot Chocolate\n\u00a33.50\nNAAFI Tea\n\u00a32.50\nAll-day Breakfast Meal Deal\nChoose your breakfast bap, add a sauce, then add your hot drink!\nBreakfast Bap & Hot Drink for \u00a36!\n\u00a36.00\nAll-day Breakfast Baps\nSausage Bap\nPork Sausages served inside a floured Bap\n\u00a33.95\nBacon Bap\nStreaky Bacon served inside a floured Bap\n\u00a33.95\nSandwiches, Paninis & Toasties\nHam Cheese & Pickle Sandwich Baguette\nWhite sandwich baguette filled with sliced ham and cheese with Branston pickle\n\u00a34.75\nChicken Tikka Sandwich Baguette\nWhite sandwich baguette filled with sliced chicken & Tikka sauce\n\u00a34.75\nBLT Sandwich Baguette\nWhite sandwich baguette filled with bacon, lettuce & tomato slices\n\u00a34.75\nTuna Mayo & Sweetcorn Sandwich Baguette\nWhite sandwich baguette filled with Tuna mayo & sweetcorn\n\u00a34.75\nPesto, Mozarella & Tomato Panini\nWhite panini bread filled with Pesto, Mozarella & sliced tomaoto\n\u00a34.75\nHam & Cheese Toastie\nFarmhouse sliced bread filled with sliced ham & cheese\n\u00a34.75\nTuna Melt Toastie\nFarmhouse sliced bread filled with tuna mayo, cheese & sweetcorn\n\u00a34.75\nSmoothies\nCoco",
-            "notices": [
-              {
-                "text": "Coca Cola 500ml\n1\nAdd to order\n\u00a32.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola 500ml\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nDiscover timeless elegance with our premium fragrances! Iconic brands: Paco Rabanne, Versace & more!\nHungry? Weve got you covered! Breakfast Bap & Hot Drink for only \u00a36!\nEnjoy our Ham & Cheese Toastie for \u00a34.75! Farmhouse sliced bread filled with delicious ham & cheese!\nCoffee & Hot Drinks\nAll-day Breakfast Meal Deal\nAll-day Breakfast Baps\nSandwiches, Paninis & Toasties\nSmoothies\nIced Drinks\nSoft Drinks\nCakes & Donuts\nIce Cream\nBeers & Ciders\nTop Selling Items\nChocolate Bars\nYankee Candles\nFragrances\nSpirits\nSoft Toy\nCoffee & Hot Drinks\nAmericano\n\u00a33.00\nWhite Americano\n\u00a33.00\nCappuccino\n\u00a33.50\nLatte\n\u00a33.50\nFlat White\n\u00a33.50\nMocha\n\u00a33.75\nHot Chocolate\n\u00a33.50\nNAAFI Tea\n\u00a32.50\nAll-day Breakfast Meal Deal\nChoose your breakfast bap, add a sauce, then add your hot drink!\nBreakfast Bap & Hot Drink for \u00a36!\n\u00a36.00\nAll-day Breakfast Baps\nSausage Bap\nPork Sausages served inside a floured Bap\n\u00a33.95\nBacon Bap\nStreaky Bacon served inside a floured Bap\n\u00a33.95\nSandwiches, Paninis & Toasties\nHam Cheese & Pickle Sandwich Baguette\nWhite sandwich baguette filled with sliced ham and cheese with Branston pickle\n\u00a34.75\nChicken Tikka Sandwich Baguette\nWhite sandwich baguette filled with sliced chicken & Tikka sauce\n\u00a34.75\nBLT Sandwich Baguette\nWhite sandwich baguette filled with bacon, lettuce & tomato slices\n\u00a34.75\nTuna Mayo & Sweetcorn Sandwich Baguette\nWhite sandwich baguette filled with Tuna mayo & sweetcorn\n\u00a34.75\nPesto, Mozarella & Tomato Panini\nWhite panini bread filled with Pesto, Mozarella & sliced tomaoto\n\u00a34.75\nHam & Cheese Toastie\nFarmhouse sliced bread filled with sliced ham & cheese\n\u00a34",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola 500ml",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Eat Happy",
       "status": "open",
       "notice": "",
@@ -350,6 +261,95 @@
           }
         ],
         "item": "Small Chips",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Piccadilly Garden Bar",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lunchtime Menu: John Dory, Masala or Peppered Steak - all for just \u00a312.95!\nFresh and delicious Salads from just \u00a310.95 - perfect for any craving!\nTop Selling Items\nSpecials Of The Day\nBreakfast\nLunchtime Menu\nPortions (Raciones)\nSalads\nMains\nKids Menu\nDesserts\nSoft Drinks\nBeers\nRed Wine\nCiders\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAuthentic Fish and Chips\nDeep fried Cod fillet in homemade batter, served with homemade chips\n\u00a315.95\nPeppered Fillet Steak and Chips\n\u00a324.95\nRussian Salad (Ensaladilla Rusa)\n\u00a310.95\nJohn Dory Piccadilly Style\nDeep fried fillet of john dory in a creamy prawn sauce served with chips. A must try!\n\u00a319.95\nTuna Salad (Mixta)\n\u00a310.95\nSpecials Of The Day\nPrawns Pil Pil with Chorizo\n\u00a313.94\nBreakfast\nAvailable until 12pm\nFull English Breakfast\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a38.95\nFull English Breakfast (Double)\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a312.95\nSpinach and Mushroom Omlette\n\u00a310.95\nVegetarian\nSpinach Omlette\n\u00a38.95\nVegetarian\nVeggie Breakfast\nEgg, veggie sausage, saut\u00e9ed spinach and mushroom, hash browns, grilled tomatoes and toast.\n\u00a39.95\nXXL Molleta - Bacon\n\u00a35.50\nXXL Molleta - Ham and Cheese\n\u00a35.50\nXXL Molleta - Breakfast Molleta\nBacon, sausage and egg.\n\u00a36.95\nXXL Molleta - Bacon and Egg\n\u00a35.95\nXXL Molleta - Bacon, Egg, Cheese and Onion\n\u00a36.95\nXXL Molleta - Catalana\nSerrano ham, olive oil and tomato.\n\u00a35.75\nXXL Molleta - Ham, Cheese and Egg\n\u00a35.75\nXXL Molleta - Lomo en Manteca and Egg\n\u00a36.75\nXXL Molleta - Sausage\n\u00a35.50\nXXL Molleta - Sausage and Egg\n\u00a35.95\nXXL Molleta - Tuna, Lettuce and Tomato\n\u00a35.95\nLunchtime Menu\nAvail",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lunchtime Menu: John Dory, Masala or Peppered Steak - all for just \u00a312.95!\nFresh and delicious Salads from just \u00a310.95 - perfect for any craving!\nTop Selling Items\nSpecials Of The Day\nBreakfast\nLunchtime Menu\nPortions (Raciones)\nSalads\nMains\nKids Menu\nDesserts\nSoft Drinks\nBeers\nRed Wine\nCiders\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAuthentic Fish and Chips\nDeep fried Cod fillet in homemade batter, served with homemade chips\n\u00a315.95\nPeppered Fillet Steak and Chips\n\u00a324.95\nRussian Salad (Ensaladilla Rusa)\n\u00a310.95\nJohn Dory Piccadilly Style\nDeep fried fillet of john dory in a creamy prawn sauce served with chips. A must try!\n\u00a319.95\nTuna Salad (Mixta)\n\u00a310.95\nSpecials Of The Day\nPrawns Pil Pil with Chorizo\n\u00a313.94\nBreakfast\nAvailable until 12pm\nFull English Breakfast\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a38.95\nFull English Breakfast (Double)\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a312.95\nSpinach and Mushroom Omlette\n\u00a310.95\nVegetarian\nSpinach Omlette\n\u00a38.95\nVegetarian\nVeggie Breakfast\nEgg, veggie sausage, saut\u00e9ed spinach and mushroom, hash browns, grilled tomatoes and toast.\n\u00a39.95\nXXL Molleta - Bacon\n\u00a35.50\nXXL Molleta - Ham and Cheese\n\u00a35.50\nXXL Molleta - Breakfast Molleta\nBacon, sausage and egg.\n\u00a36.95\nXXL Molleta - Bacon and Egg\n\u00a35.95\nXXL Molleta - Bacon, Egg, Cheese and Onion\n\u00a36.95\nXXL Molleta - Catalana\nSerrano ham, olive oil and tomato.\n\u00a35.75\nXXL Molleta - Ham, Cheese and Egg\n\u00a35.75\nXXL Molleta - Lomo en Manteca and Egg\n\u00a36.75\nXXL Molleta - Sausage\n\u00a35.50\nXXL Molleta - Sausage and Egg\n\u00a35.95\nXXL Molleta - Tuna, Lettuce and Tomato\n\u00a35.95\nLunchtime Menu\nAvail",
+            "notices": [
+              {
+                "text": "7Up\n1\nAdd to order\n\u00a31.90",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.90"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n7Up\n\u00a31.90\n1\nSubtotal\n\u00a31.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.19\nAdd special instructions\nCheckout\nTry our Lunchtime Menu: John Dory, Masala or Peppered Steak - all for just \u00a312.95!\nFresh and delicious Salads from just \u00a310.95 - perfect for any craving!\nTop Selling Items\nSpecials Of The Day\nBreakfast\nLunchtime Menu\nPortions (Raciones)\nSalads\nMains\nKids Menu\nDesserts\nSoft Drinks\nBeers\nRed Wine\nCiders\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAuthentic Fish and Chips\nDeep fried Cod fillet in homemade batter, served with homemade chips\n\u00a315.95\nPeppered Fillet Steak and Chips\n\u00a324.95\nRussian Salad (Ensaladilla Rusa)\n\u00a310.95\nJohn Dory Piccadilly Style\nDeep fried fillet of john dory in a creamy prawn sauce served with chips. A must try!\n\u00a319.95\nTuna Salad (Mixta)\n\u00a310.95\nSpecials Of The Day\nPrawns Pil Pil with Chorizo\n\u00a313.94\nBreakfast\nAvailable until 12pm\nFull English Breakfast\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a38.95\nFull English Breakfast (Double)\nSausage, bacon, egg, tomato, baked beans, hash browns, and toast.\n\u00a312.95\nSpinach and Mushroom Omlette\n\u00a310.95\nVegetarian\nSpinach Omlette\n\u00a38.95\nVegetarian\nVeggie Breakfast\nEgg, veggie sausage, saut\u00e9ed spinach and mushroom, hash browns, grilled tomatoes and toast.\n\u00a39.95\nXXL Molleta - Bacon\n\u00a35.50\nXXL Molleta - Ham and Cheese\n\u00a35.50\nXXL Molleta - Breakfast Molleta\nBacon, sausage and egg.\n\u00a36.95\nXXL Molleta - Bacon and Egg\n\u00a35.95\nXXL Molleta - Bacon, Egg, Cheese and Onion\n\u00a36.95\nXXL Molleta - Catalana\nSerrano ham, olive oil and tomato.\n\u00a35.75\nXXL Molleta - Ham, Cheese and Egg\n\u00a35.75\nXXL Molleta - Lomo en Manteca and Egg\n\u00a36.75\nXXL Molleta - Sausage\n\u00a35.50\nXXL Mo",
+            "notices": []
+          }
+        ],
+        "item": "7Up",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-20T15:54:18.260729+02:00",
+  "last_confirmed_at": "2026-10-20T15:56:18.266453+02:00",
   "last_sample_check": {
-    "at": "2026-10-20T15:54:18.260729+02:00",
+    "at": "2026-10-20T15:56:18.266453+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
