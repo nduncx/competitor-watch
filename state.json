@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-21T22:29:43.013962+02:00",
+  "last_observed_at": "2026-10-21T22:31:43.012337+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -50,7 +50,44 @@
       "basket_probe": {}
     },
     {
-      "name": "3Bros Takeout",
+      "name": "Babu Takeaway & Restaurant 1947",
+      "status": "closed",
+      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
+              "buttons": [
+                "GOT IT"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "covered_buttons": [
+            "Reject non-essential"
+          ]
+        }
+      ],
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Flame Grill & Indian Tex Mex",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -88,11 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-09T20:21:50.806366+02:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (20:21)",
-      "delivered_at": "2026-10-09T20:22:30.466421+02:00"
-    },
     {
       "id": "2026-10-09T20:26:50.804638+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:26)",
@@ -587,13 +619,18 @@
       "id": "2026-10-21T22:29:43.013962+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (22:29)",
       "delivered_at": "2026-10-21T22:30:29.626220+02:00"
+    },
+    {
+      "id": "2026-10-21T22:31:43.012337+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (22:31)",
+      "delivered_at": "2026-10-21T22:32:18.876548+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-21T22:29:43.013962+02:00",
+  "last_confirmed_at": "2026-10-21T22:31:43.012337+02:00",
   "last_sample_check": {
-    "at": "2026-10-21T22:29:43.013962+02:00",
+    "at": "2026-10-21T22:31:43.012337+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
