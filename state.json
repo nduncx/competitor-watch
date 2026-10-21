@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-21T22:13:43.009647+02:00",
+  "last_observed_at": "2026-10-21T22:15:43.015905+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -50,7 +50,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Pizza Hut",
+      "name": "3Bros Takeout",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -87,7 +87,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Pollo Hermano's & Pollo Loco",
+      "name": "4 Stagioni",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -125,11 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-08T22:25:55.122582+02:00:open",
-      "subject": "Hungry Monkey: long-delays warning cleared (22:25) - basket test passed",
-      "delivered_at": "2026-10-08T22:26:49.558634+02:00"
-    },
     {
       "id": "monitor:2026-10-08T23:00:55.051330+02:00:no_samples",
       "subject": "Competitor Watch: no suitable stores available to test",
@@ -624,13 +619,18 @@
       "id": "2026-10-21T22:13:43.009647+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (22:13)",
       "delivered_at": "2026-10-21T22:14:17.254998+02:00"
+    },
+    {
+      "id": "2026-10-21T22:15:43.015905+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (22:15)",
+      "delivered_at": "2026-10-21T22:16:17.580422+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-21T22:13:43.009647+02:00",
+  "last_confirmed_at": "2026-10-21T22:15:43.015905+02:00",
   "last_sample_check": {
-    "at": "2026-10-21T22:13:43.009647+02:00",
+    "at": "2026-10-21T22:15:43.015905+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
