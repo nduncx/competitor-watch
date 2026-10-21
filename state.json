@@ -593,7 +593,7 @@
   "last_result": "closed",
   "last_confirmed_at": "2026-10-21T22:59:43.013676+02:00",
   "last_sample_check": {
-    "at": "2026-10-21T23:08:26.148296+02:00",
+    "at": "2026-10-21T23:10:26.148592+02:00",
     "eligible": false,
     "exclusions_confirmed": true,
     "venues": [
