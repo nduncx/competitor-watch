@@ -1,8 +1,8 @@
 {
-  "status": "closed",
-  "since": "2026-10-22T18:49:48.880688+02:00",
-  "alerted": true,
-  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+  "status": "open",
+  "since": "2026-10-22T19:10:22.755319+02:00",
+  "alerted": false,
+  "notice": "",
   "last_checked_date": "2026-10-22",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-22T19:08:22.753589+02:00",
+  "last_observed_at": "2026-10-22T19:10:22.755319+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -355,11 +355,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "monitor:2026-10-14T23:01:07.717207+02:00:no_samples",
-      "subject": "Competitor Watch: no suitable stores available to test",
-      "delivered_at": "2026-10-14T23:02:40.453925+02:00"
-    },
     {
       "id": "monitor:2026-10-15T09:03:20.102061+02:00:restored",
       "subject": "Competitor Watch: suitable stores available again",
@@ -854,13 +849,18 @@
       "id": "monitor:2026-10-22T19:08:22.685387+02:00:restored",
       "subject": "Competitor Watch: monitoring restored",
       "delivered_at": "2026-10-22T19:09:17.180144+02:00"
+    },
+    {
+      "id": "2026-10-22T19:10:22.755319+02:00:open",
+      "subject": "Hungry Monkey is taking orders again (19:10) - basket test passed",
+      "delivered_at": "2026-10-22T19:11:16.081402+02:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-22T19:04:22.752368+02:00",
+  "last_confirmed_at": "2026-10-22T19:10:22.755319+02:00",
   "last_sample_check": {
-    "at": "2026-10-22T19:08:22.753589+02:00",
+    "at": "2026-10-22T19:10:22.755319+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
@@ -884,7 +884,10 @@
     {
       "id": "2026-10-22T18:49:48.880688+02:00:closed",
       "delivered_at": "2026-10-22T18:50:25.388935+02:00"
+    },
+    {
+      "id": "2026-10-22T19:10:22.755319+02:00:open",
+      "delivered_at": "2026-10-22T19:11:16.127023+02:00"
     }
-  ],
-  "recovery_candidate_at": "2026-10-22T19:08:22.753589+02:00"
+  ]
 }
