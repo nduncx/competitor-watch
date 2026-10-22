@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-22T20:38:22.760156+02:00",
+  "last_observed_at": "2026-10-22T20:40:22.760365+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -226,6 +226,38 @@
     },
     {
       "name": "Boss Kitchen",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Las Iguanas",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -264,20 +296,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper C",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTAPAS AND SMALL PLATES\nTO SHARE\nMAINS\nBURGERS\nCURRIES\nNI\u00d1OS MEAL\nSIDES\nDIPS\nDESSERTS\nSOFT DRINKS\nALCOHOLIC DRINKS\nTAPAS AND SMALL PLATES\nPerfect as starters or choose a few to share\nP\u00c3O DE QUEIJO\nBrazilian cheese dough balls. with garlic butter\n\u00a36.50\nGluten FreeVegetarian\nPADR\u00d3N PEPPERS\nFried green padron peppers, with sea salt\n\u00a35.50\nVegetarian\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamole, salsa, jalape\u00f1os, spring onions, pickled red onions, chipotle cheese sauce, sour cream\n\u00a38.25\nVegetarian\nHOT HONEY FRIED HALLOUMI\nwith chilli flakes\n\u00a38.25\nGluten FreeVegetarian\nQUESADILLAS\nWith salsa\n\u00a38.25\nCALAMARES\nWith with garlic aioli.\n\u00a38.50\nSunshine Salad Tapas\nWatermelon, cucumber, fresh mint, mixed leaves, feta, cherry tomatoes, pineapple dressing\n\u00a37.50\nTACOS\nTwo soft flour tortillas filled with your choice of filling\n\u00a38.60\nBUTTERMILK FRIED CHICKEN\nAgave aioli, spring onions, pineapple citrus slaw\n\u00a38.95\nPATATAS BRAVAS\nFried potatoes, chipotle sauce, garlic aioli, spring onions\n\u00a37.50\nPlant BasedVegetarian\nROASTED RED PEPPER SALAD\nFresh red pepper salsa, cherry tomatoes, pink pickled onions, rocket, pumpkin seeds, pineapple dressing\n\u00a37.00\nCHICKEN WINGS\nMarinated wings with your choice of sauce.\n\u00a38.50\nEMPANADAS\nWith fresh salsa\n\u00a38.25\nVegetarian\nTO SHARE\nTHREE WAY WINGS\n21 wings served three ways: BBQ, Hot Honey and Cholula Hot Sauce\n\u00a322.50\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamo",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper C",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTAPAS AND SMALL PLATES\nTO SHARE\nMAINS\nBURGERS\nCURRIES\nNI\u00d1OS MEAL\nSIDES\nDIPS\nDESSERTS\nSOFT DRINKS\nALCOHOLIC DRINKS\nTAPAS AND SMALL PLATES\nPerfect as starters or choose a few to share\nP\u00c3O DE QUEIJO\nBrazilian cheese dough balls. with garlic butter\n\u00a36.50\nGluten FreeVegetarian\nPADR\u00d3N PEPPERS\nFried green padron peppers, with sea salt\n\u00a35.50\nVegetarian\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamole, salsa, jalape\u00f1os, spring onions, pickled red onions, chipotle cheese sauce, sour cream\n\u00a38.25\nVegetarian\nHOT HONEY FRIED HALLOUMI\nwith chilli flakes\n\u00a38.25\nGluten FreeVegetarian\nQUESADILLAS\nWith salsa\n\u00a38.25\nCALAMARES\nWith with garlic aioli.\n\u00a38.50\nSunshine Salad Tapas\nWatermelon, cucumber, fresh mint, mixed leaves, feta, cherry tomatoes, pineapple dressing\n\u00a37.50\nTACOS\nTwo soft flour tortillas filled with your choice of filling\n\u00a38.60\nBUTTERMILK FRIED CHICKEN\nAgave aioli, spring onions, pineapple citrus slaw\n\u00a38.95\nPATATAS BRAVAS\nFried potatoes, chipotle sauce, garlic aioli, spring onions\n\u00a37.50\nPlant BasedVegetarian\nROASTED RED PEPPER SALAD\nFresh red pepper salsa, cherry tomatoes, pink pickled onions, rocket, pumpkin seeds, pineapple dressing\n\u00a37.00\nCHICKEN WINGS\nMarinated wings with your choice of sauce.\n\u00a38.50\nEMPANADAS\nWith fresh salsa\n\u00a38.25\nVegetarian\nTO SHARE\nTHREE WAY WINGS\n21 wings served three ways: BBQ, Hot Honey and Cholula Hot Sauce\n\u00a322.50\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamo",
             "notices": [
               {
-                "text": "Coke 330ml\n1\nAdd to order\n\u00a32.35",
+                "text": "DIET COKE\n\ncan\n\n1\nAdd to order\n\u00a32.50",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.35"
+                  "Add to order\n\u00a32.50"
                 ],
                 "has_inputs": false
               }
@@ -285,11 +317,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 330ml\n\u00a32.35\n1\nSubtotal\n\u00a32.35\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.64\nAdd special instructions\nCheckout\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our s",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nDIET COKE\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nTAPAS AND SMALL PLATES\nTO SHARE\nMAINS\nBURGERS\nCURRIES\nNI\u00d1OS MEAL\nSIDES\nDIPS\nDESSERTS\nSOFT DRINKS\nALCOHOLIC DRINKS\nTAPAS AND SMALL PLATES\nPerfect as starters or choose a few to share\nP\u00c3O DE QUEIJO\nBrazilian cheese dough balls. with garlic butter\n\u00a36.50\nGluten FreeVegetarian\nPADR\u00d3N PEPPERS\nFried green padron peppers, with sea salt\n\u00a35.50\nVegetarian\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamole, salsa, jalape\u00f1os, spring onions, pickled red onions, chipotle cheese sauce, sour cream\n\u00a38.25\nVegetarian\nHOT HONEY FRIED HALLOUMI\nwith chilli flakes\n\u00a38.25\nGluten FreeVegetarian\nQUESADILLAS\nWith salsa\n\u00a38.25\nCALAMARES\nWith with garlic aioli.\n\u00a38.50\nSunshine Salad Tapas\nWatermelon, cucumber, fresh mint, mixed leaves, feta, cherry tomatoes, pineapple dressing\n\u00a37.50\nTACOS\nTwo soft flour tortillas filled with your choice of filling\n\u00a38.60\nBUTTERMILK FRIED CHICKEN\nAgave aioli, spring onions, pineapple citrus slaw\n\u00a38.95\nPATATAS BRAVAS\nFried potatoes, chipotle sauce, garlic aioli, spring onions\n\u00a37.50\nPlant BasedVegetarian\nROASTED RED PEPPER SALAD\nFresh red pepper salsa, cherry tomatoes, pink pickled onions, rocket, pumpkin seeds, pineapple dressing\n\u00a37.00\nCHICKEN WINGS\nMarinated wings with your choice of sauce.\n\u00a38.50\nEMPANADAS\nWith fresh salsa\n\u00a38.25\nVegetarian\nTO SHARE\nTHREE WAY WINGS\n21 wings served three ways: BBQ, Hot Honey and Cholula Hot Sauce\n\u00a322.50\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn to",
             "notices": []
           }
         ],
-        "item": "Coke 330ml",
+        "item": "DIET COKE",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -798,9 +830,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-22T20:38:22.760156+02:00",
+  "last_confirmed_at": "2026-10-22T20:40:22.760365+02:00",
   "last_sample_check": {
-    "at": "2026-10-22T20:38:22.760156+02:00",
+    "at": "2026-10-22T20:40:22.760365+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
