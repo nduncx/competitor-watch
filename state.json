@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-22T22:52:22.770308+02:00",
+  "last_observed_at": "2026-10-22T22:54:22.770298+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -226,6 +226,102 @@
     },
     {
       "name": "Dominos",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Gills Indian & Italian Restaurant",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Koodle",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Shack 2",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -264,20 +360,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry out our Delivery Only Deal: Get 2 medium pizzas for just \u00a323! Perfect for sharing\nDiscover our NEW Melon Diesel Pizza! \u00a31 of every pizza is donated to Cancer Relief!\nCraving something Sweet? Ben & Jerry's Buy 1 Get 1 Half Price 100ml only \u00a35.09!\nTop Selling Items\nDelivery Only Deal 2 Medium Pizzas For \u00a323\nSpecial Offers!\nHalf And Half Pizza\nBuild Your Own Pizza\nDeluxe Premium Pizzas\nClazzic's Pizzas\nVegan Pizzas\nDomino's Pizza Menu....These Prices are for Collection Instore only.\nSides\nDesserts\nDips\nDomino's Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n2 Medium Pizzas Delivery For \u00a323\nDelivery Only Offer 2 x Medium Pizzas\n\u00a323.00\nMargherita Medium\nTomato Sauce & 100% Mozzarella Cheese\n\u00a313.99\nTony Pepperoni Medium\nTomato sauce, extra 100% mozzarella cheese and double pepperoni\n\u00a314.99\nBuild Your Own Medium\nChoose your dough, base sauce and any number of toppings\n\u00a314.99\nChicken Combo X17 (New)\nA selection of our most famous side orders: Kickers, Strippers & Chicken Wings\n\u00a311.59\nDelivery Only Deal 2 Medium Pizzas For \u00a323\n2 Medium Pizzas Delivery For \u00a323\nDelivery Only Offer 2 x Medium Pizzas\n\u00a323.00\nSpecial Offers!\nChicken Combo X17 (New)\nA selection of our most famous side orders: Kickers, Strippers & Chicken Wings\n\u00a311.59\nChicken Wings Combo x 18 (New)\nChicken Wings 6x Cooked in bourbon, 6x Honey and Mustard, 6x BBQ Sauce\n\u00a311.59\nBen & Jerrys Buy 1 Get 1 Half Price\n500ml\n\u00a312.74\nBen & Jerrys Buy 1 Get 1 Half Price\n100ml\n\u00a35.09\n2 Lava Cakes for \u00a35.09\n\u00a35.59\nHalf And Half Pizza\nHalf And Half Medium\nHalf of one, half of another - best of both worlds\n\u00a313.99\nHalf and Half Family (Finizzima dough only)\nHalf of one, half of another - the best of both w",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nChicken kebabs\nWraps\nKids Meals\nPinchitos\nSnacks\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nCallos + Drink\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized onions!\n\u00a39.95\nShacks Chicken Burger\nCrispy breaded chicken topped with a egg lamb kebab ",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry out our Delivery Only Deal: Get 2 medium pizzas for just \u00a323! Perfect for sharing\nDiscover our NEW Melon Diesel Pizza! \u00a31 of every pizza is donated to Cancer Relief!\nCraving something Sweet? Ben & Jerry's Buy 1 Get 1 Half Price 100ml only \u00a35.09!\nTop Selling Items\nDelivery Only Deal 2 Medium Pizzas For \u00a323\nSpecial Offers!\nHalf And Half Pizza\nBuild Your Own Pizza\nDeluxe Premium Pizzas\nClazzic's Pizzas\nVegan Pizzas\nDomino's Pizza Menu....These Prices are for Collection Instore only.\nSides\nDesserts\nDips\nDomino's Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n2 Medium Pizzas Delivery For \u00a323\nDelivery Only Offer 2 x Medium Pizzas\n\u00a323.00\nMargherita Medium\nTomato Sauce & 100% Mozzarella Cheese\n\u00a313.99\nTony Pepperoni Medium\nTomato sauce, extra 100% mozzarella cheese and double pepperoni\n\u00a314.99\nBuild Your Own Medium\nChoose your dough, base sauce and any number of toppings\n\u00a314.99\nChicken Combo X17 (New)\nA selection of our most famous side orders: Kickers, Strippers & Chicken Wings\n\u00a311.59\nDelivery Only Deal 2 Medium Pizzas For \u00a323\n2 Medium Pizzas Delivery For \u00a323\nDelivery Only Offer 2 x Medium Pizzas\n\u00a323.00\nSpecial Offers!\nChicken Combo X17 (New)\nA selection of our most famous side orders: Kickers, Strippers & Chicken Wings\n\u00a311.59\nChicken Wings Combo x 18 (New)\nChicken Wings 6x Cooked in bourbon, 6x Honey and Mustard, 6x BBQ Sauce\n\u00a311.59\nBen & Jerrys Buy 1 Get 1 Half Price\n500ml\n\u00a312.74\nBen & Jerrys Buy 1 Get 1 Half Price\n100ml\n\u00a35.09\n2 Lava Cakes for \u00a35.09\n\u00a35.59\nHalf And Half Pizza\nHalf And Half Medium\nHalf of one, half of another - best of both worlds\n\u00a313.99\nHalf and Half Family (Finizzima dough only)\nHalf of one, half of another - the best of both w",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nChicken kebabs\nWraps\nKids Meals\nPinchitos\nSnacks\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nCallos + Drink\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized onions!\n\u00a39.95\nShacks Chicken Burger\nCrispy breaded chicken topped with a egg lamb kebab ",
             "notices": [
               {
-                "text": "Coca Cola\n\n33cl\n\n1\nAdd to order\n\u00a31.99",
+                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.50",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.99"
+                  "Add to order\n\u00a31.50"
                 ],
                 "has_inputs": false
               }
@@ -285,11 +381,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a31.99\n1\nSubtotal\n\u00a31.99\nTotal\n\u00a31.99\nAdd special instructions\nCheckout\nTry out our Delivery Only Deal: Get 2 medium pizzas for just \u00a323! Perfect for sharing\nDiscover our NEW Melon Diesel Pizza! \u00a31 of every pizza is donated to Cancer Relief!\nCraving something Sweet? Ben & Jerry's Buy 1 Get 1 Half Price 100ml only \u00a35.09!\nTop Selling Items\nDelivery Only Deal 2 Medium Pizzas For \u00a323\nSpecial Offers!\nHalf And Half Pizza\nBuild Your Own Pizza\nDeluxe Premium Pizzas\nClazzic's Pizzas\nVegan Pizzas\nDomino's Pizza Menu....These Prices are for Collection Instore only.\nSides\nDesserts\nDips\nDomino's Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n2 Medium Pizzas Delivery For \u00a323\nDelivery Only Offer 2 x Medium Pizzas\n\u00a323.00\nMargherita Medium\nTomato Sauce & 100% Mozzarella Cheese\n\u00a313.99\nTony Pepperoni Medium\nTomato sauce, extra 100% mozzarella cheese and double pepperoni\n\u00a314.99\nBuild Your Own Medium\nChoose your dough, base sauce and any number of toppings\n\u00a314.99\nChicken Combo X17 (New)\nA selection of our most famous side orders: Kickers, Strippers & Chicken Wings\n\u00a311.59\nDelivery Only Deal 2 Medium Pizzas For \u00a323\n2 Medium Pizzas Delivery For \u00a323\nDelivery Only Offer 2 x Medium Pizzas\n\u00a323.00\nSpecial Offers!\nChicken Combo X17 (New)\nA selection of our most famous side orders: Kickers, Strippers & Chicken Wings\n\u00a311.59\nChicken Wings Combo x 18 (New)\nChicken Wings 6x Cooked in bourbon, 6x Honey and Mustard, 6x BBQ Sauce\n\u00a311.59\nBen & Jerrys Buy 1 Get 1 Half Price\n500ml\n\u00a312.74\nBen & Jerrys Buy 1 Get 1 Half Price\n100ml\n\u00a35.09\n2 Lava Cakes for \u00a35.09\n\u00a35.59\nHalf And Half Pizza\nHalf And Half Medium\nHalf of one, half of another - best of both worlds\n\u00a313.99\nHalf and Half Family (Finizzima dough o",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nChicken kebabs\nWraps\nKids Meals\nPinchitos\nSnacks\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nCallos + Drink\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats chees",
             "notices": []
           }
         ],
-        "item": "Coca Cola",
+        "item": "Coca Cola 33cl",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -798,9 +894,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-22T22:52:22.770308+02:00",
+  "last_confirmed_at": "2026-10-22T22:54:22.770298+02:00",
   "last_sample_check": {
-    "at": "2026-10-22T22:52:22.770308+02:00",
+    "at": "2026-10-22T22:54:22.770298+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
