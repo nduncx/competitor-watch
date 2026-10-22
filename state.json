@@ -800,7 +800,7 @@
   "last_result": "open",
   "last_confirmed_at": "2026-10-22T22:58:22.770691+02:00",
   "last_sample_check": {
-    "at": "2026-10-22T23:20:22.773412+02:00",
+    "at": "2026-10-22T23:22:22.773912+02:00",
     "eligible": false,
     "exclusions_confirmed": true,
     "venues": [
