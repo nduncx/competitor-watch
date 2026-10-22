@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-22T18:57:48.880000+02:00",
+  "last_observed_at": "2026-10-22T19:01:48.880960+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -50,7 +50,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Eroski VIP",
+      "name": "Jury`s",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -87,7 +87,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Gela Ti Amo",
+      "name": "Candy Castle",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -125,16 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-11T14:03:25.772054+02:00:closed",
-      "subject": "Hungry Monkey: 14:03 check unconfirmed - last confirmed not taking orders at 13:57",
-      "delivered_at": "2026-10-11T14:04:20.964948+02:00"
-    },
-    {
-      "id": "2026-10-11T14:08:25.756008+02:00:open",
-      "subject": "Hungry Monkey is taking orders again (14:08) - basket test passed",
-      "delivered_at": "2026-10-11T14:09:21.288107+02:00"
-    },
     {
       "id": "monitor:2026-10-11T23:04:00.680966+02:00:no_samples",
       "subject": "Competitor Watch: no suitable stores available to test",
@@ -624,21 +614,24 @@
       "id": "monitor:2026-10-22T18:59:48.813175+02:00:failed",
       "subject": "Competitor Watch: monitoring problem",
       "delivered_at": "2026-10-22T19:00:30.651064+02:00"
+    },
+    {
+      "id": "2026-10-22T19:01:48.880960+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (19:01)",
+      "delivered_at": "2026-10-22T19:02:27.401677+02:00"
+    },
+    {
+      "id": "monitor:2026-10-22T19:01:48.813319+02:00:restored",
+      "subject": "Competitor Watch: monitoring restored",
+      "delivered_at": "2026-10-22T19:02:27.631304+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-22T18:57:48.880000+02:00",
+  "last_confirmed_at": "2026-10-22T19:01:48.880960+02:00",
   "last_sample_check": {
-    "at": "2026-10-22T18:59:48.880705+02:00",
-    "eligible": false,
-    "exclusions_confirmed": false,
-    "venues": [
-      {
-        "name": "Essaouira",
-        "status": "closed"
-      }
-    ]
+    "at": "2026-10-22T19:01:48.880960+02:00",
+    "eligible": true
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
