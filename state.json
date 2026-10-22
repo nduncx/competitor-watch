@@ -800,7 +800,7 @@
   "last_result": "open",
   "last_confirmed_at": "2026-10-22T22:58:22.770691+02:00",
   "last_sample_check": {
-    "at": "2026-10-22T23:16:22.774578+02:00",
+    "at": "2026-10-22T23:18:22.776269+02:00",
     "eligible": false,
     "exclusions_confirmed": true,
     "venues": [
@@ -821,11 +821,11 @@
         "status": "venue_closed"
       },
       {
-        "name": "AquaTerra",
+        "name": "Ace Burgers",
         "status": "venue_closed"
       },
       {
-        "name": "BABA",
+        "name": "AquaTerra",
         "status": "venue_closed"
       }
     ]
