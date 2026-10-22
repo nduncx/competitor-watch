@@ -2,7 +2,7 @@
   "status": "closed",
   "since": "2026-10-22T20:46:22.761659+02:00",
   "alerted": true,
-  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+  "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:00pm. Our apologies for the inconvenience caused.",
   "last_checked_date": "2026-10-22",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-22T21:00:22.761964+02:00",
+  "last_observed_at": "2026-10-22T21:02:22.762311+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -51,16 +51,16 @@
     },
     {
       "name": "Ramsons Supermarket",
-      "status": "closed",
-      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "status": "platform_closed",
+      "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:00pm. Our apologies for the inconvenience caused.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
+              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:00pm. Our apologies for the inconvenience caused.\nOK",
               "buttons": [
-                "GOT IT"
+                "OK"
               ],
               "has_inputs": false
             },
@@ -75,12 +75,27 @@
               "has_inputs": false
             }
           ],
-          "covered_buttons": [
-            "Reject non-essential"
-          ]
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 21:00pm. Our apologies for the inconvenience caused.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
         }
       ],
-      "unresolved_notice": true,
+      "unresolved_notice": false,
       "order_button_after_notices": false,
       "closure_notice_only": false,
       "stale_closure_notice": false,
@@ -88,19 +103,12 @@
     },
     {
       "name": "Wagamama",
-      "status": "closed",
-      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "status": "unknown",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
-            {
-              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
-              "buttons": [
-                "GOT IT"
-              ],
-              "has_inputs": false
-            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -112,24 +120,90 @@
               "has_inputs": false
             }
           ],
-          "covered_buttons": [
-            "Reject non-essential"
-          ]
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
         }
       ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {}
+    },
+    {
+      "name": "Kick Ass Burritos",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Chilli Burrito\nPacked full of veggies this chilli is a real hit\n\u00a37.50\nChicken Tinga Burrito\nShredded an",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Chilli Burrito\nPacked full of veggies this chilli is a real hit\n\u00a37.50\nChicken Tinga Burrito\nShredded an",
+            "notices": [
+              {
+                "text": "Coca Cola\n\nCan139 kcal\n\n1\nAdd to order\n\u00a32.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Ch",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-18T13:52:52.394853+02:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (13:52)",
-      "delivered_at": "2026-10-18T13:53:27.627429+02:00"
-    },
     {
       "id": "monitor:2026-10-18T13:54:52.327144+02:00:failed",
       "subject": "Competitor Watch: monitoring problem",
@@ -624,13 +698,18 @@
       "id": "2026-10-22T21:00:22.761964+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (21:00)",
       "delivered_at": "2026-10-22T21:00:57.360655+02:00"
+    },
+    {
+      "id": "2026-10-22T21:02:22.762311+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (21:02)",
+      "delivered_at": "2026-10-22T21:03:20.549083+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-22T21:00:22.761964+02:00",
+  "last_confirmed_at": "2026-10-22T21:02:22.762311+02:00",
   "last_sample_check": {
-    "at": "2026-10-22T21:00:22.761964+02:00",
+    "at": "2026-10-22T21:02:22.762311+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
