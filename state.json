@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-22T22:42:22.770277+02:00",
+  "last_observed_at": "2026-10-22T22:44:22.770308+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -226,8 +226,8 @@
     },
     {
       "name": "Kebab House",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -248,50 +248,109 @@
         {
           "step": 1,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious meal with Chicken Pinchito Wrap, with cheese, egg, chips, salad & drink for \u00a37.50!\nDig into our Special Chicken Burger with chips & a drink, all for just \u00a37.00!\nTop Selling Items\nPrice Crash Meal Deals!\nKebabs\nPinchitos\nChicken\nSnacks\nBurgers\nKids Menu\nFish\nSalads\nSauces\nExtras\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nCheeseburger\n\u00a34.50\nMixed Grill Kebab\n\u00a39.50\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a35.00\nPrice Crash Meal Deals!\nChicken, Burger, Wrap & Kebab Meal Deals from \u00a37.00\n4x Chicken Tender + Chips & Drink for \u00a37.00!\n\u00a37.00\nSpecial Chicken Burger + Chips & Drinks for \u00a37.00!\nSpecial chicken burger with kebab, cheese salad chips drinks\n\u00a37.00\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Tikka Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nTandoori Chicken Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nChicken Pinchito Wrap with Cheese, Egg, Chips, Salad & Drink\n\u00a37.50\nKebabs\nServed in Wrap, Tray or Pita Bread\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nHalf Donner/ Half Chicken Kebab\n\u00a39.00\nMixed Grill Kebab\n\u00a39.50\nDonner Kebab in Wrap\n\u00a36.50\nChicken Shawarma\nServed in Pita or Wrap\n\u00a36.50\nPinchitos\nServed in Wrap, Pita or Tray\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a3",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious meal with Chicken Pinchito Wrap, with cheese, egg, chips, salad & drink for \u00a37.50!\nDig into our Special Chicken Burger with chips & a drink, all for just \u00a37.00!\nTop Selling Items\nPrice Crash Meal Deals!\nKebabs\nPinchitos\nChicken\nSnacks\nBurgers\nKids Menu\nFish\nSalads\nSauces\nExtras\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nCheeseburger\n\u00a34.50\nMixed Grill Kebab\n\u00a39.50\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a35.00\nPrice Crash Meal Deals!\nChicken, Burger, Wrap & Kebab Meal Deals from \u00a37.00\n4x Chicken Tender + Chips & Drink for \u00a37.00!\n\u00a37.00\nSpecial Chicken Burger + Chips & Drinks for \u00a37.00!\nSpecial chicken burger with kebab, cheese salad chips drinks\n\u00a37.00\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Tikka Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nTandoori Chicken Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nChicken Pinchito Wrap with Cheese, Egg, Chips, Salad & Drink\n\u00a37.50\nKebabs\nServed in Wrap, Tray or Pita Bread\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nHalf Donner/ Half Chicken Kebab\n\u00a39.00\nMixed Grill Kebab\n\u00a39.50\nDonner Kebab in Wrap\n\u00a36.50\nChicken Shawarma\nServed in Pita or Wrap\n\u00a36.50\nPinchitos\nServed in Wrap, Pita or Tray\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a3",
-            "notices": [
-              {
-                "text": "Coke Zero\n\nCan\n\n1\nAdd to order\n\u00a31.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nEnjoy a delicious meal with Chicken Pinchito Wrap, with cheese, egg, chips, salad & drink for \u00a37.50!\nDig into our Special Chicken Burger with chips & a drink, all for just \u00a37.00!\nTop Selling Items\nPrice Crash Meal Deals!\nKebabs\nPinchitos\nChicken\nSnacks\nBurgers\nKids Menu\nFish\nSalads\nSauces\nExtras\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nCheeseburger\n\u00a34.50\nMixed Grill Kebab\n\u00a39.50\nChicken Tandoori Pinchito\nServed in Wrap, Pita or Tray\n\u00a35.00\nPrice Crash Meal Deals!\nChicken, Burger, Wrap & Kebab Meal Deals from \u00a37.00\n4x Chicken Tender + Chips & Drink for \u00a37.00!\n\u00a37.00\nSpecial Chicken Burger + Chips & Drinks for \u00a37.00!\nSpecial chicken burger with kebab, cheese salad chips drinks\n\u00a37.00\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nChicken Tikka Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nTandoori Chicken Wrap with Cheese egg + Chips, Salad & Drink\n\u00a37.50\nChicken Pinchito Wrap with Cheese, Egg, Chips, Salad & Drink\n\u00a37.50\nKebabs\nServed in Wrap, Tray or Pita Bread\nDonner Kebab + Chips & Drink for Only \u00a38.90\nServed in Pita or Wrap or tray\n\u00a39.00\nDonner Kebab\nServed in Pita or Wrap\n\u00a36.50\nChicken Shawarma + Chips & Drink for Only \u00a38,90\nServed in Pita or Wrap or tray\n\u00a39.00\nHalf Donner/ Half Chicken Kebab\n\u00a39.00\nMixed Grill Kebab\n\u00a39.50\nDonner Kebab in Wrap\n\u00a36.50\nChicken Shawarma\nServed in Pita or Wrap\n",
-            "notices": []
-          }
-        ],
-        "item": "Coke Zero",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
+    },
+    {
+      "name": "Mamma Mia",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Mr Noodles",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Taco Bell",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
@@ -798,9 +857,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-22T22:42:22.770277+02:00",
+  "last_confirmed_at": "2026-10-22T22:44:22.770308+02:00",
   "last_sample_check": {
-    "at": "2026-10-22T22:42:22.770277+02:00",
+    "at": "2026-10-22T22:44:22.770308+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
