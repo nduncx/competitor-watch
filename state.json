@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-22T20:58:22.761045+02:00",
+  "last_observed_at": "2026-10-22T21:00:22.761964+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -50,7 +50,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Boss Kitchen",
+      "name": "Ramsons Supermarket",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -87,7 +87,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Haagen Dazs",
+      "name": "Wagamama",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -125,11 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-18T13:50:52.394822+02:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (13:50)",
-      "delivered_at": "2026-10-18T13:51:26.854926+02:00"
-    },
     {
       "id": "2026-10-18T13:52:52.394853+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (13:52)",
@@ -624,13 +619,18 @@
       "id": "2026-10-22T20:58:22.761045+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:58)",
       "delivered_at": "2026-10-22T20:58:56.249031+02:00"
+    },
+    {
+      "id": "2026-10-22T21:00:22.761964+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (21:00)",
+      "delivered_at": "2026-10-22T21:00:57.360655+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-22T20:58:22.761045+02:00",
+  "last_confirmed_at": "2026-10-22T21:00:22.761964+02:00",
   "last_sample_check": {
-    "at": "2026-10-22T20:58:22.761045+02:00",
+    "at": "2026-10-22T21:00:22.761964+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
