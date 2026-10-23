@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-23T20:07:55.297839+02:00",
+  "last_observed_at": "2026-10-23T20:14:34.128526+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -125,16 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-21T22:43:43.012401+02:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (22:43)",
-      "delivered_at": "2026-10-21T22:44:21.937440+02:00"
-    },
-    {
-      "id": "2026-10-21T22:45:43.012931+02:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (22:45)",
-      "delivered_at": "2026-10-21T22:46:22.186732+02:00"
-    },
     {
       "id": "2026-10-21T22:47:43.012946+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (22:47)",
@@ -624,33 +614,24 @@
       "id": "monitor:2026-10-23T20:09:55.252713+02:00:failed",
       "subject": "Competitor Watch: monitoring problem",
       "delivered_at": "2026-10-23T20:12:31.876030+02:00"
+    },
+    {
+      "id": "2026-10-23T20:14:34.128526+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (20:14)",
+      "delivered_at": "2026-10-23T20:15:11.153187+02:00"
+    },
+    {
+      "id": "monitor:2026-10-23T20:14:34.085147+02:00:restored",
+      "subject": "Competitor Watch: monitoring restored",
+      "delivered_at": "2026-10-23T20:15:11.398703+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-23T20:07:55.297839+02:00",
+  "last_confirmed_at": "2026-10-23T20:14:34.128526+02:00",
   "last_sample_check": {
-    "at": "2026-10-23T20:12:34.128077+02:00",
-    "eligible": false,
-    "exclusions_confirmed": false,
-    "venues": [
-      {
-        "name": "Essaouira",
-        "status": "closed"
-      },
-      {
-        "name": "OAKBERRY",
-        "status": "closed"
-      },
-      {
-        "name": "The Star Bar",
-        "status": "unknown"
-      },
-      {
-        "name": "Ramsons Watergardens",
-        "status": "closed"
-      }
-    ]
+    "at": "2026-10-23T20:14:34.128526+02:00",
+    "eligible": true
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
