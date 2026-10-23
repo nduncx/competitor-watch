@@ -10,23 +10,16 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-23T21:04:34.136012+02:00",
+  "last_observed_at": "2026-10-23T21:06:34.133623+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "closed",
-      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "status": "unknown",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
-            {
-              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
-              "buttons": [
-                "GOT IT"
-              ],
-              "has_inputs": false
-            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -50,20 +43,13 @@
       "basket_probe": {}
     },
     {
-      "name": "Ramsons Supermarket",
-      "status": "closed",
-      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "name": "Vinopolis Gastrobar",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
-            {
-              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
-              "buttons": [
-                "GOT IT"
-              ],
-              "has_inputs": false
-            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -75,32 +61,64 @@
               "has_inputs": false
             }
           ],
-          "covered_buttons": [
-            "Reject non-essential"
-          ]
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nStart with our delicious Argentinean Pasties, served with tangy chimichurri sauce, for just \u00a38.14!\nIndulge in our Secreti Oberico, with mixed vegetables, chips & rich gaucha sauce just \u00a326.21!\nTop Selling Items\nTo Begin - Para Empezar\nVegetables - Vegetales\nFrom The Land - De La Tierra\nFrom the Sea - Del Mar\nDesserts - Postres\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nSelection of mini hamburgers\nSelecci\u00f3n de mini hamburguesas .\n\u00a320.00\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nGrilled octopus platter\nPulpo al piment\u00f3n.\n\u00a313.60\nTo Begin - Para Empezar\nAubergine mousse with bread\nMousse de berenjena con pan\n\u00a38.14\nTandoori wings with yogurt, mint and cucumber dip\nAlitas de pollo tandoori con salsa de yogur, menta y pepino.\n\u00a38.80\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nVeggie croquettes with sweet chili sauce\nCroquetas veganas con salsa de chili dulce.\n\u00a37.50\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nVegetables - Vegetales\nCauliflower with pomegranate and tahini sauce\nColiflor con granada y salsa de tahini.\n\u00a313.06\nGoat cheese walnut and apple salad\nEnsalada de queso de cabra con nueces y manzana.\n\u00a316.54\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nCourgette and onion tortilla with ali oli sauce\nTortilla de calabacin y cebolla con salsa ali oli\n\u00a38.14\nTomato salad with garlic and oregano\nEnsalada de tomate con ajo y ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nStart with our delicious Argentinean Pasties, served with tangy chimichurri sauce, for just \u00a38.14!\nIndulge in our Secreti Oberico, with mixed vegetables, chips & rich gaucha sauce just \u00a326.21!\nTop Selling Items\nTo Begin - Para Empezar\nVegetables - Vegetales\nFrom The Land - De La Tierra\nFrom the Sea - Del Mar\nDesserts - Postres\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nSelection of mini hamburgers\nSelecci\u00f3n de mini hamburguesas .\n\u00a320.00\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nGrilled octopus platter\nPulpo al piment\u00f3n.\n\u00a313.60\nTo Begin - Para Empezar\nAubergine mousse with bread\nMousse de berenjena con pan\n\u00a38.14\nTandoori wings with yogurt, mint and cucumber dip\nAlitas de pollo tandoori con salsa de yogur, menta y pepino.\n\u00a38.80\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nVeggie croquettes with sweet chili sauce\nCroquetas veganas con salsa de chili dulce.\n\u00a37.50\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nVegetables - Vegetales\nCauliflower with pomegranate and tahini sauce\nColiflor con granada y salsa de tahini.\n\u00a313.06\nGoat cheese walnut and apple salad\nEnsalada de queso de cabra con nueces y manzana.\n\u00a316.54\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nCourgette and onion tortilla with ali oli sauce\nTortilla de calabacin y cebolla con salsa ali oli\n\u00a38.14\nTomato salad with garlic and oregano\nEnsalada de tomate con ajo y ",
+            "notices": [
+              {
+                "text": "Pepsi\n1\nAdd to order\n\u00a33.10",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a33.10"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a33.10\n1\nSubtotal\n\u00a33.10\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.39\nAdd special instructions\nCheckout\nStart with our delicious Argentinean Pasties, served with tangy chimichurri sauce, for just \u00a38.14!\nIndulge in our Secreti Oberico, with mixed vegetables, chips & rich gaucha sauce just \u00a326.21!\nTop Selling Items\nTo Begin - Para Empezar\nVegetables - Vegetales\nFrom The Land - De La Tierra\nFrom the Sea - Del Mar\nDesserts - Postres\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nSelection of mini hamburgers\nSelecci\u00f3n de mini hamburguesas .\n\u00a320.00\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nGrilled octopus platter\nPulpo al piment\u00f3n.\n\u00a313.60\nTo Begin - Para Empezar\nAubergine mousse with bread\nMousse de berenjena con pan\n\u00a38.14\nTandoori wings with yogurt, mint and cucumber dip\nAlitas de pollo tandoori con salsa de yogur, menta y pepino.\n\u00a38.80\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nVeggie croquettes with sweet chili sauce\nCroquetas veganas con salsa de chili dulce.\n\u00a37.50\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nVegetables - Vegetales\nCauliflower with pomegranate and tahini sauce\nColiflor con granada y salsa de tahini.\n\u00a313.06\nGoat cheese walnut and apple salad\nEnsalada de queso de cabra con nueces y manzana.\n\u00a316.54\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nCourgette and onion tortilla with ali oli sauce\nTortilla de calabacin y c",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     },
     {
-      "name": "Rendezvous Chargrill",
-      "status": "closed",
-      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "name": "El Kasbah",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
-            {
-              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
-              "buttons": [
-                "GOT IT"
-              ],
-              "has_inputs": false
-            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -112,24 +130,127 @@
               "has_inputs": false
             }
           ],
-          "covered_buttons": [
-            "Reject non-essential"
-          ]
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
+            "notices": [
+              {
+                "text": "Coca Cola\n1\nAdd to order\n\u00a32.40",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.40"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.40\n1\nSubtotal\n\u00a32.40\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.69\nAdd special instructions\nCheckout\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef s",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Candy Castle",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nDubai Chocolates\nBol\u00e7i Pistachio Dubai Chocolate Bar\nSavour the classic Bol\u00e7i Dubai Milk Chocolate bar, imported directly from Turkey. Each 100-gram bar features smooth milk chocolate with pistachio filling and crunchy kadayif pieces, delivering a uniquely delightful taste and texture combination.\n\u00a38.99\nBol\u00e7i Dubai Dark Chocolate Bar\nEnjoy the Bol\u00e7i Dubai Dark Chocolate bar, imported from Turkey. This 100-gram bar blends rich dark chocolate with a pistachio and kadayif filling, giving a bold flavour with a crisp bite.\n\u00a38.99\nFreeze-Dried Candy\nCandy Castle Freeze Dried Watermelon Millions (100g)\nLimited edition! Freeze-dried Watermelon Millions, crunchy and bursting with flavour\n\u00a35.99\nGluten FreeVeganVegetarian\nFreeze Dried Milk Chocolate Strawberries\n\u00a34.49\nFreeze Dried Dark Chocolate Strawberries\n\u00a34.49\nFreeze Dri",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nDubai Chocolates\nBol\u00e7i Pistachio Dubai Chocolate Bar\nSavour the classic Bol\u00e7i Dubai Milk Chocolate bar, imported directly from Turkey. Each 100-gram bar features smooth milk chocolate with pistachio filling and crunchy kadayif pieces, delivering a uniquely delightful taste and texture combination.\n\u00a38.99\nBol\u00e7i Dubai Dark Chocolate Bar\nEnjoy the Bol\u00e7i Dubai Dark Chocolate bar, imported from Turkey. This 100-gram bar blends rich dark chocolate with a pistachio and kadayif filling, giving a bold flavour with a crisp bite.\n\u00a38.99\nFreeze-Dried Candy\nCandy Castle Freeze Dried Watermelon Millions (100g)\nLimited edition! Freeze-dried Watermelon Millions, crunchy and bursting with flavour\n\u00a35.99\nGluten FreeVeganVegetarian\nFreeze Dried Milk Chocolate Strawberries\n\u00a34.49\nFreeze Dried Dark Chocolate Strawberries\n\u00a34.49\nFreeze Dri",
+            "notices": [
+              {
+                "text": "Kingdom Favourites (300g)\n\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\n1\nAdd to order\n\u00a39.90",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a39.90"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nKingdom Favourites (300g)\n\u00a39.90\n1\nSubtotal\n\u00a39.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a313.19\nAdd special instructions\nCheckout\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nDubai Chocolates\nBol\u00e7i Pistachio Dubai Chocolate Bar\nSavour the classic Bol\u00e7i Dubai Milk Chocolate bar, imported directly from Turkey. Each 100-gram bar features smooth milk chocolate with pistachio filling and crunchy kadayif pieces, delivering a uniquely delightful taste and texture combination.\n\u00a38.99\nBol\u00e7i Dubai Dark Chocolate Bar\nEnjoy the Bol\u00e7i Dubai Dark Chocolate bar, imported from Turkey. This 100-gram bar blends rich dark chocolate with a pistachio and kadayif filling, giving a bold flavour with a crisp bite.\n\u00a38.99\nFreeze-Dried Candy\nCandy Castle Freeze Dried Watermelon Millions (100g)\nLimited edition! Freeze-dried Watermelon Millions, crunchy and bursting with flavour\n\u00a35.99\nGluten Free",
+            "notices": []
+          }
+        ],
+        "item": "Kingdom Favourites (300g)",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-22T19:01:48.880960+02:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (19:01)",
-      "delivered_at": "2026-10-22T19:02:27.401677+02:00"
-    },
     {
       "id": "monitor:2026-10-22T19:01:48.813319+02:00:restored",
       "subject": "Competitor Watch: monitoring restored",
@@ -624,13 +745,18 @@
       "id": "2026-10-23T21:04:34.136012+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (21:04)",
       "delivered_at": "2026-10-23T21:05:10.825784+02:00"
+    },
+    {
+      "id": "2026-10-23T21:06:34.133623+02:00:closed",
+      "subject": "Hungry Monkey: 21:06 check unconfirmed - last confirmed not taking orders at 21:04",
+      "delivered_at": "2026-10-23T21:07:36.654798+02:00"
     }
   ],
-  "recovery_streak": 0,
-  "last_result": "closed",
+  "recovery_streak": 1,
+  "last_result": "open",
   "last_confirmed_at": "2026-10-23T21:04:34.136012+02:00",
   "last_sample_check": {
-    "at": "2026-10-23T21:04:34.136012+02:00",
+    "at": "2026-10-23T21:06:34.133623+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
@@ -711,5 +837,6 @@
       "id": "2026-10-23T20:42:34.131727+02:00:closed",
       "delivered_at": "2026-10-23T20:43:09.397294+02:00"
     }
-  ]
+  ],
+  "recovery_candidate_at": "2026-10-23T21:06:34.133623+02:00"
 }
