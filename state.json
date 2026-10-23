@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-23T19:32:49.416950+02:00",
+  "last_observed_at": "2026-10-23T19:38:49.417287+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -125,16 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-21T22:21:43.010496+02:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (22:21)",
-      "delivered_at": "2026-10-21T22:22:18.095197+02:00"
-    },
-    {
-      "id": "2026-10-21T22:23:43.010456+02:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (22:23)",
-      "delivered_at": "2026-10-21T22:24:16.774151+02:00"
-    },
     {
       "id": "2026-10-21T22:25:43.011242+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (22:25)",
@@ -624,33 +614,24 @@
       "id": "monitor:2026-10-23T19:34:49.374193+02:00:failed",
       "subject": "Competitor Watch: monitoring problem",
       "delivered_at": "2026-10-23T19:36:10.461283+02:00"
+    },
+    {
+      "id": "2026-10-23T19:38:49.417287+02:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (19:38)",
+      "delivered_at": "2026-10-23T19:39:32.970821+02:00"
+    },
+    {
+      "id": "monitor:2026-10-23T19:38:49.374446+02:00:restored",
+      "subject": "Competitor Watch: monitoring restored",
+      "delivered_at": "2026-10-23T19:39:33.234261+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-23T19:32:49.416950+02:00",
+  "last_confirmed_at": "2026-10-23T19:38:49.417287+02:00",
   "last_sample_check": {
-    "at": "2026-10-23T19:36:49.417530+02:00",
-    "eligible": false,
-    "exclusions_confirmed": false,
-    "venues": [
-      {
-        "name": "Essaouira",
-        "status": "closed"
-      },
-      {
-        "name": "Royal Calpe",
-        "status": "unknown"
-      },
-      {
-        "name": "Starbucks",
-        "status": "closed"
-      },
-      {
-        "name": "OAKBERRY",
-        "status": "closed"
-      }
-    ]
+    "at": "2026-10-23T19:38:49.417287+02:00",
+    "eligible": true
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
