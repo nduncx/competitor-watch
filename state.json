@@ -10,10 +10,67 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-23T22:52:34.143130+02:00",
+  "last_observed_at": "2026-10-23T22:56:34.144564+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": false,
+        "steps": [],
+        "item": null,
+        "reason": "no eligible simple item or addition to basket could not be verified"
+      }
+    },
+    {
+      "name": "BABA",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -72,94 +129,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or Rice & Drink\nChicken Shawarma served in a pitta with salad, sauce, accompanied with a portion of chips or rice & a free dr",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in every bite.\n\u00a37.50\nBABA Korean Wings x10\nDouble-fried for extra crunch, then coated in a glossy Ko",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or Rice & Drink\nChicken Shawarma served in a pitta with salad, sauce, accompanied with a portion of chips or rice & a free dr",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in every bite.\n\u00a37.50\nBABA Korean Wings x10\nDouble-fried for extra crunch, then coated in a glossy Ko",
             "notices": [
               {
-                "text": "x2 Lamb Doner Kebab In A Pitta + 2 Small Chips & 2 Drinks\nSalad on 1st Kebab?\nSelect up to 3 options\n0/3\nLettuce [1st Kebab]\nOnion [1st Kebab]\nTomato [1st Kebab]\nExtras Inside 1st Kebab?\nColeslaw [1st Kebab]\n\u00a30.80\nFried Onion [1st Kebab]\nFried Peppers [1st Kebab]\n\u00a30.80\nx1 Fried Egg [1st Kebab]\n\u00a30.80\nx2 Fried Egg [1st Kebab]\n\u00a31.60\nx3 Fried Egg [1st Kebab]\n\u00a32.40\nGrilled Tomatoes [1st Kebab]\n\u00a30.80\nFried Tomatoes [1st Kebab]\n\u00a30.80\nCheese [1st Kebab]\n\u00a30.80\nLamb Doner Kebab Meat [1st Kebab]\n\u00a31.80\nChicken Shawarma Meat [1st Kebab]\n\u00a31.80\nSauce For 1st Kebab?\nSelect up to 2 options\n0/2\nKetchup [1st Kebab]\nMayonnaise [1st Kebab]\nCocktail Sauce [1st Kebab]\nChilli Sauce [1st Kebab]\nAli Oli [1st Kebab]\nGarlic Sauce [1st Kebab]\nYoghurt Sauce [1st Kebab]\nGaucha Sauce [1st Kebab]\nSalad on 2nd Kebab?\nSelect up to 3 options\n0/3\nLettuce [2nd Kebab]\nOnion [2nd Kebab]\nTomato [2nd Kebab]\nExtras Inside 2nd Kebab?\nColeslaw [2nd Kebab]\n\u00a30.80\nFried Onion [2nd Kebab]\nFried Peppers [2nd Kebab]\n\u00a30.80\nx1 Fried Egg [2nd Kebab]\n\u00a30.80\nx2 Fried Egg [2nd Kebab]\n\u00a31.60\nx3 Fried Egg [2nd Kebab]\n\u00a32.40\nGrilled Tomatoes [2nd Kebab]\n\u00a30.80\nFried Tomatoes [2nd Kebab]\n\u00a30.80\nCheese [2nd Kebab]\n\u00a30.80\nLamb Doner Kebab Meat [2nd Kebab]\n\u00a31.80\nChicken Shawarma Meat [2nd Kebab]\n\u00a31.80\nSauce For 2nd Kebab?\nSelect up to 2 options\n0/2\nKetchup [2nd Kebab]\nMayonnaise [2nd Kebab]\nCocktail Sauce [2nd Kebab]\nChilli Sauce [2nd Kebab]\nAli Oli [2nd Kebab]\nGarlic Sauce [2nd Kebab]\nYoghurt Sauce [2nd Kebab]\nGaucha Sauce [2nd Kebab]\nChoose 2 Drinks\nSelect 2 options\n0/2\nCoca Cola Can\nCoke Zero Can\nFanta Orange Can\nFanta Lemon Can\nSuntop Cola\nSuntop Orange\nSuntop Red Berries\nPepsi Max Can\n7up Can\nSprite Can\nAny Sides?\nSelect up to 50 options\n0/50\nx1 Chicken Pastella [SIDE]\n\u00a32.80\nx3 Mozzarella Sticks [SIDE]\n\u00a32.70\nx1 Calabacin Relleno [Stuffed Courgette] [SIDE]\n\u00a31.20\nx1 Torta De Acelga Slice [SIDE]\n\u00a33.00\nx1 Croquetta De Calabacin [SIDE]\n\u00a31.00\nx1 Croquetta De Espinaca [SIDE]\n\u00a31.00\nx1 Croquetta De Pollo [SIDE]\n\u00a31.00\nx1 Crab Claws [SIDE]\n\u00a31.20\nx5 Chicken Tenders [SIDE]\n\u00a36.00\nx5 American Chicken Wings [SIDE]\n\u00a36.00\nPopcorn Chicken Portion [SIDE]\n\u00a36.80\nChicken Nuggets Portion [SIDE]\n\u00a35.00\nPilao Rice [SIDE]\n\u00a32.50\nPastela With Almond\n\u00a33.80\nx1 Onion Bhaji [SIDE]\n\u00a31.20\nFull Chips\n\u00a34.00\nExtra Chips\n\u00a35.50\n1/2 Small Chips\n\u00a32.50\n1\nAdd to order\n\u00a320.00",
+                "text": "Coke 1.75L Bottle\n1\nAdd to order\n\u00a33.99",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a320.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "x2 Lamb Doner Kebab In A Pitta + 2 Small Chips & 2 Drinks",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or Rice & Drink\nChicken Shawarma served in a pitta with salad, sauce, accompanied with a portion of chips or rice & a free dr",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or Rice & Drink\nChicken Shawarma served in a pitta with salad, sauce, accompanied with a portion of chips or rice & a free dr",
-            "notices": [
-              {
-                "text": "Southern Fried Chicken Strips\nWould You Like Some Salad?\nSelect up to 3 options\n0/3\nLettuce\nOnion\nTomato\nAny Extras Inside?\nColeslaw\n\u00a30.60\nFried Onion\nFried Peppers\n\u00a30.80\nx1 Fried Egg\n\u00a30.80\nx2 Fried Egg\n\u00a31.60\nx3 Fried Egg\n\u00a32.40\nGrilled Tomatoes\n\u00a30.80\nFried Tomatoes\n\u00a30.80\nCheese\n\u00a30.80\nLamb Doner Kebab Meat\n\u00a31.80\nChicken Shawarma Meat\n\u00a31.80\nChoose a Sauce\nSelect up to 2 options\n0/2\nKetchup\nMayonnaise\nCocktail Sauce\nChilli Sauce\nAli Oli\nGarlic Sauce\nYoghurt Sauce\nGaucha Sauce\nAny Sides?\nSelect up to 50 options\n0/50\nx1 Chicken Pastella [SIDE]\n\u00a32.80\nx3 Mozzarella Sticks [SIDE]\n\u00a32.70\nx1 Calabacin Relleno [Stuffed Courgette] [SIDE]\n\u00a31.20\nx1 Torta De Acelga Slice [SIDE]\n\u00a33.00\nx1 Croquetta De Calabacin [SIDE]\n\u00a31.00\nx1 Croquetta De Espinaca [SIDE]\n\u00a31.00\nx1 Croquetta De Pollo [SIDE]\n\u00a31.00\nx1 Crab Claws [SIDE]\n\u00a31.20\nx5 Chicken Tenders [SIDE]\n\u00a36.00\nx5 American Chicken Wings [SIDE]\n\u00a36.00\nPopcorn Chicken Portion [SIDE]\n\u00a36.80\nChicken Nuggets Portion [SIDE]\n\u00a35.00\nPilao Rice [SIDE]\n\u00a32.50\nPastela With Almond\n\u00a33.80\nx1 Onion Bhaji [SIDE]\n\u00a31.20\nFull Chips\n\u00a34.00\nExtra Chips\n\u00a35.50\n1/2 Small Chips\n\u00a32.50\nChoose A Drink\nCoca Cola Can\n\u00a31.40\nCoke Zero Can\n\u00a31.40\nFanta Orange Can\n\u00a31.40\nFanta Lemon Can\n\u00a31.40\nSprite Can\n\u00a31.40\nVimto Can\n\u00a31.40\nSuntop Apple\n\u00a31.00\nSuntop Cola\n\u00a31.00\nSuntop Orange\n\u00a31.00\nSuntop red\n\u00a31.00\nBottle Of Water 500ml\n\u00a30.70\nBig Bottle Of Water 1.5L\n\u00a31.50\nPepsi\n\u00a31.40\nPepsi Max\n\u00a31.40\n7 Up\n\u00a31.40\nPepsi Can 330 Ml\n\u00a31.40\nNestea Maracuya 330 Ml\n\u00a31.70\nDon Simon Mango 330 ML\n\u00a31.40\nDon Simon Peach 330 ML\n\u00a31.40\nDon Simon Mandarine 330 ML\n\u00a31.40\nCoke Bottle 500 ML\n\u00a31.80\nTango Apple 330 ML\n\u00a31.40\nTango Orange 330 ML\n\u00a31.40\n1\nAdd to order\n\u00a36.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a36.50"
+                  "Add to order\n\u00a33.99"
                 ],
                 "has_inputs": false
               }
@@ -167,16 +150,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSouthern Fried Chicken Strips\n\u00a36.50\n1\nSubtotal\n\u00a36.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a39.79\nAdd special instructions\nCheckout\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or R",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 1.75L Bottle\n\u00a33.99\n1\nSubtotal\n\u00a33.99\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a37.28\nAdd special instructions\nCheckout\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury",
             "notices": []
           }
         ],
-        "item": "Southern Fried Chicken Strips",
+        "item": "Coke 1.75L Bottle",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Burger King",
+      "name": "Birdie Cafe",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -235,20 +218,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble CHICKEN KRISPPER WHITE BBQ BACON Served with Chips and Drink\nLarge Meal, cheese, bacon, white bbq sauce and bbq sauce\n\u00a317.43\nChicken Krispper White BBQ Bacon\nCheese, bacon, white bbq sauce and bbq sauce.\n\u00a39.56\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\n2X CRISPY CHICKEN MEAL for \u00a313.20!\nLarge Meal, Mayonnaise, Lettuce, Tomato. Served with Chips and Drink\n\u00a313.20\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X CRISPY CHICKEN MEAL for \u00a313.20!\nLarge Meal, Mayonnaise, Lettuce, Tomato. Served with Chips and Drink\n\u00a313.20\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35\n23. Chicken Noodles\n\u00a37.35\n23A. Plain Noodles\n\u00a35.25\nSpecial Dishes\n36. Beef in Oyster Sauce\n\u00a38.2",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble CHICKEN KRISPPER WHITE BBQ BACON Served with Chips and Drink\nLarge Meal, cheese, bacon, white bbq sauce and bbq sauce\n\u00a317.43\nChicken Krispper White BBQ Bacon\nCheese, bacon, white bbq sauce and bbq sauce.\n\u00a39.56\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\n2X CRISPY CHICKEN MEAL for \u00a313.20!\nLarge Meal, Mayonnaise, Lettuce, Tomato. Served with Chips and Drink\n\u00a313.20\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X CRISPY CHICKEN MEAL for \u00a313.20!\nLarge Meal, Mayonnaise, Lettuce, Tomato. Served with Chips and Drink\n\u00a313.20\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35\n23. Chicken Noodles\n\u00a37.35\n23A. Plain Noodles\n\u00a35.25\nSpecial Dishes\n36. Beef in Oyster Sauce\n\u00a38.2",
             "notices": [
               {
-                "text": "Coke\n1\nAdd to order\n\u00a33.30",
+                "text": "Coke\n1\nAdd to order\n\u00a32.00",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a33.30"
+                  "Add to order\n\u00a32.00"
                 ],
                 "has_inputs": false
               }
@@ -256,7 +239,7 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.30\n1\nSubtotal\n\u00a33.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.59\nAdd special instructions\nCheckout\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble CHICKEN KRISPPER WHITE BBQ BACON Served with Chips and Drink\nLarge Meal, cheese, bacon, white bbq sauce and bbq sauce\n\u00a317.43\nChicken Krispper White BBQ Bacon\nCheese, bacon, white bbq sauce and bbq sauce.\n\u00a39.56\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\n2X CRISPY CHICKEN MEAL for \u00a313.20!\nLarge Meal, Mayonnaise, Lettuce, Tomato. Served with Chips and Drink\n\u00a313.20\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X CRISPY CHICKEN MEAL for \u00a313.20!\nLarge Meal, Mayonnaise, Lettuce, Tomato. Serv",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35",
             "notices": []
           }
         ],
@@ -265,7 +248,7 @@
       }
     },
     {
-      "name": "Chinese Kitchen",
+      "name": "Roosters Fried Chicken",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -324,20 +307,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Price Crash Offers - whether you're dining solo or in a group, a meal waiting for you!\nExperience our Special Meals: Braised Eggplant, Assorted Shrimp & more from 8.50!\nTop Selling Items\nPrice Crash Offers!\nSpecial Meals (new menu)\nBubble Milk Tea\nZang Zang Tea\nFruit Tea\nSoup\nAppetiser\nSeafood\nDuck Specials\nMeat\nChicken\nNoodles\nRice Dishes\nVegetarian\nTomato Dishes\nRice Noodles\nChinese Dim Sum\nLunch Menu\nDrinks\nSauces\nDesserts\nSoft Drinks\nBeer & Cider\nBeers and Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\n66. Chicken Noodles\n\u00a37.20\n11. Salt & Pepper Spare Ribs\n\u00a39.00\nHot\n40. Peking Duck (Half) No Bone\nServed with 10 Pancakes, Cucumber & Sauce\n\u00a321.00\n61A. Sweet and Sour Chicken Hong Kong Style\nPineapple, Peppers, Sweet and sour\n\u00a38.50\n10. Spare Ribs Peking Style\n\u00a39.50\nPrice Crash Offers!\nA. Meal For One Person - Low Fat Dishes\nMixed Chinese Vegetables + Plain Soft Noodles\n\u00a313.80\nB. Meal For Two People - Low Fat Dishes\nSliced Beef with Mushrooms + Chicken Soft Noodles + Boiled Rice + Kung Po Chilli Chicken. ( \u00a310.50 p.person )\n\u00a326.80\nC. Meal for a Minimum or Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken Peking Style + Fried Mixed Vegetables + Egg Fried Rice.\n\u00a329.00\nD. Meal for a Minimum of Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken with Mushrooms + Vegetable Noodle + Special Fried Rice.\n\u00a337.00\nE. Meals for Three People or More\nPrawn Crackers + Crispy Beef Szechuan Style + Sweet and Sour Pork Peking Style + Roast Pork with Mushrooms + Chicken in Pepper and Black Bean Sauce + Mixed Vegetable + Beef Noodles & Special Fried Rice\n\u00a360.00\nF. Meal for Three People or More\nPrawn Crackers + Sl",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLunch Upgraded! Choose our Dinner for 2: 6x original chicken, 2 fries & 1.5L drink only for \u00a316.50!\nChicken wings coated in our smokey BBQ, Jack Daniels or Sriracha mayo sauce just for \u00a311.95!\nTop Selling Items & NEW\nNEW!! ROOSTERS WINGS\nSides, Start & Share\nROOSTERS Box Meal\nROOSTERS Bucket Meals\nROOSTERS Burgers\nNEW!! WRAPS\nBABA Burgers\nROOSTERS Kids Meals\nDips & Sauces\nIce Cream Milkshakes\nSLUSH Puppies\nSoft Drinks\nBeers and Ciders\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nROOSTERS Tender Wrap\nCrispy chicken tenders wrapped with fresh lettuce and streaky bacon, finished with your choice of sauce and served warm in a soft tortilla. Served with french fries.\n\u00a38.00\nNEW!! ROOSTERS The CLUB Burger\nGrilled chicken breast layered with crispy bacon, fresh lettuce, melted cheese and a perfectly cooked egg, finished with creamy mayo and served in a toasted bun.\n\u00a39.50\nROOSTERS Chicken Tender Meal\n6pc Chicken Tenders and Fries\n\u00a39.50\nROOSTERS Boneless Bucket\nIncludes 6pc Boneless Chicken, 2 Fries & a 1.5L Free Soft Drink Bottle\n\u00a316.50\nROOSTERS Dinner for 2\nIncludes 6pc Original Chicken, 2 Fries & a 1.5L Free Soft Drink Bottle\n\u00a316.50\nROOSTERS Dipping Feast\nIncludes 24pc Chicken Tenders, 4 Fries & a 1.5L Free Soft Drink Bottle\n\u00a328.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in every bite.\n\u00a37.50\nChef Dani HOT Wings x10 \ufe0f\ufe0f\ufe0f\nThese wings dont mess about. Crispy on the outside, drenched in Chef Danis secret VERY HOT sauce, and guaranteed to bring the heat. Crunch first. Regret later.\n\u00a311.95\nKorean Wings x10\n",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Price Crash Offers - whether you're dining solo or in a group, a meal waiting for you!\nExperience our Special Meals: Braised Eggplant, Assorted Shrimp & more from 8.50!\nTop Selling Items\nPrice Crash Offers!\nSpecial Meals (new menu)\nBubble Milk Tea\nZang Zang Tea\nFruit Tea\nSoup\nAppetiser\nSeafood\nDuck Specials\nMeat\nChicken\nNoodles\nRice Dishes\nVegetarian\nTomato Dishes\nRice Noodles\nChinese Dim Sum\nLunch Menu\nDrinks\nSauces\nDesserts\nSoft Drinks\nBeer & Cider\nBeers and Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\n66. Chicken Noodles\n\u00a37.20\n11. Salt & Pepper Spare Ribs\n\u00a39.00\nHot\n40. Peking Duck (Half) No Bone\nServed with 10 Pancakes, Cucumber & Sauce\n\u00a321.00\n61A. Sweet and Sour Chicken Hong Kong Style\nPineapple, Peppers, Sweet and sour\n\u00a38.50\n10. Spare Ribs Peking Style\n\u00a39.50\nPrice Crash Offers!\nA. Meal For One Person - Low Fat Dishes\nMixed Chinese Vegetables + Plain Soft Noodles\n\u00a313.80\nB. Meal For Two People - Low Fat Dishes\nSliced Beef with Mushrooms + Chicken Soft Noodles + Boiled Rice + Kung Po Chilli Chicken. ( \u00a310.50 p.person )\n\u00a326.80\nC. Meal for a Minimum or Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken Peking Style + Fried Mixed Vegetables + Egg Fried Rice.\n\u00a329.00\nD. Meal for a Minimum of Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken with Mushrooms + Vegetable Noodle + Special Fried Rice.\n\u00a337.00\nE. Meals for Three People or More\nPrawn Crackers + Crispy Beef Szechuan Style + Sweet and Sour Pork Peking Style + Roast Pork with Mushrooms + Chicken in Pepper and Black Bean Sauce + Mixed Vegetable + Beef Noodles & Special Fried Rice\n\u00a360.00\nF. Meal for Three People or More\nPrawn Crackers + Sl",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLunch Upgraded! Choose our Dinner for 2: 6x original chicken, 2 fries & 1.5L drink only for \u00a316.50!\nChicken wings coated in our smokey BBQ, Jack Daniels or Sriracha mayo sauce just for \u00a311.95!\nTop Selling Items & NEW\nNEW!! ROOSTERS WINGS\nSides, Start & Share\nROOSTERS Box Meal\nROOSTERS Bucket Meals\nROOSTERS Burgers\nNEW!! WRAPS\nBABA Burgers\nROOSTERS Kids Meals\nDips & Sauces\nIce Cream Milkshakes\nSLUSH Puppies\nSoft Drinks\nBeers and Ciders\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nROOSTERS Tender Wrap\nCrispy chicken tenders wrapped with fresh lettuce and streaky bacon, finished with your choice of sauce and served warm in a soft tortilla. Served with french fries.\n\u00a38.00\nNEW!! ROOSTERS The CLUB Burger\nGrilled chicken breast layered with crispy bacon, fresh lettuce, melted cheese and a perfectly cooked egg, finished with creamy mayo and served in a toasted bun.\n\u00a39.50\nROOSTERS Chicken Tender Meal\n6pc Chicken Tenders and Fries\n\u00a39.50\nROOSTERS Boneless Bucket\nIncludes 6pc Boneless Chicken, 2 Fries & a 1.5L Free Soft Drink Bottle\n\u00a316.50\nROOSTERS Dinner for 2\nIncludes 6pc Original Chicken, 2 Fries & a 1.5L Free Soft Drink Bottle\n\u00a316.50\nROOSTERS Dipping Feast\nIncludes 24pc Chicken Tenders, 4 Fries & a 1.5L Free Soft Drink Bottle\n\u00a328.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in every bite.\n\u00a37.50\nChef Dani HOT Wings x10 \ufe0f\ufe0f\ufe0f\nThese wings dont mess about. Crispy on the outside, drenched in Chef Danis secret VERY HOT sauce, and guaranteed to bring the heat. Crunch first. Regret later.\n\u00a311.95\nKorean Wings x10\n",
             "notices": [
               {
-                "text": "Coke\n1\nAdd to order\n\u00a31.80",
+                "text": "Coke Can\n1\nAdd to order\n\u00a32.50",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.80"
+                  "Add to order\n\u00a32.50"
                 ],
                 "has_inputs": false
               }
@@ -345,21 +328,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.80\n1\nSubtotal\n\u00a31.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.09\nAdd special instructions\nCheckout\nEnjoy our Price Crash Offers - whether you're dining solo or in a group, a meal waiting for you!\nExperience our Special Meals: Braised Eggplant, Assorted Shrimp & more from 8.50!\nTop Selling Items\nPrice Crash Offers!\nSpecial Meals (new menu)\nBubble Milk Tea\nZang Zang Tea\nFruit Tea\nSoup\nAppetiser\nSeafood\nDuck Specials\nMeat\nChicken\nNoodles\nRice Dishes\nVegetarian\nTomato Dishes\nRice Noodles\nChinese Dim Sum\nLunch Menu\nDrinks\nSauces\nDesserts\nSoft Drinks\nBeer & Cider\nBeers and Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\n66. Chicken Noodles\n\u00a37.20\n11. Salt & Pepper Spare Ribs\n\u00a39.00\nHot\n40. Peking Duck (Half) No Bone\nServed with 10 Pancakes, Cucumber & Sauce\n\u00a321.00\n61A. Sweet and Sour Chicken Hong Kong Style\nPineapple, Peppers, Sweet and sour\n\u00a38.50\n10. Spare Ribs Peking Style\n\u00a39.50\nPrice Crash Offers!\nA. Meal For One Person - Low Fat Dishes\nMixed Chinese Vegetables + Plain Soft Noodles\n\u00a313.80\nB. Meal For Two People - Low Fat Dishes\nSliced Beef with Mushrooms + Chicken Soft Noodles + Boiled Rice + Kung Po Chilli Chicken. ( \u00a310.50 p.person )\n\u00a326.80\nC. Meal for a Minimum or Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken Peking Style + Fried Mixed Vegetables + Egg Fried Rice.\n\u00a329.00\nD. Meal for a Minimum of Two People\nPrawn Crackers + Sweet and Sour Pork Peking Style + Chicken with Mushrooms + Vegetable Noodle + Special Fried Rice.\n\u00a337.00\nE. Meals for Three People or More\nPrawn Crackers + Crispy Beef Szechuan Style + Sweet and Sour Pork Peking Style + Roast Pork with Mushrooms + Chicken in Pepper and Black Bean Sauce + Mixed Vegetable",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Can\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nLunch Upgraded! Choose our Dinner for 2: 6x original chicken, 2 fries & 1.5L drink only for \u00a316.50!\nChicken wings coated in our smokey BBQ, Jack Daniels or Sriracha mayo sauce just for \u00a311.95!\nTop Selling Items & NEW\nNEW!! ROOSTERS WINGS\nSides, Start & Share\nROOSTERS Box Meal\nROOSTERS Bucket Meals\nROOSTERS Burgers\nNEW!! WRAPS\nBABA Burgers\nROOSTERS Kids Meals\nDips & Sauces\nIce Cream Milkshakes\nSLUSH Puppies\nSoft Drinks\nBeers and Ciders\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nROOSTERS Tender Wrap\nCrispy chicken tenders wrapped with fresh lettuce and streaky bacon, finished with your choice of sauce and served warm in a soft tortilla. Served with french fries.\n\u00a38.00\nNEW!! ROOSTERS The CLUB Burger\nGrilled chicken breast layered with crispy bacon, fresh lettuce, melted cheese and a perfectly cooked egg, finished with creamy mayo and served in a toasted bun.\n\u00a39.50\nROOSTERS Chicken Tender Meal\n6pc Chicken Tenders and Fries\n\u00a39.50\nROOSTERS Boneless Bucket\nIncludes 6pc Boneless Chicken, 2 Fries & a 1.5L Free Soft Drink Bottle\n\u00a316.50\nROOSTERS Dinner for 2\nIncludes 6pc Original Chicken, 2 Fries & a 1.5L Free Soft Drink Bottle\n\u00a316.50\nROOSTERS Dipping Feast\nIncludes 24pc Chicken Tenders, 4 Fries & a 1.5L Free Soft Drink Bottle\n\u00a328.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in every bite.\n\u00a37.50\nChef Dani HOT Wings x10 \ufe0f\ufe0f\ufe0f\nThese wings dont mess about. Crispy on the outside, drenched in Chef Danis secret VE",
             "notices": []
           }
         ],
-        "item": "Coke",
+        "item": "Coke Can",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "monitor:2026-10-22T19:06:22.685234+02:00:failed",
-      "subject": "Competitor Watch: monitoring problem",
-      "delivered_at": "2026-10-22T19:07:44.711375+02:00"
-    },
     {
       "id": "2026-10-22T19:08:22.753589+02:00:closed",
       "subject": "Hungry Monkey: 19:08 check unconfirmed - last confirmed not taking orders at 19:04",
@@ -854,13 +832,18 @@
       "id": "monitor:2026-10-23T22:54:34.096374+02:00:failed",
       "subject": "Competitor Watch: monitoring problem",
       "delivered_at": "2026-10-23T22:56:02.215795+02:00"
+    },
+    {
+      "id": "monitor:2026-10-23T22:56:34.096540+02:00:restored",
+      "subject": "Competitor Watch: monitoring restored",
+      "delivered_at": "2026-10-23T22:57:43.002346+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-23T22:52:34.143130+02:00",
+  "last_confirmed_at": "2026-10-23T22:56:34.144564+02:00",
   "last_sample_check": {
-    "at": "2026-10-23T22:52:34.143130+02:00",
+    "at": "2026-10-23T22:56:34.144564+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
