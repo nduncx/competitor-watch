@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-23T17:28:31.935532+02:00",
+  "last_observed_at": "2026-10-23T17:32:31.935155+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -70,135 +70,8 @@
       }
     },
     {
-      "name": "Crown Pharmacy",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "covered_buttons": [
-            "Reject non-essential",
-            "OK"
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Rodilla",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nRodilla\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSnack smart, spend less! Enjoy 2 cold sandwiches & a drink for just \u00a35.90. Opening offer!\nUnbeatable offer! Choose Focaccia & 2 cold sandwiches & a drink - all for \u00a311.95!\nTop Selling Items\nOpening Offers!\nCold Sandwich Platters\nMenu Deals\nBreakfasts and Afternoon Snacks\nGourmet Toasts\nHot Sandwiches\nGourmet Sandwiches\nHot Focaccias\nGourmet Focaccias\nWraps\nCold Sandwiches - Served on White Bread\nCold Sandwiches - Served on Wholemeal Bread\nCold Sandwiches - Served on White Bread with Poppy Seeds\nSalads\nGluten-Free\nChildren's Menu Deals\nSpecial Teas- Served Hot or Cold\nHot Drinks\nCold Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHot Chicken Club Sandwich\n\u00a36.50\n4 Cold Sandwiches + a drink of your choice\n\u00a39.75\nSriracha Chicken Wrap\n\u00a38.00\nChicken, Mustard and Honey Hot Focaccia\n\u00a37.15\nCold Sandwich-Tuna and Tomato Sandwich served on White Bread\nA sandwich unit is a slice/half of a full sandwich. Original white bread with tuna and tomato cream.\n\u00a32.10\nOpening Offers!\nEach sandwich unit is a slice/half of a full sandwich\nSnack Deal: 2 Cold Sandwiches + a drink of your choice\n\u00a35.90\nCombo Principal: Hot Sandwich\nChoose from our Hot Cuban or Club Sandwich and select a drink of your choice\n\u00a37.75\nCombo Principal: Hot Focaccia\nChoose from our delicious Focaccia: Mozzarella and Sun-dried Tomato, Chicken, Mustard and Honey, Roasted Beef or Benedict Egg. Served with a drink of your choice.\n\u00a37.75\nCombo Principal: Serrano Ham Wrap or Baguette\nChoose from a Serrano Ham Wrap or Baguette. Served with a drink of your choice.\n\u00a37.75\nCold Sandwich Platters\nEach sandwich unit is a slice/half of a full sandwich\nPlatter of 12 cold Sandwiches\nEach sa",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nRodilla\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSnack smart, spend less! Enjoy 2 cold sandwiches & a drink for just \u00a35.90. Opening offer!\nUnbeatable offer! Choose Focaccia & 2 cold sandwiches & a drink - all for \u00a311.95!\nTop Selling Items\nOpening Offers!\nCold Sandwich Platters\nMenu Deals\nBreakfasts and Afternoon Snacks\nGourmet Toasts\nHot Sandwiches\nGourmet Sandwiches\nHot Focaccias\nGourmet Focaccias\nWraps\nCold Sandwiches - Served on White Bread\nCold Sandwiches - Served on Wholemeal Bread\nCold Sandwiches - Served on White Bread with Poppy Seeds\nSalads\nGluten-Free\nChildren's Menu Deals\nSpecial Teas- Served Hot or Cold\nHot Drinks\nCold Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHot Chicken Club Sandwich\n\u00a36.50\n4 Cold Sandwiches + a drink of your choice\n\u00a39.75\nSriracha Chicken Wrap\n\u00a38.00\nChicken, Mustard and Honey Hot Focaccia\n\u00a37.15\nCold Sandwich-Tuna and Tomato Sandwich served on White Bread\nA sandwich unit is a slice/half of a full sandwich. Original white bread with tuna and tomato cream.\n\u00a32.10\nOpening Offers!\nEach sandwich unit is a slice/half of a full sandwich\nSnack Deal: 2 Cold Sandwiches + a drink of your choice\n\u00a35.90\nCombo Principal: Hot Sandwich\nChoose from our Hot Cuban or Club Sandwich and select a drink of your choice\n\u00a37.75\nCombo Principal: Hot Focaccia\nChoose from our delicious Focaccia: Mozzarella and Sun-dried Tomato, Chicken, Mustard and Honey, Roasted Beef or Benedict Egg. Served with a drink of your choice.\n\u00a37.75\nCombo Principal: Serrano Ham Wrap or Baguette\nChoose from a Serrano Ham Wrap or Baguette. Served with a drink of your choice.\n\u00a37.75\nCold Sandwich Platters\nEach sandwich unit is a slice/half of a full sandwich\nPlatter of 12 cold Sandwiches\nEach sa",
-            "notices": [
-              {
-                "text": "Coca Cola Zero Sugar can 33cl\n1\nAdd to order\n\u00a32.85",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.85"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nRodilla\nBasket\nCollection or Delivery\nYour order\nCoca Cola Zero Sugar can 33cl\n\u00a32.85\n1\nSubtotal\n\u00a32.85\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.14\nAdd special instructions\nCheckout\nSnack smart, spend less! Enjoy 2 cold sandwiches & a drink for just \u00a35.90. Opening offer!\nUnbeatable offer! Choose Focaccia & 2 cold sandwiches & a drink - all for \u00a311.95!\nTop Selling Items\nOpening Offers!\nCold Sandwich Platters\nMenu Deals\nBreakfasts and Afternoon Snacks\nGourmet Toasts\nHot Sandwiches\nGourmet Sandwiches\nHot Focaccias\nGourmet Focaccias\nWraps\nCold Sandwiches - Served on White Bread\nCold Sandwiches - Served on Wholemeal Bread\nCold Sandwiches - Served on White Bread with Poppy Seeds\nSalads\nGluten-Free\nChildren's Menu Deals\nSpecial Teas- Served Hot or Cold\nHot Drinks\nCold Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHot Chicken Club Sandwich\n\u00a36.50\n4 Cold Sandwiches + a drink of your choice\n\u00a39.75\nSriracha Chicken Wrap\n\u00a38.00\nChicken, Mustard and Honey Hot Focaccia\n\u00a37.15\nCold Sandwich-Tuna and Tomato Sandwich served on White Bread\nA sandwich unit is a slice/half of a full sandwich. Original white bread with tuna and tomato cream.\n\u00a32.10\nOpening Offers!\nEach sandwich unit is a slice/half of a full sandwich\nSnack Deal: 2 Cold Sandwiches + a drink of your choice\n\u00a35.90\nCombo Principal: Hot Sandwich\nChoose from our Hot Cuban or Club Sandwich and select a drink of your choice\n\u00a37.75\nCombo Principal: Hot Focaccia\nChoose from our delicious Focaccia: Mozzarella and Sun-dried Tomato, Chicken, Mustard and Honey, Roasted Beef or Benedict Egg. Served with a drink of your choice.\n\u00a37.75\nCombo Principal: Serrano Ham Wrap or Baguette\nChoose from a Serrano Ham Wrap or Baguette. Served with a drink of your choice.",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola Zero Sugar can 33cl",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Costa Coffee",
-      "status": "open",
+      "status": "unknown",
       "notice": "",
       "notice_transcript": [
         {
@@ -240,11 +113,6 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
@@ -252,76 +120,11 @@
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nAutumn\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\nOut of stock\nAutumn\nPumpkin Spiced Latte\nA smooth and creamy latte with the comforting flavours of pumpkin and warming autumn spices, perfectly blended with rich espresso and silky steamed milk. Finished with a delicate layer of foam, its a cosy seasonal favourite that brings a little taste of autumn to every sip. Please note: Served without whipped cream.\n\u00a34.35\nPumpkin Spiced Iced Latte\nA refreshing twist on an autumn favourite! Rich espresso blended with creamy milk, sweet pumpkin flavour and warming seasonal spices, served over ice for a smooth and deliciously refreshing treat. Please note: Served without whipped",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nAutumn\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\nOut of stock\nAutumn\nPumpkin Spiced Latte\nA smooth and creamy latte with the comforting flavours of pumpkin and warming autumn spices, perfectly blended with rich espresso and silky steamed milk. Finished with a delicate layer of foam, its a cosy seasonal favourite that brings a little taste of autumn to every sip. Please note: Served without whipped cream.\n\u00a34.35\nPumpkin Spiced Iced Latte\nA refreshing twist on an autumn favourite! Rich espresso blended with creamy milk, sweet pumpkin flavour and warming seasonal spices, served over ice for a smooth and deliciously refreshing treat. Please note: Served without whipped",
-            "notices": [
-              {
-                "text": "Coca Cola Pet 50\n1\nAdd to order\n\u00a32.35",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.35"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola Pet 50\n\u00a32.35\n1\nSubtotal\n\u00a32.35\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.64\nAdd special instructions\nCheckout\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nAutumn\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\nOut of stock\nAutumn\nPumpkin Spiced Latte\nA smooth and creamy latte with the comforting flavours of pumpkin and warming autumn spices, perfectly blended with rich espresso and silky steamed milk. Finished with a delicate layer of foam, its a cosy seasonal favourite that brings a little taste of autumn to every sip. Please note: Served without whipped cream.\n\u00a34.35\nPumpkin Spiced Iced Latte\nA refreshing twist on an autumn favourite! Rich espresso blended with creamy milk, sweet pumpkin flavour and warming seasona",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola Pet 50",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+        "passed": false,
+        "steps": [],
+        "item": null,
+        "reason": "no eligible simple item or addition to basket could not be verified"
       }
-    },
-    {
-      "name": "Hotel Chocolat",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "covered_buttons": [
-            "Reject non-essential",
-            "OK"
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
     },
     {
       "name": "Piece Of Cake",
@@ -411,14 +214,284 @@
         "item": "Pepsi Can",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "The Portuguese Nata",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a32.50\nPopular Breaks\nEach Popular Break includes 1 drink & 1 Pastel de Nata. Make it a m",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a32.50\nPopular Breaks\nEach Popular Break includes 1 drink & 1 Pastel de Nata. Make it a m",
+            "notices": [
+              {
+                "text": "Box of 4 Past\u00e9is de Nata\n\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\n1\nAdd to order\n\u00a39.80",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a39.80"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\nYour order\nBox of 4 Past\u00e9is de Nata\n\u00a39.80\n1\nSubtotal\n\u00a39.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a313.09\nAdd special instructions\nCheckout\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\n1\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\n1\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread wit",
+            "notices": []
+          }
+        ],
+        "item": "Box of 4 Past\u00e9is de Nata",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Vinopolis Drinks & Wines",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "",
+              "buttons": [],
+              "has_inputs": false
+            },
+            {
+              "text": "Alcohol Awareness\nPlease be aware you need to be 18 years old or over to purchase this product. If you cannot prove your age upon collection you may not be able to collect your purchase\nContinue",
+              "buttons": [
+                "Continue"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": false,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSavor the rich taste of Glen Moray Classic for \u00a324.70! The perfect pour for every evening.\nSavor the fresh and lively Torres Moscatel Floralis for only \u00a310.25!\nTop Selling Items\nVermouth\nChampagne\nBritish Sparkling\nProsecco\nWhite Wines\nRose Wines\nRed Wines\nSweet Wines\nSherry and Port\nGin\nWhisky\nRum\nVodka\nCognac\nBrandy\nOther Spirits & Liqueurs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMontecillo Reserva\nRioja, Spain\n\u00a316.80\nYellow Tail Merlot\nAustralia\n\u00a312.90\nCasal Garcia Blanco Vinho Verde\nPortugal\n\u00a36.36\nSeptima Malbec\nMendoza Argentina\n\u00a321.30\nMarques de Caceres Reserva\nRioja, Spain\n\u00a318.00\nVermouth\nCinzano Rosso\n1 Litre\n\u00a310.80\nCinzano 1757 Dry vermouth\n1 Litre\n\u00a317.50\nChampagne\nLanson Brut Champagne\n\u00a348.70\nLanson Rose Champagne\n\u00a376.00\nMoet & Chandon Brut Champagne\n\u00a364.50\nMoet Chandon Rose Champagne\n\u00a363.50\nBesserat De Bellefon Cuvee Des Moines Brut Champagne\n\u00a356.20\nBesserat de Bellefon Cuvee Des Moines Sec Gold Champagne\n\u00a362.00\nLaurent Perrier Rose Champagne\n\u00a3113.50\nLouis Roederer Brut Champagne\n\u00a360.00\nBesserat de Bellefon Cuvee Des Moines Rose Champagne\n\u00a359.00\nBritish Sparkling\nWyfold British Sparking\nUK\n\u00a332.40\nProsecco\nGemma Di Luna Moscato Sparkling\nItaly\n\u00a39.95\nVoga Prosecco\nItaly\n\u00a311.60\nTeresa Rizzi Prosecco\nItaly\n\u00a311.03\nLamberti Prosecco extra dry\n\u00a39.80\nWhite Wines\nYellow Tail Chardonnay\nAustralia\n\u00a312.90\nSunday Bay Sauvignon Blanc\nNew Zealand\n\u00a316.20\nFortant Sauvignon Blanc\nFrance\n\u00a38.40\nLe Grand Chai Bordeaux Blanc\nFrance\n\u00a311.70\nPierre Brecht Riesling, Alsace\nFrance\n\u00a317.90\nVoga Moscato Frizzante\nItaly\n\u00a39.10\nVoga Pinot Grigio\nItaly\n\u00a39.40\nCa Montini Pinot Grigio\nTrentino, Italy\n\u00a312.40\nBolla Pinot Grigio Delle Venezie\nVeneto, Italy\n\u00a39.00\nFontana",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSavor the rich taste of Glen Moray Classic for \u00a324.70! The perfect pour for every evening.\nSavor the fresh and lively Torres Moscatel Floralis for only \u00a310.25!\nTop Selling Items\nVermouth\nChampagne\nBritish Sparkling\nProsecco\nWhite Wines\nRose Wines\nRed Wines\nSweet Wines\nSherry and Port\nGin\nWhisky\nRum\nVodka\nCognac\nBrandy\nOther Spirits & Liqueurs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMontecillo Reserva\nRioja, Spain\n\u00a316.80\nYellow Tail Merlot\nAustralia\n\u00a312.90\nCasal Garcia Blanco Vinho Verde\nPortugal\n\u00a36.36\nSeptima Malbec\nMendoza Argentina\n\u00a321.30\nMarques de Caceres Reserva\nRioja, Spain\n\u00a318.00\nVermouth\nCinzano Rosso\n1 Litre\n\u00a310.80\nCinzano 1757 Dry vermouth\n1 Litre\n\u00a317.50\nChampagne\nLanson Brut Champagne\n\u00a348.70\nLanson Rose Champagne\n\u00a376.00\nMoet & Chandon Brut Champagne\n\u00a364.50\nMoet Chandon Rose Champagne\n\u00a363.50\nBesserat De Bellefon Cuvee Des Moines Brut Champagne\n\u00a356.20\nBesserat de Bellefon Cuvee Des Moines Sec Gold Champagne\n\u00a362.00\nLaurent Perrier Rose Champagne\n\u00a3113.50\nLouis Roederer Brut Champagne\n\u00a360.00\nBesserat de Bellefon Cuvee Des Moines Rose Champagne\n\u00a359.00\nBritish Sparkling\nWyfold British Sparking\nUK\n\u00a332.40\nProsecco\nGemma Di Luna Moscato Sparkling\nItaly\n\u00a39.95\nVoga Prosecco\nItaly\n\u00a311.60\nTeresa Rizzi Prosecco\nItaly\n\u00a311.03\nLamberti Prosecco extra dry\n\u00a39.80\nWhite Wines\nYellow Tail Chardonnay\nAustralia\n\u00a312.90\nSunday Bay Sauvignon Blanc\nNew Zealand\n\u00a316.20\nFortant Sauvignon Blanc\nFrance\n\u00a38.40\nLe Grand Chai Bordeaux Blanc\nFrance\n\u00a311.70\nPierre Brecht Riesling, Alsace\nFrance\n\u00a317.90\nVoga Moscato Frizzante\nItaly\n\u00a39.10\nVoga Pinot Grigio\nItaly\n\u00a39.40\nCa Montini Pinot Grigio\nTrentino, Italy\n\u00a312.40\nBolla Pinot Grigio Delle Venezie\nVeneto, Italy\n\u00a39.00\nFontana",
+            "notices": [
+              {
+                "text": "Montecillo Reserva\n\nRioja, Spain\n\n1\nAdd to order\n\u00a316.80",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a316.80"
+                ],
+                "has_inputs": false
+              }
+            ]
+          }
+        ],
+        "item": "Montecillo Reserva",
+        "reason": "notices or ordering unavailable after adding"
+      }
+    },
+    {
+      "name": "Beeyo",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yogurt\nFrozen Yoghurt Specials\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.12\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.12\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.90\nFrozen Yogurt\nBuild Your Own Natural Frozen Yogurt\nFrozen Yogurt - 500ml\nChoose up to 3 toppings from our delicious selection of chocolates, biscuits, fruits, sauces and crunchy favourites. Want more? Extra toppings are available for a",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yogurt\nFrozen Yoghurt Specials\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.12\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.12\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.90\nFrozen Yogurt\nBuild Your Own Natural Frozen Yogurt\nFrozen Yogurt - 500ml\nChoose up to 3 toppings from our delicious selection of chocolates, biscuits, fruits, sauces and crunchy favourites. Want more? Extra toppings are available for a",
+            "notices": [
+              {
+                "text": "Coca Cola\n1\nAdd to order\n\u00a32.00",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.00"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yogurt\nFrozen Yoghurt Specials\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.12\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.12\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.90\nFrozen Yogurt\nBuild Your Own Natural Frozen Yogurt\nFrozen Yogurt - 500ml\nChoose up to 3 toppings from our delicious selection of choco",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-21T22:07:43.008964+02:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (22:07)",
-      "delivered_at": "2026-10-21T22:08:16.884803+02:00"
-    },
     {
       "id": "2026-10-21T22:09:43.011076+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (22:09)",
@@ -913,13 +986,18 @@
       "id": "monitor:2026-10-23T17:30:31.866893+02:00:failed",
       "subject": "Competitor Watch: monitoring problem",
       "delivered_at": "2026-10-23T17:32:17.662519+02:00"
+    },
+    {
+      "id": "monitor:2026-10-23T17:32:31.867037+02:00:restored",
+      "subject": "Competitor Watch: monitoring restored",
+      "delivered_at": "2026-10-23T17:34:22.069404+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-23T17:28:31.935532+02:00",
+  "last_confirmed_at": "2026-10-23T17:32:31.935155+02:00",
   "last_sample_check": {
-    "at": "2026-10-23T17:28:31.935532+02:00",
+    "at": "2026-10-23T17:32:31.935155+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
