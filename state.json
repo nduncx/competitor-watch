@@ -630,7 +630,7 @@
   "last_result": "closed",
   "last_confirmed_at": "2026-10-23T19:20:47.107327+02:00",
   "last_sample_check": {
-    "at": "2026-10-23T19:22:47.104506+02:00",
+    "at": "2026-10-23T19:24:49.417678+02:00",
     "eligible": false,
     "exclusions_confirmed": false,
     "venues": [
@@ -648,10 +648,6 @@
       },
       {
         "name": "Starbucks",
-        "status": "unknown"
-      },
-      {
-        "name": "OAKBERRY",
         "status": "closed"
       }
     ]
