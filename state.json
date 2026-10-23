@@ -630,13 +630,13 @@
   "last_result": "closed",
   "last_confirmed_at": "2026-10-23T20:07:55.297839+02:00",
   "last_sample_check": {
-    "at": "2026-10-23T20:09:55.296166+02:00",
+    "at": "2026-10-23T20:12:34.128077+02:00",
     "eligible": false,
     "exclusions_confirmed": false,
     "venues": [
       {
         "name": "Essaouira",
-        "status": "unknown"
+        "status": "closed"
       },
       {
         "name": "OAKBERRY",
@@ -644,18 +644,10 @@
       },
       {
         "name": "The Star Bar",
-        "status": "closed"
+        "status": "unknown"
       },
       {
         "name": "Ramsons Watergardens",
-        "status": "unknown"
-      },
-      {
-        "name": "Boss Kitchen",
-        "status": "unknown"
-      },
-      {
-        "name": "Salt n Pepper Kitchen",
         "status": "closed"
       }
     ]
