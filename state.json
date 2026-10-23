@@ -126,11 +126,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-10-21T22:19:43.009999+02:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (22:19)",
-      "delivered_at": "2026-10-21T22:20:17.330126+02:00"
-    },
-    {
       "id": "2026-10-21T22:21:43.010496+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (22:21)",
       "delivered_at": "2026-10-21T22:22:18.095197+02:00"
@@ -624,14 +619,38 @@
       "id": "2026-10-23T19:32:49.416950+02:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (19:32)",
       "delivered_at": "2026-10-23T19:33:29.388419+02:00"
+    },
+    {
+      "id": "monitor:2026-10-23T19:34:49.374193+02:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-10-23T19:36:10.461283+02:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
   "last_confirmed_at": "2026-10-23T19:32:49.416950+02:00",
   "last_sample_check": {
-    "at": "2026-10-23T19:32:49.416950+02:00",
-    "eligible": true
+    "at": "2026-10-23T19:34:49.419337+02:00",
+    "eligible": false,
+    "exclusions_confirmed": false,
+    "venues": [
+      {
+        "name": "Essaouira",
+        "status": "closed"
+      },
+      {
+        "name": "Royal Calpe",
+        "status": "closed"
+      },
+      {
+        "name": "Starbucks",
+        "status": "unknown"
+      },
+      {
+        "name": "OAKBERRY",
+        "status": "closed"
+      }
+    ]
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
