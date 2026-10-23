@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-23T19:16:35.174287+02:00",
+  "last_observed_at": "2026-10-23T19:18:47.109509+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -271,158 +271,6 @@
       "notice_transcript": [
         {
           "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Pepsi\n1\nAdd to order\n\u00a32.40",
-              "buttons": [
-                "",
-                "",
-                "",
-                "Add to order\n\u00a32.40"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": false,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of slow cooked roast turkey breast, gravy and a mix of vegetable\n\u00a317.95\nMixed Roast\none slice of eac",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of slow cooked roast turkey breast, gravy and a mix of vegetable\n\u00a317.95\nMixed Roast\none slice of eac",
-            "notices": [
-              {
-                "text": "Pepsi\n1\nAdd to order\n\u00a32.40",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.40"
-                ],
-                "has_inputs": false
-              }
-            ]
-          }
-        ],
-        "item": "Pepsi",
-        "reason": "notices or ordering unavailable after adding"
-      }
-    },
-    {
-      "name": "Starbucks",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": false,
-        "steps": [],
-        "item": null,
-        "reason": "no eligible simple item or addition to basket could not be verified"
-      }
-    },
-    {
-      "name": "OAKBERRY",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
           "notices": []
         }
       ],
@@ -433,17 +281,17 @@
       "basket_probe": {}
     },
     {
-      "name": "The Star Bar",
-      "status": "open",
-      "notice": "",
+      "name": "Starbucks",
+      "status": "closed",
+      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
               "buttons": [
-                "OK"
+                "GOT IT"
               ],
               "has_inputs": false
             },
@@ -458,68 +306,16 @@
               "has_inputs": false
             }
           ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
+          "covered_buttons": [
+            "Reject non-essential"
+          ]
         }
       ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy two satisfying Full English Breakfasts for only \u00a325.95 - a great deal for a great meal!\nIndulge in a delicious Toastie with Three Fillings of your choice all for just \u00a36.90!\nTop Selling Items\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nBreakfast Menu\nStarters\nMains\nBurgers & Wraps\nPastas\nSalads\nHome Baked Rolls or Freshly Cut Sandwiches\nSide Dishes\nKids Menu\nHomemade Desserts\nSoft Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRos\u00e9 Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12pm\nAmerican Style Nachos\nJalapenos, Mexican tomato sauce & cheddar cheese\n\u00a39.50\nVegetarian\nChicken Wings\nWith sour cream - 7 pieces\n\u00a38.95\nBritish Fish & Chips - Our Most Popular Dish\n12 oz Atlantic cod fillet coated in a light beer batter, served with hand cut chips, peas & tartar sauce\n\u00a317.95\nSignature Star Burger\nFresh minced beef steak, Manchego cheese, Serrano ham, roast pepper & mayo served with hand cut chips.\n\u00a316.95\nCrispy Duck and Hoisin Wrap\nSpinach, red onion, cucumber, Hoisin mayo & hand cut chips\n\u00a315.95\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nIt's what we are famous for! Available All Day, Every day\n2 Full English Breakfasts Only for \u00a319.50\nTwo fried eggs, two rashers of Danish bacon, two pork sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans with traditional black pudding & toast.\n\u00a319.50\nBreakfast Menu\nAvailable until 12pm\nAward Winning Star Bar Breakfast\nTwo fried eggs, two rashers of Danish bacon, two Cumberland sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans & toast. Its what we are famous for!\n\u00a311.95\nEarly Starter\nHalf sized breakfast for the smaller app",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy two satisfying Full English Breakfasts for only \u00a325.95 - a great deal for a great meal!\nIndulge in a delicious Toastie with Three Fillings of your choice all for just \u00a36.90!\nTop Selling Items\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nBreakfast Menu\nStarters\nMains\nBurgers & Wraps\nPastas\nSalads\nHome Baked Rolls or Freshly Cut Sandwiches\nSide Dishes\nKids Menu\nHomemade Desserts\nSoft Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRos\u00e9 Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12pm\nAmerican Style Nachos\nJalapenos, Mexican tomato sauce & cheddar cheese\n\u00a39.50\nVegetarian\nChicken Wings\nWith sour cream - 7 pieces\n\u00a38.95\nBritish Fish & Chips - Our Most Popular Dish\n12 oz Atlantic cod fillet coated in a light beer batter, served with hand cut chips, peas & tartar sauce\n\u00a317.95\nSignature Star Burger\nFresh minced beef steak, Manchego cheese, Serrano ham, roast pepper & mayo served with hand cut chips.\n\u00a316.95\nCrispy Duck and Hoisin Wrap\nSpinach, red onion, cucumber, Hoisin mayo & hand cut chips\n\u00a315.95\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nIt's what we are famous for! Available All Day, Every day\n2 Full English Breakfasts Only for \u00a319.50\nTwo fried eggs, two rashers of Danish bacon, two pork sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans with traditional black pudding & toast.\n\u00a319.50\nBreakfast Menu\nAvailable until 12pm\nAward Winning Star Bar Breakfast\nTwo fried eggs, two rashers of Danish bacon, two Cumberland sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans & toast. Its what we are famous for!\n\u00a311.95\nEarly Starter\nHalf sized breakfast for the smaller app",
-            "notices": [
-              {
-                "text": "Coke 33cl\n1\nAdd to order\n\u00a32.60",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.60"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 33cl\n\u00a32.60\n1\nSubtotal\n\u00a32.60\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.89\nAdd special instructions\nCheckout\nEnjoy two satisfying Full English Breakfasts for only \u00a325.95 - a great deal for a great meal!\nIndulge in a delicious Toastie with Three Fillings of your choice all for just \u00a36.90!\nTop Selling Items\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nBreakfast Menu\nStarters\nMains\nBurgers & Wraps\nPastas\nSalads\nHome Baked Rolls or Freshly Cut Sandwiches\nSide Dishes\nKids Menu\nHomemade Desserts\nSoft Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRos\u00e9 Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12pm\nAmerican Style Nachos\nJalapenos, Mexican tomato sauce & cheddar cheese\n\u00a39.50\nVegetarian\nChicken Wings\nWith sour cream - 7 pieces\n\u00a38.95\nBritish Fish & Chips - Our Most Popular Dish\n12 oz Atlantic cod fillet coated in a light beer batter, served with hand cut chips, peas & tartar sauce\n\u00a317.95\nSignature Star Burger\nFresh minced beef steak, Manchego cheese, Serrano ham, roast pepper & mayo served with hand cut chips.\n\u00a316.95\nCrispy Duck and Hoisin Wrap\nSpinach, red onion, cucumber, Hoisin mayo & hand cut chips\n\u00a315.95\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nIt's what we are famous for! Available All Day, Every day\n2 Full English Breakfasts Only for \u00a319.50\nTwo fried eggs, two rashers of Danish bacon, two pork sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans with traditional black pudding & toast.\n\u00a319.50\nBreakfast Menu\nAvailable until 12pm\nAward Winning Star Bar Breakfast\nTwo fried eggs, two rashers of Danish bacon, two Cumberland sausages, sauteed mushrooms, grilled tomato, hash browns & baked bea",
-            "notices": []
-          }
-        ],
-        "item": "Coke 33cl",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
@@ -1026,9 +822,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-23T19:16:35.174287+02:00",
+  "last_confirmed_at": "2026-10-23T19:18:47.109509+02:00",
   "last_sample_check": {
-    "at": "2026-10-23T19:16:35.174287+02:00",
+    "at": "2026-10-23T19:18:47.109509+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
