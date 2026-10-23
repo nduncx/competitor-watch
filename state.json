@@ -630,7 +630,7 @@
   "last_result": "closed",
   "last_confirmed_at": "2026-10-23T19:32:49.416950+02:00",
   "last_sample_check": {
-    "at": "2026-10-23T19:34:49.419337+02:00",
+    "at": "2026-10-23T19:36:49.417530+02:00",
     "eligible": false,
     "exclusions_confirmed": false,
     "venues": [
@@ -640,11 +640,11 @@
       },
       {
         "name": "Royal Calpe",
-        "status": "closed"
+        "status": "unknown"
       },
       {
         "name": "Starbucks",
-        "status": "unknown"
+        "status": "closed"
       },
       {
         "name": "OAKBERRY",
