@@ -630,13 +630,13 @@
   "last_result": "closed",
   "last_confirmed_at": "2026-10-23T19:20:47.107327+02:00",
   "last_sample_check": {
-    "at": "2026-10-23T19:24:49.417678+02:00",
+    "at": "2026-10-23T19:26:49.418106+02:00",
     "eligible": false,
     "exclusions_confirmed": false,
     "venues": [
       {
         "name": "Essaouira",
-        "status": "unknown"
+        "status": "closed"
       },
       {
         "name": "Jury`s",
@@ -644,7 +644,7 @@
       },
       {
         "name": "Royal Calpe",
-        "status": "closed"
+        "status": "unknown"
       },
       {
         "name": "Starbucks",
