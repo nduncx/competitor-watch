@@ -1085,8 +1085,31 @@
   "last_result": "open",
   "last_confirmed_at": "2026-10-23T19:55:18.579993+02:00",
   "last_sample_check": {
-    "at": "2026-10-23T19:55:18.579993+02:00",
-    "eligible": true
+    "at": "2026-10-23T19:59:23.384675+02:00",
+    "eligible": false,
+    "exclusions_confirmed": false,
+    "venues": [
+      {
+        "name": "Essaouira",
+        "status": "closed"
+      },
+      {
+        "name": "Royal Calpe",
+        "status": "unknown"
+      },
+      {
+        "name": "OAKBERRY",
+        "status": "closed"
+      },
+      {
+        "name": "The Star Bar",
+        "status": "unknown"
+      },
+      {
+        "name": "Ramsons Watergardens",
+        "status": "unknown"
+      }
+    ]
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
