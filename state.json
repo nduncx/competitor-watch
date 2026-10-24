@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-24T23:03:02.639253+02:00",
+  "last_observed_at": "2026-10-24T23:05:02.635841+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -918,9 +918,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-24T23:03:02.639253+02:00",
+  "last_confirmed_at": "2026-10-24T23:05:02.635841+02:00",
   "last_sample_check": {
-    "at": "2026-10-24T23:03:02.639253+02:00",
+    "at": "2026-10-24T23:05:02.635841+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
