@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-24T12:29:13.889465+02:00",
+  "last_observed_at": "2026-10-24T12:31:13.889558+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,95 +176,6 @@
       }
     },
     {
-      "name": "Papichurro",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.70\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.70\nPapitas Portion x12\n\u00a34.70\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.70\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.70\nPapitas Portion x12\n\u00a34.70\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb\nCoca Cola\n1\nAdd to order\n\u00a32.00",
-            "notices": [
-              {
-                "text": "Coca Cola\n1\nAdd to order\n\u00a32.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.70\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.70\nPapitas Portion x12\n\u00a34.70\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\n1\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "The Portuguese Nata",
       "status": "open",
       "notice": "",
@@ -350,6 +261,192 @@
           }
         ],
         "item": "Box of 4 Past\u00e9is de Nata",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Vinopolis Drinks & Wines",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "",
+              "buttons": [],
+              "has_inputs": false
+            },
+            {
+              "text": "Alcohol Awareness\nPlease be aware you need to be 18 years old or over to purchase this product. If you cannot prove your age upon collection you may not be able to collect your purchase\nContinue",
+              "buttons": [
+                "Continue"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": false,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSavor the rich taste of Glen Moray Classic for \u00a324.70! The perfect pour for every evening.\nSavor the fresh and lively Torres Moscatel Floralis for only \u00a310.25!\nTop Selling Items\nVermouth\nChampagne\nBritish Sparkling\nProsecco\nWhite Wines\nRose Wines\nRed Wines\nSweet Wines\nSherry and Port\nGin\nWhisky\nRum\nVodka\nCognac\nBrandy\nOther Spirits & Liqueurs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMontecillo Reserva\nRioja, Spain\n\u00a316.80\nYellow Tail Merlot\nAustralia\n\u00a312.90\nCasal Garcia Blanco Vinho Verde\nPortugal\n\u00a36.36\nSeptima Malbec\nMendoza Argentina\n\u00a321.30\nMarques de Caceres Reserva\nRioja, Spain\n\u00a318.00\nVermouth\nCinzano Rosso\n1 Litre\n\u00a310.80\nCinzano 1757 Dry vermouth\n1 Litre\n\u00a317.50\nChampagne\nLanson Brut Champagne\n\u00a348.70\nLanson Rose Champagne\n\u00a376.00\nMoet & Chandon Brut Champagne\n\u00a364.50\nMoet Chandon Rose Champagne\n\u00a363.50\nBesserat De Bellefon Cuvee Des Moines Brut Champagne\n\u00a356.20\nBesserat de Bellefon Cuvee Des Moines Sec Gold Champagne\n\u00a362.00\nLaurent Perrier Rose Champagne\n\u00a3113.50\nLouis Roederer Brut Champagne\n\u00a360.00\nBesserat de Bellefon Cuvee Des Moines Rose Champagne\n\u00a359.00\nBritish Sparkling\nWyfold British Sparking\nUK\n\u00a332.40\nProsecco\nGemma Di Luna Moscato Sparkling\nItaly\n\u00a39.95\nVoga Prosecco\nItaly\n\u00a311.60\nTeresa Rizzi Prosecco\nItaly\n\u00a311.03\nLamberti Prosecco extra dry\n\u00a39.80\nWhite Wines\nYellow Tail Chardonnay\nAustralia\n\u00a312.90\nSunday Bay Sauvignon Blanc\nNew Zealand\n\u00a316.20\nFortant Sauvignon Blanc\nFrance\n\u00a38.40\nLe Grand Chai Bordeaux Blanc\nFrance\n\u00a311.70\nPierre Brecht Riesling, Alsace\nFrance\n\u00a317.90\nVoga Moscato Frizzante\nItaly\n\u00a39.10\nVoga Pinot Grigio\nItaly\n\u00a39.40\nCa Montini Pinot Grigio\nTrentino, Italy\n\u00a312.40\nBolla Pinot Grigio Delle Venezie\nVeneto, Italy\n\u00a39.00\nFontana",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSavor the rich taste of Glen Moray Classic for \u00a324.70! The perfect pour for every evening.\nSavor the fresh and lively Torres Moscatel Floralis for only \u00a310.25!\nTop Selling Items\nVermouth\nChampagne\nBritish Sparkling\nProsecco\nWhite Wines\nRose Wines\nRed Wines\nSweet Wines\nSherry and Port\nGin\nWhisky\nRum\nVodka\nCognac\nBrandy\nOther Spirits & Liqueurs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMontecillo Reserva\nRioja, Spain\n\u00a316.80\nYellow Tail Merlot\nAustralia\n\u00a312.90\nCasal Garcia Blanco Vinho Verde\nPortugal\n\u00a36.36\nSeptima Malbec\nMendoza Argentina\n\u00a321.30\nMarques de Caceres Reserva\nRioja, Spain\n\u00a318.00\nVermouth\nCinzano Rosso\n1 Litre\n\u00a310.80\nCinzano 1757 Dry vermouth\n1 Litre\n\u00a317.50\nChampagne\nLanson Brut Champagne\n\u00a348.70\nLanson Rose Champagne\n\u00a376.00\nMoet & Chandon Brut Champagne\n\u00a364.50\nMoet Chandon Rose Champagne\n\u00a363.50\nBesserat De Bellefon Cuvee Des Moines Brut Champagne\n\u00a356.20\nBesserat de Bellefon Cuvee Des Moines Sec Gold Champagne\n\u00a362.00\nLaurent Perrier Rose Champagne\n\u00a3113.50\nLouis Roederer Brut Champagne\n\u00a360.00\nBesserat de Bellefon Cuvee Des Moines Rose Champagne\n\u00a359.00\nBritish Sparkling\nWyfold British Sparking\nUK\n\u00a332.40\nProsecco\nGemma Di Luna Moscato Sparkling\nItaly\n\u00a39.95\nVoga Prosecco\nItaly\n\u00a311.60\nTeresa Rizzi Prosecco\nItaly\n\u00a311.03\nLamberti Prosecco extra dry\n\u00a39.80\nWhite Wines\nYellow Tail Chardonnay\nAustralia\n\u00a312.90\nSunday Bay Sauvignon Blanc\nNew Zealand\n\u00a316.20\nFortant Sauvignon Blanc\nFrance\n\u00a38.40\nLe Grand Chai Bordeaux Blanc\nFrance\n\u00a311.70\nPierre Brecht Riesling, Alsace\nFrance\n\u00a317.90\nVoga Moscato Frizzante\nItaly\n\u00a39.10\nVoga Pinot Grigio\nItaly\n\u00a39.40\nCa Montini Pinot Grigio\nTrentino, Italy\n\u00a312.40\nBolla Pinot Grigio Delle Venezie\nVeneto, Italy\n\u00a39.00\nFontana",
+            "notices": [
+              {
+                "text": "Montecillo Reserva\n\nRioja, Spain\n\n1\nAdd to order\n\u00a316.80",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a316.80"
+                ],
+                "has_inputs": false
+              }
+            ]
+          }
+        ],
+        "item": "Montecillo Reserva",
+        "reason": "notices or ordering unavailable after adding"
+      }
+    },
+    {
+      "name": "Gibraltar Tea Company",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFuel your day with our top-selling All Day Fried Breakfast - a hearty feast for just \u00a36.50!\nEnjoy our homemade scones with Gibraltar Cream Tea - scones, jam, clotted cream & tea from \u00a38.75!\nTop Selling Items\nAll Day Breakfast\nSandwiches & Toasties\nMeals\nCakes & Scones\nTea\nCoffee\nHot Chocolate\nChai Lattes\nCold Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAll Day Fried Breakfast\nEnglish sausage, smoked bacon, hash brown, egg (fried or scrambled), baked beans, fried tomato, toast (white or brown)\n\u00a36.50\nTriple Stack BLT\nA Triple Stack BLT sandwich WITH, bacon, tomato & lettuce layers. Optional twice cooked chips.\n\u00a39.50\nBurger & Chips\nBurger, served in a brioche bun with salad, accompanied with our famous twice cooked chips. Choose extra toppings and dips.\n\u00a39.75\nHomemade Scones\nOur famous homemade scones, served with your choice of filling, including: Clotted Cream, Strawberry Jam, butter\n\u00a33.75\nHomemade Scones with Clotted Cream & Strawberry Jam\nOur famous homemade scones, served with Clotted Cream & Strawberry Jam\n\u00a35.75\nAll Day Breakfast\nEnjoy any of our breakfasts all day! Available 9am - 15pm\nAll Day Fried Breakfast\nEnglish sausage, smoked bacon, hash brown, egg (fried or scrambled), baked beans, fried tomato, toast (white or brown)\n\u00a36.50\nBreakfast Baguette\nChoose the filling of your choice, all served in a freshly baked crusty baguette.\n\u00a35.75\nBreakfast Sandwich\nSandwich with the breakfast filling of your choice. Brown, white or gluten free bread (please note our sausages are not gluten free)\n\u00a35.75\nClassic French Toast x2\nx2 pieces of classic French toast, choose white, brown or gluten free bread.\n\u00a36.50\nFrench Toast with Cinnamon",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFuel your day with our top-selling All Day Fried Breakfast - a hearty feast for just \u00a36.50!\nEnjoy our homemade scones with Gibraltar Cream Tea - scones, jam, clotted cream & tea from \u00a38.75!\nTop Selling Items\nAll Day Breakfast\nSandwiches & Toasties\nMeals\nCakes & Scones\nTea\nCoffee\nHot Chocolate\nChai Lattes\nCold Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAll Day Fried Breakfast\nEnglish sausage, smoked bacon, hash brown, egg (fried or scrambled), baked beans, fried tomato, toast (white or brown)\n\u00a36.50\nTriple Stack BLT\nA Triple Stack BLT sandwich WITH, bacon, tomato & lettuce layers. Optional twice cooked chips.\n\u00a39.50\nBurger & Chips\nBurger, served in a brioche bun with salad, accompanied with our famous twice cooked chips. Choose extra toppings and dips.\n\u00a39.75\nHomemade Scones\nOur famous homemade scones, served with your choice of filling, including: Clotted Cream, Strawberry Jam, butter\n\u00a33.75\nHomemade Scones with Clotted Cream & Strawberry Jam\nOur famous homemade scones, served with Clotted Cream & Strawberry Jam\n\u00a35.75\nAll Day Breakfast\nEnjoy any of our breakfasts all day! Available 9am - 15pm\nAll Day Fried Breakfast\nEnglish sausage, smoked bacon, hash brown, egg (fried or scrambled), baked beans, fried tomato, toast (white or brown)\n\u00a36.50\nBreakfast Baguette\nChoose the filling of your choice, all served in a freshly baked crusty baguette.\n\u00a35.75\nBreakfast Sandwich\nSandwich with the breakfast filling of your choice. Brown, white or gluten free bread (please note our sausages are not gluten free)\n\u00a35.75\nClassic French Toast x2\nx2 pieces of classic French toast, choose white, brown or gluten free bread.\n\u00a36.50\nFrench Toast with Cinnamon",
+            "notices": [
+              {
+                "text": "Coke - classic\n1\nAdd to order\n\u00a32.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke - classic\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nFuel your day with our top-selling All Day Fried Breakfast - a hearty feast for just \u00a36.50!\nEnjoy our homemade scones with Gibraltar Cream Tea - scones, jam, clotted cream & tea from \u00a38.75!\nTop Selling Items\nAll Day Breakfast\nSandwiches & Toasties\nMeals\nCakes & Scones\nTea\nCoffee\nHot Chocolate\nChai Lattes\nCold Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAll Day Fried Breakfast\nEnglish sausage, smoked bacon, hash brown, egg (fried or scrambled), baked beans, fried tomato, toast (white or brown)\n\u00a36.50\nTriple Stack BLT\nA Triple Stack BLT sandwich WITH, bacon, tomato & lettuce layers. Optional twice cooked chips.\n\u00a39.50\nBurger & Chips\nBurger, served in a brioche bun with salad, accompanied with our famous twice cooked chips. Choose extra toppings and dips.\n\u00a39.75\nHomemade Scones\nOur famous homemade scones, served with your choice of filling, including: Clotted Cream, Strawberry Jam, butter\n\u00a33.75\nHomemade Scones with Clotted Cream & Strawberry Jam\nOur famous homemade scones, served with Clotted Cream & Strawberry Jam\n\u00a35.75\nAll Day Breakfast\nEnjoy any of our breakfasts all day! Available 9am - 15pm\nAll Day Fried Breakfast\nEnglish sausage, smoked bacon, hash brown, egg (fried or scrambled), baked beans, fried tomato, toast (white or brown)\n\u00a36.50\nBreakfast Baguette\nChoose the filling of your choice, all served in a freshly baked crusty baguette.\n\u00a35.75\nBreakfast Sandwich\nSandwich with the breakfast filling of your choice. Brown, white or gluten free bread (please note our sausages are not gluten free)\n\u00a35.75\nClassic French Toast x2\nx2 ",
+            "notices": []
+          }
+        ],
+        "item": "Coke - classic",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +955,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-24T12:29:13.889465+02:00",
+  "last_confirmed_at": "2026-10-24T12:31:13.889558+02:00",
   "last_sample_check": {
-    "at": "2026-10-24T12:29:13.889465+02:00",
+    "at": "2026-10-24T12:31:13.889558+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
