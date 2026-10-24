@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-24T09:11:13.876907+02:00",
+  "last_observed_at": "2026-10-24T09:13:13.875688+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -244,22 +244,6 @@
     },
     {
       "name": "The Portuguese Nata",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Cafe Louis",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -318,20 +302,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nSparkling Wine\nTop Selling Items\nWines\nCoffee & Tea\nBreads\nSalads\nCakes & Desserts\nWater\nLunch Sandwiches\nTea\nBreakfast Menu\nBeers & Ciders\nEnd of the Day Mystery Boxes\nCoffee & Tea (Delta Go-Chill)\nViennoiserie & Danish Pastry\nWaffles & Other Sweets\nJuices\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\n\u00a34.00\nPlain Sourdough 500gr\n\u00a33.75\nSourdough 800gr\n\u00a35.75\nMultiseed bread\nbread loaf with pumpkin seed, chia seed, oats, sesame seed, sunflower seed, flax seed.\nOut of stock\nLarge Baguette\n\u00a31.60\nPlain Sourdough 1kg\n\u00a36.75\nRye Bread\n80% Rye flour bread\nOut of stock\nCiabatta\n\u00a30.90\nMulti-Seeds Campagne\n\u00a33.50\nWalnut Sourdough\nOut of stock\nPan de Campagne Bread\n\u00a33.50\nSalads\nCaesar salad\nlettuce, chicken, bacon, par",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a32.50\nPopular Breaks\nEach Popular Break includes 1 drink & 1 Pastel de Nata. Make it a m",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nSparkling Wine\nTop Selling Items\nWines\nCoffee & Tea\nBreads\nSalads\nCakes & Desserts\nWater\nLunch Sandwiches\nTea\nBreakfast Menu\nBeers & Ciders\nEnd of the Day Mystery Boxes\nCoffee & Tea (Delta Go-Chill)\nViennoiserie & Danish Pastry\nWaffles & Other Sweets\nJuices\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\n\u00a34.00\nPlain Sourdough 500gr\n\u00a33.75\nSourdough 800gr\n\u00a35.75\nMultiseed bread\nbread loaf with pumpkin seed, chia seed, oats, sesame seed, sunflower seed, flax seed.\nOut of stock\nLarge Baguette\n\u00a31.60\nPlain Sourdough 1kg\n\u00a36.75\nRye Bread\n80% Rye flour bread\nOut of stock\nCiabatta\n\u00a30.90\nMulti-Seeds Campagne\n\u00a33.50\nWalnut Sourdough\nOut of stock\nPan de Campagne Bread\n\u00a33.50\nSalads\nCaesar salad\nlettuce, chicken, bacon, par",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a32.50\nPopular Breaks\nEach Popular Break includes 1 drink & 1 Pastel de Nata. Make it a m",
             "notices": [
               {
-                "text": "Coke\n\nCan\n\n1\nAdd to order\n\u00a32.30",
+                "text": "Box of 4 Past\u00e9is de Nata\n\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\n1\nAdd to order\n\u00a39.80",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.30"
+                  "Add to order\n\u00a39.80"
                 ],
                 "has_inputs": false
               }
@@ -339,11 +323,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.30\n1\nSubtotal\n\u00a32.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.59\nAdd special instructions\nCheckout\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nSparkling Wine\nTop Selling Items\nWines\nCoffee & Tea\nBreads\nSalads\nCakes & Desserts\nWater\nLunch Sandwiches\nTea\nBreakfast Menu\nBeers & Ciders\nEnd of the Day Mystery Boxes\nCoffee & Tea (Delta Go-Chill)\nViennoiserie & Danish Pastry\nWaffles & Other Sweets\nJuices\nSoft Drinks\n1\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\n\u00a34.00\nPlain Sourdough 500gr\n\u00a33.75\nSourdough 800gr\n\u00a35.75\nMultiseed bread\nbread loaf with pumpkin seed, chia seed, oats, sesame seed, sunflower seed, flax seed.\nOut of stock\nLarge Baguette\n\u00a31.60\nPlain Sourdough 1kg\n\u00a36.75\nRye Bread\n80% Rye flour bread\nOut of stock\nCiabatta\n\u00a30.90\nMulti-Seeds Campagne\n\u00a33.50\nWalnut S",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\nYour order\nBox of 4 Past\u00e9is de Nata\n\u00a39.80\n1\nSubtotal\n\u00a39.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a313.09\nAdd special instructions\nCheckout\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\n1\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\n1\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread wit",
             "notices": []
           }
         ],
-        "item": "Coke",
+        "item": "Box of 4 Past\u00e9is de Nata",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -852,9 +836,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-24T09:11:13.876907+02:00",
+  "last_confirmed_at": "2026-10-24T09:13:13.875688+02:00",
   "last_sample_check": {
-    "at": "2026-10-24T09:11:13.876907+02:00",
+    "at": "2026-10-24T09:13:13.875688+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
