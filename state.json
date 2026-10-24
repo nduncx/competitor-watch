@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-24T20:59:02.627627+02:00",
+  "last_observed_at": "2026-10-24T21:01:02.626532+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,95 +176,6 @@
       }
     },
     {
-      "name": "Special Olympics Cafe",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nMeatballs in Mushroom Sauce Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.80\nNacho Cheese Triangles: Crispy Triangles 4u\n\u00a33.80\nSide Serving of Rice\n\u00a31.50\nBBQ Sauce\n\u00a31.25\nKetchup\n\u00a31.",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nMeatballs in Mushroom Sauce Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.80\nNacho Cheese Triangles: Crispy Triangles 4u\n\u00a33.80\nSide Serving of Rice\n\u00a31.50\nBBQ Sauce\n\u00a31.25\nKetchup\n\u00a31.",
-            "notices": [
-              {
-                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.30",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.30"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.30\n1\nSubtotal\n\u00a31.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.59\nAdd special instructions\nCheckout\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nMeatballs in Mushroom Sauce Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.8",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola 33cl",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Vinopolis Gastrobar",
       "status": "open",
       "notice": "",
@@ -346,6 +257,95 @@
           {
             "phase": "basket_added",
             "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a33.10\n1\nSubtotal\n\u00a33.10\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.39\nAdd special instructions\nCheckout\nStart with our delicious Argentinean Pasties, served with tangy chimichurri sauce, for just \u00a38.14!\nIndulge in our Secreti Oberico, with mixed vegetables, chips & rich gaucha sauce just \u00a326.21!\nTop Selling Items\nTo Begin - Para Empezar\nVegetables - Vegetales\nFrom The Land - De La Tierra\nFrom the Sea - Del Mar\nDesserts - Postres\nSoft Drinks\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nSelection of mini hamburgers\nSelecci\u00f3n de mini hamburguesas .\n\u00a320.00\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nGrilled octopus platter\nPulpo al piment\u00f3n.\n\u00a313.60\nTo Begin - Para Empezar\nAubergine mousse with bread\nMousse de berenjena con pan\n\u00a38.14\nTandoori wings with yogurt, mint and cucumber dip\nAlitas de pollo tandoori con salsa de yogur, menta y pepino.\n\u00a38.80\nHomemade beef croquettes\nCroquetas caseras de ternera.\n\u00a36.94\nVeggie croquettes with sweet chili sauce\nCroquetas veganas con salsa de chili dulce.\n\u00a37.50\nArgentinean pasties served with gaucha sauce\nEmpanadillas Argentinas con salsa gaucha\n\u00a38.14\nVegetables - Vegetales\nCauliflower with pomegranate and tahini sauce\nColiflor con granada y salsa de tahini.\n\u00a313.06\nGoat cheese walnut and apple salad\nEnsalada de queso de cabra con nueces y manzana.\n\u00a316.54\nGoat cheese risotto with saut\u00e9ed asparagus\nRisotto de queso de cabra y esp\u00e1rragos.\n\u00a316.54\nCourgette and onion tortilla with ali oli sauce\nTortilla de calabacin y c",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Ace Burgers",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nFor the first 3 days of Opening\n2-4-1! A's Double Cheese & Bacon Smash Burger! Order One Receive Two!\nTwo 6oz beef smash patties grilled with juicy caramelize",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nFor the first 3 days of Opening\n2-4-1! A's Double Cheese & Bacon Smash Burger! Order One Receive Two!\nTwo 6oz beef smash patties grilled with juicy caramelize",
+            "notices": [
+              {
+                "text": "Pepsi\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nFor the first 3 days of Opening\n2-4-1! A's Double Cheese & Ba",
             "notices": []
           }
         ],
@@ -858,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-24T20:59:02.627627+02:00",
+  "last_confirmed_at": "2026-10-24T21:01:02.626532+02:00",
   "last_sample_check": {
-    "at": "2026-10-24T20:59:02.627627+02:00",
+    "at": "2026-10-24T21:01:02.626532+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
