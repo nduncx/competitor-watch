@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-24T12:59:13.892638+02:00",
+  "last_observed_at": "2026-10-24T13:01:13.893309+02:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,192 +176,6 @@
       }
     },
     {
-      "name": "The Portuguese Nata",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a32.50\nPopular Breaks\nEach Popular Break includes 1 drink & 1 Pastel de Nata. Make it a m",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a32.50\nPopular Breaks\nEach Popular Break includes 1 drink & 1 Pastel de Nata. Make it a m",
-            "notices": [
-              {
-                "text": "Box of 4 Past\u00e9is de Nata\n\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\n1\nAdd to order\n\u00a39.80",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a39.80"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\nYour order\nBox of 4 Past\u00e9is de Nata\n\u00a39.80\n1\nSubtotal\n\u00a39.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a313.09\nAdd special instructions\nCheckout\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\n1\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\n1\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread wit",
-            "notices": []
-          }
-        ],
-        "item": "Box of 4 Past\u00e9is de Nata",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Vinopolis Drinks & Wines",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "",
-              "buttons": [],
-              "has_inputs": false
-            },
-            {
-              "text": "Alcohol Awareness\nPlease be aware you need to be 18 years old or over to purchase this product. If you cannot prove your age upon collection you may not be able to collect your purchase\nContinue",
-              "buttons": [
-                "Continue"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": false,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSavor the rich taste of Glen Moray Classic for \u00a324.70! The perfect pour for every evening.\nSavor the fresh and lively Torres Moscatel Floralis for only \u00a310.25!\nTop Selling Items\nVermouth\nChampagne\nBritish Sparkling\nProsecco\nWhite Wines\nRose Wines\nRed Wines\nSweet Wines\nSherry and Port\nGin\nWhisky\nRum\nVodka\nCognac\nBrandy\nOther Spirits & Liqueurs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMontecillo Reserva\nRioja, Spain\n\u00a316.80\nYellow Tail Merlot\nAustralia\n\u00a312.90\nCasal Garcia Blanco Vinho Verde\nPortugal\n\u00a36.36\nSeptima Malbec\nMendoza Argentina\n\u00a321.30\nMarques de Caceres Reserva\nRioja, Spain\n\u00a318.00\nVermouth\nCinzano Rosso\n1 Litre\n\u00a310.80\nCinzano 1757 Dry vermouth\n1 Litre\n\u00a317.50\nChampagne\nLanson Brut Champagne\n\u00a348.70\nLanson Rose Champagne\n\u00a376.00\nMoet & Chandon Brut Champagne\n\u00a364.50\nMoet Chandon Rose Champagne\n\u00a363.50\nBesserat De Bellefon Cuvee Des Moines Brut Champagne\n\u00a356.20\nBesserat de Bellefon Cuvee Des Moines Sec Gold Champagne\n\u00a362.00\nLaurent Perrier Rose Champagne\n\u00a3113.50\nLouis Roederer Brut Champagne\n\u00a360.00\nBesserat de Bellefon Cuvee Des Moines Rose Champagne\n\u00a359.00\nBritish Sparkling\nWyfold British Sparking\nUK\n\u00a332.40\nProsecco\nGemma Di Luna Moscato Sparkling\nItaly\n\u00a39.95\nVoga Prosecco\nItaly\n\u00a311.60\nTeresa Rizzi Prosecco\nItaly\n\u00a311.03\nLamberti Prosecco extra dry\n\u00a39.80\nWhite Wines\nYellow Tail Chardonnay\nAustralia\n\u00a312.90\nSunday Bay Sauvignon Blanc\nNew Zealand\n\u00a316.20\nFortant Sauvignon Blanc\nFrance\n\u00a38.40\nLe Grand Chai Bordeaux Blanc\nFrance\n\u00a311.70\nPierre Brecht Riesling, Alsace\nFrance\n\u00a317.90\nVoga Moscato Frizzante\nItaly\n\u00a39.10\nVoga Pinot Grigio\nItaly\n\u00a39.40\nCa Montini Pinot Grigio\nTrentino, Italy\n\u00a312.40\nBolla Pinot Grigio Delle Venezie\nVeneto, Italy\n\u00a39.00\nFontana",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSavor the rich taste of Glen Moray Classic for \u00a324.70! The perfect pour for every evening.\nSavor the fresh and lively Torres Moscatel Floralis for only \u00a310.25!\nTop Selling Items\nVermouth\nChampagne\nBritish Sparkling\nProsecco\nWhite Wines\nRose Wines\nRed Wines\nSweet Wines\nSherry and Port\nGin\nWhisky\nRum\nVodka\nCognac\nBrandy\nOther Spirits & Liqueurs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMontecillo Reserva\nRioja, Spain\n\u00a316.80\nYellow Tail Merlot\nAustralia\n\u00a312.90\nCasal Garcia Blanco Vinho Verde\nPortugal\n\u00a36.36\nSeptima Malbec\nMendoza Argentina\n\u00a321.30\nMarques de Caceres Reserva\nRioja, Spain\n\u00a318.00\nVermouth\nCinzano Rosso\n1 Litre\n\u00a310.80\nCinzano 1757 Dry vermouth\n1 Litre\n\u00a317.50\nChampagne\nLanson Brut Champagne\n\u00a348.70\nLanson Rose Champagne\n\u00a376.00\nMoet & Chandon Brut Champagne\n\u00a364.50\nMoet Chandon Rose Champagne\n\u00a363.50\nBesserat De Bellefon Cuvee Des Moines Brut Champagne\n\u00a356.20\nBesserat de Bellefon Cuvee Des Moines Sec Gold Champagne\n\u00a362.00\nLaurent Perrier Rose Champagne\n\u00a3113.50\nLouis Roederer Brut Champagne\n\u00a360.00\nBesserat de Bellefon Cuvee Des Moines Rose Champagne\n\u00a359.00\nBritish Sparkling\nWyfold British Sparking\nUK\n\u00a332.40\nProsecco\nGemma Di Luna Moscato Sparkling\nItaly\n\u00a39.95\nVoga Prosecco\nItaly\n\u00a311.60\nTeresa Rizzi Prosecco\nItaly\n\u00a311.03\nLamberti Prosecco extra dry\n\u00a39.80\nWhite Wines\nYellow Tail Chardonnay\nAustralia\n\u00a312.90\nSunday Bay Sauvignon Blanc\nNew Zealand\n\u00a316.20\nFortant Sauvignon Blanc\nFrance\n\u00a38.40\nLe Grand Chai Bordeaux Blanc\nFrance\n\u00a311.70\nPierre Brecht Riesling, Alsace\nFrance\n\u00a317.90\nVoga Moscato Frizzante\nItaly\n\u00a39.10\nVoga Pinot Grigio\nItaly\n\u00a39.40\nCa Montini Pinot Grigio\nTrentino, Italy\n\u00a312.40\nBolla Pinot Grigio Delle Venezie\nVeneto, Italy\n\u00a39.00\nFontana",
-            "notices": [
-              {
-                "text": "Montecillo Reserva\n\nRioja, Spain\n\n1\nAdd to order\n\u00a316.80",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a316.80"
-                ],
-                "has_inputs": false
-              }
-            ]
-          }
-        ],
-        "item": "Montecillo Reserva",
-        "reason": "notices or ordering unavailable after adding"
-      }
-    },
-    {
       "name": "Gibraltar Tea Company",
       "status": "open",
       "notice": "",
@@ -447,6 +261,95 @@
           }
         ],
         "item": "Coke - classic",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Sanu Brunch & Co",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nButter & Jam Toast\n\u00a32.50\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ha",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nButter & Jam Toast\n\u00a32.50\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ha",
+            "notices": [
+              {
+                "text": "Chicken Strips\nWould you like Sauce?\nAdd Gaucho Sauce\nAdd Mayo\nAdd Ketchup\nAdd Caesar Sauce\nAdd HP Sauce\nAdd BBQ Sauce\nAdd Yoghurt Sauce\nAdd Ali-Oli\nOut of stock\nAdd Queso Sauce\nWould you like some Savoury Extras?\nAdd Cheese\n\u00a31.00\nAdd Bacon\n\u00a31.00\nAdd Sausage\n\u00a31.00\nAdd Chicken\n\u00a31.00\nAdd Salmon\n\u00a31.00\nAdd Salad\n\u00a31.00\nAdd Scrambled Egg\n\u00a31.00\nAdd Poached Egg\n\u00a31.00\nAdd Fried Egg\n\u00a31.00\nAdd Ham\n\u00a31.00\nAdd Avocado\n\u00a31.00\nAdd Mushrooms\n\u00a31.00\nAdd Tuna\n\u00a31.00\nWould you like some Sweet Extras?\nAdd Nutella\n\u00a31.00\nAdd Kinder Bueno Sauce\n\u00a31.00\nAdd Kinder Bueno Bar\n\u00a31.00\nAdd Milky Way\n\u00a31.00\nAdd Maple Syrup\n\u00a31.00\nAdd Peanut Butter\n\u00a31.00\nAdd Strawberry Jam\n\u00a31.00\nAdd Butter\n\u00a31.00\nAdd Cream Cheese\n\u00a31.00\nAdd Honey\n\u00a31.00\nAdd Granola\n\u00a31.00\nAdd Fresh Fruits\n\u00a31.00\n1\nAdd to order\n\u00a36.95",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a36.95"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nChicken Strips\n\u00a36.95\n1\nSubtotal\n\u00a36.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a310.24\nAdd special instructions\nCheckout\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savo",
+            "notices": []
+          }
+        ],
+        "item": "Chicken Strips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -955,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-24T12:59:13.892638+02:00",
+  "last_confirmed_at": "2026-10-24T13:01:13.893309+02:00",
   "last_sample_check": {
-    "at": "2026-10-24T12:59:13.892638+02:00",
+    "at": "2026-10-24T13:01:13.893309+02:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
