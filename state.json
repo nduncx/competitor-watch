@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-25T19:47:41.002315+01:00",
+  "last_observed_at": "2026-10-25T19:49:41.001727+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,8 +177,8 @@
     },
     {
       "name": "Candy Castle",
-      "status": "unknown",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -218,19 +218,11 @@
         },
         {
           "step": 2,
-          "notices": [
-            {
-              "text": "Angel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ]
+          "notices": []
         }
       ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {}
@@ -918,9 +910,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-25T19:47:41.002315+01:00",
+  "last_confirmed_at": "2026-10-25T19:49:41.001727+01:00",
   "last_sample_check": {
-    "at": "2026-10-25T19:47:41.002315+01:00",
+    "at": "2026-10-25T19:49:41.001727+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
