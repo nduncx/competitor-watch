@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-25T20:57:41.002164+01:00",
+  "last_observed_at": "2026-10-25T20:59:41.002298+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,6 +177,162 @@
     },
     {
       "name": "Las Iguanas",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Special Olympics Cafe",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "The Lounge Gastro Bar",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Kick Ass Burritos",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -235,15 +391,15 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTAPAS AND SMALL PLATES\nTO SHARE\nMAINS\nBURGERS\nCURRIES\nNI\u00d1OS MEAL\nSIDES\nDIPS\nDESSERTS\nSOFT DRINKS\nALCOHOLIC DRINKS\nTAPAS AND SMALL PLATES\nPerfect as starters or choose a few to share\nP\u00c3O DE QUEIJO\nBrazilian cheese dough balls. with garlic butter\n\u00a36.50\nGluten FreeVegetarian\nPADR\u00d3N PEPPERS\nFried green padron peppers, with sea salt\n\u00a35.50\nVegetarian\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamole, salsa, jalape\u00f1os, spring onions, pickled red onions, chipotle cheese sauce, sour cream\n\u00a38.25\nVegetarian\nHOT HONEY FRIED HALLOUMI\nwith chilli flakes\n\u00a38.25\nGluten FreeVegetarian\nQUESADILLAS\nWith salsa\n\u00a38.25\nCALAMARES\nWith with garlic aioli.\n\u00a38.50\nSunshine Salad Tapas\nWatermelon, cucumber, fresh mint, mixed leaves, feta, cherry tomatoes, pineapple dressing\n\u00a37.50\nTACOS\nTwo soft flour tortillas filled with your choice of filling\n\u00a38.60\nBUTTERMILK FRIED CHICKEN\nAgave aioli, spring onions, pineapple citrus slaw\n\u00a38.95\nPATATAS BRAVAS\nFried potatoes, chipotle sauce, garlic aioli, spring onions\n\u00a37.50\nPlant BasedVegetarian\nROASTED RED PEPPER SALAD\nFresh red pepper salsa, cherry tomatoes, pink pickled onions, rocket, pumpkin seeds, pineapple dressing\n\u00a37.00\nCHICKEN WINGS\nMarinated wings with your choice of sauce.\n\u00a38.50\nEMPANADAS\nWith fresh salsa\n\u00a38.25\nVegetarian\nTO SHARE\nTHREE WAY WINGS\n21 wings served three ways: BBQ, Hot Honey and Cholula Hot Sauce\n\u00a322.50\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamo",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Chilli Burrito\nPacked full of veggies this chilli is a real hit\n\u00a37.50\nChicken Tinga Burrito\nShredded an",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTAPAS AND SMALL PLATES\nTO SHARE\nMAINS\nBURGERS\nCURRIES\nNI\u00d1OS MEAL\nSIDES\nDIPS\nDESSERTS\nSOFT DRINKS\nALCOHOLIC DRINKS\nTAPAS AND SMALL PLATES\nPerfect as starters or choose a few to share\nP\u00c3O DE QUEIJO\nBrazilian cheese dough balls. with garlic butter\n\u00a36.50\nGluten FreeVegetarian\nPADR\u00d3N PEPPERS\nFried green padron peppers, with sea salt\n\u00a35.50\nVegetarian\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamole, salsa, jalape\u00f1os, spring onions, pickled red onions, chipotle cheese sauce, sour cream\n\u00a38.25\nVegetarian\nHOT HONEY FRIED HALLOUMI\nwith chilli flakes\n\u00a38.25\nGluten FreeVegetarian\nQUESADILLAS\nWith salsa\n\u00a38.25\nCALAMARES\nWith with garlic aioli.\n\u00a38.50\nSunshine Salad Tapas\nWatermelon, cucumber, fresh mint, mixed leaves, feta, cherry tomatoes, pineapple dressing\n\u00a37.50\nTACOS\nTwo soft flour tortillas filled with your choice of filling\n\u00a38.60\nBUTTERMILK FRIED CHICKEN\nAgave aioli, spring onions, pineapple citrus slaw\n\u00a38.95\nPATATAS BRAVAS\nFried potatoes, chipotle sauce, garlic aioli, spring onions\n\u00a37.50\nPlant BasedVegetarian\nROASTED RED PEPPER SALAD\nFresh red pepper salsa, cherry tomatoes, pink pickled onions, rocket, pumpkin seeds, pineapple dressing\n\u00a37.00\nCHICKEN WINGS\nMarinated wings with your choice of sauce.\n\u00a38.50\nEMPANADAS\nWith fresh salsa\n\u00a38.25\nVegetarian\nTO SHARE\nTHREE WAY WINGS\n21 wings served three ways: BBQ, Hot Honey and Cholula Hot Sauce\n\u00a322.50\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamo",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Chilli Burrito\nPacked full of veggies this chilli is a real hit\n\u00a37.50\nChicken Tinga Burrito\nShredded an",
             "notices": [
               {
-                "text": "DIET COKE\n\ncan\n\n1\nAdd to order\n\u00a32.50",
+                "text": "Coca Cola\n\nCan139 kcal\n\n1\nAdd to order\n\u00a32.50",
                 "buttons": [
                   "",
                   "",
@@ -256,16 +412,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nDIET COKE\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nTAPAS AND SMALL PLATES\nTO SHARE\nMAINS\nBURGERS\nCURRIES\nNI\u00d1OS MEAL\nSIDES\nDIPS\nDESSERTS\nSOFT DRINKS\nALCOHOLIC DRINKS\nTAPAS AND SMALL PLATES\nPerfect as starters or choose a few to share\nP\u00c3O DE QUEIJO\nBrazilian cheese dough balls. with garlic butter\n\u00a36.50\nGluten FreeVegetarian\nPADR\u00d3N PEPPERS\nFried green padron peppers, with sea salt\n\u00a35.50\nVegetarian\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamole, salsa, jalape\u00f1os, spring onions, pickled red onions, chipotle cheese sauce, sour cream\n\u00a38.25\nVegetarian\nHOT HONEY FRIED HALLOUMI\nwith chilli flakes\n\u00a38.25\nGluten FreeVegetarian\nQUESADILLAS\nWith salsa\n\u00a38.25\nCALAMARES\nWith with garlic aioli.\n\u00a38.50\nSunshine Salad Tapas\nWatermelon, cucumber, fresh mint, mixed leaves, feta, cherry tomatoes, pineapple dressing\n\u00a37.50\nTACOS\nTwo soft flour tortillas filled with your choice of filling\n\u00a38.60\nBUTTERMILK FRIED CHICKEN\nAgave aioli, spring onions, pineapple citrus slaw\n\u00a38.95\nPATATAS BRAVAS\nFried potatoes, chipotle sauce, garlic aioli, spring onions\n\u00a37.50\nPlant BasedVegetarian\nROASTED RED PEPPER SALAD\nFresh red pepper salsa, cherry tomatoes, pink pickled onions, rocket, pumpkin seeds, pineapple dressing\n\u00a37.00\nCHICKEN WINGS\nMarinated wings with your choice of sauce.\n\u00a38.50\nEMPANADAS\nWith fresh salsa\n\u00a38.25\nVegetarian\nTO SHARE\nTHREE WAY WINGS\n21 wings served three ways: BBQ, Hot Honey and Cholula Hot Sauce\n\u00a322.50\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn to",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Ch",
             "notices": []
           }
         ],
-        "item": "DIET COKE",
+        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Special Olympics Cafe",
+      "name": "Panzerotto",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -324,20 +480,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nMeatballs in Mushroom Sauce Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.80\nNacho Cheese Triangles: Crispy Triangles 4u\n\u00a33.80\nSide Serving of Rice\n\u00a31.50\nBBQ Sauce\n\u00a31.25\nKetchup\n\u00a31.",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nSUNDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop pretending.\n\u00a311.99\nTHE HOLY TRINITY Panzerotto\nThree creams enter. One legend is born. Nutella. Pistachi",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nMeatballs in Mushroom Sauce Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.80\nNacho Cheese Triangles: Crispy Triangles 4u\n\u00a33.80\nSide Serving of Rice\n\u00a31.50\nBBQ Sauce\n\u00a31.25\nKetchup\n\u00a31.",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nSUNDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop pretending.\n\u00a311.99\nTHE HOLY TRINITY Panzerotto\nThree creams enter. One legend is born. Nutella. Pistachi",
             "notices": [
               {
-                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.30",
+                "text": "PEPSI - CAN\n\n33cl\n\n1\nAdd to order\n\u00a32.99",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.30"
+                  "Add to order\n\u00a32.99"
                 ],
                 "has_inputs": false
               }
@@ -345,11 +501,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.30\n1\nSubtotal\n\u00a31.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.59\nAdd special instructions\nCheckout\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nMeatballs in Mushroom Sauce Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.8",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPEPSI - CAN\n\u00a32.99\n1\nSubtotal\n\u00a32.99\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.28\nAdd special instructions\nCheckout\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nSUNDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop p",
             "notices": []
           }
         ],
-        "item": "Coca Cola 33cl",
+        "item": "PEPSI - CAN",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +1014,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-25T20:57:41.002164+01:00",
+  "last_confirmed_at": "2026-10-25T20:59:41.002298+01:00",
   "last_sample_check": {
-    "at": "2026-10-25T20:57:41.002164+01:00",
+    "at": "2026-10-25T20:59:41.002298+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
