@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-26T22:52:24.653771+01:00",
+  "last_observed_at": "2026-10-26T22:54:24.655139+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -266,8 +266,8 @@
     },
     {
       "name": "Dominos",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -308,50 +308,169 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry out our Delivery Only Deal: Get 2 medium pizzas for just \u00a323! Perfect for sharing\nDiscover our NEW Melon Diesel Pizza! \u00a31 of every pizza is donated to Cancer Relief!\nCraving something Sweet? Ben & Jerry's Buy 1 Get 1 Half Price 100ml only \u00a35.09!\nTop Selling Items\nDelivery Only Deal 2 Medium Pizzas For \u00a323\nSpecial Offers!\nHalf And Half Pizza\nBuild Your Own Pizza\nDeluxe Premium Pizzas\nClazzic's Pizzas\nVegan Pizzas\nDomino's Pizza Menu....These Prices are for Collection Instore only.\nSides\nDesserts\nDips\nDomino's Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n2 Medium Pizzas Delivery For \u00a323\nDelivery Only Offer 2 x Medium Pizzas\n\u00a323.00\nMargherita Medium\nTomato Sauce & 100% Mozzarella Cheese\n\u00a313.99\nTony Pepperoni Medium\nTomato sauce, extra 100% mozzarella cheese and double pepperoni\n\u00a314.99\nBuild Your Own Medium\nChoose your dough, base sauce and any number of toppings\n\u00a314.99\nChicken Combo X17 (New)\nA selection of our most famous side orders: Kickers, Strippers & Chicken Wings\n\u00a311.59\nDelivery Only Deal 2 Medium Pizzas For \u00a323\n2 Medium Pizzas Delivery For \u00a323\nDelivery Only Offer 2 x Medium Pizzas\n\u00a323.00\nSpecial Offers!\nChicken Combo X17 (New)\nA selection of our most famous side orders: Kickers, Strippers & Chicken Wings\n\u00a311.59\nChicken Wings Combo x 18 (New)\nChicken Wings 6x Cooked in bourbon, 6x Honey and Mustard, 6x BBQ Sauce\n\u00a311.59\nBen & Jerrys Buy 1 Get 1 Half Price\n500ml\n\u00a312.74\nBen & Jerrys Buy 1 Get 1 Half Price\n100ml\n\u00a35.09\n2 Lava Cakes for \u00a35.09\n\u00a35.59\nHalf And Half Pizza\nHalf And Half Medium\nHalf of one, half of another - best of both worlds\n\u00a313.99\nHalf and Half Family (Finizzima dough only)\nHalf of one, half of another - the best of both w",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry out our Delivery Only Deal: Get 2 medium pizzas for just \u00a323! Perfect for sharing\nDiscover our NEW Melon Diesel Pizza! \u00a31 of every pizza is donated to Cancer Relief!\nCraving something Sweet? Ben & Jerry's Buy 1 Get 1 Half Price 100ml only \u00a35.09!\nTop Selling Items\nDelivery Only Deal 2 Medium Pizzas For \u00a323\nSpecial Offers!\nHalf And Half Pizza\nBuild Your Own Pizza\nDeluxe Premium Pizzas\nClazzic's Pizzas\nVegan Pizzas\nDomino's Pizza Menu....These Prices are for Collection Instore only.\nSides\nDesserts\nDips\nDomino's Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n2 Medium Pizzas Delivery For \u00a323\nDelivery Only Offer 2 x Medium Pizzas\n\u00a323.00\nMargherita Medium\nTomato Sauce & 100% Mozzarella Cheese\n\u00a313.99\nTony Pepperoni Medium\nTomato sauce, extra 100% mozzarella cheese and double pepperoni\n\u00a314.99\nBuild Your Own Medium\nChoose your dough, base sauce and any number of toppings\n\u00a314.99\nChicken Combo X17 (New)\nA selection of our most famous side orders: Kickers, Strippers & Chicken Wings\n\u00a311.59\nDelivery Only Deal 2 Medium Pizzas For \u00a323\n2 Medium Pizzas Delivery For \u00a323\nDelivery Only Offer 2 x Medium Pizzas\n\u00a323.00\nSpecial Offers!\nChicken Combo X17 (New)\nA selection of our most famous side orders: Kickers, Strippers & Chicken Wings\n\u00a311.59\nChicken Wings Combo x 18 (New)\nChicken Wings 6x Cooked in bourbon, 6x Honey and Mustard, 6x BBQ Sauce\n\u00a311.59\nBen & Jerrys Buy 1 Get 1 Half Price\n500ml\n\u00a312.74\nBen & Jerrys Buy 1 Get 1 Half Price\n100ml\n\u00a35.09\n2 Lava Cakes for \u00a35.09\n\u00a35.59\nHalf And Half Pizza\nHalf And Half Medium\nHalf of one, half of another - best of both worlds\n\u00a313.99\nHalf and Half Family (Finizzima dough only)\nHalf of one, half of another - the best of both w",
-            "notices": [
-              {
-                "text": "Coca Cola\n\n33cl\n\n1\nAdd to order\n\u00a31.99",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.99"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a31.99\n1\nSubtotal\n\u00a31.99\nTotal\n\u00a31.99\nAdd special instructions\nCheckout\nTry out our Delivery Only Deal: Get 2 medium pizzas for just \u00a323! Perfect for sharing\nDiscover our NEW Melon Diesel Pizza! \u00a31 of every pizza is donated to Cancer Relief!\nCraving something Sweet? Ben & Jerry's Buy 1 Get 1 Half Price 100ml only \u00a35.09!\nTop Selling Items\nDelivery Only Deal 2 Medium Pizzas For \u00a323\nSpecial Offers!\nHalf And Half Pizza\nBuild Your Own Pizza\nDeluxe Premium Pizzas\nClazzic's Pizzas\nVegan Pizzas\nDomino's Pizza Menu....These Prices are for Collection Instore only.\nSides\nDesserts\nDips\nDomino's Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n2 Medium Pizzas Delivery For \u00a323\nDelivery Only Offer 2 x Medium Pizzas\n\u00a323.00\nMargherita Medium\nTomato Sauce & 100% Mozzarella Cheese\n\u00a313.99\nTony Pepperoni Medium\nTomato sauce, extra 100% mozzarella cheese and double pepperoni\n\u00a314.99\nBuild Your Own Medium\nChoose your dough, base sauce and any number of toppings\n\u00a314.99\nChicken Combo X17 (New)\nA selection of our most famous side orders: Kickers, Strippers & Chicken Wings\n\u00a311.59\nDelivery Only Deal 2 Medium Pizzas For \u00a323\n2 Medium Pizzas Delivery For \u00a323\nDelivery Only Offer 2 x Medium Pizzas\n\u00a323.00\nSpecial Offers!\nChicken Combo X17 (New)\nA selection of our most famous side orders: Kickers, Strippers & Chicken Wings\n\u00a311.59\nChicken Wings Combo x 18 (New)\nChicken Wings 6x Cooked in bourbon, 6x Honey and Mustard, 6x BBQ Sauce\n\u00a311.59\nBen & Jerrys Buy 1 Get 1 Half Price\n500ml\n\u00a312.74\nBen & Jerrys Buy 1 Get 1 Half Price\n100ml\n\u00a35.09\n2 Lava Cakes for \u00a35.09\n\u00a35.59\nHalf And Half Pizza\nHalf And Half Medium\nHalf of one, half of another - best of both worlds\n\u00a313.99\nHalf and Half Family (Finizzima dough o",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
+    },
+    {
+      "name": "Gills Indian & Italian Restaurant",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Koodle",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Shack 2",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
@@ -858,9 +977,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-26T22:52:24.653771+01:00",
+  "last_confirmed_at": "2026-10-26T22:54:24.655139+01:00",
   "last_sample_check": {
-    "at": "2026-10-26T22:52:24.653771+01:00",
+    "at": "2026-10-26T22:54:24.655139+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
