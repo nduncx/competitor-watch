@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-27T20:23:06.865739+01:00",
+  "last_observed_at": "2026-10-27T20:25:06.862074+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -323,44 +323,6 @@
     },
     {
       "name": "Haagen Dazs",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "covered_buttons": [
-            "Reject non-essential",
-            "OK"
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Las Iguanas",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -419,20 +381,72 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTAPAS AND SMALL PLATES\nTO SHARE\nMAINS\nBURGERS\nCURRIES\nNI\u00d1OS MEAL\nSIDES\nDIPS\nDESSERTS\nSOFT DRINKS\nALCOHOLIC DRINKS\nTAPAS AND SMALL PLATES\nPerfect as starters or choose a few to share\nP\u00c3O DE QUEIJO\nBrazilian cheese dough balls. with garlic butter\n\u00a36.50\nGluten FreeVegetarian\nPADR\u00d3N PEPPERS\nFried green padron peppers, with sea salt\n\u00a35.50\nVegetarian\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamole, salsa, jalape\u00f1os, spring onions, pickled red onions, chipotle cheese sauce, sour cream\n\u00a38.25\nVegetarian\nHOT HONEY FRIED HALLOUMI\nwith chilli flakes\n\u00a38.25\nGluten FreeVegetarian\nQUESADILLAS\nWith salsa\n\u00a38.25\nCALAMARES\nWith with garlic aioli.\n\u00a38.50\nSunshine Salad Tapas\nWatermelon, cucumber, fresh mint, mixed leaves, feta, cherry tomatoes, pineapple dressing\n\u00a37.50\nTACOS\nTwo soft flour tortillas filled with your choice of filling\n\u00a38.60\nBUTTERMILK FRIED CHICKEN\nAgave aioli, spring onions, pineapple citrus slaw\n\u00a38.95\nPATATAS BRAVAS\nFried potatoes, chipotle sauce, garlic aioli, spring onions\n\u00a37.50\nPlant BasedVegetarian\nROASTED RED PEPPER SALAD\nFresh red pepper salsa, cherry tomatoes, pink pickled onions, rocket, pumpkin seeds, pineapple dressing\n\u00a37.00\nCHICKEN WINGS\nMarinated wings with your choice of sauce.\n\u00a38.50\nEMPANADAS\nWith fresh salsa\n\u00a38.25\nVegetarian\nTO SHARE\nTHREE WAY WINGS\n21 wings served three ways: BBQ, Hot Honey and Cholula Hot Sauce\n\u00a322.50\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamo",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nBrownie Explosion Creation\n\u00a39.40\nCookie Crunch\u00a0Creation\n\u00a39.40\nMacadamia Crunch\u00a0Creation\n\u00a39.40\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nSweet Combos\nSweet Adiction Combo\n1 crepe, 1 tub of 250ml & 1 topping. Choose up to 2 Ice Cream flavours\n\u00a38.00\nIconic Combo\n1 tub of 500ml & 3 toppings, Choose up to 3 Ice Cream flavours\n\u00a312.90\nSpecial Combo\n2 tub of 500ml + 4 toppings. Choose up to 2 Ice Cream flavours\n\u00a321.90\nStick Bars\nSalted Car",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTAPAS AND SMALL PLATES\nTO SHARE\nMAINS\nBURGERS\nCURRIES\nNI\u00d1OS MEAL\nSIDES\nDIPS\nDESSERTS\nSOFT DRINKS\nALCOHOLIC DRINKS\nTAPAS AND SMALL PLATES\nPerfect as starters or choose a few to share\nP\u00c3O DE QUEIJO\nBrazilian cheese dough balls. with garlic butter\n\u00a36.50\nGluten FreeVegetarian\nPADR\u00d3N PEPPERS\nFried green padron peppers, with sea salt\n\u00a35.50\nVegetarian\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamole, salsa, jalape\u00f1os, spring onions, pickled red onions, chipotle cheese sauce, sour cream\n\u00a38.25\nVegetarian\nHOT HONEY FRIED HALLOUMI\nwith chilli flakes\n\u00a38.25\nGluten FreeVegetarian\nQUESADILLAS\nWith salsa\n\u00a38.25\nCALAMARES\nWith with garlic aioli.\n\u00a38.50\nSunshine Salad Tapas\nWatermelon, cucumber, fresh mint, mixed leaves, feta, cherry tomatoes, pineapple dressing\n\u00a37.50\nTACOS\nTwo soft flour tortillas filled with your choice of filling\n\u00a38.60\nBUTTERMILK FRIED CHICKEN\nAgave aioli, spring onions, pineapple citrus slaw\n\u00a38.95\nPATATAS BRAVAS\nFried potatoes, chipotle sauce, garlic aioli, spring onions\n\u00a37.50\nPlant BasedVegetarian\nROASTED RED PEPPER SALAD\nFresh red pepper salsa, cherry tomatoes, pink pickled onions, rocket, pumpkin seeds, pineapple dressing\n\u00a37.00\nCHICKEN WINGS\nMarinated wings with your choice of sauce.\n\u00a38.50\nEMPANADAS\nWith fresh salsa\n\u00a38.25\nVegetarian\nTO SHARE\nTHREE WAY WINGS\n21 wings served three ways: BBQ, Hot Honey and Cholula Hot Sauce\n\u00a322.50\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamo",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nBrownie Explosion Creation\n\u00a39.40\nCookie Crunch\u00a0Creation\n\u00a39.40\nMacadamia Crunch\u00a0Creation\n\u00a39.40\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nSweet Combos\nSweet Adiction Combo\n1 crepe, 1 tub of 250ml & 1 topping. Choose up to 2 Ice Cream flavours\n\u00a38.00\nIconic Combo\n1 tub of 500ml & 3 toppings, Choose up to 3 Ice Cream flavours\n\u00a312.90\nSpecial Combo\n2 tub of 500ml + 4 toppings. Choose up to 2 Ice Cream flavours\n\u00a321.90\nStick Bars\nSalted Car",
             "notices": [
               {
-                "text": "DIET COKE\n\ncan\n\n1\nAdd to order\n\u00a32.50",
+                "text": "Create Your Own Tub (500ml)\n\nChoose up to 2 Flavours\n\nChoose your 1st Ice Cream Flavour\nSelect 1 option\nAdd Cookies & Cream - 1st Flavour\nAdd Macadamia Nut Brittle - 1st Flavour\nAdd Vanilla - 1st Flavour\nAdd Salted Caramel - 1st Flavour\nAdd Strawberries & Cream - 1st Flavour\nAdd Vanilla Caramel Brownie - 1st Flavour\nAdd Strawberry Cheesecake - 1st Flavour\nAdd Pralines & Cream - 1st Flavour\nAdd Caramel Biscuit & Cream - 1st Flavour\nAdd Dulce de Leche - 1st Flavour\nAdd Coffee - 1st Flavour\nAdd Rum Raisin - 1st Flavour\nAdd Pistachio & Cream - 1st Flavour\nAdd Raspberry Sorbet - 1st Flavour\nAdd Mango Sorbet - 1st Flavour\nAdd Lemon Sorbet - 1st Flavour\nAdd Rome Tiramisu - 1st Flavour\nChoose your 2nd Ice Cream Flavour\nSelect 1 option\nAdd Cookies & Cream - 2nd Flavour\nAdd Macadamia Nut Brittle - 2nd Flavour\nAdd Vanilla - 2nd Flavour\nAdd Salted Caramel - 2nd Flavour\nAdd Strawberries & Cream - 2nd Flavour\nAdd Vanilla Caramel Brownie - 2nd Flavour\nAdd Pralines & Cream - 2nd Flavour\nAdd Caramel Biscuit & Cream - 2nd Flavour\nAdd Dulce de Leche - 2nd Flavour\nAdd Coffee - 2nd Flavour\nAdd Rum Raisin - 2nd Flavour\nAdd Pistachio & Cream - 2nd Flavour\nAdd Raspberry Sorbet - 2nd Flavour\nAdd Mango Sorbet - 2nd Flavour\nAdd Lemon Sorbet - 2nd Flavour\nAdd Rome Tiramisu - 2nd Flavour\nWould you like Extra Toppings?\nAdd Dark Chocolate Sauce\n\u00a31.00\nAdd Milk Chocolate Sauce\n\u00a31.00\nAdd Caramel Sauce\n\u00a31.00\nAdd Pistachio Sauce\n\u00a31.00\nAdd Tropical Fruit Coulis\n\u00a31.00\nAdd Red Fruit Coulis\n\u00a31.00\nAdd Mixed Seasonal Fruits\n\u00a31.00\nAdd Caramelised Hazelnut\n\u00a31.00\nAdd Crushed Peanut\n\u00a31.00\nAdd Crushed Speculous Biscuits\n\u00a31.00\nAdd Multi Coloured Milk Chocolate Beans\n\u00a31.00\nAdd Dark Chocolate Curls\n\u00a31.00\n1\nAdd to order\n\u00a38.90",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.50"
+                  "Add to order\n\u00a38.90"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "Create Your Own Tub (500ml)",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nBrownie Explosion Creation\n\u00a39.40\nCookie Crunch\u00a0Creation\n\u00a39.40\nMacadamia Crunch\u00a0Creation\n\u00a39.40\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nSweet Combos\nSweet Adiction Combo\n1 crepe, 1 tub of 250ml & 1 topping. Choose up to 2 Ice Cream flavours\n\u00a38.00\nIconic Combo\n1 tub of 500ml & 3 toppings, Choose up to 3 Ice Cream flavours\n\u00a312.90\nSpecial Combo\n2 tub of 500ml + 4 toppings. Choose up to 2 Ice Cream flavours\n\u00a321.90\nStick Bars\nSalted Car",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nBrownie Explosion Creation\n\u00a39.40\nCookie Crunch\u00a0Creation\n\u00a39.40\nMacadamia Crunch\u00a0Creation\n\u00a39.40\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nSweet Combos\nSweet Adiction Combo\n1 crepe, 1 tub of 250ml & 1 topping. Choose up to 2 Ice Cream flavours\n\u00a38.00\nIconic Combo\n1 tub of 500ml & 3 toppings, Choose up to 3 Ice Cream flavours\n\u00a312.90\nSpecial Combo\n2 tub of 500ml + 4 toppings. Choose up to 2 Ice Cream flavours\n\u00a321.90\nStick Bars\nSalted Car",
+            "notices": [
+              {
+                "text": "Create Your Own 1L Ice Cream\n\nChoose up to 4 Flavours\n\nChoose your 1st Ice Cream Flavour\nSelect 1 option\nAdd Cookies & Cream - 1st Flavour\nAdd Macadamia Nut Brittle - 1st Flavour\nAdd Vanilla - 1st Flavour\nAdd Salted Caramel - 1st Flavour\nAdd Strawberries & Cream - 1st Flavour\nAdd Vanilla Caramel Brownie - 1st Flavour\nAdd Strawberry Cheesecake - 1st Flavour\nAdd Pralines & Cream - 1st Flavour\nAdd Caramel Biscuit & Cream - 1st Flavour\nAdd Dulce de Leche - 1st Flavour\nAdd Coffee - 1st Flavour\nAdd Rum Raisin - 1st Flavour\nAdd Pistachio & Cream - 1st Flavour\nAdd Raspberry Sorbet - 1st Flavour\nAdd Mango Sorbet - 1st Flavour\nAdd Lemon Sorbet - 1st Flavour\nAdd Rome Tiramisu - 1st Flavour\nChoose your 2nd Ice Cream Flavour\nSelect 1 option\nAdd Cookies & Cream - 2nd Flavour\nAdd Macadamia Nut Brittle - 2nd Flavour\nAdd Vanilla - 2nd Flavour\nAdd Salted Caramel - 2nd Flavour\nAdd Strawberries & Cream - 2nd Flavour\nAdd Vanilla Caramel Brownie - 2nd Flavour\nAdd Pralines & Cream - 2nd Flavour\nAdd Caramel Biscuit & Cream - 2nd Flavour\nAdd Dulce de Leche - 2nd Flavour\nAdd Coffee - 2nd Flavour\nAdd Rum Raisin - 2nd Flavour\nAdd Pistachio & Cream - 2nd Flavour\nAdd Raspberry Sorbet - 2nd Flavour\nAdd Mango Sorbet - 2nd Flavour\nAdd Lemon Sorbet - 2nd Flavour\nAdd Rome Tiramisu - 2nd Flavour\nChoose your 3rd Ice Cream Flavour\nSelect 1 option\nAdd Cookies & Cream - 3rd Flavour\nAdd Macadamia Nut Brittle - 3rd Flavour\nAdd Vanilla - 3rd Flavour\nAdd Salted Caramel - 3rd Flavour\nAdd Strawberries & Cream - 3rd Flavour\nAdd Vanilla Caramel Brownie - 3rd Flavour\nAdd Pralines & Cream - 3rd Flavour\nAdd Caramel Biscuit & Cream - 3rd Flavour\nAdd Dulce de Leche - 3rd Flavour\nAdd Coffee - 3rd Flavour\nAdd Rum Raisin - 3rd Flavour\nAdd Pistachio & Cream - 3rd Flavour\nAdd Raspberry Sorbet - 3rd Flavour\nAdd Mango Sorbet - 3rd Flavour\nAdd Lemon Sorbet - 3rd Flavour\nAdd Rome Tiramisu - 3rd Flavour\nChoose your 4th Ice Cream Flavour\nSelect 1 option\nAdd Cookies & Cream - 4th Flavour\nAdd Macadamia Nut Brittle - 4th Flavour\nAdd Vanilla - 4th Flavour\nAdd Salted Caramel - 4th Flavour\nAdd Strawberries & Cream - 4th Flavour\nAdd Vanilla Caramel Brownie - 4th Flavour\nAdd Pralines & Cream - 4th Flavour\nAdd Caramel Biscuit & Cream - 4th Flavour\nAdd Dulce de Leche - 4th Flavour\nAdd Coffee - 4th Flavour\nAdd Rum Raisin - 4th Flavour\nAdd Pistachio & Cream - 4th Flavour\nAdd Raspberry Sorbet - 4th Flavour\nAdd Mango Sorbet - 4th Flavour\nAdd Lemon Sorbet - 4th Flavour\nAdd Rome Tiramisu - 4th Flavour\nWould you like Extra Toppings?\nAdd Dark Chocolate Sauce\n\u00a31.00\nAdd Milk Chocolate Sauce\n\u00a31.00\nAdd Caramel Sauce\n\u00a31.00\nAdd Pistachio Sauce\n\u00a31.00\nAdd Tropical Fruit Coulis\n\u00a31.00\nAdd Red Fruit Coulis\n\u00a31.00\nAdd Mixed Seasonal Fruits\n\u00a31.00\nAdd Caramelised Hazelnut\n\u00a31.00\nAdd Crushed Peanut\n\u00a31.00\nAdd Crushed Speculous Biscuits\n\u00a31.00\nAdd Multi Coloured Milk Chocolate Beans\n\u00a31.00\nAdd Dark Chocolate Curls\n\u00a31.00\n1\nAdd to order\n\u00a316.90",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a316.90"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "Create Your Own 1L Ice Cream",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nBrownie Explosion Creation\n\u00a39.40\nCookie Crunch\u00a0Creation\n\u00a39.40\nMacadamia Crunch\u00a0Creation\n\u00a39.40\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nSweet Combos\nSweet Adiction Combo\n1 crepe, 1 tub of 250ml & 1 topping. Choose up to 2 Ice Cream flavours\n\u00a38.00\nIconic Combo\n1 tub of 500ml & 3 toppings, Choose up to 3 Ice Cream flavours\n\u00a312.90\nSpecial Combo\n2 tub of 500ml + 4 toppings. Choose up to 2 Ice Cream flavours\n\u00a321.90\nStick Bars\nSalted Car",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nBrownie Explosion Creation\n\u00a39.40\nCookie Crunch\u00a0Creation\n\u00a39.40\nMacadamia Crunch\u00a0Creation\n\u00a39.40\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nSweet Combos\nSweet Adiction Combo\n1 crepe, 1 tub of 250ml & 1 topping. Choose up to 2 Ice Cream flavours\n\u00a38.00\nIconic Combo\n1 tub of 500ml & 3 toppings, Choose up to 3 Ice Cream flavours\n\u00a312.90\nSpecial Combo\n2 tub of 500ml + 4 toppings. Choose up to 2 Ice Cream flavours\n\u00a321.90\nStick Bars\nSalted Car",
+            "notices": [
+              {
+                "text": "2 Chocolate Cookies\nWould you like Extra Toppings?\nAdd Dark Chocolate Sauce\n\u00a31.00\nAdd Milk Chocolate Sauce\n\u00a31.00\nAdd Caramel Sauce\n\u00a31.00\nAdd Pistachio Sauce\n\u00a31.00\nAdd Tropical Fruit Coulis\n\u00a31.00\nAdd Red Fruit Coulis\n\u00a31.00\nAdd Mixed Seasonal Fruits\n\u00a31.00\nAdd Caramelised Hazelnut\n\u00a31.00\nAdd Crushed Peanut\n\u00a31.00\nAdd Crushed Speculous Biscuits\n\u00a31.00\nAdd Multi Coloured Milk Chocolate Beans\n\u00a31.00\nAdd Dark Chocolate Curls\n\u00a31.00\n1\nAdd to order\n\u00a35.40",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a35.40"
                 ],
                 "has_inputs": false
               }
@@ -440,11 +454,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nDIET COKE\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nTAPAS AND SMALL PLATES\nTO SHARE\nMAINS\nBURGERS\nCURRIES\nNI\u00d1OS MEAL\nSIDES\nDIPS\nDESSERTS\nSOFT DRINKS\nALCOHOLIC DRINKS\nTAPAS AND SMALL PLATES\nPerfect as starters or choose a few to share\nP\u00c3O DE QUEIJO\nBrazilian cheese dough balls. with garlic butter\n\u00a36.50\nGluten FreeVegetarian\nPADR\u00d3N PEPPERS\nFried green padron peppers, with sea salt\n\u00a35.50\nVegetarian\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamole, salsa, jalape\u00f1os, spring onions, pickled red onions, chipotle cheese sauce, sour cream\n\u00a38.25\nVegetarian\nHOT HONEY FRIED HALLOUMI\nwith chilli flakes\n\u00a38.25\nGluten FreeVegetarian\nQUESADILLAS\nWith salsa\n\u00a38.25\nCALAMARES\nWith with garlic aioli.\n\u00a38.50\nSunshine Salad Tapas\nWatermelon, cucumber, fresh mint, mixed leaves, feta, cherry tomatoes, pineapple dressing\n\u00a37.50\nTACOS\nTwo soft flour tortillas filled with your choice of filling\n\u00a38.60\nBUTTERMILK FRIED CHICKEN\nAgave aioli, spring onions, pineapple citrus slaw\n\u00a38.95\nPATATAS BRAVAS\nFried potatoes, chipotle sauce, garlic aioli, spring onions\n\u00a37.50\nPlant BasedVegetarian\nROASTED RED PEPPER SALAD\nFresh red pepper salsa, cherry tomatoes, pink pickled onions, rocket, pumpkin seeds, pineapple dressing\n\u00a37.00\nCHICKEN WINGS\nMarinated wings with your choice of sauce.\n\u00a38.50\nEMPANADAS\nWith fresh salsa\n\u00a38.25\nVegetarian\nTO SHARE\nTHREE WAY WINGS\n21 wings served three ways: BBQ, Hot Honey and Cholula Hot Sauce\n\u00a322.50\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn to",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n2 Chocolate Cookies\n\u00a35.40\n1\nSubtotal\n\u00a35.40\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a38.69\nAdd special instructions\nCheckout\nYour flavours, your rules! Create your own 1L Ice Cream tub for just \u00a316.90!\nExplore our Creations only from \u00a39.00! Different flavours like Cookie Crunch & more!\nTop Selling Items\nCreate Your Own Ice Cream of Ice Creams\nCreations\nIce Cream of Ice Creams\nPastries\nSweet Combos\nStick Bars\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\n1\n2 Chocolate Cookies\n\u00a35.40\n2 Waffles\n\u00a37.40\nBelgian Chocolate 460ml\n\u00a38.50\nCreate Your Own Ice Cream of Ice Creams\nCreate Your Own Tub (500ml)\nChoose up to 2 Flavours\n\u00a38.90\nCreate Your Own 1L Ice Cream\nChoose up to 4 Flavours\n\u00a316.90\nCreations\nBrownie Explosion Creation\n\u00a39.40\nCookie Crunch\u00a0Creation\n\u00a39.40\nMacadamia Crunch\u00a0Creation\n\u00a39.40\nIce Cream of Ice Creams\nClassic Flavours (460ml)\nBelgian Chocolate 460ml\n\u00a38.50\nCookies & Cream 460ml\n\u00a38.50\nMacadamia Nut Brittle 460ml\n\u00a38.50\nVanilla 460ml\n\u00a38.50\nSalted Caramel 460ml\n\u00a38.50\nStrawberries & Cream 460ml\n\u00a38.50\nVanilla Caramel Brownie 460ml\n\u00a38.50\nStrawberry Cheesecake 460ml\n\u00a38.50\nDulce de Leche 460ml\n\u00a38.50\nMango & Rasberry 460ml\n\u00a38.50\nGreen Tea 460ml\n\u00a38.50\nPastries\n2 Crepes\n\u00a37.40\n2 Waffles\n\u00a37.40\n2 Brownies\n\u00a35.90\n1\n2 Chocolate Cookies\n\u00a35.40\n2 Macadamia Cookies\n\u00a35.40\n2 Chocolate & Hazelnut Muffins\n\u00a35.90\nVegan Apple Pie\n\u00a34.90\nCheesecake\n\u00a34.90\n4 Layers chocolate cake\n\u00a34.90\nSweet Combos\nSweet Adiction Combo\n1 crepe, 1 tub of 250ml & 1 topping. Choose up to 2 Ice Cream flavours\n\u00a38.00\nIconic Combo\n1 tub of 500ml & 3 toppings, Choose up to 3 Ice Cream flavou",
             "notices": []
           }
         ],
-        "item": "DIET COKE",
+        "item": "2 Chocolate Cookies",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -953,9 +967,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-27T20:23:06.865739+01:00",
+  "last_confirmed_at": "2026-10-27T20:25:06.862074+01:00",
   "last_sample_check": {
-    "at": "2026-10-27T20:23:06.865739+01:00",
+    "at": "2026-10-27T20:25:06.862074+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
