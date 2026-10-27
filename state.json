@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-27T13:23:36.591427+01:00",
+  "last_observed_at": "2026-10-27T13:25:36.591205+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,6 +177,54 @@
     },
     {
       "name": "Sanu Brunch & Co",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Ace Burgers",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Birdie Cafe",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "El Refugio Takeaway",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -235,20 +283,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nButter & Jam Toast\n\u00a32.50\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ha",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nAmazing prices! Beef or American Burger with Chips & Drink only for \u00a39.15!\nGrab a fresh favourite - Serrano Ham, Tuna Vegetable Rolls & more from only \u00a34.90!\nTop Selling Items\nEspecial Dishes\nBreakfast\nHot-Fill Rolls\nCombined Dishes\nWRAP\nFresh Rolls\nSides\nSalads\nPastas\nChips\nDesserts\nSauce Tubes\nSmoothies\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken in Pepper Sauce\n\u00a38.60\nBreaded Chicken Hot-Fill Roll\nPollo empanado Bocadillo\n\u00a34.90\nAfricano Chicken Hot-Fill Roll\nAfricano pollo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nEspecial Dishes\nComes with salad, rice and fried egg or chips and fried egg\nBeef in Sauce\n\u00a310.40\nBreakfast\nScrambled Eggs\neggs, cream, and bread\n\u00a33.70\nScrambled Eggs with Ham and Cheese\n\u00a34.90\nFrench Omelette\n\u00a33.70\nFrench Omelette with Ham and Cheese\n\u00a34.90\nEnglish Breakfast\n2 eggs, 2 sausage, 2 bacon, bread and beans\n\u00a39.75\nHot-Fill Rolls\nBocadillos Especiales\nChicken Chimichurri Hot-Fill Roll\n\u00a35.00\nPork Chimichurri Hot-Fill Roll\n\u00a35.00\nAfricano Chicken Hot-Fill Roll\nAfricano pollo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nAfricano Pork Hot-Fill Roll\nAfricano lomo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nFurru\u00f1o Chicken Hot-Fill Roll\nFurru\u00f1o chicken bocadillo especial. Grilled onions and furru\u00f1o sauce\n\u00a34.90\nFurru\u00f1o Pork Hot-Fill Roll\nFurru\u00f1o lomo bocadillo especial. Grilled onions and furru\u00f1o sauce\n\u00a34.90\nSerranito Chicken Hot-Fill Roll\nSerranito pollo bocadillo especial. Serrano ham and fried peppers\n\u00a36.00\nSerranito Pork Hot-Fill Roll\nSerranito lomo bocadillo especial. Serrano ham and fried peppers\n\u00a36.00\nGreen Sauce Chicken Hot-Fill Roll\nSalsa verde pollo bocadillo ",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nButter & Jam Toast\n\u00a32.50\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ha",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nAmazing prices! Beef or American Burger with Chips & Drink only for \u00a39.15!\nGrab a fresh favourite - Serrano Ham, Tuna Vegetable Rolls & more from only \u00a34.90!\nTop Selling Items\nEspecial Dishes\nBreakfast\nHot-Fill Rolls\nCombined Dishes\nWRAP\nFresh Rolls\nSides\nSalads\nPastas\nChips\nDesserts\nSauce Tubes\nSmoothies\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken in Pepper Sauce\n\u00a38.60\nBreaded Chicken Hot-Fill Roll\nPollo empanado Bocadillo\n\u00a34.90\nAfricano Chicken Hot-Fill Roll\nAfricano pollo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nEspecial Dishes\nComes with salad, rice and fried egg or chips and fried egg\nBeef in Sauce\n\u00a310.40\nBreakfast\nScrambled Eggs\neggs, cream, and bread\n\u00a33.70\nScrambled Eggs with Ham and Cheese\n\u00a34.90\nFrench Omelette\n\u00a33.70\nFrench Omelette with Ham and Cheese\n\u00a34.90\nEnglish Breakfast\n2 eggs, 2 sausage, 2 bacon, bread and beans\n\u00a39.75\nHot-Fill Rolls\nBocadillos Especiales\nChicken Chimichurri Hot-Fill Roll\n\u00a35.00\nPork Chimichurri Hot-Fill Roll\n\u00a35.00\nAfricano Chicken Hot-Fill Roll\nAfricano pollo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nAfricano Pork Hot-Fill Roll\nAfricano lomo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nFurru\u00f1o Chicken Hot-Fill Roll\nFurru\u00f1o chicken bocadillo especial. Grilled onions and furru\u00f1o sauce\n\u00a34.90\nFurru\u00f1o Pork Hot-Fill Roll\nFurru\u00f1o lomo bocadillo especial. Grilled onions and furru\u00f1o sauce\n\u00a34.90\nSerranito Chicken Hot-Fill Roll\nSerranito pollo bocadillo especial. Serrano ham and fried peppers\n\u00a36.00\nSerranito Pork Hot-Fill Roll\nSerranito lomo bocadillo especial. Serrano ham and fried peppers\n\u00a36.00\nGreen Sauce Chicken Hot-Fill Roll\nSalsa verde pollo bocadillo ",
             "notices": [
               {
-                "text": "Chicken Strips\nWould you like Sauce?\nAdd Gaucho Sauce\nAdd Mayo\nAdd Ketchup\nAdd Caesar Sauce\nAdd HP Sauce\nAdd BBQ Sauce\nAdd Yoghurt Sauce\nAdd Ali-Oli\nOut of stock\nAdd Queso Sauce\nWould you like some Savoury Extras?\nAdd Cheese\n\u00a31.00\nAdd Bacon\n\u00a31.00\nAdd Sausage\n\u00a31.00\nAdd Chicken\n\u00a31.00\nAdd Salmon\n\u00a31.00\nAdd Salad\n\u00a31.00\nAdd Scrambled Egg\n\u00a31.00\nAdd Poached Egg\n\u00a31.00\nAdd Fried Egg\n\u00a31.00\nAdd Ham\n\u00a31.00\nAdd Avocado\n\u00a31.00\nAdd Mushrooms\n\u00a31.00\nAdd Tuna\n\u00a31.00\nWould you like some Sweet Extras?\nAdd Nutella\n\u00a31.00\nAdd Kinder Bueno Sauce\n\u00a31.00\nAdd Kinder Bueno Bar\n\u00a31.00\nAdd Milky Way\n\u00a31.00\nAdd Maple Syrup\n\u00a31.00\nAdd Peanut Butter\n\u00a31.00\nAdd Strawberry Jam\n\u00a31.00\nAdd Butter\n\u00a31.00\nAdd Cream Cheese\n\u00a31.00\nAdd Honey\n\u00a31.00\nAdd Granola\n\u00a31.00\nAdd Fresh Fruits\n\u00a31.00\n1\nAdd to order\n\u00a36.95",
+                "text": "Small Chips\n\nPatatas fritas peque\u00f1as\n\nChoose your Free Sauce\nAdd Alioli\nAdd Mayonnaise\nAdd Ketchup\nAdd Cocktail Sauce\nAdd Gaucha Sauce\nAdd Mojo Picon Sauce\nAdd BBQ Sauce\nAdd Cheddar Sauce\n\u00a30.50\nAdd Green Sauce\nAdd Pepper Sauce\n\u00a30.65\nAdd Mustard\nAdd African Sauce\nAdd HP sauce\nOut of stock\n1\nAdd to order\n\u00a32.00",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a36.95"
+                  "Add to order\n\u00a32.00"
                 ],
                 "has_inputs": false
               }
@@ -256,16 +304,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nChicken Strips\n\u00a36.95\n1\nSubtotal\n\u00a36.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a310.24\nAdd special instructions\nCheckout\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savo",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Chips\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nAmazing prices! Beef or American Burger with Chips & Drink only for \u00a39.15!\nGrab a fresh favourite - Serrano Ham, Tuna Vegetable Rolls & more from only \u00a34.90!\nTop Selling Items\nEspecial Dishes\nBreakfast\nHot-Fill Rolls\nCombined Dishes\nWRAP\nFresh Rolls\nSides\nSalads\nPastas\nChips\nDesserts\nSauce Tubes\nSmoothies\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken in Pepper Sauce\n\u00a38.60\nBreaded Chicken Hot-Fill Roll\nPollo empanado Bocadillo\n\u00a34.90\nAfricano Chicken Hot-Fill Roll\nAfricano pollo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nEspecial Dishes\nComes with salad, rice and fried egg or chips and fried egg\nBeef in Sauce\n\u00a310.40\nBreakfast\nScrambled Eggs\neggs, cream, and bread\n\u00a33.70\nScrambled Eggs with Ham and Cheese\n\u00a34.90\nFrench Omelette\n\u00a33.70\nFrench Omelette with Ham and Cheese\n\u00a34.90\nEnglish Breakfast\n2 eggs, 2 sausage, 2 bacon, bread and beans\n\u00a39.75\nHot-Fill Rolls\nBocadillos Especiales\nChicken Chimichurri Hot-Fill Roll\n\u00a35.00\nPork Chimichurri Hot-Fill Roll\n\u00a35.00\nAfricano Chicken Hot-Fill Roll\nAfricano pollo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nAfricano Pork Hot-Fill Roll\nAfricano lomo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nFurru\u00f1o Chicken Hot-Fill Roll\nFurru\u00f1o chicken bocadillo especial. Grilled onions and furru\u00f1o sauce\n\u00a34.90\nFurru\u00f1o Pork Hot-Fill Roll\nFurru\u00f1o lomo bocadillo especial. Grilled onions and furru\u00f1o sauce\n\u00a34.90\nSerranito Chicken Hot-Fill Roll\nSerranito pollo bocadillo especial. Serrano ham and fried peppers\n\u00a36.00\nSerranito Pork Hot-Fill Roll\nSerranito lomo bocadillo espec",
             "notices": []
           }
         ],
-        "item": "Chicken Strips",
+        "item": "Small Chips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Ace Burgers",
+      "name": "Gibraltar Tea Company",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -324,20 +372,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nFor the first 3 days of Opening\n2-4-1! A's Double Cheese & Bacon Smash Burger! Order One Receive Two!\nTwo 6oz beef smash patties grilled with juicy caramelize",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFuel your day with our top-selling All Day Fried Breakfast - a hearty feast for just \u00a36.50!\nEnjoy our homemade scones with Gibraltar Cream Tea - scones, jam, clotted cream & tea from \u00a38.75!\nTop Selling Items\nAll Day Breakfast\nSandwiches & Toasties\nMeals\nCakes & Scones\nTea\nCoffee\nHot Chocolate\nChai Lattes\nCold Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAll Day Fried Breakfast\nEnglish sausage, smoked bacon, hash brown, egg (fried or scrambled), baked beans, fried tomato, toast (white or brown)\n\u00a36.50\nTriple Stack BLT\nA Triple Stack BLT sandwich WITH, bacon, tomato & lettuce layers. Optional twice cooked chips.\n\u00a39.50\nBurger & Chips\nBurger, served in a brioche bun with salad, accompanied with our famous twice cooked chips. Choose extra toppings and dips.\n\u00a39.75\nHomemade Scones\nOur famous homemade scones, served with your choice of filling, including: Clotted Cream, Strawberry Jam, butter\n\u00a33.75\nHomemade Scones with Clotted Cream & Strawberry Jam\nOur famous homemade scones, served with Clotted Cream & Strawberry Jam\n\u00a35.75\nAll Day Breakfast\nEnjoy any of our breakfasts all day! Available 9am - 15pm\nAll Day Fried Breakfast\nEnglish sausage, smoked bacon, hash brown, egg (fried or scrambled), baked beans, fried tomato, toast (white or brown)\n\u00a36.50\nBreakfast Baguette\nChoose the filling of your choice, all served in a freshly baked crusty baguette.\n\u00a35.75\nBreakfast Sandwich\nSandwich with the breakfast filling of your choice. Brown, white or gluten free bread (please note our sausages are not gluten free)\n\u00a35.75\nClassic French Toast x2\nx2 pieces of classic French toast, choose white, brown or gluten free bread.\n\u00a36.50\nFrench Toast with Cinnamon",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nFor the first 3 days of Opening\n2-4-1! A's Double Cheese & Bacon Smash Burger! Order One Receive Two!\nTwo 6oz beef smash patties grilled with juicy caramelize",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFuel your day with our top-selling All Day Fried Breakfast - a hearty feast for just \u00a36.50!\nEnjoy our homemade scones with Gibraltar Cream Tea - scones, jam, clotted cream & tea from \u00a38.75!\nTop Selling Items\nAll Day Breakfast\nSandwiches & Toasties\nMeals\nCakes & Scones\nTea\nCoffee\nHot Chocolate\nChai Lattes\nCold Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAll Day Fried Breakfast\nEnglish sausage, smoked bacon, hash brown, egg (fried or scrambled), baked beans, fried tomato, toast (white or brown)\n\u00a36.50\nTriple Stack BLT\nA Triple Stack BLT sandwich WITH, bacon, tomato & lettuce layers. Optional twice cooked chips.\n\u00a39.50\nBurger & Chips\nBurger, served in a brioche bun with salad, accompanied with our famous twice cooked chips. Choose extra toppings and dips.\n\u00a39.75\nHomemade Scones\nOur famous homemade scones, served with your choice of filling, including: Clotted Cream, Strawberry Jam, butter\n\u00a33.75\nHomemade Scones with Clotted Cream & Strawberry Jam\nOur famous homemade scones, served with Clotted Cream & Strawberry Jam\n\u00a35.75\nAll Day Breakfast\nEnjoy any of our breakfasts all day! Available 9am - 15pm\nAll Day Fried Breakfast\nEnglish sausage, smoked bacon, hash brown, egg (fried or scrambled), baked beans, fried tomato, toast (white or brown)\n\u00a36.50\nBreakfast Baguette\nChoose the filling of your choice, all served in a freshly baked crusty baguette.\n\u00a35.75\nBreakfast Sandwich\nSandwich with the breakfast filling of your choice. Brown, white or gluten free bread (please note our sausages are not gluten free)\n\u00a35.75\nClassic French Toast x2\nx2 pieces of classic French toast, choose white, brown or gluten free bread.\n\u00a36.50\nFrench Toast with Cinnamon",
             "notices": [
               {
-                "text": "Pepsi\n1\nAdd to order\n\u00a31.50",
+                "text": "Coke - classic\n1\nAdd to order\n\u00a32.50",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.50"
+                  "Add to order\n\u00a32.50"
                 ],
                 "has_inputs": false
               }
@@ -345,11 +393,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nFor the first 3 days of Opening\n2-4-1! A's Double Cheese & Ba",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke - classic\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nFuel your day with our top-selling All Day Fried Breakfast - a hearty feast for just \u00a36.50!\nEnjoy our homemade scones with Gibraltar Cream Tea - scones, jam, clotted cream & tea from \u00a38.75!\nTop Selling Items\nAll Day Breakfast\nSandwiches & Toasties\nMeals\nCakes & Scones\nTea\nCoffee\nHot Chocolate\nChai Lattes\nCold Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAll Day Fried Breakfast\nEnglish sausage, smoked bacon, hash brown, egg (fried or scrambled), baked beans, fried tomato, toast (white or brown)\n\u00a36.50\nTriple Stack BLT\nA Triple Stack BLT sandwich WITH, bacon, tomato & lettuce layers. Optional twice cooked chips.\n\u00a39.50\nBurger & Chips\nBurger, served in a brioche bun with salad, accompanied with our famous twice cooked chips. Choose extra toppings and dips.\n\u00a39.75\nHomemade Scones\nOur famous homemade scones, served with your choice of filling, including: Clotted Cream, Strawberry Jam, butter\n\u00a33.75\nHomemade Scones with Clotted Cream & Strawberry Jam\nOur famous homemade scones, served with Clotted Cream & Strawberry Jam\n\u00a35.75\nAll Day Breakfast\nEnjoy any of our breakfasts all day! Available 9am - 15pm\nAll Day Fried Breakfast\nEnglish sausage, smoked bacon, hash brown, egg (fried or scrambled), baked beans, fried tomato, toast (white or brown)\n\u00a36.50\nBreakfast Baguette\nChoose the filling of your choice, all served in a freshly baked crusty baguette.\n\u00a35.75\nBreakfast Sandwich\nSandwich with the breakfast filling of your choice. Brown, white or gluten free bread (please note our sausages are not gluten free)\n\u00a35.75\nClassic French Toast x2\nx2 ",
             "notices": []
           }
         ],
-        "item": "Pepsi",
+        "item": "Coke - classic",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +906,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-27T13:23:36.591427+01:00",
+  "last_confirmed_at": "2026-10-27T13:25:36.591205+01:00",
   "last_sample_check": {
-    "at": "2026-10-27T13:23:36.591427+01:00",
+    "at": "2026-10-27T13:25:36.591205+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
