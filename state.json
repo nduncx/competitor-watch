@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-27T21:45:06.870354+01:00",
+  "last_observed_at": "2026-10-27T21:47:06.873377+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -71,7 +71,7 @@
     },
     {
       "name": "Burger King",
-      "status": "open",
+      "status": "unknown",
       "notice": "",
       "notice_transcript": [
         {
@@ -113,11 +113,6 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
@@ -125,37 +120,10 @@
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDouble DUO BACON CHEDDAR BEEF Large Meal\nNew to Burger King! With 2 meat patty, cheddar sauce, cheese slices, bacon, fresh tomato and crispy onion in a bacon topped bun. Served with Chips & Drink\n\u00a316.50\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X CRISPY CHICKEN MEAL for \u00a313.20!\nLarge Meal, Mayonnaise, Lettuce, Tomato. Served with Chips and Drink\n\u00a313.20\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDouble DUO BACON CHEDDAR BEEF Large Meal\nNew to Burger King! With 2 meat patty, cheddar sauce, cheese slices, bacon, fresh tomato and crispy onion in a bacon topped bun. Served with Chips & Drink\n\u00a316.50\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X CRISPY CHICKEN MEAL for \u00a313.20!\nLarge Meal, Mayonnaise, Lettuce, Tomato. Served with Chips and Drink\n\u00a313.20\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips",
-            "notices": [
-              {
-                "text": "Coke\n1\nAdd to order\n\u00a33.30",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.30"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.30\n1\nSubtotal\n\u00a33.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.59\nAdd special instructions\nCheckout\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDouble DUO BACON CHEDDAR BEEF Large Meal\nNew to Burger King! With 2 meat patty, cheddar sauce, cheese slices, bacon, fresh tomato and crispy onion in a bacon topped bun. Served with Chips & Drink\n\u00a316.50\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X CRISPY CHICKEN MEAL for \u00a313.20!\nLarge Meal, Mayonnaise, Lettuce, Tomato. Served with Chips and Drink\n\u00a313.20\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickl",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+        "passed": false,
+        "steps": [],
+        "item": null,
+        "reason": "no eligible simple item or addition to basket could not be verified"
       }
     },
     {
@@ -390,6 +358,95 @@
           }
         ],
         "item": "Coke Zero",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Los Olivillos Grill",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast for the family! Chicken, Family Fries, Croquettes, Alioli, Bread & Drink (2L) for \u00a329.50!\nTry our Special Deals! BBQ Roast Chicken Sandwich + Fries & Drink for \u00a37.50!\nTop Selling Items\nChicken Meal Deals\nRoast Chicken Sandwich\nSpecial Meal Deal\nBurgers and Grill\nChicken\nGolden Fries and Sides\nSauces\nHomemade Dishes\nDesserts\nDrinks\nRoast Chicken Sandwich Meal Deals for \u00a37.50!\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAfricano\nGrilled Loin or Chicken, Grilled Onion, Mayonnaise\n\u00a36.00\nMeatballs\n\u00a38.50\nSpanish Tortilla\n\u00a37.50\nNew! Cocido Croquettes\nChoose Half or Full Portion from \u00a35.50\n\u00a35.50\nTriple Chocolate Cake\n\u00a34.00\nChicken Meal Deals\nAvailable from 12pm\nChicken + Family Fries + Croquettes + Alioli + Bread + Soft Drink (2L)\n\u00a329.50\nWhole Chicken + Medium Fries + Choice of Salad + Alioli + Bread\n\u00a324.00\n2 Whole Chickens + Family Fries + Alioli + Bread + Soft Drink (2L)\n\u00a335.00\nWhole Chicken + Medium Fries + Alioli\n\u00a319.00\nWhole Chicken + Spanish Omelette + peppers + Alioli + bread + Soft Drink (2L)\n\u00a330.50\nRoast Chicken Sandwich\nRoast Chicken Sandwich (plain)\nBocadillo de pollo asado solo\n\u00a35.50\nBBQ Roast Chicken Sandwich\nBocadillo de pollo asado barbacoa\n\u00a35.50\nRoast Chicken Sandwich with Mayonnaise\nBocadillo de pollo asado mallonesa\n\u00a35.50\nRoast Chicken Sandwich with Spicy Sauce\nBocadillo de pollo asado con picante\n\u00a35.50\nRoast Chicken Sandwich with Ketchup\nBocadillo de pollo asado k\u00e9tchup\n\u00a35.50\nSpecial Meal Deal\nAvailable from 12pm\nSpecial Meal Deal 1! Half Chicken + Small Fries & Soft Drink for \u00a310!\nHalf Chicken + Small Fries + Soft Drink (Can)\n\u00a310.00\nSpecial Meal Deal 2! Half Chicken + Rice + Vegetables + Soft Drink for \u00a311!\nHalf Chicken + Rice ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast for the family! Chicken, Family Fries, Croquettes, Alioli, Bread & Drink (2L) for \u00a329.50!\nTry our Special Deals! BBQ Roast Chicken Sandwich + Fries & Drink for \u00a37.50!\nTop Selling Items\nChicken Meal Deals\nRoast Chicken Sandwich\nSpecial Meal Deal\nBurgers and Grill\nChicken\nGolden Fries and Sides\nSauces\nHomemade Dishes\nDesserts\nDrinks\nRoast Chicken Sandwich Meal Deals for \u00a37.50!\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAfricano\nGrilled Loin or Chicken, Grilled Onion, Mayonnaise\n\u00a36.00\nMeatballs\n\u00a38.50\nSpanish Tortilla\n\u00a37.50\nNew! Cocido Croquettes\nChoose Half or Full Portion from \u00a35.50\n\u00a35.50\nTriple Chocolate Cake\n\u00a34.00\nChicken Meal Deals\nAvailable from 12pm\nChicken + Family Fries + Croquettes + Alioli + Bread + Soft Drink (2L)\n\u00a329.50\nWhole Chicken + Medium Fries + Choice of Salad + Alioli + Bread\n\u00a324.00\n2 Whole Chickens + Family Fries + Alioli + Bread + Soft Drink (2L)\n\u00a335.00\nWhole Chicken + Medium Fries + Alioli\n\u00a319.00\nWhole Chicken + Spanish Omelette + peppers + Alioli + bread + Soft Drink (2L)\n\u00a330.50\nRoast Chicken Sandwich\nRoast Chicken Sandwich (plain)\nBocadillo de pollo asado solo\n\u00a35.50\nBBQ Roast Chicken Sandwich\nBocadillo de pollo asado barbacoa\n\u00a35.50\nRoast Chicken Sandwich with Mayonnaise\nBocadillo de pollo asado mallonesa\n\u00a35.50\nRoast Chicken Sandwich with Spicy Sauce\nBocadillo de pollo asado con picante\n\u00a35.50\nRoast Chicken Sandwich with Ketchup\nBocadillo de pollo asado k\u00e9tchup\n\u00a35.50\nSpecial Meal Deal\nAvailable from 12pm\nSpecial Meal Deal 1! Half Chicken + Small Fries & Soft Drink for \u00a310!\nHalf Chicken + Small Fries + Soft Drink (Can)\n\u00a310.00\nSpecial Meal Deal 2! Half Chicken + Rice + Vegetables + Soft Drink for \u00a311!\nHalf Chicken + Rice ",
+            "notices": [
+              {
+                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.80",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.80"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.80\n1\nSubtotal\n\u00a31.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.09\nAdd special instructions\nCheckout\nFeast for the family! Chicken, Family Fries, Croquettes, Alioli, Bread & Drink (2L) for \u00a329.50!\nTry our Special Deals! BBQ Roast Chicken Sandwich + Fries & Drink for \u00a37.50!\nTop Selling Items\nChicken Meal Deals\nRoast Chicken Sandwich\nSpecial Meal Deal\nBurgers and Grill\nChicken\nGolden Fries and Sides\nSauces\nHomemade Dishes\nDesserts\nDrinks\nRoast Chicken Sandwich Meal Deals for \u00a37.50!\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAfricano\nGrilled Loin or Chicken, Grilled Onion, Mayonnaise\n\u00a36.00\nMeatballs\n\u00a38.50\nSpanish Tortilla\n\u00a37.50\nNew! Cocido Croquettes\nChoose Half or Full Portion from \u00a35.50\n\u00a35.50\nTriple Chocolate Cake\n\u00a34.00\nChicken Meal Deals\nAvailable from 12pm\nChicken + Family Fries + Croquettes + Alioli + Bread + Soft Drink (2L)\n\u00a329.50\nWhole Chicken + Medium Fries + Choice of Salad + Alioli + Bread\n\u00a324.00\n2 Whole Chickens + Family Fries + Alioli + Bread + Soft Drink (2L)\n\u00a335.00\nWhole Chicken + Medium Fries + Alioli\n\u00a319.00\nWhole Chicken + Spanish Omelette + peppers + Alioli + bread + Soft Drink (2L)\n\u00a330.50\nRoast Chicken Sandwich\nRoast Chicken Sandwich (plain)\nBocadillo de pollo asado solo\n\u00a35.50\nBBQ Roast Chicken Sandwich\nBocadillo de pollo asado barbacoa\n\u00a35.50\nRoast Chicken Sandwich with Mayonnaise\nBocadillo de pollo asado mallonesa\n\u00a35.50\nRoast Chicken Sandwich with Spicy Sauce\nBocadillo de pollo asado con picante\n\u00a35.50\nRoast Chicken Sandwich with Ketchup\nBocadillo de pollo asado k\u00e9tchup\n\u00a35.50\nSpecial Meal Deal\nAvailable from 12pm\nSpecial Meal Deal 1! Half Chicken + Small Fries & Soft Drink for \u00a310!\nHalf Chicken + Small Fries + Soft Drink (Ca",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola 33cl",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -898,9 +955,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-27T21:45:06.870354+01:00",
+  "last_confirmed_at": "2026-10-27T21:47:06.873377+01:00",
   "last_sample_check": {
-    "at": "2026-10-27T21:45:06.870354+01:00",
+    "at": "2026-10-27T21:47:06.873377+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
