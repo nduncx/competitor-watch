@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-27T16:57:24.871668+01:00",
+  "last_observed_at": "2026-10-27T16:59:24.871102+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -266,6 +266,58 @@
     },
     {
       "name": "Rodilla",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Cafe Louis",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -324,20 +376,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nRodilla\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSnack smart, spend less! Enjoy 2 cold sandwiches & a drink for just \u00a35.90. Opening offer!\nUnbeatable offer! Choose Focaccia & 2 cold sandwiches & a drink - all for \u00a311.95!\nTop Selling Items\nOpening Offers!\nCold Sandwich Platters\nMenu Deals\nBreakfasts and Afternoon Snacks\nGourmet Toasts\nHot Sandwiches\nGourmet Sandwiches\nHot Focaccias\nGourmet Focaccias\nWraps\nCold Sandwiches - Served on White Bread\nCold Sandwiches - Served on Wholemeal Bread\nCold Sandwiches - Served on White Bread with Poppy Seeds\nSalads\nGluten-Free\nChildren's Menu Deals\nSpecial Teas- Served Hot or Cold\nHot Drinks\nCold Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHot Chicken Club Sandwich\n\u00a36.50\n4 Cold Sandwiches + a drink of your choice\n\u00a39.75\nSriracha Chicken Wrap\n\u00a38.00\nChicken, Mustard and Honey Hot Focaccia\n\u00a37.15\nCold Sandwich-Tuna and Tomato Sandwich served on White Bread\nA sandwich unit is a slice/half of a full sandwich. Original white bread with tuna and tomato cream.\n\u00a32.10\nOpening Offers!\nEach sandwich unit is a slice/half of a full sandwich\nSnack Deal: 2 Cold Sandwiches + a drink of your choice\n\u00a35.90\nCombo Principal: Hot Sandwich\nChoose from our Hot Cuban or Club Sandwich and select a drink of your choice\n\u00a37.75\nCombo Principal: Hot Focaccia\nChoose from our delicious Focaccia: Mozzarella and Sun-dried Tomato, Chicken, Mustard and Honey, Roasted Beef or Benedict Egg. Served with a drink of your choice.\n\u00a37.75\nCombo Principal: Serrano Ham Wrap or Baguette\nChoose from a Serrano Ham Wrap or Baguette. Served with a drink of your choice.\n\u00a37.75\nCold Sandwich Platters\nEach sandwich unit is a slice/half of a full sandwich\nPlatter of 12 cold Sandwiches\nEach sa",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nSparkling Wine\nTop Selling Items\nWines\nCoffee & Tea\nBreads\nSalads\nCakes & Desserts\nWater\nLunch Sandwiches\nTea\nBreakfast Menu\nBeers & Ciders\nEnd of the Day Mystery Boxes\nCoffee & Tea (Delta Go-Chill)\nViennoiserie & Danish Pastry\nWaffles & Other Sweets\nJuices\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\nOut of stock\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\nOut of stock\nPlain Sourdough 500gr\nOut of stock\nSourdough 800gr\nOut of stock\nLarge Baguette\n\u00a31.60\nMultiseed bread\nbread loaf with pumpkin seed, chia seed, oats, sesame seed, sunflower seed, flax seed.\nOut of stock\nPlain Sourdough 1kg\n\u00a36.75\nCiabatta\nOut of stock\nMulti-Seeds Campagne\n\u00a33.50\nPan de Campagne Bread\n\u00a33.50\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressin",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nRodilla\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSnack smart, spend less! Enjoy 2 cold sandwiches & a drink for just \u00a35.90. Opening offer!\nUnbeatable offer! Choose Focaccia & 2 cold sandwiches & a drink - all for \u00a311.95!\nTop Selling Items\nOpening Offers!\nCold Sandwich Platters\nMenu Deals\nBreakfasts and Afternoon Snacks\nGourmet Toasts\nHot Sandwiches\nGourmet Sandwiches\nHot Focaccias\nGourmet Focaccias\nWraps\nCold Sandwiches - Served on White Bread\nCold Sandwiches - Served on Wholemeal Bread\nCold Sandwiches - Served on White Bread with Poppy Seeds\nSalads\nGluten-Free\nChildren's Menu Deals\nSpecial Teas- Served Hot or Cold\nHot Drinks\nCold Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHot Chicken Club Sandwich\n\u00a36.50\n4 Cold Sandwiches + a drink of your choice\n\u00a39.75\nSriracha Chicken Wrap\n\u00a38.00\nChicken, Mustard and Honey Hot Focaccia\n\u00a37.15\nCold Sandwich-Tuna and Tomato Sandwich served on White Bread\nA sandwich unit is a slice/half of a full sandwich. Original white bread with tuna and tomato cream.\n\u00a32.10\nOpening Offers!\nEach sandwich unit is a slice/half of a full sandwich\nSnack Deal: 2 Cold Sandwiches + a drink of your choice\n\u00a35.90\nCombo Principal: Hot Sandwich\nChoose from our Hot Cuban or Club Sandwich and select a drink of your choice\n\u00a37.75\nCombo Principal: Hot Focaccia\nChoose from our delicious Focaccia: Mozzarella and Sun-dried Tomato, Chicken, Mustard and Honey, Roasted Beef or Benedict Egg. Served with a drink of your choice.\n\u00a37.75\nCombo Principal: Serrano Ham Wrap or Baguette\nChoose from a Serrano Ham Wrap or Baguette. Served with a drink of your choice.\n\u00a37.75\nCold Sandwich Platters\nEach sandwich unit is a slice/half of a full sandwich\nPlatter of 12 cold Sandwiches\nEach sa",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nSparkling Wine\nTop Selling Items\nWines\nCoffee & Tea\nBreads\nSalads\nCakes & Desserts\nWater\nLunch Sandwiches\nTea\nBreakfast Menu\nBeers & Ciders\nEnd of the Day Mystery Boxes\nCoffee & Tea (Delta Go-Chill)\nViennoiserie & Danish Pastry\nWaffles & Other Sweets\nJuices\nSoft Drinks\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\nOut of stock\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\nOut of stock\nPlain Sourdough 500gr\nOut of stock\nSourdough 800gr\nOut of stock\nLarge Baguette\n\u00a31.60\nMultiseed bread\nbread loaf with pumpkin seed, chia seed, oats, sesame seed, sunflower seed, flax seed.\nOut of stock\nPlain Sourdough 1kg\n\u00a36.75\nCiabatta\nOut of stock\nMulti-Seeds Campagne\n\u00a33.50\nPan de Campagne Bread\n\u00a33.50\nSalads\nCaesar salad\nlettuce, chicken, bacon, parmesan cheese, crutons & caesar dressin",
             "notices": [
               {
-                "text": "Coca Cola Zero Sugar can 33cl\n1\nAdd to order\n\u00a32.85",
+                "text": "Coke\n\nCan\n\n1\nAdd to order\n\u00a32.30",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.85"
+                  "Add to order\n\u00a32.30"
                 ],
                 "has_inputs": false
               }
@@ -345,11 +397,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nRodilla\nBasket\nCollection or Delivery\nYour order\nCoca Cola Zero Sugar can 33cl\n\u00a32.85\n1\nSubtotal\n\u00a32.85\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.14\nAdd special instructions\nCheckout\nSnack smart, spend less! Enjoy 2 cold sandwiches & a drink for just \u00a35.90. Opening offer!\nUnbeatable offer! Choose Focaccia & 2 cold sandwiches & a drink - all for \u00a311.95!\nTop Selling Items\nOpening Offers!\nCold Sandwich Platters\nMenu Deals\nBreakfasts and Afternoon Snacks\nGourmet Toasts\nHot Sandwiches\nGourmet Sandwiches\nHot Focaccias\nGourmet Focaccias\nWraps\nCold Sandwiches - Served on White Bread\nCold Sandwiches - Served on Wholemeal Bread\nCold Sandwiches - Served on White Bread with Poppy Seeds\nSalads\nGluten-Free\nChildren's Menu Deals\nSpecial Teas- Served Hot or Cold\nHot Drinks\nCold Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHot Chicken Club Sandwich\n\u00a36.50\n4 Cold Sandwiches + a drink of your choice\n\u00a39.75\nSriracha Chicken Wrap\n\u00a38.00\nChicken, Mustard and Honey Hot Focaccia\n\u00a37.15\nCold Sandwich-Tuna and Tomato Sandwich served on White Bread\nA sandwich unit is a slice/half of a full sandwich. Original white bread with tuna and tomato cream.\n\u00a32.10\nOpening Offers!\nEach sandwich unit is a slice/half of a full sandwich\nSnack Deal: 2 Cold Sandwiches + a drink of your choice\n\u00a35.90\nCombo Principal: Hot Sandwich\nChoose from our Hot Cuban or Club Sandwich and select a drink of your choice\n\u00a37.75\nCombo Principal: Hot Focaccia\nChoose from our delicious Focaccia: Mozzarella and Sun-dried Tomato, Chicken, Mustard and Honey, Roasted Beef or Benedict Egg. Served with a drink of your choice.\n\u00a37.75\nCombo Principal: Serrano Ham Wrap or Baguette\nChoose from a Serrano Ham Wrap or Baguette. Served with a drink of your choice.",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.30\n1\nSubtotal\n\u00a32.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.59\nAdd special instructions\nCheckout\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nSoft Drinks\nSparkling Wine\nTop Selling Items\nWines\nCoffee & Tea\nBreads\nSalads\nCakes & Desserts\nWater\nLunch Sandwiches\nTea\nBreakfast Menu\nBeers & Ciders\nEnd of the Day Mystery Boxes\nCoffee & Tea (Delta Go-Chill)\nViennoiserie & Danish Pastry\nWaffles & Other Sweets\nJuices\nSoft Drinks\n1\nCoke\nCan\n\u00a32.30\nCoke Zero\nCan\n\u00a32.30\nFanta Orange\nCan\n\u00a32.30\nFanta Lemon\nCan\n\u00a32.30\nSprite\nCan\n\u00a32.30\nNestea Lemon\nCan\n\u00a32.30\nAquarius\nCan\n\u00a32.75\nAquarius Lemon\nCan\n\u00a32.75\nSparkling Wine\nBottega Rose\nBottle\n\u00a37.80\nBottega Gold Prosecco\nBottle\n\u00a37.80\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\nOut of stock\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nWines\nFaustino VII Rose\nBottle\n\u00a35.65\nFaustino VII Red\nBottle\n\u00a35.65\nFaustino VII White\nBottle\n\u00a35.65\nCoffee & Tea\nEspresso\nSmall Size\n\u00a32.40\nDouble Espresso\nMedium Size\n\u00a32.85\nCortado\n\u00a33.10\nAmericano\n\u00a32.60\nFlat White\n\u00a33.40\nLatte\n\u00a32.90\nCappuccino\n\u00a32.90\nCaf\u00e9 Mocha\n\u00a33.40\nHot Chocolate\n\u00a33.90\nWhite Coffee\n\u00a32.90\nBreads\nFocaccia\n\u00a33.00\nWholemeal Sourdough\nOut of stock\nPlain Sourdough 500gr\nOut of stock\nSourdough 800gr\nOut of stock\nLarge Baguette\n\u00a31.60\nMultiseed bread\nbread loaf with pumpkin seed, chia seed, oats, sesame seed, sunflower seed, flax seed.\nOut of stock\nPlain Sourdough 1kg\n\u00a36.75\nCiabatta\nOut of stock\nMulti-Seeds Campagne\n\u00a33.50\nPan de Campagne ",
             "notices": []
           }
         ],
-        "item": "Coca Cola Zero Sugar can 33cl",
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +910,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-27T16:57:24.871668+01:00",
+  "last_confirmed_at": "2026-10-27T16:59:24.871102+01:00",
   "last_sample_check": {
-    "at": "2026-10-27T16:57:24.871668+01:00",
+    "at": "2026-10-27T16:59:24.871102+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
