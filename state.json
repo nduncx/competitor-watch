@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-27T22:53:06.875001+01:00",
+  "last_observed_at": "2026-10-27T22:55:06.877564+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -67,274 +67,6 @@
         "steps": [],
         "item": null,
         "reason": "no eligible simple item or addition to basket could not be verified"
-      }
-    },
-    {
-      "name": "Chinese Kitchen",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "covered_buttons": [
-            "Reject non-essential",
-            "OK"
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Gills Indian & Italian Restaurant",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCreate your Own Pasta only from \u00a313.95! Pair it with one of our delicious sauces!\nEnjoy our Asian Fusion specialities from \u00a315.90!\nTop Selling Items\nSTARTERS\nSALADS\nHOMEMADE BURGERS\nPIZZA\nCREATE YOUR OWN PASTA\nGILLS SPECIAL PASTA\nFISH\nGILL'S GRILL\nGILL'S SPECIAL NOODLES\nASIAN FUISON\nINDIAN STARTERS\nINDIAN MAINS\nTANDOORI SPECIALS\nCHEF'S SPECIALS\nVEGETARIAN DISHES\nBREADS\nRICE\nSIDES\nSoft Drinks\nBeer Bottles / Cans\nCiders\nWhite Wine\nRose Wine\nRed Wine\nBubbles / Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKORMA\nA very mild, creamy & coconut based dish.\n\u00a311.95\nTIKKA MASALA\nA very famous smooth and creamy dish.\n\u00a311.95\nBUTTER CHICKEN\nChicken tikka cooked in butter, cream and tomato sauce.\n\u00a311.95\nCHICKEN CHEESE TIKKA\nServed with cucumber salad and caramelized onion.\n\u00a310.95\nTANDOORI MIXED GRILL\nServed with cucumber salad and caramelized onion. Chicken tikka, Chicken leg, seekh kebab, lamb chop, malai tikka & king prawn\n\u00a329.95\nSTARTERS\nSOUP OF THE DAY\nServed with bread\n\u00a35.50\nGARLIC BREAD\n\u00a33.50\nCHEESY GARLIC BREAD\n\u00a34.95\nPARVOLONE GRILLED CHEESE\nServed with warm crispy bread\n\u00a38.95\nNACHOS\nServed with guacamole & sour cream\n\u00a38.95\nHOMEMADE HUMMUS\nServed with pita bread\n\u00a37.95\nGAMBAS PIL PIL\n\u00a39.95\nKING PRAWN SPINACH GRATIN\n\u00a39.50\nJUMBO CHICKEN WINGS\nRoasted on your choice of mango curry or BBQ sauce\n\u00a39.95\nSALT & PEPPER CHICKEN\nChopped Capsicums and onion cooked in Thai sauce\n\u00a310.95\nSALT & PEPPER BEEF\nChopped Capsicums and onion cooked in Thai sauce\n\u00a310.95\nSALT & PEPPER RIBS\nChopped Capsicums and onion cooked in Thai sauce\n\u00a310.95\nSALT & PEPPER KING PRAWN\nChopped Capsicums and onion cooked in Thai sauce\n\u00a311.95\nSALT & PEPPER CALAMARI\nChopped Capsicums and o",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCreate your Own Pasta only from \u00a313.95! Pair it with one of our delicious sauces!\nEnjoy our Asian Fusion specialities from \u00a315.90!\nTop Selling Items\nSTARTERS\nSALADS\nHOMEMADE BURGERS\nPIZZA\nCREATE YOUR OWN PASTA\nGILLS SPECIAL PASTA\nFISH\nGILL'S GRILL\nGILL'S SPECIAL NOODLES\nASIAN FUISON\nINDIAN STARTERS\nINDIAN MAINS\nTANDOORI SPECIALS\nCHEF'S SPECIALS\nVEGETARIAN DISHES\nBREADS\nRICE\nSIDES\nSoft Drinks\nBeer Bottles / Cans\nCiders\nWhite Wine\nRose Wine\nRed Wine\nBubbles / Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKORMA\nA very mild, creamy & coconut based dish.\n\u00a311.95\nTIKKA MASALA\nA very famous smooth and creamy dish.\n\u00a311.95\nBUTTER CHICKEN\nChicken tikka cooked in butter, cream and tomato sauce.\n\u00a311.95\nCHICKEN CHEESE TIKKA\nServed with cucumber salad and caramelized onion.\n\u00a310.95\nTANDOORI MIXED GRILL\nServed with cucumber salad and caramelized onion. Chicken tikka, Chicken leg, seekh kebab, lamb chop, malai tikka & king prawn\n\u00a329.95\nSTARTERS\nSOUP OF THE DAY\nServed with bread\n\u00a35.50\nGARLIC BREAD\n\u00a33.50\nCHEESY GARLIC BREAD\n\u00a34.95\nPARVOLONE GRILLED CHEESE\nServed with warm crispy bread\n\u00a38.95\nNACHOS\nServed with guacamole & sour cream\n\u00a38.95\nHOMEMADE HUMMUS\nServed with pita bread\n\u00a37.95\nGAMBAS PIL PIL\n\u00a39.95\nKING PRAWN SPINACH GRATIN\n\u00a39.50\nJUMBO CHICKEN WINGS\nRoasted on your choice of mango curry or BBQ sauce\n\u00a39.95\nSALT & PEPPER CHICKEN\nChopped Capsicums and onion cooked in Thai sauce\n\u00a310.95\nSALT & PEPPER BEEF\nChopped Capsicums and onion cooked in Thai sauce\n\u00a310.95\nSALT & PEPPER RIBS\nChopped Capsicums and onion cooked in Thai sauce\n\u00a310.95\nSALT & PEPPER KING PRAWN\nChopped Capsicums and onion cooked in Thai sauce\n\u00a311.95\nSALT & PEPPER CALAMARI\nChopped Capsicums and o",
-            "notices": [
-              {
-                "text": "Pepsi\n1\nAdd to order\n\u00a32.10",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.10"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a32.10\n1\nSubtotal\n\u00a32.10\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.39\nAdd special instructions\nCheckout\nCreate your Own Pasta only from \u00a313.95! Pair it with one of our delicious sauces!\nEnjoy our Asian Fusion specialities from \u00a315.90!\nTop Selling Items\nSTARTERS\nSALADS\nHOMEMADE BURGERS\nPIZZA\nCREATE YOUR OWN PASTA\nGILLS SPECIAL PASTA\nFISH\nGILL'S GRILL\nGILL'S SPECIAL NOODLES\nASIAN FUISON\nINDIAN STARTERS\nINDIAN MAINS\nTANDOORI SPECIALS\nCHEF'S SPECIALS\nVEGETARIAN DISHES\nBREADS\nRICE\nSIDES\nSoft Drinks\nBeer Bottles / Cans\nCiders\nWhite Wine\nRose Wine\nRed Wine\nBubbles / Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKORMA\nA very mild, creamy & coconut based dish.\n\u00a311.95\nTIKKA MASALA\nA very famous smooth and creamy dish.\n\u00a311.95\nBUTTER CHICKEN\nChicken tikka cooked in butter, cream and tomato sauce.\n\u00a311.95\nCHICKEN CHEESE TIKKA\nServed with cucumber salad and caramelized onion.\n\u00a310.95\nTANDOORI MIXED GRILL\nServed with cucumber salad and caramelized onion. Chicken tikka, Chicken leg, seekh kebab, lamb chop, malai tikka & king prawn\n\u00a329.95\nSTARTERS\nSOUP OF THE DAY\nServed with bread\n\u00a35.50\nGARLIC BREAD\n\u00a33.50\nCHEESY GARLIC BREAD\n\u00a34.95\nPARVOLONE GRILLED CHEESE\nServed with warm crispy bread\n\u00a38.95\nNACHOS\nServed with guacamole & sour cream\n\u00a38.95\nHOMEMADE HUMMUS\nServed with pita bread\n\u00a37.95\nGAMBAS PIL PIL\n\u00a39.95\nKING PRAWN SPINACH GRATIN\n\u00a39.50\nJUMBO CHICKEN WINGS\nRoasted on your choice of mango curry or BBQ sauce\n\u00a39.95\nSALT & PEPPER CHICKEN\nChopped Capsicums and onion cooked in Thai sauce\n\u00a310.95\nSALT & PEPPER BEEF\nChopped Capsicums and onion cooked in Thai sauce\n\u00a310.95\nSALT & PEPPER RIBS\nChopped Capsicums and onion cooked in Thai sauce\n\u00a310.95\nSALT & PEPPER KING PRAWN\nChopp",
-            "notices": []
-          }
-        ],
-        "item": "Pepsi",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Koodle",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Shack 2",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nWraps\nKids Meals\nPinchitos\nChicken kebabs\nSnacks\nSalads\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nLentil Stew\n\u00a37.00\nCallos\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized onions!\n\u00a39.95\nShacks Chicken Burger\nCrispy breaded chicken topped with ",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nWraps\nKids Meals\nPinchitos\nChicken kebabs\nSnacks\nSalads\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nLentil Stew\n\u00a37.00\nCallos\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized onions!\n\u00a39.95\nShacks Chicken Burger\nCrispy breaded chicken topped with ",
-            "notices": [
-              {
-                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nWraps\nKids Meals\nPinchitos\nChicken kebabs\nSnacks\nSalads\nSides\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nLentil Stew\n\u00a37.00\nCallos\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola 33cl",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
@@ -425,6 +157,316 @@
         "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "Donations, Gifts, Vouchers and Bags!",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": [
+            {
+              "text": "Donate, Vouchers, Gifts or Bag For Life ?\nDonate \u00a32 - Get a \u00a32 Hungry Monkey Voucher\nLimited Edition Monkey!\nHungry Monkey Vouchers\nGifts\nBag For Life\nContinue",
+              "buttons": [
+                "Continue"
+              ],
+              "has_inputs": false
+            }
+          ]
+        }
+      ],
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Neha Curry House",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": false,
+        "steps": [],
+        "item": null,
+        "reason": "no eligible simple item or addition to basket could not be verified"
+      }
+    },
+    {
+      "name": "Thi Vietnamese Restaurant",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our new Vegan dishes Vegan Duck with Plum Sauce & Vegan Duck Curry, unique dishes for \u00a313.95!\nEnjoy our Fried Noodles with Chicken, Beef & Prawns from \u00a39.95!\nTop Selling Items\nStarters\nPrawns\nBeef\nDuck\nB\u00fan\nChicken\nFish\nPho\nFried Noodles\nRice\nLamb Dishes\nCurry\nVegan Dishes\nVegan and Vegetarian\nDesserts\nDrinks\nWhite Wines\nBeer\nRed Wines\nRose Wines\nChampagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCrispy Chilli Beef\nCrispy Chilli Beef with Tangy Sweet Chilli\n\u00a316.95\nChicken Fried Ho Fun or Noodles\n\u00a39.95\nSweet and Sour Chicken\n\u00a314.95\nBBQ Sticky Pork Ribs\n\u00a39.45\nBeef Fried Ho Fun or Noodles\n\u00a39.95\nStarters\nPrawn Crackers\n\u00a33.00\nSpring Rolls with Pork and Prawns\nMinced pork and prawns with garlic chilli dip.\n\u00a36.30\nDuck Rolls\n\u00a36.95\nVegetarian Spring Rolls\n\u00a35.95\nVegetarian\nSummer Roll with Prawns\nPrawns, coriander and mint with Hoi Sin sauce\n\u00a37.20\nVegetarian Summer Roll with Tofu\nTofu, vermicelli, coriander and mint.\n\u00a37.20\nVegetarian\nBanh cuon .\nSteamed rice roll with pork prawns and woody mushrooms.\nOut of stock\nChilli Pepper Squid\n\u00a39.45\nChilli Pepper Prawns\n\u00a39.45\nTempura Prawns\nWith sweet and sour dip\n\u00a39.45\nBBQ Sticky Pork Ribs\n\u00a39.45\nChilli Pepper Ribs\n\u00a39.45\nShredded Chilli Beef\nServed with fresh lettuce.\n\u00a310.95\nMango Salad\nPrawns, chilli, coriander and mint\n\u00a38.95\nChicken wings with chilli pepper\n\u00a36.95\nChkken wings in barbecue sauce\n\u00a36.95\nChilli pepper tofu\n\u00a37.95\nPrawns\nLemongrass Prawns\nLemongrass Prawns with Chilli, Coriander and Fish Sauce\n\u00a317.95\nT\u00f4m Rang\nTangy chilli garlic\n\u00a317.95\nSweet and Sour Prawns\n\u00a317.95\nKing Prawns in Black Pepper Sauce\n\u00a317.95\nBeef\nStir Fried Beef with Fresh Tomatoes\n\u00a316.95\nCrispy Chilli Beef\nCrispy Chilli Beef with Ta",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our new Vegan dishes Vegan Duck with Plum Sauce & Vegan Duck Curry, unique dishes for \u00a313.95!\nEnjoy our Fried Noodles with Chicken, Beef & Prawns from \u00a39.95!\nTop Selling Items\nStarters\nPrawns\nBeef\nDuck\nB\u00fan\nChicken\nFish\nPho\nFried Noodles\nRice\nLamb Dishes\nCurry\nVegan Dishes\nVegan and Vegetarian\nDesserts\nDrinks\nWhite Wines\nBeer\nRed Wines\nRose Wines\nChampagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCrispy Chilli Beef\nCrispy Chilli Beef with Tangy Sweet Chilli\n\u00a316.95\nChicken Fried Ho Fun or Noodles\n\u00a39.95\nSweet and Sour Chicken\n\u00a314.95\nBBQ Sticky Pork Ribs\n\u00a39.45\nBeef Fried Ho Fun or Noodles\n\u00a39.95\nStarters\nPrawn Crackers\n\u00a33.00\nSpring Rolls with Pork and Prawns\nMinced pork and prawns with garlic chilli dip.\n\u00a36.30\nDuck Rolls\n\u00a36.95\nVegetarian Spring Rolls\n\u00a35.95\nVegetarian\nSummer Roll with Prawns\nPrawns, coriander and mint with Hoi Sin sauce\n\u00a37.20\nVegetarian Summer Roll with Tofu\nTofu, vermicelli, coriander and mint.\n\u00a37.20\nVegetarian\nBanh cuon .\nSteamed rice roll with pork prawns and woody mushrooms.\nOut of stock\nChilli Pepper Squid\n\u00a39.45\nChilli Pepper Prawns\n\u00a39.45\nTempura Prawns\nWith sweet and sour dip\n\u00a39.45\nBBQ Sticky Pork Ribs\n\u00a39.45\nChilli Pepper Ribs\n\u00a39.45\nShredded Chilli Beef\nServed with fresh lettuce.\n\u00a310.95\nMango Salad\nPrawns, chilli, coriander and mint\n\u00a38.95\nChicken wings with chilli pepper\n\u00a36.95\nChkken wings in barbecue sauce\n\u00a36.95\nChilli pepper tofu\n\u00a37.95\nPrawns\nLemongrass Prawns\nLemongrass Prawns with Chilli, Coriander and Fish Sauce\n\u00a317.95\nT\u00f4m Rang\nTangy chilli garlic\n\u00a317.95\nSweet and Sour Prawns\n\u00a317.95\nKing Prawns in Black Pepper Sauce\n\u00a317.95\nBeef\nStir Fried Beef with Fresh Tomatoes\n\u00a316.95\nCrispy Chilli Beef\nCrispy Chilli Beef with Ta",
+            "notices": [
+              {
+                "text": "Crispy Chilli Beef\n\nCrispy Chilli Beef with Tangy Sweet Chilli\n\nHow Spicy Would You Like?\nSelect 1 option\nNo Spicy\nMake it Spicy\nMake it Extra Spicy\n1\nAdd to order\n\u00a316.95",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a316.95"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "Crispy Chilli Beef",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our new Vegan dishes Vegan Duck with Plum Sauce & Vegan Duck Curry, unique dishes for \u00a313.95!\nEnjoy our Fried Noodles with Chicken, Beef & Prawns from \u00a39.95!\nTop Selling Items\nStarters\nPrawns\nBeef\nDuck\nB\u00fan\nChicken\nFish\nPho\nFried Noodles\nRice\nLamb Dishes\nCurry\nVegan Dishes\nVegan and Vegetarian\nDesserts\nDrinks\nWhite Wines\nBeer\nRed Wines\nRose Wines\nChampagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCrispy Chilli Beef\nCrispy Chilli Beef with Tangy Sweet Chilli\n\u00a316.95\nChicken Fried Ho Fun or Noodles\n\u00a39.95\nSweet and Sour Chicken\n\u00a314.95\nBBQ Sticky Pork Ribs\n\u00a39.45\nBeef Fried Ho Fun or Noodles\n\u00a39.95\nStarters\nPrawn Crackers\n\u00a33.00\nSpring Rolls with Pork and Prawns\nMinced pork and prawns with garlic chilli dip.\n\u00a36.30\nDuck Rolls\n\u00a36.95\nVegetarian Spring Rolls\n\u00a35.95\nVegetarian\nSummer Roll with Prawns\nPrawns, coriander and mint with Hoi Sin sauce\n\u00a37.20\nVegetarian Summer Roll with Tofu\nTofu, vermicelli, coriander and mint.\n\u00a37.20\nVegetarian\nBanh cuon .\nSteamed rice roll with pork prawns and woody mushrooms.\nOut of stock\nChilli Pepper Squid\n\u00a39.45\nChilli Pepper Prawns\n\u00a39.45\nTempura Prawns\nWith sweet and sour dip\n\u00a39.45\nBBQ Sticky Pork Ribs\n\u00a39.45\nChilli Pepper Ribs\n\u00a39.45\nShredded Chilli Beef\nServed with fresh lettuce.\n\u00a310.95\nMango Salad\nPrawns, chilli, coriander and mint\n\u00a38.95\nChicken wings with chilli pepper\n\u00a36.95\nChkken wings in barbecue sauce\n\u00a36.95\nChilli pepper tofu\n\u00a37.95\nPrawns\nLemongrass Prawns\nLemongrass Prawns with Chilli, Coriander and Fish Sauce\n\u00a317.95\nT\u00f4m Rang\nTangy chilli garlic\n\u00a317.95\nSweet and Sour Prawns\n\u00a317.95\nKing Prawns in Black Pepper Sauce\n\u00a317.95\nBeef\nStir Fried Beef with Fresh Tomatoes\n\u00a316.95\nCrispy Chilli Beef\nCrispy Chilli Beef with Ta",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our new Vegan dishes Vegan Duck with Plum Sauce & Vegan Duck Curry, unique dishes for \u00a313.95!\nEnjoy our Fried Noodles with Chicken, Beef & Prawns from \u00a39.95!\nTop Selling Items\nStarters\nPrawns\nBeef\nDuck\nB\u00fan\nChicken\nFish\nPho\nFried Noodles\nRice\nLamb Dishes\nCurry\nVegan Dishes\nVegan and Vegetarian\nDesserts\nDrinks\nWhite Wines\nBeer\nRed Wines\nRose Wines\nChampagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCrispy Chilli Beef\nCrispy Chilli Beef with Tangy Sweet Chilli\n\u00a316.95\nChicken Fried Ho Fun or Noodles\n\u00a39.95\nSweet and Sour Chicken\n\u00a314.95\nBBQ Sticky Pork Ribs\n\u00a39.45\nBeef Fried Ho Fun or Noodles\n\u00a39.95\nStarters\nPrawn Crackers\n\u00a33.00\nSpring Rolls with Pork and Prawns\nMinced pork and prawns with garlic chilli dip.\n\u00a36.30\nDuck Rolls\n\u00a36.95\nVegetarian Spring Rolls\n\u00a35.95\nVegetarian\nSummer Roll with Prawns\nPrawns, coriander and mint with Hoi Sin sauce\n\u00a37.20\nVegetarian Summer Roll with Tofu\nTofu, vermicelli, coriander and mint.\n\u00a37.20\nVegetarian\nBanh cuon .\nSteamed rice roll with pork prawns and woody mushrooms.\nOut of stock\nChilli Pepper Squid\n\u00a39.45\nChilli Pepper Prawns\n\u00a39.45\nTempura Prawns\nWith sweet and sour dip\n\u00a39.45\nBBQ Sticky Pork Ribs\n\u00a39.45\nChilli Pepper Ribs\n\u00a39.45\nShredded Chilli Beef\nServed with fresh lettuce.\n\u00a310.95\nMango Salad\nPrawns, chilli, coriander and mint\n\u00a38.95\nChicken wings with chilli pepper\n\u00a36.95\nChkken wings in barbecue sauce\n\u00a36.95\nChilli pepper tofu\n\u00a37.95\nPrawns\nLemongrass Prawns\nLemongrass Prawns with Chilli, Coriander and Fish Sauce\n\u00a317.95\nT\u00f4m Rang\nTangy chilli garlic\n\u00a317.95\nSweet and Sour Prawns\n\u00a317.95\nKing Prawns in Black Pepper Sauce\n\u00a317.95\nBeef\nStir Fried Beef with Fresh Tomatoes\n\u00a316.95\nCrispy Chilli Beef\nCrispy Chilli Beef with Ta",
+            "notices": [
+              {
+                "text": "Chicken Fried Ho Fun or Noodles\nFried Ho Fun or Noodles?\nSelect 1 option\nFried Ho Fun\nNoodles\nWould You Like Vegetables?\nSelect 1 option\nNo Vegetables\nAdd Vegetables\n\u00a32.00\nWoud You Like Eggs?\nSelect 1 option\nNo Eggs\nAdd Eggs\n\u00a32.00\nHow Spicy Would You Like?\nSelect 1 option\nNo Spicy\nMake it Spicy\nMake it Extra Spicy\n1\nAdd to order\n\u00a39.95",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a39.95"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "Chicken Fried Ho Fun or Noodles",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our new Vegan dishes Vegan Duck with Plum Sauce & Vegan Duck Curry, unique dishes for \u00a313.95!\nEnjoy our Fried Noodles with Chicken, Beef & Prawns from \u00a39.95!\nTop Selling Items\nStarters\nPrawns\nBeef\nDuck\nB\u00fan\nChicken\nFish\nPho\nFried Noodles\nRice\nLamb Dishes\nCurry\nVegan Dishes\nVegan and Vegetarian\nDesserts\nDrinks\nWhite Wines\nBeer\nRed Wines\nRose Wines\nChampagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCrispy Chilli Beef\nCrispy Chilli Beef with Tangy Sweet Chilli\n\u00a316.95\nChicken Fried Ho Fun or Noodles\n\u00a39.95\nSweet and Sour Chicken\n\u00a314.95\nBBQ Sticky Pork Ribs\n\u00a39.45\nBeef Fried Ho Fun or Noodles\n\u00a39.95\nStarters\nPrawn Crackers\n\u00a33.00\nSpring Rolls with Pork and Prawns\nMinced pork and prawns with garlic chilli dip.\n\u00a36.30\nDuck Rolls\n\u00a36.95\nVegetarian Spring Rolls\n\u00a35.95\nVegetarian\nSummer Roll with Prawns\nPrawns, coriander and mint with Hoi Sin sauce\n\u00a37.20\nVegetarian Summer Roll with Tofu\nTofu, vermicelli, coriander and mint.\n\u00a37.20\nVegetarian\nBanh cuon .\nSteamed rice roll with pork prawns and woody mushrooms.\nOut of stock\nChilli Pepper Squid\n\u00a39.45\nChilli Pepper Prawns\n\u00a39.45\nTempura Prawns\nWith sweet and sour dip\n\u00a39.45\nBBQ Sticky Pork Ribs\n\u00a39.45\nChilli Pepper Ribs\n\u00a39.45\nShredded Chilli Beef\nServed with fresh lettuce.\n\u00a310.95\nMango Salad\nPrawns, chilli, coriander and mint\n\u00a38.95\nChicken wings with chilli pepper\n\u00a36.95\nChkken wings in barbecue sauce\n\u00a36.95\nChilli pepper tofu\n\u00a37.95\nPrawns\nLemongrass Prawns\nLemongrass Prawns with Chilli, Coriander and Fish Sauce\n\u00a317.95\nT\u00f4m Rang\nTangy chilli garlic\n\u00a317.95\nSweet and Sour Prawns\n\u00a317.95\nKing Prawns in Black Pepper Sauce\n\u00a317.95\nBeef\nStir Fried Beef with Fresh Tomatoes\n\u00a316.95\nCrispy Chilli Beef\nCrispy Chilli Beef with Ta",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our new Vegan dishes Vegan Duck with Plum Sauce & Vegan Duck Curry, unique dishes for \u00a313.95!\nEnjoy our Fried Noodles with Chicken, Beef & Prawns from \u00a39.95!\nTop Selling Items\nStarters\nPrawns\nBeef\nDuck\nB\u00fan\nChicken\nFish\nPho\nFried Noodles\nRice\nLamb Dishes\nCurry\nVegan Dishes\nVegan and Vegetarian\nDesserts\nDrinks\nWhite Wines\nBeer\nRed Wines\nRose Wines\nChampagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCrispy Chilli Beef\nCrispy Chilli Beef with Tangy Sweet Chilli\n\u00a316.95\nChicken Fried Ho Fun or Noodles\n\u00a39.95\nSweet and Sour Chicken\n\u00a314.95\nBBQ Sticky Pork Ribs\n\u00a39.45\nBeef Fried Ho Fun or Noodles\n\u00a39.95\nStarters\nPrawn Crackers\n\u00a33.00\nSpring Rolls with Pork and Prawns\nMinced pork and prawns with garlic chilli dip.\n\u00a36.30\nDuck Rolls\n\u00a36.95\nVegetarian Spring Rolls\n\u00a35.95\nVegetarian\nSummer Roll with Prawns\nPrawns, coriander and mint with Hoi Sin sauce\n\u00a37.20\nVegetarian Summer Roll with Tofu\nTofu, vermicelli, coriander and mint.\n\u00a37.20\nVegetarian\nBanh cuon .\nSteamed rice roll with pork prawns and woody mushrooms.\nOut of stock\nChilli Pepper Squid\n\u00a39.45\nChilli Pepper Prawns\n\u00a39.45\nTempura Prawns\nWith sweet and sour dip\n\u00a39.45\nBBQ Sticky Pork Ribs\n\u00a39.45\nChilli Pepper Ribs\n\u00a39.45\nShredded Chilli Beef\nServed with fresh lettuce.\n\u00a310.95\nMango Salad\nPrawns, chilli, coriander and mint\n\u00a38.95\nChicken wings with chilli pepper\n\u00a36.95\nChkken wings in barbecue sauce\n\u00a36.95\nChilli pepper tofu\n\u00a37.95\nPrawns\nLemongrass Prawns\nLemongrass Prawns with Chilli, Coriander and Fish Sauce\n\u00a317.95\nT\u00f4m Rang\nTangy chilli garlic\n\u00a317.95\nSweet and Sour Prawns\n\u00a317.95\nKing Prawns in Black Pepper Sauce\n\u00a317.95\nBeef\nStir Fried Beef with Fresh Tomatoes\n\u00a316.95\nCrispy Chilli Beef\nCrispy Chilli Beef with Ta",
+            "notices": [
+              {
+                "text": "Sweet and Sour Chicken\n1\nAdd to order\n\u00a314.95",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a314.95"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSweet and Sour Chicken\n\u00a314.95\n1\nSubtotal\n\u00a314.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a318.24\nAdd special instructions\nCheckout\nEnjoy our new Vegan dishes Vegan Duck with Plum Sauce & Vegan Duck Curry, unique dishes for \u00a313.95!\nEnjoy our Fried Noodles with Chicken, Beef & Prawns from \u00a39.95!\nTop Selling Items\nStarters\nPrawns\nBeef\nDuck\nB\u00fan\nChicken\nFish\nPho\nFried Noodles\nRice\nLamb Dishes\nCurry\nVegan Dishes\nVegan and Vegetarian\nDesserts\nDrinks\nWhite Wines\nBeer\nRed Wines\nRose Wines\nChampagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCrispy Chilli Beef\nCrispy Chilli Beef with Tangy Sweet Chilli\n\u00a316.95\nChicken Fried Ho Fun or Noodles\n\u00a39.95\n1\nSweet and Sour Chicken\n\u00a314.95\nBBQ Sticky Pork Ribs\n\u00a39.45\nBeef Fried Ho Fun or Noodles\n\u00a39.95\nStarters\nPrawn Crackers\n\u00a33.00\nSpring Rolls with Pork and Prawns\nMinced pork and prawns with garlic chilli dip.\n\u00a36.30\nDuck Rolls\n\u00a36.95\nVegetarian Spring Rolls\n\u00a35.95\nVegetarian\nSummer Roll with Prawns\nPrawns, coriander and mint with Hoi Sin sauce\n\u00a37.20\nVegetarian Summer Roll with Tofu\nTofu, vermicelli, coriander and mint.\n\u00a37.20\nVegetarian\nBanh cuon .\nSteamed rice roll with pork prawns and woody mushrooms.\nOut of stock\nChilli Pepper Squid\n\u00a39.45\nChilli Pepper Prawns\n\u00a39.45\nTempura Prawns\nWith sweet and sour dip\n\u00a39.45\nBBQ Sticky Pork Ribs\n\u00a39.45\nChilli Pepper Ribs\n\u00a39.45\nShredded Chilli Beef\nServed with fresh lettuce.\n\u00a310.95\nMango Salad\nPrawns, chilli, coriander and mint\n\u00a38.95\nChicken wings with chilli pepper\n\u00a36.95\nChkken wings in barbecue sauce\n\u00a36.95\nChilli pepper tofu\n\u00a37.95\nPrawns\nLemongrass Prawns\nLemongrass Prawns with Chilli, Coriander and Fish Sauce\n\u00a317.95\nT\u00f4m Rang\nTangy chilli garlic\n\u00a317.95\nSweet and Sour Prawns\n\u00a317.95\nKing Prawns in ",
+            "notices": []
+          }
+        ],
+        "item": "Sweet and Sour Chicken",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Raj's Curry House - Queensway",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
@@ -931,9 +973,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-27T22:53:06.875001+01:00",
+  "last_confirmed_at": "2026-10-27T22:55:06.877564+01:00",
   "last_sample_check": {
-    "at": "2026-10-27T22:53:06.875001+01:00",
+    "at": "2026-10-27T22:55:06.877564+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
