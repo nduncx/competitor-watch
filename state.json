@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-27T19:59:06.860551+01:00",
+  "last_observed_at": "2026-10-27T20:01:06.860246+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -50,7 +50,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Royal Calpe",
+      "name": "OAKBERRY",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -87,7 +87,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Starbucks",
+      "name": "The Star Bar",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -125,11 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "monitor:2026-10-22T23:00:22.703641+02:00:no_samples",
-      "subject": "Competitor Watch: no suitable stores available to test",
-      "delivered_at": "2026-10-22T23:01:48.582203+02:00"
-    },
     {
       "id": "monitor:2026-10-23T09:06:00.447854+02:00:restored",
       "subject": "Competitor Watch: suitable stores available again",
@@ -624,13 +619,18 @@
       "id": "2026-10-27T19:59:06.860551+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (19:59)",
       "delivered_at": "2026-10-27T19:59:42.331204+01:00"
+    },
+    {
+      "id": "2026-10-27T20:01:06.860246+01:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (20:01)",
+      "delivered_at": "2026-10-27T20:01:44.769060+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-27T19:59:06.860551+01:00",
+  "last_confirmed_at": "2026-10-27T20:01:06.860246+01:00",
   "last_sample_check": {
-    "at": "2026-10-27T19:59:06.860551+01:00",
+    "at": "2026-10-27T20:01:06.860246+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
