@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-27T10:57:36.582990+01:00",
+  "last_observed_at": "2026-10-27T10:59:36.581692+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Laguna Bar",
-      "status": "open",
+      "status": "unknown",
       "notice": "",
       "notice_transcript": [
         {
@@ -111,7 +111,18 @@
         },
         {
           "step": 0,
-          "notices": [],
+          "notices": [
+            {
+              "text": "Rueda de Churro\n1\nAdd to order\n\u00a33.00",
+              "buttons": [
+                "",
+                "",
+                "",
+                "Add to order\n\u00a33.00"
+              ],
+              "has_inputs": false
+            }
+          ],
           "phase": "after_add"
         }
       ],
@@ -120,7 +131,7 @@
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {
-        "passed": true,
+        "passed": false,
         "steps": [
           {
             "phase": "before_item",
@@ -142,15 +153,10 @@
                 "has_inputs": false
               }
             ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nRueda de Churro\n\u00a33.00\n1\nSubtotal\n\u00a33.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.29\nAdd special instructions\nCheckout\nEvery bite is a crispy delight - enjoy Rueda de Curro for only \u00a32.50!\nWake up to flavour! Enjoy a hot, freshly made Bacon & Egg Roll for just \u00a33.00!\nTop Selling Items\nChurros\nBreakfast Rolls\nCoffee\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nBacon & Egg Roll\n\u00a34.00\nBacon Roll\n\u00a33.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nChurros\nAvailable on Weekdays until 12pm on Weekends until 12:30pm\n1\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nChocolate Dip\n\u00a32.00\nKinder Bueno Dip\n\u00a32.00\nWhite Chocolate Dip\n\u00a32.00\nDulce de leche dip (caramel)\n\u00a32.00\nBreakfast Rolls\nBacon Roll\n\u00a33.50\nBacon & Egg Roll\n\u00a34.00\nCoffee\nWhite Coffee\n\u00a32.50\nBlack Coffee\n\u00a32.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nView allergy information\n\ue8cb",
-            "notices": []
           }
         ],
         "item": "Rueda de Churro",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+        "reason": "notices or ordering unavailable after adding"
       }
     },
     {
@@ -328,6 +334,95 @@
           }
         ],
         "item": "Chicken Strips",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "El Refugio Takeaway",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nAmazing prices! Beef or American Burger with Chips & Drink only for \u00a39.15!\nGrab a fresh favourite - Serrano Ham, Tuna Vegetable Rolls & more from only \u00a34.90!\nTop Selling Items\nEspecial Dishes\nBreakfast\nHot-Fill Rolls\nCombined Dishes\nWRAP\nFresh Rolls\nSides\nSalads\nPastas\nChips\nDesserts\nSauce Tubes\nSmoothies\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken in Pepper Sauce\n\u00a38.60\nBreaded Chicken Hot-Fill Roll\nPollo empanado Bocadillo\n\u00a34.90\nAfricano Chicken Hot-Fill Roll\nAfricano pollo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nEspecial Dishes\nComes with salad, rice and fried egg or chips and fried egg\nBeef in Sauce\n\u00a310.40\nBreakfast\nScrambled Eggs\neggs, cream, and bread\n\u00a33.70\nScrambled Eggs with Ham and Cheese\n\u00a34.90\nFrench Omelette\n\u00a33.70\nFrench Omelette with Ham and Cheese\n\u00a34.90\nEnglish Breakfast\n2 eggs, 2 sausage, 2 bacon, bread and beans\n\u00a39.75\nHot-Fill Rolls\nBocadillos Especiales\nChicken Chimichurri Hot-Fill Roll\n\u00a35.00\nAfricano Chicken Hot-Fill Roll\nAfricano pollo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nAfricano Pork Hot-Fill Roll\nAfricano lomo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nFurru\u00f1o Chicken Hot-Fill Roll\nFurru\u00f1o chicken bocadillo especial. Grilled onions and furru\u00f1o sauce\n\u00a34.90\nFurru\u00f1o Pork Hot-Fill Roll\nFurru\u00f1o lomo bocadillo especial. Grilled onions and furru\u00f1o sauce\n\u00a34.90\nSerranito Chicken Hot-Fill Roll\nSerranito pollo bocadillo especial. Serrano ham and fried peppers\n\u00a36.00\nSerranito Pork Hot-Fill Roll\nSerranito lomo bocadillo especial. Serrano ham and fried peppers\n\u00a36.00\nGreen Sauce Chicken Hot-Fill Roll\nSalsa verde pollo bocadillo especial. Egg and alioli / huevo y al",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nAmazing prices! Beef or American Burger with Chips & Drink only for \u00a39.15!\nGrab a fresh favourite - Serrano Ham, Tuna Vegetable Rolls & more from only \u00a34.90!\nTop Selling Items\nEspecial Dishes\nBreakfast\nHot-Fill Rolls\nCombined Dishes\nWRAP\nFresh Rolls\nSides\nSalads\nPastas\nChips\nDesserts\nSauce Tubes\nSmoothies\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken in Pepper Sauce\n\u00a38.60\nBreaded Chicken Hot-Fill Roll\nPollo empanado Bocadillo\n\u00a34.90\nAfricano Chicken Hot-Fill Roll\nAfricano pollo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nEspecial Dishes\nComes with salad, rice and fried egg or chips and fried egg\nBeef in Sauce\n\u00a310.40\nBreakfast\nScrambled Eggs\neggs, cream, and bread\n\u00a33.70\nScrambled Eggs with Ham and Cheese\n\u00a34.90\nFrench Omelette\n\u00a33.70\nFrench Omelette with Ham and Cheese\n\u00a34.90\nEnglish Breakfast\n2 eggs, 2 sausage, 2 bacon, bread and beans\n\u00a39.75\nHot-Fill Rolls\nBocadillos Especiales\nChicken Chimichurri Hot-Fill Roll\n\u00a35.00\nAfricano Chicken Hot-Fill Roll\nAfricano pollo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nAfricano Pork Hot-Fill Roll\nAfricano lomo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nFurru\u00f1o Chicken Hot-Fill Roll\nFurru\u00f1o chicken bocadillo especial. Grilled onions and furru\u00f1o sauce\n\u00a34.90\nFurru\u00f1o Pork Hot-Fill Roll\nFurru\u00f1o lomo bocadillo especial. Grilled onions and furru\u00f1o sauce\n\u00a34.90\nSerranito Chicken Hot-Fill Roll\nSerranito pollo bocadillo especial. Serrano ham and fried peppers\n\u00a36.00\nSerranito Pork Hot-Fill Roll\nSerranito lomo bocadillo especial. Serrano ham and fried peppers\n\u00a36.00\nGreen Sauce Chicken Hot-Fill Roll\nSalsa verde pollo bocadillo especial. Egg and alioli / huevo y al",
+            "notices": [
+              {
+                "text": "Small Chips\n\nPatatas fritas peque\u00f1as\n\nChoose your Free Sauce\nAdd Alioli\nAdd Mayonnaise\nAdd Ketchup\nAdd Cocktail Sauce\nAdd Gaucha Sauce\nAdd Mojo Picon Sauce\nAdd BBQ Sauce\nAdd Cheddar Sauce\n\u00a30.50\nAdd Green Sauce\nAdd Pepper Sauce\n\u00a30.65\nAdd Mustard\nAdd African Sauce\nAdd HP sauce\nOut of stock\n1\nAdd to order\n\u00a32.00",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.00"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Chips\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nAmazing prices! Beef or American Burger with Chips & Drink only for \u00a39.15!\nGrab a fresh favourite - Serrano Ham, Tuna Vegetable Rolls & more from only \u00a34.90!\nTop Selling Items\nEspecial Dishes\nBreakfast\nHot-Fill Rolls\nCombined Dishes\nWRAP\nFresh Rolls\nSides\nSalads\nPastas\nChips\nDesserts\nSauce Tubes\nSmoothies\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken in Pepper Sauce\n\u00a38.60\nBreaded Chicken Hot-Fill Roll\nPollo empanado Bocadillo\n\u00a34.90\nAfricano Chicken Hot-Fill Roll\nAfricano pollo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nEspecial Dishes\nComes with salad, rice and fried egg or chips and fried egg\nBeef in Sauce\n\u00a310.40\nBreakfast\nScrambled Eggs\neggs, cream, and bread\n\u00a33.70\nScrambled Eggs with Ham and Cheese\n\u00a34.90\nFrench Omelette\n\u00a33.70\nFrench Omelette with Ham and Cheese\n\u00a34.90\nEnglish Breakfast\n2 eggs, 2 sausage, 2 bacon, bread and beans\n\u00a39.75\nHot-Fill Rolls\nBocadillos Especiales\nChicken Chimichurri Hot-Fill Roll\n\u00a35.00\nAfricano Chicken Hot-Fill Roll\nAfricano pollo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nAfricano Pork Hot-Fill Roll\nAfricano lomo bocadillo especial. Grilled onions and African sauce\n\u00a34.90\nFurru\u00f1o Chicken Hot-Fill Roll\nFurru\u00f1o chicken bocadillo especial. Grilled onions and furru\u00f1o sauce\n\u00a34.90\nFurru\u00f1o Pork Hot-Fill Roll\nFurru\u00f1o lomo bocadillo especial. Grilled onions and furru\u00f1o sauce\n\u00a34.90\nSerranito Chicken Hot-Fill Roll\nSerranito pollo bocadillo especial. Serrano ham and fried peppers\n\u00a36.00\nSerranito Pork Hot-Fill Roll\nSerranito lomo bocadillo especial. Serrano ham and fried peppers\n\u00a36",
+            "notices": []
+          }
+        ],
+        "item": "Small Chips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -836,9 +931,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-27T10:57:36.582990+01:00",
+  "last_confirmed_at": "2026-10-27T10:59:36.581692+01:00",
   "last_sample_check": {
-    "at": "2026-10-27T10:57:36.582990+01:00",
+    "at": "2026-10-27T10:59:36.581692+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
