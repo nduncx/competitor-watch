@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-27T22:39:06.871702+01:00",
+  "last_observed_at": "2026-10-27T22:41:06.872816+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,7 +177,7 @@
     },
     {
       "name": "Flame Grill & Indian Tex Mex",
-      "status": "unknown",
+      "status": "open",
       "notice": "",
       "notice_transcript": [
         {
@@ -219,6 +219,11 @@
         {
           "step": 2,
           "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
@@ -226,10 +231,37 @@
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {
-        "passed": false,
-        "steps": [],
-        "item": null,
-        "reason": "no eligible simple item or addition to basket could not be verified"
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Tandoori Specials from Chicken Shaslik to Lamb Chops! Add just \u00a34 to make it a main!\nDiscover our All-Time Favourites from \u00a315.95! Savour classics like Beef Stroganoff & Thai Red Curry!\nTop Selling Items\nStarters\nIndian Starters\nTandoori Specials\nIndian Mains\nFlame's Indian Specials\nFlame's All Time Favorite\nVegetarian Dishes\nAsian Mains (Indo-Chinese)\nNaan Bread\nFlame Grill Special\nHomemade Burgers\nOur Noodles\nFish\nSide Winders\nRice (Basmati)\nSalads\nKids Menu\nSoft Drinks\nBottled / Can Beer\nCider\nRed Wine\nWhite Wine\nRose Wine\nRubbles / Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Pasanda\nChicken stuffed with cheese & spinach cooked with a creamy pepper sauce. Can be ordered either mild, medium or hot.\n\u00a314.95\nTeryaki\nYour choice of meat stir fry with peppers and onions in a teriyaki sauce. Served with rice or noodles.\n\u00a315.95\nBBQ Ribs\nSlow cooked pork ribs with bbq sauce served with homemade fries and coleslaw & corn cob.\n\u00a317.95\nChicken Fajita\nChicken cooked in fajita spices served on a sizzling plate with onion, peppers & warm tortilla on the side with onion, tomato salad, cheese, guacamole & sour cream.\n\u00a315.95\nThai Green Curry\nA rich, fragrant & mildly curry with homemade mild green curry past coconut milk and your choice of meat, served with rice.\n\u00a315.95\nStarters\nAsian Spring Rolls\nHomemade spring roll stuffed with mix vegetable with asian spices served with sweet chilli.\n\u00a37.95\nNachos\nNachos sauce with cheese baked on the oven served with guacamole and sour cream.\n\u00a37.95\nChilli Cheese Bite\nServed with sweet chili sauce.\n\u00a37.95\nKorean Chicken\nCrispy deep fried chicken marinated in a flavorful blend of spices & fried to p",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Tandoori Specials from Chicken Shaslik to Lamb Chops! Add just \u00a34 to make it a main!\nDiscover our All-Time Favourites from \u00a315.95! Savour classics like Beef Stroganoff & Thai Red Curry!\nTop Selling Items\nStarters\nIndian Starters\nTandoori Specials\nIndian Mains\nFlame's Indian Specials\nFlame's All Time Favorite\nVegetarian Dishes\nAsian Mains (Indo-Chinese)\nNaan Bread\nFlame Grill Special\nHomemade Burgers\nOur Noodles\nFish\nSide Winders\nRice (Basmati)\nSalads\nKids Menu\nSoft Drinks\nBottled / Can Beer\nCider\nRed Wine\nWhite Wine\nRose Wine\nRubbles / Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Pasanda\nChicken stuffed with cheese & spinach cooked with a creamy pepper sauce. Can be ordered either mild, medium or hot.\n\u00a314.95\nTeryaki\nYour choice of meat stir fry with peppers and onions in a teriyaki sauce. Served with rice or noodles.\n\u00a315.95\nBBQ Ribs\nSlow cooked pork ribs with bbq sauce served with homemade fries and coleslaw & corn cob.\n\u00a317.95\nChicken Fajita\nChicken cooked in fajita spices served on a sizzling plate with onion, peppers & warm tortilla on the side with onion, tomato salad, cheese, guacamole & sour cream.\n\u00a315.95\nThai Green Curry\nA rich, fragrant & mildly curry with homemade mild green curry past coconut milk and your choice of meat, served with rice.\n\u00a315.95\nStarters\nAsian Spring Rolls\nHomemade spring roll stuffed with mix vegetable with asian spices served with sweet chilli.\n\u00a37.95\nNachos\nNachos sauce with cheese baked on the oven served with guacamole and sour cream.\n\u00a37.95\nChilli Cheese Bite\nServed with sweet chili sauce.\n\u00a37.95\nKorean Chicken\nCrispy deep fried chicken marinated in a flavorful blend of spices & fried to p",
+            "notices": [
+              {
+                "text": "Pepsi Cola (33cl.)\n1\nAdd to order\n\u00a32.00",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.00"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Cola (33cl.)\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nEnjoy our Tandoori Specials from Chicken Shaslik to Lamb Chops! Add just \u00a34 to make it a main!\nDiscover our All-Time Favourites from \u00a315.95! Savour classics like Beef Stroganoff & Thai Red Curry!\nTop Selling Items\nStarters\nIndian Starters\nTandoori Specials\nIndian Mains\nFlame's Indian Specials\nFlame's All Time Favorite\nVegetarian Dishes\nAsian Mains (Indo-Chinese)\nNaan Bread\nFlame Grill Special\nHomemade Burgers\nOur Noodles\nFish\nSide Winders\nRice (Basmati)\nSalads\nKids Menu\nSoft Drinks\nBottled / Can Beer\nCider\nRed Wine\nWhite Wine\nRose Wine\nRubbles / Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Pasanda\nChicken stuffed with cheese & spinach cooked with a creamy pepper sauce. Can be ordered either mild, medium or hot.\n\u00a314.95\nTeryaki\nYour choice of meat stir fry with peppers and onions in a teriyaki sauce. Served with rice or noodles.\n\u00a315.95\nBBQ Ribs\nSlow cooked pork ribs with bbq sauce served with homemade fries and coleslaw & corn cob.\n\u00a317.95\nChicken Fajita\nChicken cooked in fajita spices served on a sizzling plate with onion, peppers & warm tortilla on the side with onion, tomato salad, cheese, guacamole & sour cream.\n\u00a315.95\nThai Green Curry\nA rich, fragrant & mildly curry with homemade mild green curry past coconut milk and your choice of meat, served with rice.\n\u00a315.95\nStarters\nAsian Spring Rolls\nHomemade spring roll stuffed with mix vegetable with asian spices served with sweet chilli.\n\u00a37.95\nNachos\nNachos sauce with cheese baked on the oven served with guacamole and sour cream.\n\u00a37.95\nChilli Cheese Bite\nServed with sweet chi",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi Cola (33cl.)",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
@@ -318,95 +350,6 @@
           }
         ],
         "item": "Coke 330ml",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Taco Bell",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nValue Pack for 2! Enjoy 1 Crunchywrap, 1 Quesarito, 6 Chicken Nachos, & 2 Fries for only \u00a322.50!\nEnjoy our 3 Tacos Supreme Meal with meat of your choice, side & drink only \u00a311.60!\nNEW ITEMS\nVALUE PACKS\nDeluxe\nMeals\nCompletes Meals\nBurritos\nCrunchywraps\nTacos\nQuesadillas\nSalads\nSides\nDesserts\nSauces\nDrinks\nNEW ITEMS\nBurrito XL Meal\nBurrito XL served with nachos, fries or salad and a drink\n\u00a312.95\nXL Burrito\nExtra-large burrito filled with minced beef, Mexican potatoes, guacamole, tomato, creamy jalape\u00f1o sauce, sour cream and a three-cheese blend, served with an 80 g tub of nacho sauce.\n\u00a38.10\nVALUE PACKS\nFor 2: Quesarito and Crunchywrap with Chicken Nachos\n1x Crunchywrap + 1x Quesarito + Chicken Nachos 6 units. + 2x Seasoned Fries\n\u00a322.50\nFor 2: Chicken Burrito and Crunchywrap with Nachos Supreme\n1x Chicken Burrito + 1x Crunchywrap + 1x Nachos Supreme + 2x medium Seasoned Fries\n\u00a322.50\nFor 2: Quesarito and Crunchywrap with Nachos with meat and cheese or spicy chicken\n1x Quesarito + 1x Crunchywrap + 1x Nachos with meat and cheese or 1x Spicy Chicken Nachos + 2x small Seasoned Fries\n\u00a326.50\nDeluxe\nQuesadilla Deluxe Cheese + Bacon Meal\nQuesadilla Deluxe Cheese + Bacon with your choice of meat, accompanied by nachos with cheese or seasoned fries or salad and a drink. (The image shows a Quesadilla Deluxe cut into 4 pieces).\n\u00a313.75\nQuesadilla Deluxe Cheese Meal\nQuesadilla Deluxe Cheese with your choice of meat, accompanied by nachos with cheese or chips or salad and a drink. (The image shows a Quesadilla Deluxe cut into 4 pieces).\n\u00a312.95\nBurrito Deluxe Cheese + Bacon Meal\nBurrito Deluxe Cheese + Bacon accompanied by nachos with cheese or seasoned fries or salad and a drink.\n\u00a313",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nValue Pack for 2! Enjoy 1 Crunchywrap, 1 Quesarito, 6 Chicken Nachos, & 2 Fries for only \u00a322.50!\nEnjoy our 3 Tacos Supreme Meal with meat of your choice, side & drink only \u00a311.60!\nNEW ITEMS\nVALUE PACKS\nDeluxe\nMeals\nCompletes Meals\nBurritos\nCrunchywraps\nTacos\nQuesadillas\nSalads\nSides\nDesserts\nSauces\nDrinks\nNEW ITEMS\nBurrito XL Meal\nBurrito XL served with nachos, fries or salad and a drink\n\u00a312.95\nXL Burrito\nExtra-large burrito filled with minced beef, Mexican potatoes, guacamole, tomato, creamy jalape\u00f1o sauce, sour cream and a three-cheese blend, served with an 80 g tub of nacho sauce.\n\u00a38.10\nVALUE PACKS\nFor 2: Quesarito and Crunchywrap with Chicken Nachos\n1x Crunchywrap + 1x Quesarito + Chicken Nachos 6 units. + 2x Seasoned Fries\n\u00a322.50\nFor 2: Chicken Burrito and Crunchywrap with Nachos Supreme\n1x Chicken Burrito + 1x Crunchywrap + 1x Nachos Supreme + 2x medium Seasoned Fries\n\u00a322.50\nFor 2: Quesarito and Crunchywrap with Nachos with meat and cheese or spicy chicken\n1x Quesarito + 1x Crunchywrap + 1x Nachos with meat and cheese or 1x Spicy Chicken Nachos + 2x small Seasoned Fries\n\u00a326.50\nDeluxe\nQuesadilla Deluxe Cheese + Bacon Meal\nQuesadilla Deluxe Cheese + Bacon with your choice of meat, accompanied by nachos with cheese or seasoned fries or salad and a drink. (The image shows a Quesadilla Deluxe cut into 4 pieces).\n\u00a313.75\nQuesadilla Deluxe Cheese Meal\nQuesadilla Deluxe Cheese with your choice of meat, accompanied by nachos with cheese or chips or salad and a drink. (The image shows a Quesadilla Deluxe cut into 4 pieces).\n\u00a312.95\nBurrito Deluxe Cheese + Bacon Meal\nBurrito Deluxe Cheese + Bacon accompanied by nachos with cheese or seasoned fries or salad and a drink.\n\u00a313",
-            "notices": [
-              {
-                "text": "2 Chicken Strips with Barbecue Sauce\n\nCrispy chicken pieces, perfect for dipping in Barbecue Sauce.\n\nDo you want to remove any ingredients?\nSelect up to 1 option\nNO BBQ Sauce\nOut of stock\n1\nAdd to order\n\u00a33.80",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.80"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n2 Chicken Strips with Barbecue Sauce\n\u00a33.80\n1\nSubtotal\n\u00a33.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a37.09\nAdd special instructions\nCheckout\nValue Pack for 2! Enjoy 1 Crunchywrap, 1 Quesarito, 6 Chicken Nachos, & 2 Fries for only \u00a322.50!\nEnjoy our 3 Tacos Supreme Meal with meat of your choice, side & drink only \u00a311.60!\nNEW ITEMS\nVALUE PACKS\nDeluxe\nMeals\nCompletes Meals\nBurritos\nCrunchywraps\nTacos\nQuesadillas\nSalads\nSides\nDesserts\nSauces\nDrinks\nNEW ITEMS\nBurrito XL Meal\nBurrito XL served with nachos, fries or salad and a drink\n\u00a312.95\nXL Burrito\nExtra-large burrito filled with minced beef, Mexican potatoes, guacamole, tomato, creamy jalape\u00f1o sauce, sour cream and a three-cheese blend, served with an 80 g tub of nacho sauce.\n\u00a38.10\nVALUE PACKS\nFor 2: Quesarito and Crunchywrap with Chicken Nachos\n1x Crunchywrap + 1x Quesarito + Chicken Nachos 6 units. + 2x Seasoned Fries\n\u00a322.50\nFor 2: Chicken Burrito and Crunchywrap with Nachos Supreme\n1x Chicken Burrito + 1x Crunchywrap + 1x Nachos Supreme + 2x medium Seasoned Fries\n\u00a322.50\nFor 2: Quesarito and Crunchywrap with Nachos with meat and cheese or spicy chicken\n1x Quesarito + 1x Crunchywrap + 1x Nachos with meat and cheese or 1x Spicy Chicken Nachos + 2x small Seasoned Fries\n\u00a326.50\nDeluxe\nQuesadilla Deluxe Cheese + Bacon Meal\nQuesadilla Deluxe Cheese + Bacon with your choice of meat, accompanied by nachos with cheese or seasoned fries or salad and a drink. (The image shows a Quesadilla Deluxe cut into 4 pieces).\n\u00a313.75\nQuesadilla Deluxe Cheese Meal\nQuesadilla Deluxe Cheese with your choice of meat, accompanied by nachos with cheese or chips or salad and a drink. (The image shows a Quesadilla Deluxe cut into 4 pieces).\n\u00a312.95\nBurrito Deluxe",
-            "notices": []
-          }
-        ],
-        "item": "2 Chicken Strips with Barbecue Sauce",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -915,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-27T22:39:06.871702+01:00",
+  "last_confirmed_at": "2026-10-27T22:41:06.872816+01:00",
   "last_sample_check": {
-    "at": "2026-10-27T22:39:06.871702+01:00",
+    "at": "2026-10-27T22:41:06.872816+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
