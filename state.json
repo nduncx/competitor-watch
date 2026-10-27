@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-27T21:53:06.872282+01:00",
+  "last_observed_at": "2026-10-27T21:55:06.869164+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -71,7 +71,7 @@
     },
     {
       "name": "AquaTerra",
-      "status": "unknown",
+      "status": "open",
       "notice": "",
       "notice_transcript": [
         {
@@ -113,6 +113,11 @@
         {
           "step": 2,
           "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
@@ -120,10 +125,37 @@
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {
-        "passed": false,
-        "steps": [],
-        "item": null,
-        "reason": "no eligible simple item or addition to basket could not be verified"
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nFish\nTapas and Bao Buns\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nHuevos rotos with morcilla de burgos\n\u00a39.95\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nTapa of Morcilla of Burgos\nBread, applesauce and Black Pudding from Burgos. Chef's recommendation\n\u00a33.50\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nGoat cheese salad\nMix lettuces, cherry toma",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nFish\nTapas and Bao Buns\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nHuevos rotos with morcilla de burgos\n\u00a39.95\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nTapa of Morcilla of Burgos\nBread, applesauce and Black Pudding from Burgos. Chef's recommendation\n\u00a33.50\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nGoat cheese salad\nMix lettuces, cherry toma",
+            "notices": [
+              {
+                "text": "Coca Cola\n\n33cl\n\n1\nAdd to order\n\u00a30.99",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a30.99"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a30.99\n1\nSubtotal\n\u00a30.99\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.28\nAdd special instructions\nCheckout\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nFish\nTapas and Bao Buns\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nHuevos rotos with morcilla de burgos\n\u00a39.95\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nTapa of Morcilla of Burgos\nBread, applesauce and Black Pudding from Burgos. Chef's recommendation\n\u00a33.50\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, carame",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
@@ -301,95 +333,6 @@
           }
         ],
         "item": "Coke Zero",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Los Olivillos Grill",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast for the family! Chicken, Family Fries, Croquettes, Alioli, Bread & Drink (2L) for \u00a329.50!\nTry our Special Deals! BBQ Roast Chicken Sandwich + Fries & Drink for \u00a37.50!\nTop Selling Items\nChicken Meal Deals\nRoast Chicken Sandwich\nSpecial Meal Deal\nBurgers and Grill\nChicken\nGolden Fries and Sides\nSauces\nHomemade Dishes\nDesserts\nDrinks\nRoast Chicken Sandwich Meal Deals for \u00a37.50!\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAfricano\nGrilled Loin or Chicken, Grilled Onion, Mayonnaise\n\u00a36.00\nMeatballs\n\u00a38.50\nSpanish Tortilla\n\u00a37.50\nNew! Cocido Croquettes\nChoose Half or Full Portion from \u00a35.50\n\u00a35.50\nTriple Chocolate Cake\n\u00a34.00\nChicken Meal Deals\nAvailable from 12pm\nChicken + Family Fries + Croquettes + Alioli + Bread + Soft Drink (2L)\n\u00a329.50\nWhole Chicken + Medium Fries + Choice of Salad + Alioli + Bread\n\u00a324.00\n2 Whole Chickens + Family Fries + Alioli + Bread + Soft Drink (2L)\n\u00a335.00\nWhole Chicken + Medium Fries + Alioli\n\u00a319.00\nWhole Chicken + Spanish Omelette + peppers + Alioli + bread + Soft Drink (2L)\n\u00a330.50\nRoast Chicken Sandwich\nRoast Chicken Sandwich (plain)\nBocadillo de pollo asado solo\n\u00a35.50\nBBQ Roast Chicken Sandwich\nBocadillo de pollo asado barbacoa\n\u00a35.50\nRoast Chicken Sandwich with Mayonnaise\nBocadillo de pollo asado mallonesa\n\u00a35.50\nRoast Chicken Sandwich with Spicy Sauce\nBocadillo de pollo asado con picante\n\u00a35.50\nRoast Chicken Sandwich with Ketchup\nBocadillo de pollo asado k\u00e9tchup\n\u00a35.50\nSpecial Meal Deal\nAvailable from 12pm\nSpecial Meal Deal 1! Half Chicken + Small Fries & Soft Drink for \u00a310!\nHalf Chicken + Small Fries + Soft Drink (Can)\n\u00a310.00\nSpecial Meal Deal 2! Half Chicken + Rice + Vegetables + Soft Drink for \u00a311!\nHalf Chicken + Rice ",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast for the family! Chicken, Family Fries, Croquettes, Alioli, Bread & Drink (2L) for \u00a329.50!\nTry our Special Deals! BBQ Roast Chicken Sandwich + Fries & Drink for \u00a37.50!\nTop Selling Items\nChicken Meal Deals\nRoast Chicken Sandwich\nSpecial Meal Deal\nBurgers and Grill\nChicken\nGolden Fries and Sides\nSauces\nHomemade Dishes\nDesserts\nDrinks\nRoast Chicken Sandwich Meal Deals for \u00a37.50!\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAfricano\nGrilled Loin or Chicken, Grilled Onion, Mayonnaise\n\u00a36.00\nMeatballs\n\u00a38.50\nSpanish Tortilla\n\u00a37.50\nNew! Cocido Croquettes\nChoose Half or Full Portion from \u00a35.50\n\u00a35.50\nTriple Chocolate Cake\n\u00a34.00\nChicken Meal Deals\nAvailable from 12pm\nChicken + Family Fries + Croquettes + Alioli + Bread + Soft Drink (2L)\n\u00a329.50\nWhole Chicken + Medium Fries + Choice of Salad + Alioli + Bread\n\u00a324.00\n2 Whole Chickens + Family Fries + Alioli + Bread + Soft Drink (2L)\n\u00a335.00\nWhole Chicken + Medium Fries + Alioli\n\u00a319.00\nWhole Chicken + Spanish Omelette + peppers + Alioli + bread + Soft Drink (2L)\n\u00a330.50\nRoast Chicken Sandwich\nRoast Chicken Sandwich (plain)\nBocadillo de pollo asado solo\n\u00a35.50\nBBQ Roast Chicken Sandwich\nBocadillo de pollo asado barbacoa\n\u00a35.50\nRoast Chicken Sandwich with Mayonnaise\nBocadillo de pollo asado mallonesa\n\u00a35.50\nRoast Chicken Sandwich with Spicy Sauce\nBocadillo de pollo asado con picante\n\u00a35.50\nRoast Chicken Sandwich with Ketchup\nBocadillo de pollo asado k\u00e9tchup\n\u00a35.50\nSpecial Meal Deal\nAvailable from 12pm\nSpecial Meal Deal 1! Half Chicken + Small Fries & Soft Drink for \u00a310!\nHalf Chicken + Small Fries + Soft Drink (Can)\n\u00a310.00\nSpecial Meal Deal 2! Half Chicken + Rice + Vegetables + Soft Drink for \u00a311!\nHalf Chicken + Rice ",
-            "notices": [
-              {
-                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.80",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.80"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.80\n1\nSubtotal\n\u00a31.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.09\nAdd special instructions\nCheckout\nFeast for the family! Chicken, Family Fries, Croquettes, Alioli, Bread & Drink (2L) for \u00a329.50!\nTry our Special Deals! BBQ Roast Chicken Sandwich + Fries & Drink for \u00a37.50!\nTop Selling Items\nChicken Meal Deals\nRoast Chicken Sandwich\nSpecial Meal Deal\nBurgers and Grill\nChicken\nGolden Fries and Sides\nSauces\nHomemade Dishes\nDesserts\nDrinks\nRoast Chicken Sandwich Meal Deals for \u00a37.50!\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAfricano\nGrilled Loin or Chicken, Grilled Onion, Mayonnaise\n\u00a36.00\nMeatballs\n\u00a38.50\nSpanish Tortilla\n\u00a37.50\nNew! Cocido Croquettes\nChoose Half or Full Portion from \u00a35.50\n\u00a35.50\nTriple Chocolate Cake\n\u00a34.00\nChicken Meal Deals\nAvailable from 12pm\nChicken + Family Fries + Croquettes + Alioli + Bread + Soft Drink (2L)\n\u00a329.50\nWhole Chicken + Medium Fries + Choice of Salad + Alioli + Bread\n\u00a324.00\n2 Whole Chickens + Family Fries + Alioli + Bread + Soft Drink (2L)\n\u00a335.00\nWhole Chicken + Medium Fries + Alioli\n\u00a319.00\nWhole Chicken + Spanish Omelette + peppers + Alioli + bread + Soft Drink (2L)\n\u00a330.50\nRoast Chicken Sandwich\nRoast Chicken Sandwich (plain)\nBocadillo de pollo asado solo\n\u00a35.50\nBBQ Roast Chicken Sandwich\nBocadillo de pollo asado barbacoa\n\u00a35.50\nRoast Chicken Sandwich with Mayonnaise\nBocadillo de pollo asado mallonesa\n\u00a35.50\nRoast Chicken Sandwich with Spicy Sauce\nBocadillo de pollo asado con picante\n\u00a35.50\nRoast Chicken Sandwich with Ketchup\nBocadillo de pollo asado k\u00e9tchup\n\u00a35.50\nSpecial Meal Deal\nAvailable from 12pm\nSpecial Meal Deal 1! Half Chicken + Small Fries & Soft Drink for \u00a310!\nHalf Chicken + Small Fries + Soft Drink (Ca",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola 33cl",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -898,9 +841,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-27T21:53:06.872282+01:00",
+  "last_confirmed_at": "2026-10-27T21:55:06.869164+01:00",
   "last_sample_check": {
-    "at": "2026-10-27T21:53:06.872282+01:00",
+    "at": "2026-10-27T21:55:06.869164+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
