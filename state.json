@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-27T22:23:06.874216+01:00",
+  "last_observed_at": "2026-10-27T22:25:06.873864+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -160,63 +160,6 @@
     },
     {
       "name": "BABA",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": false,
-        "steps": [],
-        "item": null,
-        "reason": "no eligible simple item or addition to basket could not be verified"
-      }
-    },
-    {
-      "name": "Firefly",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -275,20 +218,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a feast for the family with our Family Comfort Pack: 4 mains, 2 rice, 2 naans & 2 sauces \u00a349!\nSatisfy your midweek cravings with a starter, main, and choice of naan or rice for only \u00a310.95!\nSavor the Veggie Lover's Deal vegetarian starters, mains, biryani rice & chapati for just \u00a314.95!\nTop Selling Items\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nSpecial Offer! Family Comfort Pack for only \u00a349!\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nSpecial Offer! Veggie Lover's Deal only for \u00a314.95!\nLUNCH Meal Deal of the Day Non Vegetarian\nLUNCH Meal Deal of the Day Vegetarian\nSunday Lunch Specials\nStarters\nBiryani Dishes\nNaan\nRice\nChips\nChicken\nLamb\nFish\nVegetarian\nSouth Indian\nIndo-Chinese\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Korma\n\u00a38.25\nChicken Tikka Masala\n\u00a38.25\nCreamy Butter Chicken\n\u00a38.25\nKing Prawn Haka Noodles\n\u00a310.95\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Family Comfort Pack for only \u00a349!\nFeeds 4-5 people\nFamily Comfort Pack (feeds 4/5) for only \u00a349!\nIncludes 4 mains: chicken, lamb, veg, south Indian and fish dishes, 2 naans, 2 rice and 2small sauces\n\u00a349.00\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nAvailable only from Monday to Thursday\nMidweek Curry Cravings only for \u00a310.95!\nIncludes 1 starter, 1 main: chicken, lamb, veg, south Indian and fish dishes and 1 naan or 1 rice\n\u00a310.95\n",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in every bite.\n\u00a37.50\nBABA Korean Wings x10\nDouble-fried for extra crunch, then coated in a glossy Ko",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a feast for the family with our Family Comfort Pack: 4 mains, 2 rice, 2 naans & 2 sauces \u00a349!\nSatisfy your midweek cravings with a starter, main, and choice of naan or rice for only \u00a310.95!\nSavor the Veggie Lover's Deal vegetarian starters, mains, biryani rice & chapati for just \u00a314.95!\nTop Selling Items\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nSpecial Offer! Family Comfort Pack for only \u00a349!\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nSpecial Offer! Veggie Lover's Deal only for \u00a314.95!\nLUNCH Meal Deal of the Day Non Vegetarian\nLUNCH Meal Deal of the Day Vegetarian\nSunday Lunch Specials\nStarters\nBiryani Dishes\nNaan\nRice\nChips\nChicken\nLamb\nFish\nVegetarian\nSouth Indian\nIndo-Chinese\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Korma\n\u00a38.25\nChicken Tikka Masala\n\u00a38.25\nCreamy Butter Chicken\n\u00a38.25\nKing Prawn Haka Noodles\n\u00a310.95\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Family Comfort Pack for only \u00a349!\nFeeds 4-5 people\nFamily Comfort Pack (feeds 4/5) for only \u00a349!\nIncludes 4 mains: chicken, lamb, veg, south Indian and fish dishes, 2 naans, 2 rice and 2small sauces\n\u00a349.00\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nAvailable only from Monday to Thursday\nMidweek Curry Cravings only for \u00a310.95!\nIncludes 1 starter, 1 main: chicken, lamb, veg, south Indian and fish dishes and 1 naan or 1 rice\n\u00a310.95\n",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in every bite.\n\u00a37.50\nBABA Korean Wings x10\nDouble-fried for extra crunch, then coated in a glossy Ko",
             "notices": [
               {
-                "text": "Coke\n1\nAdd to order\n\u00a31.25",
+                "text": "Coke 1.75L Bottle\n1\nAdd to order\n\u00a33.99",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.25"
+                  "Add to order\n\u00a33.99"
                 ],
                 "has_inputs": false
               }
@@ -296,54 +239,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.25\n1\nSubtotal\n\u00a31.25\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.54\nAdd special instructions\nCheckout\nEnjoy a feast for the family with our Family Comfort Pack: 4 mains, 2 rice, 2 naans & 2 sauces \u00a349!\nSatisfy your midweek cravings with a starter, main, and choice of naan or rice for only \u00a310.95!\nSavor the Veggie Lover's Deal vegetarian starters, mains, biryani rice & chapati for just \u00a314.95!\nTop Selling Items\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nSpecial Offer! Family Comfort Pack for only \u00a349!\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nSpecial Offer! Veggie Lover's Deal only for \u00a314.95!\nLUNCH Meal Deal of the Day Non Vegetarian\nLUNCH Meal Deal of the Day Vegetarian\nSunday Lunch Specials\nStarters\nBiryani Dishes\nNaan\nRice\nChips\nChicken\nLamb\nFish\nVegetarian\nSouth Indian\nIndo-Chinese\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Korma\n\u00a38.25\nChicken Tikka Masala\n\u00a38.25\nCreamy Butter Chicken\n\u00a38.25\nKing Prawn Haka Noodles\n\u00a310.95\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Family Comfort Pack for only \u00a349!\nFeeds 4-5 people\nFamily Comfort Pack (feeds 4/5) for only \u00a349!\nIncludes 4 mains: chicken, lamb, veg, south Indian and fish dishes, 2 naans, 2 rice and 2small sauces\n\u00a349.00\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nAvailable only from Monday to Thursday\nMidweek Curry Cravings only for \u00a310.95!\nIncludes ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 1.75L Bottle\n\u00a33.99\n1\nSubtotal\n\u00a33.99\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a37.28\nAdd special instructions\nCheckout\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury",
             "notices": []
           }
         ],
-        "item": "Coke",
+        "item": "Coke 1.75L Bottle",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Jumpers Wheel",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "covered_buttons": [
-            "Reject non-essential",
-            "OK"
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "My Wines",
+      "name": "Firefly",
       "status": "unknown",
       "notice": "",
       "notice_transcript": [
@@ -397,6 +302,95 @@
         "steps": [],
         "item": null,
         "reason": "no eligible simple item or addition to basket could not be verified"
+      }
+    },
+    {
+      "name": "My Wines",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving pancakes? By popular demand, they're now available all day for just \u00a34.95!\nTreat yourself to our irresistible mains! The perfect dish to satisfy your hunger only from \u00a36.95!\nDiscover our NEW arrivals - Matcha treats starting at just \u00a34.50! Find your favourite flavour!\nTop Selling Items\nALL DAY PANCAKES!\nBreakfast\nHot Drinks\nMore than just a bite!\nSalads\nOur Mains\nFire\nGIFT BOXES\nDesserts\nHomemade Sauces\nExtra Sauces\nDrinks\nMATCHA\nRed Wines\nWhite Wines\nRose Wines\nSparkling Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12:30pm\nLemon Chicken Fingers\nAl My Wines classic. Lemon infused, breaded & served with a honey mustard dip\n\u00a310.95\nCroquetas Jamon\nSix juicy chunks of pata negra engulfed in a cured ham b\u00e9chamel - boom!\n\u00a37.95\nArgentinian Pasties\nHome made - hand cut, spicy beef empanadillas with olives & egg.\n\u00a35.50\nHot\nGrilled Rosada\nThe healthier option, grilled with garlic & herbs\n\u00a315.95\nCarillada 2.0\nNow smoked low & slow in our charcoal oven to perfect tenderness. Served over a bed of fresh hand cut chips\n\u00a316.95\nALL DAY PANCAKES!\nAs requested! Now available ALL day!\nFluffy Pancakes\n3 fluffy pancakes ready to add your fav ingredients!\n\u00a34.95\nBreakfast\nAvailable until 11:45AM\nIain Size English\n2 each of sausages, eggs, bacon & hash browns next to baked beans, mushrooms, tomato and your favourite toast!\n\u00a39.95\nTony Size English\n1 each of sausage, egg, bacon & hash brown next to baked beans, mushrooms, tomato and your favourite toast!\n\u00a37.95\nCorona Killer\nEnglish breakfast, 3 of each to kill all hunger!\n\u00a313.95\nBLT Bap\nBacon, lettuce & tomato, a classic but nicer if you add cheddar\n\u00a35.95\nWood oven Campo Toast\nSimply with Butte",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving pancakes? By popular demand, they're now available all day for just \u00a34.95!\nTreat yourself to our irresistible mains! The perfect dish to satisfy your hunger only from \u00a36.95!\nDiscover our NEW arrivals - Matcha treats starting at just \u00a34.50! Find your favourite flavour!\nTop Selling Items\nALL DAY PANCAKES!\nBreakfast\nHot Drinks\nMore than just a bite!\nSalads\nOur Mains\nFire\nGIFT BOXES\nDesserts\nHomemade Sauces\nExtra Sauces\nDrinks\nMATCHA\nRed Wines\nWhite Wines\nRose Wines\nSparkling Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12:30pm\nLemon Chicken Fingers\nAl My Wines classic. Lemon infused, breaded & served with a honey mustard dip\n\u00a310.95\nCroquetas Jamon\nSix juicy chunks of pata negra engulfed in a cured ham b\u00e9chamel - boom!\n\u00a37.95\nArgentinian Pasties\nHome made - hand cut, spicy beef empanadillas with olives & egg.\n\u00a35.50\nHot\nGrilled Rosada\nThe healthier option, grilled with garlic & herbs\n\u00a315.95\nCarillada 2.0\nNow smoked low & slow in our charcoal oven to perfect tenderness. Served over a bed of fresh hand cut chips\n\u00a316.95\nALL DAY PANCAKES!\nAs requested! Now available ALL day!\nFluffy Pancakes\n3 fluffy pancakes ready to add your fav ingredients!\n\u00a34.95\nBreakfast\nAvailable until 11:45AM\nIain Size English\n2 each of sausages, eggs, bacon & hash browns next to baked beans, mushrooms, tomato and your favourite toast!\n\u00a39.95\nTony Size English\n1 each of sausage, egg, bacon & hash brown next to baked beans, mushrooms, tomato and your favourite toast!\n\u00a37.95\nCorona Killer\nEnglish breakfast, 3 of each to kill all hunger!\n\u00a313.95\nBLT Bap\nBacon, lettuce & tomato, a classic but nicer if you add cheddar\n\u00a35.95\nWood oven Campo Toast\nSimply with Butte",
+            "notices": [
+              {
+                "text": "Coca Cola\n1\nAdd to order\n\u00a31.95",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.95"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a31.95\n1\nSubtotal\n\u00a31.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.24\nAdd special instructions\nCheckout\nCraving pancakes? By popular demand, they're now available all day for just \u00a34.95!\nTreat yourself to our irresistible mains! The perfect dish to satisfy your hunger only from \u00a36.95!\nDiscover our NEW arrivals - Matcha treats starting at just \u00a34.50! Find your favourite flavour!\nTop Selling Items\nALL DAY PANCAKES!\nBreakfast\nHot Drinks\nMore than just a bite!\nSalads\nOur Mains\nFire\nGIFT BOXES\nDesserts\nHomemade Sauces\nExtra Sauces\nDrinks\nMATCHA\nRed Wines\nWhite Wines\nRose Wines\nSparkling Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12:30pm\nLemon Chicken Fingers\nAl My Wines classic. Lemon infused, breaded & served with a honey mustard dip\n\u00a310.95\nCroquetas Jamon\nSix juicy chunks of pata negra engulfed in a cured ham b\u00e9chamel - boom!\n\u00a37.95\nArgentinian Pasties\nHome made - hand cut, spicy beef empanadillas with olives & egg.\n\u00a35.50\nHot\nGrilled Rosada\nThe healthier option, grilled with garlic & herbs\n\u00a315.95\nCarillada 2.0\nNow smoked low & slow in our charcoal oven to perfect tenderness. Served over a bed of fresh hand cut chips\n\u00a316.95\nALL DAY PANCAKES!\nAs requested! Now available ALL day!\nFluffy Pancakes\n3 fluffy pancakes ready to add your fav ingredients!\n\u00a34.95\nBreakfast\nAvailable until 11:45AM\nIain Size English\n2 each of sausages, eggs, bacon & hash browns next to baked beans, mushrooms, tomato and your favourite toast!\n\u00a39.95\nTony Size English\n1 each of sausage, egg, bacon & hash brown next to baked beans, mushrooms, tomato and your favourite toast!\n\u00a37.95\nCorona Killer\nEnglish breakfast, 3 of each to kill all hunger!\n\u00a313.95\nBLT Bap\nBacon, l",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
   ],
@@ -904,9 +898,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-27T22:23:06.874216+01:00",
+  "last_confirmed_at": "2026-10-27T22:25:06.873864+01:00",
   "last_sample_check": {
-    "at": "2026-10-27T22:23:06.874216+01:00",
+    "at": "2026-10-27T22:25:06.873864+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
