@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-27T17:49:24.875266+01:00",
+  "last_observed_at": "2026-10-27T17:51:24.875035+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -324,7 +324,7 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Novelty Cakes: Barbie, Stitch & more design (Pre-order 3 working days) from \u00a372!\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nG\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nHot Chocolate Bombes\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nNovelty Cakes Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nToday's Specials\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed Velvet & White Chocolate Chip Cookies\n\u00a33.00\nCupcakes\nLemon Cheesecake Cupcake.\nLuxury Range. Lemon Sponge cupcake filled with lemon curd, topped with Cream cheese frosting, lemon sauce and a lemon sugar sweet.\n\u00a33.90\nFerrero Rocher Cupcake\nLuxury Range. Chocolate sponge cupcake filled with Ferrero Nutella and ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Novelty Cakes: Barbie, Stitch & more design (Pre-order 3 working days) from \u00a372!\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nHot Chocolate Bombes\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nNovelty Cakes Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nToday's Specials\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed Velvet & White Chocolate Chip Cookies\n\u00a33.00\nCupcakes\nLemon Cheesecake Cupcake.\nLuxury Range. Lemon Sponge cupcake filled with lemon curd, topped with Cream cheese frosting, lemon sauce and a lemon sugar sweet.\n\u00a33.90\nFerrero Rocher Cupcake\nLuxury Range. Chocolate sponge cupcake filled with Ferrero Nutella and wh",
             "notices": []
           },
           {
@@ -858,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-27T17:49:24.875266+01:00",
+  "last_confirmed_at": "2026-10-27T17:51:24.875035+01:00",
   "last_sample_check": {
-    "at": "2026-10-27T17:49:24.875266+01:00",
+    "at": "2026-10-27T17:51:24.875035+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
