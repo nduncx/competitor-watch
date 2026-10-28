@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-28T15:27:35.025715+01:00",
+  "last_observed_at": "2026-10-28T15:29:35.025608+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,8 +177,8 @@
     },
     {
       "name": "54 Dining & Caf\u00e9",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -219,55 +219,18 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLane 3 Feast! Get Ensaladilla Rusa, 8 Croquettes, 16 Chicken Strips & 1.5L bottle only for \u00a331.15!\nDon't miss out our Daily Favourites like Zucchini stuffed with Cheese only for \u00a34.20!\n2 Full Wheels of Churros with choice of 2 sauces only for \u00a35!\nTop Selling Items\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nBeach Medley Relay\nChurros, Papitas & Churro Pops\nNEW! Homemade Daily Gibraltarian Delights\nBaguettes / Rolls\nToast\nBreakfast\nDaily Favourites\nStarters\nSpecials\nBurger\nHot Lunches\nOn Their Own\nSalads\nFish\nMeat & Chicken\nPaella\nPortuguese Cuisine\nSnacks\nDrinks\nCoffee\nTea\nBeer & Cider\nWines - Rioja & Ribera del Duero\nWhite Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPapitas\n\u00a32.40\nEgg, Bacon & Sausage\n\u00a35.50\nChurros\n1 full churro wheel\n\u00a32.40\nSerrano Ham\n\u00a34.56\nChicken Tikka with Rice or Chips\n\u00a38.35\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nAvailable Monday-Sunday until 12pm. Limited Time Offer.\n2 Full Wheels of Churros with choice of 2 sauces for \u00a35!\n\u00a35.00\nBeach Medley Relay\nWhich lane will win today?\nLane 1 (2 persons)\n1 Tapa of Ensaladilla Rusa; 4 Homemade Croquettes; 12 Chicken Strips; 2 Soft Drinks (can) + 1 FREE Soft Drink\n\u00a319.15\nLane 2 (2 persons)\n1 Momemade Torta de Patata; 4 Homemade Chicken Croquettes; 6 homemade Breaded Chicken; 2 Soft Drinks (can) + 1 FREE soft drink.\n\u00a326.40\nLane 3 (4 persons)\n1 Portion of Ensaladilla Rusa; 8 Homemade Croquettes; 16 Chicken Strips; 1.5L FREE bottle of soft drink\n\u00a332.20\nLane 4 (4 persons)\n2 Homemade Torta de Patata; 8 Homemade Croquettes; 8 Homemade Breaded Chicken; 1 FREE 1.5L Bottle Soft drink\n\u00a343.85\nChurros, Papitas & Churro Pops\nPapitas\n\u00a32.40\nChurros\n1 ful",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLane 3 Feast! Get Ensaladilla Rusa, 8 Croquettes, 16 Chicken Strips & 1.5L bottle only for \u00a331.15!\nDon't miss out our Daily Favourites like Zucchini stuffed with Cheese only for \u00a34.20!\n2 Full Wheels of Churros with choice of 2 sauces only for \u00a35!\nTop Selling Items\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nBeach Medley Relay\nChurros, Papitas & Churro Pops\nNEW! Homemade Daily Gibraltarian Delights\nBaguettes / Rolls\nToast\nBreakfast\nDaily Favourites\nStarters\nSpecials\nBurger\nHot Lunches\nOn Their Own\nSalads\nFish\nMeat & Chicken\nPaella\nPortuguese Cuisine\nSnacks\nDrinks\nCoffee\nTea\nBeer & Cider\nWines - Rioja & Ribera del Duero\nWhite Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPapitas\n\u00a32.40\nEgg, Bacon & Sausage\n\u00a35.50\nChurros\n1 full churro wheel\n\u00a32.40\nSerrano Ham\n\u00a34.56\nChicken Tikka with Rice or Chips\n\u00a38.35\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nAvailable Monday-Sunday until 12pm. Limited Time Offer.\n2 Full Wheels of Churros with choice of 2 sauces for \u00a35!\n\u00a35.00\nBeach Medley Relay\nWhich lane will win today?\nLane 1 (2 persons)\n1 Tapa of Ensaladilla Rusa; 4 Homemade Croquettes; 12 Chicken Strips; 2 Soft Drinks (can) + 1 FREE Soft Drink\n\u00a319.15\nLane 2 (2 persons)\n1 Momemade Torta de Patata; 4 Homemade Chicken Croquettes; 6 homemade Breaded Chicken; 2 Soft Drinks (can) + 1 FREE soft drink.\n\u00a326.40\nLane 3 (4 persons)\n1 Portion of Ensaladilla Rusa; 8 Homemade Croquettes; 16 Chicken Strips; 1.5L FREE bottle of soft drink\n\u00a332.20\nLane 4 (4 persons)\n2 Homemade Torta de Patata; 8 Homemade Croquettes; 8 Homemade Breaded Chicken; 1 FREE 1.5L Bottle Soft drink\n\u00a343.85\nChurros, Papitas & Churro Pops\nPapitas\n\u00a32.40\nChurros\n1 ful",
-            "notices": [
-              {
-                "text": "Coke (Can)\n1\nAdd to order\n\u00a31.80",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.80"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke (Can)\n\u00a31.80\n1\nSubtotal\n\u00a31.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.09\nAdd special instructions\nCheckout\nLane 3 Feast! Get Ensaladilla Rusa, 8 Croquettes, 16 Chicken Strips & 1.5L bottle only for \u00a331.15!\nDon't miss out our Daily Favourites like Zucchini stuffed with Cheese only for \u00a34.20!\n2 Full Wheels of Churros with choice of 2 sauces only for \u00a35!\nTop Selling Items\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nBeach Medley Relay\nChurros, Papitas & Churro Pops\nNEW! Homemade Daily Gibraltarian Delights\nBaguettes / Rolls\nToast\nBreakfast\nDaily Favourites\nStarters\nSpecials\nBurger\nHot Lunches\nOn Their Own\nSalads\nFish\nMeat & Chicken\nPaella\nPortuguese Cuisine\nSnacks\nDrinks\nCoffee\nTea\nBeer & Cider\nWines - Rioja & Ribera del Duero\nWhite Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPapitas\n\u00a32.40\nEgg, Bacon & Sausage\n\u00a35.50\nChurros\n1 full churro wheel\n\u00a32.40\nSerrano Ham\n\u00a34.56\nChicken Tikka with Rice or Chips\n\u00a38.35\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nAvailable Monday-Sunday until 12pm. Limited Time Offer.\n2 Full Wheels of Churros with choice of 2 sauces for \u00a35!\n\u00a35.00\nBeach Medley Relay\nWhich lane will win today?\nLane 1 (2 persons)\n1 Tapa of Ensaladilla Rusa; 4 Homemade Croquettes; 12 Chicken Strips; 2 Soft Drinks (can) + 1 FREE Soft Drink\n\u00a319.15\nLane 2 (2 persons)\n1 Momemade Torta de Patata; 4 Homemade Chicken Croquettes; 6 homemade Breaded Chicken; 2 Soft Drinks (can) + 1 FREE soft drink.\n\u00a326.40\nLane 3 (4 persons)\n1 Portion of Ensaladilla Rusa; 8 Homemade Croquettes; 16 Chicken Strips; 1.5L FREE bottle of soft drink\n\u00a332.20\nLane 4 (4 persons)\n2 Homemade Torta de Patata; 8 Homemade Croquettes; 8 Homemade Breaded Ch",
-            "notices": []
-          }
-        ],
-        "item": "Coke (Can)",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     },
     {
       "name": "NAAFI Ocean Village",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -308,50 +271,169 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover timeless elegance with our premium fragrances! Iconic brands: Paco Rabanne, Versace & more!\nHungry? Weve got you covered! Breakfast Bap & Hot Drink for only \u00a36!\nEnjoy our Ham & Cheese Toastie for \u00a34.75! Farmhouse sliced bread filled with delicious ham & cheese!\nCoffee & Hot Drinks\nAll-day Breakfast Meal Deal\nAll-day Breakfast Baps\nSandwiches, Paninis & Toasties\nSmoothies\nIced Drinks\nSoft Drinks\nCakes & Donuts\nIce Cream\nBeers & Ciders\nTop Selling Items\nChocolate Bars\nYankee Candles\nFragrances\nSpirits\nSoft Toy\nCoffee & Hot Drinks\nAmericano\n\u00a33.00\nWhite Americano\n\u00a33.00\nCappuccino\n\u00a33.50\nLatte\n\u00a33.50\nFlat White\n\u00a33.50\nMocha\n\u00a33.75\nHot Chocolate\n\u00a33.50\nNAAFI Tea\n\u00a32.50\nAll-day Breakfast Meal Deal\nChoose your breakfast bap, add a sauce, then add your hot drink!\nBreakfast Bap & Hot Drink for \u00a36!\n\u00a36.00\nAll-day Breakfast Baps\nSausage Bap\nPork Sausages served inside a floured Bap\n\u00a33.95\nBacon Bap\nStreaky Bacon served inside a floured Bap\n\u00a33.95\nSandwiches, Paninis & Toasties\nHam Cheese & Pickle Sandwich Baguette\nWhite sandwich baguette filled with sliced ham and cheese with Branston pickle\n\u00a34.75\nChicken Tikka Sandwich Baguette\nWhite sandwich baguette filled with sliced chicken & Tikka sauce\n\u00a34.75\nBLT Sandwich Baguette\nWhite sandwich baguette filled with bacon, lettuce & tomato slices\n\u00a34.75\nTuna Mayo & Sweetcorn Sandwich Baguette\nWhite sandwich baguette filled with Tuna mayo & sweetcorn\n\u00a34.75\nPesto, Mozarella & Tomato Panini\nWhite panini bread filled with Pesto, Mozarella & sliced tomaoto\n\u00a34.75\nHam & Cheese Toastie\nFarmhouse sliced bread filled with sliced ham & cheese\n\u00a34.75\nTuna Melt Toastie\nFarmhouse sliced bread filled with tuna mayo, cheese & sweetcorn\n\u00a34.75\nSmoothies\nCoco",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover timeless elegance with our premium fragrances! Iconic brands: Paco Rabanne, Versace & more!\nHungry? Weve got you covered! Breakfast Bap & Hot Drink for only \u00a36!\nEnjoy our Ham & Cheese Toastie for \u00a34.75! Farmhouse sliced bread filled with delicious ham & cheese!\nCoffee & Hot Drinks\nAll-day Breakfast Meal Deal\nAll-day Breakfast Baps\nSandwiches, Paninis & Toasties\nSmoothies\nIced Drinks\nSoft Drinks\nCakes & Donuts\nIce Cream\nBeers & Ciders\nTop Selling Items\nChocolate Bars\nYankee Candles\nFragrances\nSpirits\nSoft Toy\nCoffee & Hot Drinks\nAmericano\n\u00a33.00\nWhite Americano\n\u00a33.00\nCappuccino\n\u00a33.50\nLatte\n\u00a33.50\nFlat White\n\u00a33.50\nMocha\n\u00a33.75\nHot Chocolate\n\u00a33.50\nNAAFI Tea\n\u00a32.50\nAll-day Breakfast Meal Deal\nChoose your breakfast bap, add a sauce, then add your hot drink!\nBreakfast Bap & Hot Drink for \u00a36!\n\u00a36.00\nAll-day Breakfast Baps\nSausage Bap\nPork Sausages served inside a floured Bap\n\u00a33.95\nBacon Bap\nStreaky Bacon served inside a floured Bap\n\u00a33.95\nSandwiches, Paninis & Toasties\nHam Cheese & Pickle Sandwich Baguette\nWhite sandwich baguette filled with sliced ham and cheese with Branston pickle\n\u00a34.75\nChicken Tikka Sandwich Baguette\nWhite sandwich baguette filled with sliced chicken & Tikka sauce\n\u00a34.75\nBLT Sandwich Baguette\nWhite sandwich baguette filled with bacon, lettuce & tomato slices\n\u00a34.75\nTuna Mayo & Sweetcorn Sandwich Baguette\nWhite sandwich baguette filled with Tuna mayo & sweetcorn\n\u00a34.75\nPesto, Mozarella & Tomato Panini\nWhite panini bread filled with Pesto, Mozarella & sliced tomaoto\n\u00a34.75\nHam & Cheese Toastie\nFarmhouse sliced bread filled with sliced ham & cheese\n\u00a34.75\nTuna Melt Toastie\nFarmhouse sliced bread filled with tuna mayo, cheese & sweetcorn\n\u00a34.75\nSmoothies\nCoco",
-            "notices": [
-              {
-                "text": "Coca Cola 500ml\n1\nAdd to order\n\u00a32.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola 500ml\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nDiscover timeless elegance with our premium fragrances! Iconic brands: Paco Rabanne, Versace & more!\nHungry? Weve got you covered! Breakfast Bap & Hot Drink for only \u00a36!\nEnjoy our Ham & Cheese Toastie for \u00a34.75! Farmhouse sliced bread filled with delicious ham & cheese!\nCoffee & Hot Drinks\nAll-day Breakfast Meal Deal\nAll-day Breakfast Baps\nSandwiches, Paninis & Toasties\nSmoothies\nIced Drinks\nSoft Drinks\nCakes & Donuts\nIce Cream\nBeers & Ciders\nTop Selling Items\nChocolate Bars\nYankee Candles\nFragrances\nSpirits\nSoft Toy\nCoffee & Hot Drinks\nAmericano\n\u00a33.00\nWhite Americano\n\u00a33.00\nCappuccino\n\u00a33.50\nLatte\n\u00a33.50\nFlat White\n\u00a33.50\nMocha\n\u00a33.75\nHot Chocolate\n\u00a33.50\nNAAFI Tea\n\u00a32.50\nAll-day Breakfast Meal Deal\nChoose your breakfast bap, add a sauce, then add your hot drink!\nBreakfast Bap & Hot Drink for \u00a36!\n\u00a36.00\nAll-day Breakfast Baps\nSausage Bap\nPork Sausages served inside a floured Bap\n\u00a33.95\nBacon Bap\nStreaky Bacon served inside a floured Bap\n\u00a33.95\nSandwiches, Paninis & Toasties\nHam Cheese & Pickle Sandwich Baguette\nWhite sandwich baguette filled with sliced ham and cheese with Branston pickle\n\u00a34.75\nChicken Tikka Sandwich Baguette\nWhite sandwich baguette filled with sliced chicken & Tikka sauce\n\u00a34.75\nBLT Sandwich Baguette\nWhite sandwich baguette filled with bacon, lettuce & tomato slices\n\u00a34.75\nTuna Mayo & Sweetcorn Sandwich Baguette\nWhite sandwich baguette filled with Tuna mayo & sweetcorn\n\u00a34.75\nPesto, Mozarella & Tomato Panini\nWhite panini bread filled with Pesto, Mozarella & sliced tomaoto\n\u00a34.75\nHam & Cheese Toastie\nFarmhouse sliced bread filled with sliced ham & cheese\n\u00a34",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola 500ml",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
+    },
+    {
+      "name": "Poptata Chicken",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Rock Piri Piri Chicken",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "The Little Trucker",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
@@ -858,9 +940,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-28T15:27:35.025715+01:00",
+  "last_confirmed_at": "2026-10-28T15:29:35.025608+01:00",
   "last_sample_check": {
-    "at": "2026-10-28T15:27:35.025715+01:00",
+    "at": "2026-10-28T15:29:35.025608+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
