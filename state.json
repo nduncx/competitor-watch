@@ -10,115 +10,205 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-28T11:30:26.721197+01:00",
+  "last_observed_at": "2026-10-28T11:33:28.838027+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "unknown",
+      "status": "open",
       "notice": "",
       "notice_transcript": [
         {
           "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
           "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
-      "order_button_after_notices": false,
+      "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or Rice & Drink\nChicken Shawarma served in a pitta with salad, sauce, accompanied with a portion of chips or rice & a free dr",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or Rice & Drink\nChicken Shawarma served in a pitta with salad, sauce, accompanied with a portion of chips or rice & a free dr",
+            "notices": [
+              {
+                "text": "x2 Lamb Doner Kebab In A Pitta + 2 Small Chips & 2 Drinks\nSalad on 1st Kebab?\nSelect up to 3 options\n0/3\nLettuce [1st Kebab]\nOnion [1st Kebab]\nTomato [1st Kebab]\nExtras Inside 1st Kebab?\nColeslaw [1st Kebab]\n\u00a30.80\nFried Onion [1st Kebab]\nFried Peppers [1st Kebab]\n\u00a30.80\nx1 Fried Egg [1st Kebab]\n\u00a30.80\nx2 Fried Egg [1st Kebab]\n\u00a31.60\nx3 Fried Egg [1st Kebab]\n\u00a32.40\nGrilled Tomatoes [1st Kebab]\n\u00a30.80\nFried Tomatoes [1st Kebab]\n\u00a30.80\nCheese [1st Kebab]\n\u00a30.80\nLamb Doner Kebab Meat [1st Kebab]\n\u00a31.80\nChicken Shawarma Meat [1st Kebab]\n\u00a31.80\nSauce For 1st Kebab?\nSelect up to 2 options\n0/2\nKetchup [1st Kebab]\nMayonnaise [1st Kebab]\nCocktail Sauce [1st Kebab]\nChilli Sauce [1st Kebab]\nAli Oli [1st Kebab]\nGarlic Sauce [1st Kebab]\nYoghurt Sauce [1st Kebab]\nGaucha Sauce [1st Kebab]\nSalad on 2nd Kebab?\nSelect up to 3 options\n0/3\nLettuce [2nd Kebab]\nOnion [2nd Kebab]\nTomato [2nd Kebab]\nExtras Inside 2nd Kebab?\nColeslaw [2nd Kebab]\n\u00a30.80\nFried Onion [2nd Kebab]\nFried Peppers [2nd Kebab]\n\u00a30.80\nx1 Fried Egg [2nd Kebab]\n\u00a30.80\nx2 Fried Egg [2nd Kebab]\n\u00a31.60\nx3 Fried Egg [2nd Kebab]\n\u00a32.40\nGrilled Tomatoes [2nd Kebab]\n\u00a30.80\nFried Tomatoes [2nd Kebab]\n\u00a30.80\nCheese [2nd Kebab]\n\u00a30.80\nLamb Doner Kebab Meat [2nd Kebab]\n\u00a31.80\nChicken Shawarma Meat [2nd Kebab]\n\u00a31.80\nSauce For 2nd Kebab?\nSelect up to 2 options\n0/2\nKetchup [2nd Kebab]\nMayonnaise [2nd Kebab]\nCocktail Sauce [2nd Kebab]\nChilli Sauce [2nd Kebab]\nAli Oli [2nd Kebab]\nGarlic Sauce [2nd Kebab]\nYoghurt Sauce [2nd Kebab]\nGaucha Sauce [2nd Kebab]\nChoose 2 Drinks\nSelect 2 options\n0/2\nCoca Cola Can\nCoke Zero Can\nFanta Orange Can\nFanta Lemon Can\nSuntop Cola\nSuntop Orange\nSuntop Red Berries\nPepsi Max Can\n7up Can\nSprite Can\nAny Sides?\nSelect up to 50 options\n0/50\nx1 Chicken Pastella [SIDE]\n\u00a32.80\nx3 Mozzarella Sticks [SIDE]\n\u00a32.70\nx1 Calabacin Relleno [Stuffed Courgette] [SIDE]\n\u00a31.20\nx1 Torta De Acelga Slice [SIDE]\n\u00a33.00\nx1 Croquetta De Calabacin [SIDE]\n\u00a31.00\nx1 Croquetta De Espinaca [SIDE]\n\u00a31.00\nx1 Croquetta De Pollo [SIDE]\n\u00a31.00\nx1 Crab Claws [SIDE]\n\u00a31.20\nx5 Chicken Tenders [SIDE]\n\u00a36.00\nx5 American Chicken Wings [SIDE]\n\u00a36.00\nPopcorn Chicken Portion [SIDE]\n\u00a36.80\nChicken Nuggets Portion [SIDE]\n\u00a35.00\nPilao Rice [SIDE]\n\u00a32.50\nPastela With Almond\n\u00a33.80\nx1 Onion Bhaji [SIDE]\n\u00a31.20\nFull Chips\n\u00a34.00\nExtra Chips\n\u00a35.50\n1/2 Small Chips\n\u00a32.50\n1\nAdd to order\n\u00a320.00",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a320.00"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "x2 Lamb Doner Kebab In A Pitta + 2 Small Chips & 2 Drinks",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or Rice & Drink\nChicken Shawarma served in a pitta with salad, sauce, accompanied with a portion of chips or rice & a free dr",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or Rice & Drink\nChicken Shawarma served in a pitta with salad, sauce, accompanied with a portion of chips or rice & a free dr",
+            "notices": [
+              {
+                "text": "Southern Fried Chicken Strips\nWould You Like Some Salad?\nSelect up to 3 options\n0/3\nLettuce\nOnion\nTomato\nAny Extras Inside?\nColeslaw\n\u00a30.60\nFried Onion\nFried Peppers\n\u00a30.80\nx1 Fried Egg\n\u00a30.80\nx2 Fried Egg\n\u00a31.60\nx3 Fried Egg\n\u00a32.40\nGrilled Tomatoes\n\u00a30.80\nFried Tomatoes\n\u00a30.80\nCheese\n\u00a30.80\nLamb Doner Kebab Meat\n\u00a31.80\nChicken Shawarma Meat\n\u00a31.80\nChoose a Sauce\nSelect up to 2 options\n0/2\nKetchup\nMayonnaise\nCocktail Sauce\nChilli Sauce\nAli Oli\nGarlic Sauce\nYoghurt Sauce\nGaucha Sauce\nAny Sides?\nSelect up to 50 options\n0/50\nx1 Chicken Pastella [SIDE]\n\u00a32.80\nx3 Mozzarella Sticks [SIDE]\n\u00a32.70\nx1 Calabacin Relleno [Stuffed Courgette] [SIDE]\n\u00a31.20\nx1 Torta De Acelga Slice [SIDE]\n\u00a33.00\nx1 Croquetta De Calabacin [SIDE]\n\u00a31.00\nx1 Croquetta De Espinaca [SIDE]\n\u00a31.00\nx1 Croquetta De Pollo [SIDE]\n\u00a31.00\nx1 Crab Claws [SIDE]\n\u00a31.20\nx5 Chicken Tenders [SIDE]\n\u00a36.00\nx5 American Chicken Wings [SIDE]\n\u00a36.00\nPopcorn Chicken Portion [SIDE]\n\u00a36.80\nChicken Nuggets Portion [SIDE]\n\u00a35.00\nPilao Rice [SIDE]\n\u00a32.50\nPastela With Almond\n\u00a33.80\nx1 Onion Bhaji [SIDE]\n\u00a31.20\nFull Chips\n\u00a34.00\nExtra Chips\n\u00a35.50\n1/2 Small Chips\n\u00a32.50\nChoose A Drink\nCoca Cola Can\n\u00a31.40\nCoke Zero Can\n\u00a31.40\nFanta Orange Can\n\u00a31.40\nFanta Lemon Can\n\u00a31.40\nSprite Can\n\u00a31.40\nVimto Can\n\u00a31.40\nSuntop Apple\n\u00a31.00\nSuntop Cola\n\u00a31.00\nSuntop Orange\n\u00a31.00\nSuntop red\n\u00a31.00\nBottle Of Water 500ml\n\u00a30.70\nBig Bottle Of Water 1.5L\n\u00a31.50\nPepsi\n\u00a31.40\nPepsi Max\n\u00a31.40\n7 Up\n\u00a31.40\nPepsi Can 330 Ml\n\u00a31.40\nNestea Maracuya 330 Ml\n\u00a31.70\nDon Simon Mango 330 ML\n\u00a31.40\nDon Simon Peach 330 ML\n\u00a31.40\nDon Simon Mandarine 330 ML\n\u00a31.40\nCoke Bottle 500 ML\n\u00a31.80\nTango Apple 330 ML\n\u00a31.40\nTango Orange 330 ML\n\u00a31.40\n1\nAdd to order\n\u00a36.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a36.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSouthern Fried Chicken Strips\n\u00a36.50\n1\nSubtotal\n\u00a36.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a39.79\nAdd special instructions\nCheckout\nDiscover our amazing Meal Deals for 2! Enjoy 2 chips and 2 drinks with your meal, starting from \u00a315!\nUnbeatable price crash offers! Cheeseburger, chips & a drink for only \u00a37.99!\nTop Selling Items\nTuesday Smash Deals (exclusive weekly offer) Tuesday Treats (from \u00a38!)\nMeal Deal Madness!!\nThe Double Deluxe Meals with Chips & Drink\nBig Bite Deals (Double Meals, Large Combos) Make It Big\nEssaouira Meal Deals For 2!!!\nLunch Deals\nEssaouira Moroccan Mint Tea\nNEW! Wrap Factory Wraps & all-in-one Wraps) in One With Free Drink\nNEW! Double Special Wrap XL\nNEW! Signature Wraps\nNew Essaouira Food\nKing Kebabs [Tray, Pitta & Wraps]\nPinchitos [Tray, Pitta & Wraps]\nAll in One Wrap\nChicken Deluxe Combos & Crispy Crunch Chicken (fried chicken & chicken meals)\nBig Bite Burgers\n\ufe0f Essaouira Signature Dishes\nMini Meals for Kids\nVegetarian & Salads\nSnack Shack (Sides, Fries, Onion Rings, Extras)\nFresh & Green Salads\nExtra Sauces\nSweet Treats Corner\nCool Drinks\nNew Cake Tubs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKebab Offer Tray + Chips & Drink 9.99!\n\u00a39.99\nEssaouira Mixed Grill + Chips & Drink 12.00!\n\u00a312.00\nChicken Kebab Wrap + Chips & Drink\n\u00a38.99\nSmall Lamb Doner Kebab Wrap\n\u00a36.50\nSmall Lamb Doner Kebab with Chips or Rice [TRAY]\n\u00a38.50\nPopcorn Chicken Wrap + Chips & Drink\n\u00a39.99\nBig Crispy Chicken Burguer + Chips & Drink\n\u00a38.99\nCheeseburger + Chips & Drink\n\u00a37.99\nx2 Pinchitos Of Your Choice + Chips & Drink\n\u00a39.99\nCheese Burger\nSingle beef burger patty with cheese, salad and sauce\n\u00a34.70\nLamb Doner Kebab [Pitta]\n\u00a37.80\nChicken Shawarma Wrap + Chips or R",
+            "notices": []
+          }
+        ],
+        "item": "Southern Fried Chicken Strips",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     },
     {
       "name": "Laguna Bar",
-      "status": "open",
+      "status": "unknown",
       "notice": "",
       "notice_transcript": [
         {
           "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
-      "order_button_after_notices": true,
+      "order_button_after_notices": false,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEvery bite is a crispy delight - enjoy Rueda de Curro for only \u00a32.50!\nWake up to flavour! Enjoy a hot, freshly made Bacon & Egg Roll for just \u00a33.00!\nTop Selling Items\nChurros\nBreakfast Rolls\nCoffee\nTop Selling Items\nA quick look at our top sellers chosen by you!\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nBacon & Egg Roll\n\u00a34.00\nBacon Roll\n\u00a33.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nChurros\nAvailable on Weekdays until 12pm on Weekends until 12:30pm\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nChocolate Dip\n\u00a32.00\nKinder Bueno Dip\n\u00a32.00\nWhite Chocolate Dip\n\u00a32.00\nDulce de leche dip (caramel)\n\u00a32.00\nBreakfast Rolls\nBacon Roll\n\u00a33.50\nBacon & Egg Roll\n\u00a34.00\nCoffee\nWhite Coffee\n\u00a32.50\nBlack Coffee\n\u00a32.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nView allergy information\n\ue8cb",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEvery bite is a crispy delight - enjoy Rueda de Curro for only \u00a32.50!\nWake up to flavour! Enjoy a hot, freshly made Bacon & Egg Roll for just \u00a33.00!\nTop Selling Items\nChurros\nBreakfast Rolls\nCoffee\nTop Selling Items\nA quick look at our top sellers chosen by you!\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nBacon & Egg Roll\n\u00a34.00\nBacon Roll\n\u00a33.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nChurros\nAvailable on Weekdays until 12pm on Weekends until 12:30pm\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nChocolate Dip\n\u00a32.00\nKinder Bueno Dip\n\u00a32.00\nWhite Chocolate Dip\n\u00a32.00\nDulce de leche dip (caramel)\n\u00a32.00\nBreakfast Rolls\nBacon Roll\n\u00a33.50\nBacon & Egg Roll\n\u00a34.00\nCoffee\nWhite Coffee\n\u00a32.50\nBlack Coffee\n\u00a32.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nView allergy information\n\ue8cb\nRueda de Churro\n1\nAdd to order\n\u00a33.00",
-            "notices": [
-              {
-                "text": "Rueda de Churro\n1\nAdd to order\n\u00a33.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nRueda de Churro\n\u00a33.00\n1\nSubtotal\n\u00a33.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.29\nAdd special instructions\nCheckout\nEvery bite is a crispy delight - enjoy Rueda de Curro for only \u00a32.50!\nWake up to flavour! Enjoy a hot, freshly made Bacon & Egg Roll for just \u00a33.00!\nTop Selling Items\nChurros\nBreakfast Rolls\nCoffee\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nBacon & Egg Roll\n\u00a34.00\nBacon Roll\n\u00a33.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nChurros\nAvailable on Weekdays until 12pm on Weekends until 12:30pm\n1\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nChocolate Dip\n\u00a32.00\nKinder Bueno Dip\n\u00a32.00\nWhite Chocolate Dip\n\u00a32.00\nDulce de leche dip (caramel)\n\u00a32.00\nBreakfast Rolls\nBacon Roll\n\u00a33.50\nBacon & Egg Roll\n\u00a34.00\nCoffee\nWhite Coffee\n\u00a32.50\nBlack Coffee\n\u00a32.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nView allergy information\n\ue8cb",
-            "notices": []
-          }
-        ],
-        "item": "Rueda de Churro",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     },
     {
       "name": "Papichurro",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Sanu Brunch & Co",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -177,20 +267,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.70\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.70\nPapitas Portion x12\n\u00a34.70\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nButter & Jam Toast\n\u00a32.50\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ha",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.70\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.70\nPapitas Portion x12\n\u00a34.70\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb\nCoca Cola\n1\nAdd to order\n\u00a32.00",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nButter & Jam Toast\n\u00a32.50\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ha",
             "notices": [
               {
-                "text": "Coca Cola\n1\nAdd to order\n\u00a32.00",
+                "text": "Chicken Strips\nWould you like Sauce?\nAdd Gaucho Sauce\nAdd Mayo\nAdd Ketchup\nAdd Caesar Sauce\nAdd HP Sauce\nAdd BBQ Sauce\nAdd Yoghurt Sauce\nAdd Ali-Oli\nOut of stock\nAdd Queso Sauce\nWould you like some Savoury Extras?\nAdd Cheese\n\u00a31.00\nAdd Bacon\n\u00a31.00\nAdd Sausage\n\u00a31.00\nAdd Chicken\n\u00a31.00\nAdd Salmon\n\u00a31.00\nAdd Salad\n\u00a31.00\nAdd Scrambled Egg\n\u00a31.00\nAdd Poached Egg\n\u00a31.00\nAdd Fried Egg\n\u00a31.00\nAdd Ham\n\u00a31.00\nAdd Avocado\n\u00a31.00\nAdd Mushrooms\n\u00a31.00\nAdd Tuna\n\u00a31.00\nWould you like some Sweet Extras?\nAdd Nutella\n\u00a31.00\nAdd Kinder Bueno Sauce\n\u00a31.00\nAdd Kinder Bueno Bar\n\u00a31.00\nAdd Milky Way\n\u00a31.00\nAdd Maple Syrup\n\u00a31.00\nAdd Peanut Butter\n\u00a31.00\nAdd Strawberry Jam\n\u00a31.00\nAdd Butter\n\u00a31.00\nAdd Cream Cheese\n\u00a31.00\nAdd Honey\n\u00a31.00\nAdd Granola\n\u00a31.00\nAdd Fresh Fruits\n\u00a31.00\n1\nAdd to order\n\u00a36.95",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.00"
+                  "Add to order\n\u00a36.95"
                 ],
                 "has_inputs": false
               }
@@ -198,56 +288,102 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.70\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.70\nPapitas Portion x12\n\u00a34.70\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\n1\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nChicken Strips\n\u00a36.95\n1\nSubtotal\n\u00a36.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a310.24\nAdd special instructions\nCheckout\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savo",
             "notices": []
           }
         ],
-        "item": "Coca Cola",
+        "item": "Chicken Strips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Sanu Brunch & Co",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
       "name": "Ace Burgers",
-      "status": "unknown",
+      "status": "open",
       "notice": "",
       "notice_transcript": [
         {
           "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
           "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
-      "order_button_after_notices": false,
+      "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "El Refugio Takeaway",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [],
-      "unresolved_notice": false,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nFor the first 3 days of Opening\n2-4-1! A's Double Cheese & Bacon Smash Burger! Order One Receive Two!\nTwo 6oz beef smash patties grilled with juicy caramelize",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nFor the first 3 days of Opening\n2-4-1! A's Double Cheese & Bacon Smash Burger! Order One Receive Two!\nTwo 6oz beef smash patties grilled with juicy caramelize",
+            "notices": [
+              {
+                "text": "Pepsi\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nOpening Offer! Buy 1 Burger Meal & Get the 2nd for FREE\nFor the first 3 days of Opening\n2-4-1! A's Double Cheese & Ba",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
@@ -754,9 +890,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-28T11:30:26.721197+01:00",
+  "last_confirmed_at": "2026-10-28T11:33:28.838027+01:00",
   "last_sample_check": {
-    "at": "2026-10-28T11:30:26.721197+01:00",
+    "at": "2026-10-28T11:33:28.838027+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
