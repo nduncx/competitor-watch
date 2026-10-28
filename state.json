@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-28T17:59:35.040164+01:00",
+  "last_observed_at": "2026-10-28T18:01:35.037978+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,214 +176,6 @@
       }
     },
     {
-      "name": "Costa Coffee",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Piece Of Cake",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "The Portuguese Nata",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Vinopolis Drinks & Wines",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
       "name": "Beeyo",
       "status": "open",
       "notice": "",
@@ -465,6 +257,95 @@
           {
             "phase": "basket_added",
             "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yogurt\nFrozen Yoghurt Specials\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.12\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.12\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a313.90\nFrozen Yogurt\nBuild Your Own Natural Frozen Yogurt\nFrozen Yogurt - 500ml\nChoose up to 3 toppings from our delicious selection of choco",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Gela Ti Amo",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best ",
+            "notices": [
+              {
+                "text": "Coca Cola\n\nCan 330ml\n\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sou",
             "notices": []
           }
         ],
@@ -977,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-28T17:59:35.040164+01:00",
+  "last_confirmed_at": "2026-10-28T18:01:35.037978+01:00",
   "last_sample_check": {
-    "at": "2026-10-28T17:59:35.040164+01:00",
+    "at": "2026-10-28T18:01:35.037978+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
