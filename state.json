@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-28T20:28:07.882988+01:00",
+  "last_observed_at": "2026-10-28T20:30:07.871385+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,95 +176,6 @@
       }
     },
     {
-      "name": "OAKBERRY",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCreate your perfect blend with Acai Smoothies - Build Your Own from just \u00a310.70!\nExplore our Signature Bowls! Fuel up with our Tiger Bowls and more from only \u00a314.50!\nTop Selling Items\nAcai Bowls (Build Your Own)\nSignature Bowls\nAcai Smoothies (Build Your Own)\nSignature Smoothies (500ml)\nOAK Products\nP\nProtein Shakes\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\u00a311.90\nWorks Bowl (500ml)\nYour WORKS is custom made, so please pick unlimited toppings of your preference. For the WORKS size (500ml), we suggest up to 6 toppings for a perfect Acai/Toppings ratio.\n\u00a315.90\nThe OAK Bowl (650ml)\nYour OAK is custom made, so please pick unlimited toppings of your preference. For the OAK size (650ml), we suggest up to 7 toppings for a perfect Acai/Toppings ratio.\n\u00a318.90\nPistachio Bowl (500ml)\nA rich and nutty twist a\u00e7a\u00ed with chia pudding, strawberries, granola and a smooth pistachio cream.\nOut of stock\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nAcai Bowls (Build Your Own)\nBuild your own acai bowl\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we su",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCreate your perfect blend with Acai Smoothies - Build Your Own from just \u00a310.70!\nExplore our Signature Bowls! Fuel up with our Tiger Bowls and more from only \u00a314.50!\nTop Selling Items\nAcai Bowls (Build Your Own)\nSignature Bowls\nAcai Smoothies (Build Your Own)\nSignature Smoothies (500ml)\nOAK Products\nP\nProtein Shakes\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\u00a311.90\nWorks Bowl (500ml)\nYour WORKS is custom made, so please pick unlimited toppings of your preference. For the WORKS size (500ml), we suggest up to 6 toppings for a perfect Acai/Toppings ratio.\n\u00a315.90\nThe OAK Bowl (650ml)\nYour OAK is custom made, so please pick unlimited toppings of your preference. For the OAK size (650ml), we suggest up to 7 toppings for a perfect Acai/Toppings ratio.\n\u00a318.90\nPistachio Bowl (500ml)\nA rich and nutty twist a\u00e7a\u00ed with chia pudding, strawberries, granola and a smooth pistachio cream.\nOut of stock\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nAcai Bowls (Build Your Own)\nBuild your own acai bowl\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we su",
-            "notices": [
-              {
-                "text": "Classic Bowl (350ml)\n\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\nFruits\nSelect up to 9 options\n0/9\nBanana\nKiwi\nChopped Dates\n\u00a31.20\nMango Puree\nStrawberries\nOut of stock\nGoji Berries\nBlueberries\nOut of stock\nRaspberries\nOut of stock\nPassion Fruit\n\u00a31.20\nNuts & Seeds\nSelect up to 5 options\n0/5\nPumpkin Seeds\nChia Seeds\nHemp Seeds\nSliced Almonds\nOut of stock\nPa\u00e7oca Zero\n\u00a31.20\nCreamy\nSelect up to 9 options\n0/9\nCondensed Milk\nPowdered Milk\nPeanut Butter\nAlmond Butter\n\u00a31.20\nChia Pudding\nNatural Yoghurt\nPistachio Cream\n\u00a32.50\nHazelnut Choco Cream\n\u00a31.20\nHoney\nCrunchy\nSelect up to 6 options\n0/6\nGranola\nGranola Signature\nSweet Toasted Coconut Chips\n\u00a31.20\nCacao Nibs\n\u00a31.20\nOAK Boosters\nSelect up to 3 options\n0/3\nWhey Protein\n\u00a32.50\nVegan Protein\n\u00a32.50\nCollagen\n\u00a32.50\n1\nAdd to order\n\u00a311.90",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a311.90"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nClassic Bowl (350ml)\n\u00a311.90\n1\nSubtotal\n\u00a311.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a315.19\nAdd special instructions\nCheckout\nCreate your perfect blend with Acai Smoothies - Build Your Own from just \u00a310.70!\nExplore our Signature Bowls! Fuel up with our Tiger Bowls and more from only \u00a314.50!\nTop Selling Items\nAcai Bowls (Build Your Own)\nSignature Bowls\nAcai Smoothies (Build Your Own)\nSignature Smoothies (500ml)\nOAK Products\nP\nProtein Shakes\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nClassic Bowl (350ml)\nYour CLASSIC is custom made, so please pick unlimited toppings of your preference. For the CLASSIC size (350ml), we suggest up to 5 toppings for a perfect Acai/Toppings ratio.\n\u00a311.90\nWorks Bowl (500ml)\nYour WORKS is custom made, so please pick unlimited toppings of your preference. For the WORKS size (500ml), we suggest up to 6 toppings for a perfect Acai/Toppings ratio.\n\u00a315.90\nThe OAK Bowl (650ml)\nYour OAK is custom made, so please pick unlimited toppings of your preference. For the OAK size (650ml), we suggest up to 7 toppings for a perfect Acai/Toppings ratio.\n\u00a318.90\nPistachio Bowl (500ml)\nA rich and nutty twist a\u00e7a\u00ed with chia pudding, strawberries, granola and a smooth pistachio cream.\nOut of stock\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\nAcai Bowls (Build Your Own)\nBuild your own acai bowl\nThe One Bowl (270ml)\nYour ONE bowl is custom made, so please pick the toppings of your preference. For the ONE size (270ml), you can choose 3 toppings for a perfect Acai/Toppings ratio.\n\u00a310.50\n1\nClassic Bowl (350ml)",
-            "notices": []
-          }
-        ],
-        "item": "Classic Bowl (350ml)",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Ramsons Watergardens",
       "status": "open",
       "notice": "",
@@ -350,6 +261,95 @@
           }
         ],
         "item": "Small Chips",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Las Iguanas",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTAPAS AND SMALL PLATES\nTO SHARE\nMAINS\nBURGERS\nCURRIES\nNI\u00d1OS MEAL\nSIDES\nDIPS\nDESSERTS\nSOFT DRINKS\nALCOHOLIC DRINKS\nTAPAS AND SMALL PLATES\nPerfect as starters or choose a few to share\nP\u00c3O DE QUEIJO\nBrazilian cheese dough balls. with garlic butter\n\u00a36.50\nGluten FreeVegetarian\nPADR\u00d3N PEPPERS\nFried green padron peppers, with sea salt\n\u00a35.50\nVegetarian\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamole, salsa, jalape\u00f1os, spring onions, pickled red onions, chipotle cheese sauce, sour cream\n\u00a38.25\nVegetarian\nHOT HONEY FRIED HALLOUMI\nwith chilli flakes\n\u00a38.25\nGluten FreeVegetarian\nQUESADILLAS\nWith salsa\n\u00a38.25\nCALAMARES\nWith with garlic aioli.\n\u00a38.50\nSunshine Salad Tapas\nWatermelon, cucumber, fresh mint, mixed leaves, feta, cherry tomatoes, pineapple dressing\n\u00a37.50\nTACOS\nTwo soft flour tortillas filled with your choice of filling\n\u00a38.60\nBUTTERMILK FRIED CHICKEN\nAgave aioli, spring onions, pineapple citrus slaw\n\u00a38.95\nPATATAS BRAVAS\nFried potatoes, chipotle sauce, garlic aioli, spring onions\n\u00a37.50\nPlant BasedVegetarian\nROASTED RED PEPPER SALAD\nFresh red pepper salsa, cherry tomatoes, pink pickled onions, rocket, pumpkin seeds, pineapple dressing\n\u00a37.00\nCHICKEN WINGS\nMarinated wings with your choice of sauce.\n\u00a38.50\nEMPANADAS\nWith fresh salsa\n\u00a38.25\nVegetarian\nTO SHARE\nTHREE WAY WINGS\n21 wings served three ways: BBQ, Hot Honey and Cholula Hot Sauce\n\u00a322.50\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamo",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTAPAS AND SMALL PLATES\nTO SHARE\nMAINS\nBURGERS\nCURRIES\nNI\u00d1OS MEAL\nSIDES\nDIPS\nDESSERTS\nSOFT DRINKS\nALCOHOLIC DRINKS\nTAPAS AND SMALL PLATES\nPerfect as starters or choose a few to share\nP\u00c3O DE QUEIJO\nBrazilian cheese dough balls. with garlic butter\n\u00a36.50\nGluten FreeVegetarian\nPADR\u00d3N PEPPERS\nFried green padron peppers, with sea salt\n\u00a35.50\nVegetarian\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamole, salsa, jalape\u00f1os, spring onions, pickled red onions, chipotle cheese sauce, sour cream\n\u00a38.25\nVegetarian\nHOT HONEY FRIED HALLOUMI\nwith chilli flakes\n\u00a38.25\nGluten FreeVegetarian\nQUESADILLAS\nWith salsa\n\u00a38.25\nCALAMARES\nWith with garlic aioli.\n\u00a38.50\nSunshine Salad Tapas\nWatermelon, cucumber, fresh mint, mixed leaves, feta, cherry tomatoes, pineapple dressing\n\u00a37.50\nTACOS\nTwo soft flour tortillas filled with your choice of filling\n\u00a38.60\nBUTTERMILK FRIED CHICKEN\nAgave aioli, spring onions, pineapple citrus slaw\n\u00a38.95\nPATATAS BRAVAS\nFried potatoes, chipotle sauce, garlic aioli, spring onions\n\u00a37.50\nPlant BasedVegetarian\nROASTED RED PEPPER SALAD\nFresh red pepper salsa, cherry tomatoes, pink pickled onions, rocket, pumpkin seeds, pineapple dressing\n\u00a37.00\nCHICKEN WINGS\nMarinated wings with your choice of sauce.\n\u00a38.50\nEMPANADAS\nWith fresh salsa\n\u00a38.25\nVegetarian\nTO SHARE\nTHREE WAY WINGS\n21 wings served three ways: BBQ, Hot Honey and Cholula Hot Sauce\n\u00a322.50\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamo",
+            "notices": [
+              {
+                "text": "DIET COKE\n\ncan\n\n1\nAdd to order\n\u00a32.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nDIET COKE\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nTAPAS AND SMALL PLATES\nTO SHARE\nMAINS\nBURGERS\nCURRIES\nNI\u00d1OS MEAL\nSIDES\nDIPS\nDESSERTS\nSOFT DRINKS\nALCOHOLIC DRINKS\nTAPAS AND SMALL PLATES\nPerfect as starters or choose a few to share\nP\u00c3O DE QUEIJO\nBrazilian cheese dough balls. with garlic butter\n\u00a36.50\nGluten FreeVegetarian\nPADR\u00d3N PEPPERS\nFried green padron peppers, with sea salt\n\u00a35.50\nVegetarian\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn tortilla chips, then add the extra toppings! Corn tortilla chips with cheese, topped with fresh guacamole, salsa, jalape\u00f1os, spring onions, pickled red onions, chipotle cheese sauce, sour cream\n\u00a38.25\nVegetarian\nHOT HONEY FRIED HALLOUMI\nwith chilli flakes\n\u00a38.25\nGluten FreeVegetarian\nQUESADILLAS\nWith salsa\n\u00a38.25\nCALAMARES\nWith with garlic aioli.\n\u00a38.50\nSunshine Salad Tapas\nWatermelon, cucumber, fresh mint, mixed leaves, feta, cherry tomatoes, pineapple dressing\n\u00a37.50\nTACOS\nTwo soft flour tortillas filled with your choice of filling\n\u00a38.60\nBUTTERMILK FRIED CHICKEN\nAgave aioli, spring onions, pineapple citrus slaw\n\u00a38.95\nPATATAS BRAVAS\nFried potatoes, chipotle sauce, garlic aioli, spring onions\n\u00a37.50\nPlant BasedVegetarian\nROASTED RED PEPPER SALAD\nFresh red pepper salsa, cherry tomatoes, pink pickled onions, rocket, pumpkin seeds, pineapple dressing\n\u00a37.00\nCHICKEN WINGS\nMarinated wings with your choice of sauce.\n\u00a38.50\nEMPANADAS\nWith fresh salsa\n\u00a38.25\nVegetarian\nTO SHARE\nTHREE WAY WINGS\n21 wings served three ways: BBQ, Hot Honey and Cholula Hot Sauce\n\u00a322.50\nDO IT YOURSELF NACHOS\nYou'll need a grill or a microwave to melt the cheese over the corn to",
+            "notices": []
+          }
+        ],
+        "item": "DIET COKE",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-28T20:28:07.882988+01:00",
+  "last_confirmed_at": "2026-10-28T20:30:07.871385+01:00",
   "last_sample_check": {
-    "at": "2026-10-28T20:28:07.882988+01:00",
+    "at": "2026-10-28T20:30:07.871385+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
