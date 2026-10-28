@@ -920,7 +920,7 @@
   "last_result": "open",
   "last_confirmed_at": "2026-10-28T22:58:07.883871+01:00",
   "last_sample_check": {
-    "at": "2026-10-28T23:20:07.885870+01:00",
+    "at": "2026-10-28T23:22:07.885018+01:00",
     "eligible": false,
     "exclusions_confirmed": true,
     "venues": [
