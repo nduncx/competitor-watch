@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-29T19:51:22.339814+01:00",
+  "last_observed_at": "2026-10-29T19:53:22.339710+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -113,7 +113,7 @@
     },
     {
       "name": "Starbucks",
-      "status": "unknown",
+      "status": "open",
       "notice": "",
       "notice_transcript": [
         {
@@ -130,16 +130,185 @@
               "has_inputs": false
             }
           ],
-          "covered_buttons": [
-            "Reject non-essential"
-          ]
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nProtein Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nReady to Drink\nWholebean Coffee Core\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a35.90\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nEgg Sandwich\nEgg Sandwich with smoked bacon, cheese and a hollandaise sauce.\n\u00a36.40\nFive Cheese Toastie\n\u00a35.40\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nProtein Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nReady to Drink\nWholebean Coffee Core\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a35.90\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nEgg Sandwich\nEgg Sandwich with smoked bacon, cheese and a hollandaise sauce.\n\u00a36.40\nFive Cheese Toastie\n\u00a35.40\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE ",
+            "notices": [
+              {
+                "text": "PUMPKIN SPICE LATTE\n\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\nChoose a size\nSelect 1 option\nPUMPKIN SPICE LATTE Tall\n\u00a35.90\nPUMPKIN SPICE LATTE Grande\n\u00a36.70\nPUMPKIN SPICE LATTE Venti\n\u00a37.90\nWould you like to customise this drink?\nYes, customize\n1\nAdd to order\n\u00a30.00",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a30.00"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "PUMPKIN SPICE LATTE",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nProtein Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nReady to Drink\nWholebean Coffee Core\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a35.90\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nEgg Sandwich\nEgg Sandwich with smoked bacon, cheese and a hollandaise sauce.\n\u00a36.40\nFive Cheese Toastie\n\u00a35.40\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nProtein Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nReady to Drink\nWholebean Coffee Core\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a35.90\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nEgg Sandwich\nEgg Sandwich with smoked bacon, cheese and a hollandaise sauce.\n\u00a36.40\nFive Cheese Toastie\n\u00a35.40\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE ",
+            "notices": [
+              {
+                "text": "Iced Caramel Macchiato\nChoose a size\nSelect 1 option\nTall\n\u00a35.90\nGrande\n\u00a36.70\nVenti\n\u00a37.40\nWould you like to customise this drink?\nYes, customize\n1\nAdd to order\n\u00a36.70",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a36.70"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "Iced Caramel Macchiato",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nProtein Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nReady to Drink\nWholebean Coffee Core\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a35.90\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nEgg Sandwich\nEgg Sandwich with smoked bacon, cheese and a hollandaise sauce.\n\u00a36.40\nFive Cheese Toastie\n\u00a35.40\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nProtein Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nReady to Drink\nWholebean Coffee Core\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a35.90\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nEgg Sandwich\nEgg Sandwich with smoked bacon, cheese and a hollandaise sauce.\n\u00a36.40\nFive Cheese Toastie\n\u00a35.40\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE ",
+            "notices": [
+              {
+                "text": "Iced Latte\n\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\nChoose a size\nSelect 1 option\nTall\n\u00a34.40\nGrande\n\u00a35.40\nVenti\n\u00a35.90\nWould you like to customise this drink?\nYes, customize\n1\nAdd to order\n\u00a35.40",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a35.40"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "Iced Latte",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nProtein Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nReady to Drink\nWholebean Coffee Core\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a35.90\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nEgg Sandwich\nEgg Sandwich with smoked bacon, cheese and a hollandaise sauce.\n\u00a36.40\nFive Cheese Toastie\n\u00a35.40\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nProtein Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nReady to Drink\nWholebean Coffee Core\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a35.90\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nEgg Sandwich\nEgg Sandwich with smoked bacon, cheese and a hollandaise sauce.\n\u00a36.40\nFive Cheese Toastie\n\u00a35.40\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE ",
+            "notices": [
+              {
+                "text": "Iced Brown Sugar Oat Shaken Espresso\n\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\nChoose a size\nSelect 1 option\nTall\n\u00a35.90\nGrande\n\u00a36.70\nVenti\n\u00a37.40\nWould you like to customise this drink?\nYes, customize\n1\nAdd to order\n\u00a36.70",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a36.70"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "Iced Brown Sugar Oat Shaken Espresso",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nProtein Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nReady to Drink\nWholebean Coffee Core\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a35.90\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nEgg Sandwich\nEgg Sandwich with smoked bacon, cheese and a hollandaise sauce.\n\u00a36.40\nFive Cheese Toastie\n\u00a35.40\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nProtein Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nReady to Drink\nWholebean Coffee Core\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a35.90\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nEgg Sandwich\nEgg Sandwich with smoked bacon, cheese and a hollandaise sauce.\n\u00a36.40\nFive Cheese Toastie\n\u00a35.40\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE ",
+            "notices": [
+              {
+                "text": "Mango Dragonfruit Starbucks Refresha\nChoose a size\nSelect 1 option\nTall\n\u00a34.90\nGrande\n\u00a35.90\nVenti\n\u00a36.70\nWould you like some Extras?\nAdd Coco Milk\n\u00a30.40\nAdd Lemonade\n\u00a30.40\n1\nAdd to order\n\u00a35.90",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a35.90"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "Mango Dragonfruit Starbucks Refresha",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nProtein Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nReady to Drink\nWholebean Coffee Core\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a35.90\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nEgg Sandwich\nEgg Sandwich with smoked bacon, cheese and a hollandaise sauce.\n\u00a36.40\nFive Cheese Toastie\n\u00a35.40\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nProtein Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nReady to Drink\nWholebean Coffee Core\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a35.90\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\nHam & Cheese Croissant\n\u00a35.90\nEgg Sandwich\nEgg Sandwich with smoked bacon, cheese and a hollandaise sauce.\n\u00a36.40\nFive Cheese Toastie\n\u00a35.40\nThe Home of Autumn\nStarbucks is where autumn lives. Treat yourself to the flavors of the season\nPUMPKIN SPICE ",
+            "notices": [
+              {
+                "text": "Ham & Cheese Croissant\n1\nAdd to order\n\u00a35.90",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a35.90"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nHam & Cheese Croissant\n\u00a35.90\n1\nSubtotal\n\u00a35.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a39.19\nAdd special instructions\nCheckout\nDon't miss out our new Tonic drinks. Cold Brew Tonic & more\nGuatemala Casi Cielo coffee is back to bring bright citrus flavor to every sip.\nSip into summer with our refreshing Cloud Frappuccinos - made to cool your sunny days\nTop Selling Items\nThe Home of Autumn\nProtein Beverages\nHot Coffee\nIced Coffee\nHot/Iced Tea\nHot/Iced Chocolate\nRefreshers\nCoffee Frappuccinos\nCream Frappuccinos\nBakery Breakfast\nBakery Cookies\nBakery Muffins\nCakes\nDonuts & Slices\nSandwiches & Bagels\nChilled Sandwiches & Wraps\nReady to Drink\nWholebean Coffee Core\nChristmas Beverages\nDo you have a food allergy?\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPUMPKIN SPICE LATTE\nOur iconic Pumpkin Spice Latte is made with espresso, combined with pumpkin-flavoured syrup and steamed milk. It is topped with whipped cream and a pumpkin spice topping.\n\u00a35.90\nIced Caramel Macchiato\n\u00a35.90\nIced Latte\nOur dark, rich espresso is combined with milk and served over ice. A perfect milk-forward cool down. We cannot guarantee any of our delivered products are free of a particular allergen. For full allergen and all nutrition information including any customised beverages, please visit https://www.starbucks.co.uk/Nutrition\n\u00a34.40\nIced Brown Sugar Oat Shaken Espresso\nUsing our Starbucks Blonde\u00ae Espresso roast, we shake ice, espresso and brown sugar flavour syrup together, then top with a splash of oat drink.\n\u00a35.90\nMango Dragonfruit Starbucks Refresha\n\u00a34.90\n1\nHam & Cheese Croissant\n\u00a35.90\nEgg Sandwich\nEgg Sandwich with smoked bacon, cheese and a hollandaise sauce.\n\u00a36.40\nFive Cheese Toastie\n",
+            "notices": []
+          }
+        ],
+        "item": "Ham & Cheese Croissant",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     },
     {
       "name": "OAKBERRY",
@@ -207,75 +376,6 @@
           }
         ],
         "item": "Classic Bowl (350ml)",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Ramsons Watergardens",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nSmall Chips\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\u00a32.20\nLarge Chips\nCrunchy exterior and fluffy interior ",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\nSmall Chips\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\u00a32.20\nLarge Chips\nCrunchy exterior and fluffy interior ",
-            "notices": [
-              {
-                "text": "Small Chips\n\nCrunchy exterior and fluffy interior chips with a sauce of your choice!\n\nSauce It Up!\nSelect up to 2 options\n0/2\nKetchup\nMayonnaise\nCocktail\nBBQ Sauce\nAlioli\n\u00a31.00\nMustard\nSriracha Chilli Sauce\nSalsa Pimienta [NEW]\n\u00a31.00\nSriracha Spicy Mayo Sauce [NEW]\nPiri Piri\nThai Sweet Chilli\nGaucha\nYoghurt Sauce\nPiccalilly\nBranston Pickle\nHoney Mustard\nSalt\nVinegar\nOlive Oil\nOlive Oil, Salt & Vinegar\nButter\nWould You Like Salt & Vinegar On Them Fries?\nSelect up to 2 options\n0/2\nAdd Salt\nAdd Vinegar\nFancy Any Sides?!\nSelect up to 1 option\n- - Small Chips\n\u00a32.20\n- - Large Chips\n\u00a33.75\n- - Small Sweet Potato Fries\n\u00a33.70\n- - Chicken Nuggets [Portion of 6]\n\u00a34.99\n- - Popcorn Chicken [Portion of 10]\n\u00a32.50\n- - Sweet Chilli Chicken Bites [Portion Of 6]\n\u00a34.80\n- - Chilli Cheese Poppers [Portion of 3]\n\u00a33.50\n- - Nacho Cheese Triangles [Portion Of 4]\n\u00a34.80\n- - Mozzarella Sticks [Portion of 6]\n\u00a35.40\n- - x1 Vegetable Samosa\n\u00a31.25\n- - x2 Vegetable Samosa [OFFER]\n\u00a32.25\n- - x1 Chicken Samosa\n\u00a31.25\n- - x2 Chicken Samosa [ OFFER!!! ]\n\u00a32.25\n1\nAdd to order\n\u00a32.20",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.20"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Chips\n\u00a32.20\n1\nSubtotal\n\u00a32.20\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.49\nAdd special instructions\nCheckout\nTop Selling Items\nRAMSONS MARINATED MEATS\nRAMSONS SIDES\n!!NEW MENU ADDITIONS!!\nBREAKFAST CLUB\nRAMSONS *COLD-CUT OPTIONS*\nRAMSONS *HOT MEAT OPTIONS*\nRAMSONS COMBINADOS\nWRAPS\nBURGERS\nVEGETARIAN & VEGAN MENU\nSALAD BOXES\nKID MEALS\nEXTRA SAUCES\nCRISPS\nCHOCOLATES\nSWEETS\nSOFT DRINKS / JUICES\nENERGY DRINKS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Combinado\nA large tray bedded with your preference of our special cumin rice or crispy chips and a choice of our Special Ramsons Meats accompanied by the salad and sauce of your choice!\n\u00a38.15\nChicken Tikka\nThe staple of Ramsons. The roll of rolls. This roll is filled with x2 succulent fillets of our beautifully marinated chicken in our special tandoori mix.\n\u00a35.65\nSweet Chilli Chicken\nUndoubtedly one of our best sellers! x2 fillets of chicken marinated in our special sweet chilli mix made to confuse yet satisfy your taste buds! Served in a crispy roll with the salad and sauce of your choice!\n\u00a35.65\nBreaded Chicken\nx2 Fillets of beautifully coated golden breaded chicken with the choice of your own salad and sauce!\n\u00a35.65\nTuna Mayonnaise Roll\n\u00a34.30\nRAMSONS MARINATED MEATS\n13801 Plain Chicken [Choose Your Size]\n\u00a35.50\n8356 Chicken Tikka [Choose Size]\n\u00a35.50\n8355 Garlic Chicken [Choose Your Size]\n\u00a35.50\nSweet Chilli Chicken [Choose Your Size]\n\u00a35.50\n8357 Lemon Chicken [Choose Your Size]\n\u00a35.50\n18752 BBQ Chicken [Choose Your Size]\n\u00a35.50\n18755 Peri Peri Chicken [Choose Your Size]\n\u00a35.50\nChicken Pinchito [Choose Your Size]\n\u00a35.50\nRAMSONS SIDES\nAre you in a serious relation-chip?!\n1\nSmall Chips\nCrunchy exterior and f",
-            "notices": []
-          }
-        ],
-        "item": "Small Chips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -784,9 +884,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-29T19:51:22.339814+01:00",
+  "last_confirmed_at": "2026-10-29T19:53:22.339710+01:00",
   "last_sample_check": {
-    "at": "2026-10-29T19:51:22.339814+01:00",
+    "at": "2026-10-29T19:53:22.339710+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
