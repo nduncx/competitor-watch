@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-29T21:57:22.348150+01:00",
+  "last_observed_at": "2026-10-29T21:59:22.346498+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -226,8 +226,8 @@
     },
     {
       "name": "Cafetto Nostro",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -248,50 +248,109 @@
         {
           "step": 1,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nNew! Tostas\nOpen-faced sandwiches\nSalmon, Avocado & Poached Egg Tosta\n\u00a312.00\nCream Cheese, Salmon, Sliced Fresh Tomato & Avocado Tosta\n\u00a312.00\nCream Cheese, Avocado & Sliced Fresh Tomato Tosta\n\u00a37.80\nScrambled Eggs & Avocado Tosta\n\u00a37.80\nOlive Oil & Sliced Fresh Tomato Tosta\n\u00a36.00\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pest",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nNew! Tostas\nOpen-faced sandwiches\nSalmon, Avocado & Poached Egg Tosta\n\u00a312.00\nCream Cheese, Salmon, Sliced Fresh Tomato & Avocado Tosta\n\u00a312.00\nCream Cheese, Avocado & Sliced Fresh Tomato Tosta\n\u00a37.80\nScrambled Eggs & Avocado Tosta\n\u00a37.80\nOlive Oil & Sliced Fresh Tomato Tosta\n\u00a36.00\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Chicken Breast, Brie cheese, Rocket, Honey Mustard Mayo, Crispy Shallot\n\u00a310.80\nITALY BURGER\nSmashed Beef Patty, Fresh Mozzarella, Pest",
-            "notices": [
-              {
-                "text": "Salmon, Avocado & Poached Egg Tosta\n1\nAdd to order\n\u00a312.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a312.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSalmon, Avocado & Poached Egg Tosta\n\u00a312.00\n1\nSubtotal\n\u00a312.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a315.29\nAdd special instructions\nCheckout\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nSpecial Carlsberg BEER offer! Beer for \u00a31.90 & 5x Beers only for \u00a38.50!\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nTop Selling Items\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nNew! Tostas\nOpen-faced sandwiches\n1\nSalmon, Avocado & Poached Egg Tosta\n\u00a312.00\nCream Cheese, Salmon, Sliced Fresh Tomato & Avocado Tosta\n\u00a312.00\nCream Cheese, Avocado & Sliced Fresh Tomato Tosta\n\u00a37.80\nScrambled Eggs & Avocado Tosta\n\u00a37.80\nOlive Oil & Sliced Fresh Tomato Tosta\n\u00a36.00\n!!WORLD CUP SPECIALS!!\n2026 FIFA World Cup Inspired Burgers and Baguettes\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nARGENTINA BURGER\nDouble Smash Patties, Chimichurri, provolone cheese, roasted red peppers and Rocket\n\u00a310.80\nBRAZIL BURGER\nGrilled Chicken Breast, Crispy Bacon, Mozzarella cheese, Sweet Corns, lime mayo.\n\u00a310.80\nSPAIN BURGER\nDouble Beef Smash Patties, Jam\u00f3n Serrano, Roasted Peppers, Machego Cheese, Tomato relish.\n\u00a310.80\nFRANCE BURGER\nCrispy Southern Fried Ch",
-            "notices": []
-          }
-        ],
-        "item": "Salmon, Avocado & Poached Egg Tosta",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
+    },
+    {
+      "name": "Curry & Nigiri",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Freska E1 - Devils Tower",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Los Olivillos Grill",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
@@ -798,9 +857,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-29T21:57:22.348150+01:00",
+  "last_confirmed_at": "2026-10-29T21:59:22.346498+01:00",
   "last_sample_check": {
-    "at": "2026-10-29T21:57:22.348150+01:00",
+    "at": "2026-10-29T21:59:22.346498+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
