@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-29T19:09:22.338950+01:00",
+  "last_observed_at": "2026-10-29T19:11:22.338631+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -266,6 +266,66 @@
     },
     {
       "name": "Candy Castle",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": [
+            {
+              "text": "Angel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ]
+        }
+      ],
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Royal Calpe",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -324,20 +384,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nDubai Chocolates\nBol\u00e7i Pistachio Dubai Chocolate Bar\nSavour the classic Bol\u00e7i Dubai Milk Chocolate bar, imported directly from Turkey. Each 100-gram bar features smooth milk chocolate with pistachio filling and crunchy kadayif pieces, delivering a uniquely delightful taste and texture combination.\n\u00a38.99\nBol\u00e7i Dubai Dark Chocolate Bar\nEnjoy the Bol\u00e7i Dubai Dark Chocolate bar, imported from Turkey. This 100-gram bar blends rich dark chocolate with a pistachio and kadayif filling, giving a bold flavour with a crisp bite.\n\u00a38.99\nFreeze-Dried Candy\nCandy Castle Freeze Dried Watermelon Millions (100g)\nLimited edition! Freeze-dried Watermelon Millions, crunchy and bursting with flavour\n\u00a35.99\nGluten FreeVeganVegetarian\nFreeze Dried Milk Chocolate Strawberries\n\u00a34.49\nFreeze Dried Dark Chocolate Strawberries\n\u00a34.49\nFreeze Dri",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of slow cooked roast turkey breast, gravy and a mix of vegetable\n\u00a317.95\nMixed Roast\none slice of eac",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nDubai Chocolates\nBol\u00e7i Pistachio Dubai Chocolate Bar\nSavour the classic Bol\u00e7i Dubai Milk Chocolate bar, imported directly from Turkey. Each 100-gram bar features smooth milk chocolate with pistachio filling and crunchy kadayif pieces, delivering a uniquely delightful taste and texture combination.\n\u00a38.99\nBol\u00e7i Dubai Dark Chocolate Bar\nEnjoy the Bol\u00e7i Dubai Dark Chocolate bar, imported from Turkey. This 100-gram bar blends rich dark chocolate with a pistachio and kadayif filling, giving a bold flavour with a crisp bite.\n\u00a38.99\nFreeze-Dried Candy\nCandy Castle Freeze Dried Watermelon Millions (100g)\nLimited edition! Freeze-dried Watermelon Millions, crunchy and bursting with flavour\n\u00a35.99\nGluten FreeVeganVegetarian\nFreeze Dried Milk Chocolate Strawberries\n\u00a34.49\nFreeze Dried Dark Chocolate Strawberries\n\u00a34.49\nFreeze Dri",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of slow cooked roast turkey breast, gravy and a mix of vegetable\n\u00a317.95\nMixed Roast\none slice of eac",
             "notices": [
               {
-                "text": "Kingdom Favourites (300g)\n\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\n1\nAdd to order\n\u00a39.90",
+                "text": "Pepsi\n1\nAdd to order\n\u00a32.40",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a39.90"
+                  "Add to order\n\u00a32.40"
                 ],
                 "has_inputs": false
               }
@@ -345,11 +405,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nKingdom Favourites (300g)\n\u00a39.90\n1\nSubtotal\n\u00a39.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a313.19\nAdd special instructions\nCheckout\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nDubai Chocolates\nBol\u00e7i Pistachio Dubai Chocolate Bar\nSavour the classic Bol\u00e7i Dubai Milk Chocolate bar, imported directly from Turkey. Each 100-gram bar features smooth milk chocolate with pistachio filling and crunchy kadayif pieces, delivering a uniquely delightful taste and texture combination.\n\u00a38.99\nBol\u00e7i Dubai Dark Chocolate Bar\nEnjoy the Bol\u00e7i Dubai Dark Chocolate bar, imported from Turkey. This 100-gram bar blends rich dark chocolate with a pistachio and kadayif filling, giving a bold flavour with a crisp bite.\n\u00a38.99\nFreeze-Dried Candy\nCandy Castle Freeze Dried Watermelon Millions (100g)\nLimited edition! Freeze-dried Watermelon Millions, crunchy and bursting with flavour\n\u00a35.99\nGluten Free",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a32.40\n1\nSubtotal\n\u00a32.40\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.69\nAdd special instructions\nCheckout\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of ",
             "notices": []
           }
         ],
-        "item": "Kingdom Favourites (300g)",
+        "item": "Pepsi",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +918,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-29T19:09:22.338950+01:00",
+  "last_confirmed_at": "2026-10-29T19:11:22.338631+01:00",
   "last_sample_check": {
-    "at": "2026-10-29T19:09:22.338950+01:00",
+    "at": "2026-10-29T19:11:22.338631+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
