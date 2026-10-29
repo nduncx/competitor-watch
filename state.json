@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-29T21:13:22.345272+01:00",
+  "last_observed_at": "2026-10-29T21:15:22.343497+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,75 +156,6 @@
       }
     },
     {
-      "name": "Wagamama",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste of ginger\n\u00a36.70\nVegan\n11 | positive\npineapple. lime. spinach. cucumber. apple\n\u00a36.70\nVegan\n14 | power\ns",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste of ginger\n\u00a36.70\nVegan\n11 | positive\npineapple. lime. spinach. cucumber. apple\n\u00a36.70\nVegan\n14 | power\ns",
-            "notices": [
-              {
-                "text": "7705 | coke\n\n330ml\n\n1\nAdd to order\n\u00a32.95",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.95"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n7705 | coke\n\u00a32.95\n1\nSubtotal\n\u00a32.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.24\nAdd special instructions\nCheckout\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste",
-            "notices": []
-          }
-        ],
-        "item": "7705 | coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Kick Ass Burritos",
       "status": "open",
       "notice": "",
@@ -290,6 +221,75 @@
           }
         ],
         "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Panzerotto",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nTHURSDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop pretending.\n\u00a311.99\nTHE HOLY TRINITY Panzerotto\nThree creams enter. One legend is born. Nutella. Pistac",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nTHURSDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop pretending.\n\u00a311.99\nTHE HOLY TRINITY Panzerotto\nThree creams enter. One legend is born. Nutella. Pistac",
+            "notices": [
+              {
+                "text": "PEPSI - CAN\n\n33cl\n\n1\nAdd to order\n\u00a32.99",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.99"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPEPSI - CAN\n\u00a32.99\n1\nSubtotal\n\u00a32.99\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.28\nAdd special instructions\nCheckout\nThe Tallest Deal: Fries, Pepsi, stuffed goodness, and a whole lotta height. \u00a317.99 on Hungry Monkey!\nLooking for something new? Try our limited edition CTRL-ALT ANCHO pumpkin wrap from \u00a311.99!\nNEW ENTRY\nTHE TALLEST DEAL\nSNACKROSCOPE\nTHURSDAY PROMO\nFREDDIE FREELOADER PACKS\nFAVORITES\nPANZEROTTO\nLA PUCCIA\nTHE BIG ORDER - Minimum 24-hour pre-order required\nSHARINGS\nTEMPTATION\nSOFT DRINKS\nCRAFT BEERS\nLONG NECK+\nNEW ENTRY\nCONCETTA - Creamy Pasticciotto Spread (220g)\nA taste of Salento in every spoon! Inspired by the traditional Italian pasticciotto, Concetta combines golden, crumbly pastry with a rich, smooth and velvety cream.Perfect for spreading, dipping or enjoying straight from the spoon! Allergens: Contains gluten and milk. May contain traces of egg, nuts, soya and peanuts.\n\u00a313.99\nCREAMAGEDDON Panzerotto\nHouston, we have a problem CREAMAGEDDON has entered the atmosphere. A hot, crispy panzerotto loaded with silky pasticciotto cream and explosive pastry crumble. One bite and your taste buds are officially out of orbit. PS: There's no surviving this.\n\u00a310.99\nNUTZILLA Panzerotto\nFROM THE CITY OF CRAVINGS RISES NUTZILLA. A golden panzerotto monster filled with Nutella, pistachio cream & mascarpone. Too big to ignore. Too good to survive.\n\u00a311.99\nPOLTERBITE Panzerotto\nFinding it hard to resist? I don't blame you POLTERBITE is a pretty tempting little monster. Pistachio cream, velvety cream and crumbly pastry. PS: it bites back.\n\u00a311.99\nTHE FORBIDDEN NIRVANA Panzerotto\nDON'T LOOK AT ME LIKE THAT YOU KNOW YOU WANT ME. Nutella. Mascarpone. Cream. Crumbly pastry. Come on. Stop",
+            "notices": []
+          }
+        ],
+        "item": "PEPSI - CAN",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -798,9 +798,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-29T21:13:22.345272+01:00",
+  "last_confirmed_at": "2026-10-29T21:15:22.343497+01:00",
   "last_sample_check": {
-    "at": "2026-10-29T21:13:22.345272+01:00",
+    "at": "2026-10-29T21:15:22.343497+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
