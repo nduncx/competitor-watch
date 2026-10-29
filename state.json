@@ -10,47 +10,10 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-29T20:29:22.344936+01:00",
+  "last_observed_at": "2026-10-29T20:31:22.341171+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "closed",
-      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
-              "buttons": [
-                "GOT IT"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "covered_buttons": [
-            "Reject non-essential"
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "OAKBERRY",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -122,14 +85,46 @@
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {}
+    },
+    {
+      "name": "Boss Kitchen",
+      "status": "closed",
+      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
+              "buttons": [
+                "GOT IT"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "covered_buttons": [
+            "Reject non-essential"
+          ]
+        }
+      ],
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-25T12:52:46.615649+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (12:52)",
-      "delivered_at": "2026-10-25T12:53:23.036864+01:00"
-    },
     {
       "id": "2026-10-25T12:54:46.616340+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (12:54)",
@@ -624,13 +619,18 @@
       "id": "2026-10-29T20:29:22.344936+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:29)",
       "delivered_at": "2026-10-29T20:29:56.282133+01:00"
+    },
+    {
+      "id": "2026-10-29T20:31:22.341171+01:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (20:31)",
+      "delivered_at": "2026-10-29T20:31:57.117347+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-29T20:29:22.344936+01:00",
+  "last_confirmed_at": "2026-10-29T20:31:22.341171+01:00",
   "last_sample_check": {
-    "at": "2026-10-29T20:29:22.344936+01:00",
+    "at": "2026-10-29T20:31:22.341171+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
