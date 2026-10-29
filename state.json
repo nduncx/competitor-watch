@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-29T20:57:22.344772+01:00",
+  "last_observed_at": "2026-10-29T20:59:22.343008+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -226,6 +226,38 @@
     },
     {
       "name": "Special Olympics Cafe",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Wagamama",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -264,20 +296,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nMeatballs in Mushroom Sauce Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.80\nNacho Cheese Triangles: Crispy Triangles 4u\n\u00a33.80\nSide Serving of Rice\n\u00a31.50\nBBQ Sauce\n\u00a31.25\nKetchup\n\u00a31.",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste of ginger\n\u00a36.70\nVegan\n11 | positive\npineapple. lime. spinach. cucumber. apple\n\u00a36.70\nVegan\n14 | power\ns",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nMeatballs in Mushroom Sauce Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.80\nNacho Cheese Triangles: Crispy Triangles 4u\n\u00a33.80\nSide Serving of Rice\n\u00a31.50\nBBQ Sauce\n\u00a31.25\nKetchup\n\u00a31.",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste of ginger\n\u00a36.70\nVegan\n11 | positive\npineapple. lime. spinach. cucumber. apple\n\u00a36.70\nVegan\n14 | power\ns",
             "notices": [
               {
-                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.30",
+                "text": "7705 | coke\n\n330ml\n\n1\nAdd to order\n\u00a32.95",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.30"
+                  "Add to order\n\u00a32.95"
                 ],
                 "has_inputs": false
               }
@@ -285,11 +317,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nSpecial Olympics Cafe\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.30\n1\nSubtotal\n\u00a31.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.59\nAdd special instructions\nCheckout\nTry our variety of Combis: Chicken Tikka, Lemon Chicken & more, with chips or rice only for \u00a38.15!\nOur irresistible Smash Burgers served in a brioche bun only from \u00a36.90!\nTop Selling Items\nBreakfast\nTapas\nSides and Sauces\nRolls\nSmash Burgers\nCombis - Served with Chips or Rice\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBreakfast Roll\n2 x Bacon, 2 x Sausage + 2 x Egg served in a roll\n\u00a36.30\nChicken Africano Roll\nSpicy African-style chicken served in a roll\n\u00a35.65\nDouble Smash: 2 Beef Patties with Cheese\n2 Beef Patties topped with Cheese served in a Brioche Bun with salad and sauce of your choice\n\u00a310.00\nChicken Tikka Combi\n\u00a38.15\nChicken in Breadcrumbs Combi\n\u00a38.15\nBreakfast\nNot just for breakfast!\nSausage Roll\nSausage served in a roll\n\u00a33.80\nOmelette Roll\nOmelette served in a roll\n\u00a34.50\nBacon Roll\n3 x Slices of Bacon\n\u00a35.00\nBreakfast Roll\nBacon, Sausage and egg served in a roll\n\u00a36.30\nScrambled Eggs with Toast\n\u00a34.50\nScrambled Eggs + Bacon with Toast\n\u00a36.90\nCatalana\nGrated Tomato + Jamon Serrano\n\u00a34.50\nHam + Cheese Sandwich\nHam + Cheese Sandwich\n\u00a33.00\nHam + Cheese Roll\nHam + Cheese Roll\n\u00a33.50\nTuna + Mayo Sandwich\nTuna + Mayo Sandwich\n\u00a33.00\nTuna + Mayo Roll\nTuna + Mayo Roll\n\u00a33.50\nTapas\nStarters, sides, snacks, tapas - find them all here!\nTernera en Salsa Tapa: Hearty Beef Stew\n\u00a34.40\nCallos Tapa: Tripe Stew\n\u00a34.40\nMeatballs in Pepper Sauce Tapa\n\u00a34.40\nMeatballs in Mushroom Sauce Tapa\n\u00a34.40\nSides and Sauces\nSides and Sauces\nSmall Fries Classic Portion\n\u00a32.20\nLarge Fries: Bigger Serve\n\u00a33.60\nMozzarella Sticks: Cheesy Sticks 6u\n\u00a33.8",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n7705 | coke\n\u00a32.95\n1\nSubtotal\n\u00a32.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.24\nAdd special instructions\nCheckout\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste",
             "notices": []
           }
         ],
-        "item": "Coca Cola 33cl",
+        "item": "7705 | coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -798,9 +830,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-29T20:57:22.344772+01:00",
+  "last_confirmed_at": "2026-10-29T20:59:22.343008+01:00",
   "last_sample_check": {
-    "at": "2026-10-29T20:57:22.344772+01:00",
+    "at": "2026-10-29T20:59:22.343008+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
