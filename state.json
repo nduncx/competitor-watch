@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-29T21:29:22.347445+01:00",
+  "last_observed_at": "2026-10-29T21:31:22.348646+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,139 +156,6 @@
       }
     },
     {
-      "name": "Kick Ass Burritos",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Chilli Burrito\nPacked full of veggies this chilli is a real hit\n\u00a37.50\nChicken Tinga Burrito\nShredded an",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Chilli Burrito\nPacked full of veggies this chilli is a real hit\n\u00a37.50\nChicken Tinga Burrito\nShredded an",
-            "notices": [
-              {
-                "text": "Coca Cola\n\nCan139 kcal\n\n1\nAdd to order\n\u00a32.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Ch",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Panzerotto",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Vinopolis Gastrobar",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
       "name": "Ace Burgers",
       "status": "open",
       "notice": "",
@@ -354,6 +221,75 @@
           }
         ],
         "item": "Pepsi",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "El Kasbah",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
+            "notices": [
+              {
+                "text": "Coca Cola\n1\nAdd to order\n\u00a32.40",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.40"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.40\n1\nSubtotal\n\u00a32.40\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.69\nAdd special instructions\nCheckout\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef s",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -862,9 +798,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-29T21:29:22.347445+01:00",
+  "last_confirmed_at": "2026-10-29T21:31:22.348646+01:00",
   "last_sample_check": {
-    "at": "2026-10-29T21:29:22.347445+01:00",
+    "at": "2026-10-29T21:31:22.348646+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
