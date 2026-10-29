@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-29T17:56:54.283280+01:00",
+  "last_observed_at": "2026-10-29T17:58:54.289892+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,7 +177,7 @@
     },
     {
       "name": "Costa Coffee",
-      "status": "unknown",
+      "status": "open",
       "notice": "",
       "notice_transcript": [
         {
@@ -218,22 +218,51 @@
         },
         {
           "step": 2,
-          "notices": [
-            {
-              "text": "If you have any allergies, call our baristas before placing the order please\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ]
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nAutumn\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\n\u00a34.55\nAutumn\nPumpkin Spiced Latte\nA smooth and creamy latte with the comforting flavours of pumpkin and warming autumn spices, perfectly blended with rich espresso and silky steamed milk. Finished with a delicate layer of foam, its a cosy seasonal favourite that brings a little taste of autumn to every sip. Please note: Served without whipped cream.\n\u00a34.35\nPumpkin Spiced Iced Latte\nA refreshing twist on an autumn favourite! Rich espresso blended with creamy milk, sweet pumpkin flavour and warming seasonal spices, served over ice for a smooth and deliciously refreshing treat. Please note: Served without whipped cream.",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nAutumn\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\n\u00a34.55\nAutumn\nPumpkin Spiced Latte\nA smooth and creamy latte with the comforting flavours of pumpkin and warming autumn spices, perfectly blended with rich espresso and silky steamed milk. Finished with a delicate layer of foam, its a cosy seasonal favourite that brings a little taste of autumn to every sip. Please note: Served without whipped cream.\n\u00a34.35\nPumpkin Spiced Iced Latte\nA refreshing twist on an autumn favourite! Rich espresso blended with creamy milk, sweet pumpkin flavour and warming seasonal spices, served over ice for a smooth and deliciously refreshing treat. Please note: Served without whipped cream.",
+            "notices": [
+              {
+                "text": "Coca Cola Pet 50\n1\nAdd to order\n\u00a32.35",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.35"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola Pet 50\n\u00a32.35\n1\nSubtotal\n\u00a32.35\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.64\nAdd special instructions\nCheckout\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nAutumn\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\n\u00a34.55\nAutumn\nPumpkin Spiced Latte\nA smooth and creamy latte with the comforting flavours of pumpkin and warming autumn spices, perfectly blended with rich espresso and silky steamed milk. Finished with a delicate layer of foam, its a cosy seasonal favourite that brings a little taste of autumn to every sip. Please note: Served without whipped cream.\n\u00a34.35\nPumpkin Spiced Iced Latte\nA refreshing twist on an autumn favourite! Rich espresso blended with creamy milk, sweet pumpkin flavour and warming seasonal spice",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola Pet 50",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     },
     {
       "name": "Piece Of Cake",
@@ -321,95 +350,6 @@
           }
         ],
         "item": "Pepsi Can",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "The Portuguese Nata",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a32.50\nPopular Breaks\nEach Popular Break includes 1 drink & 1 Pastel de Nata. Make it a m",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a32.50\nPopular Breaks\nEach Popular Break includes 1 drink & 1 Pastel de Nata. Make it a m",
-            "notices": [
-              {
-                "text": "Box of 4 Past\u00e9is de Nata\n\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\n1\nAdd to order\n\u00a39.80",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a39.80"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\nYour order\nBox of 4 Past\u00e9is de Nata\n\u00a39.80\n1\nSubtotal\n\u00a39.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a313.09\nAdd special instructions\nCheckout\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\n1\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\n1\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread wit",
-            "notices": []
-          }
-        ],
-        "item": "Box of 4 Past\u00e9is de Nata",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -918,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-29T17:56:54.283280+01:00",
+  "last_confirmed_at": "2026-10-29T17:58:54.289892+01:00",
   "last_sample_check": {
-    "at": "2026-10-29T17:56:54.283280+01:00",
+    "at": "2026-10-29T17:58:54.289892+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
