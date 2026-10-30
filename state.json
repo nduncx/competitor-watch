@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-30T11:58:43.344476+01:00",
+  "last_observed_at": "2026-10-30T12:00:43.344633+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,75 +156,6 @@
       }
     },
     {
-      "name": "Laguna Bar",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEvery bite is a crispy delight - enjoy Rueda de Curro for only \u00a32.50!\nWake up to flavour! Enjoy a hot, freshly made Bacon & Egg Roll for just \u00a33.00!\nTop Selling Items\nChurros\nBreakfast Rolls\nCoffee\nTop Selling Items\nA quick look at our top sellers chosen by you!\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nBacon & Egg Roll\n\u00a34.00\nBacon Roll\n\u00a33.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nChurros\nAvailable on Weekdays until 12pm on Weekends until 12:30pm\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nChocolate Dip\n\u00a32.00\nKinder Bueno Dip\n\u00a32.00\nWhite Chocolate Dip\n\u00a32.00\nDulce de leche dip (caramel)\n\u00a32.00\nBreakfast Rolls\nBacon Roll\n\u00a33.50\nBacon & Egg Roll\n\u00a34.00\nCoffee\nWhite Coffee\n\u00a32.50\nBlack Coffee\n\u00a32.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nView allergy information\n\ue8cb",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEvery bite is a crispy delight - enjoy Rueda de Curro for only \u00a32.50!\nWake up to flavour! Enjoy a hot, freshly made Bacon & Egg Roll for just \u00a33.00!\nTop Selling Items\nChurros\nBreakfast Rolls\nCoffee\nTop Selling Items\nA quick look at our top sellers chosen by you!\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nBacon & Egg Roll\n\u00a34.00\nBacon Roll\n\u00a33.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nChurros\nAvailable on Weekdays until 12pm on Weekends until 12:30pm\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nChocolate Dip\n\u00a32.00\nKinder Bueno Dip\n\u00a32.00\nWhite Chocolate Dip\n\u00a32.00\nDulce de leche dip (caramel)\n\u00a32.00\nBreakfast Rolls\nBacon Roll\n\u00a33.50\nBacon & Egg Roll\n\u00a34.00\nCoffee\nWhite Coffee\n\u00a32.50\nBlack Coffee\n\u00a32.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nView allergy information\n\ue8cb\nRueda de Churro\n1\nAdd to order\n\u00a33.00",
-            "notices": [
-              {
-                "text": "Rueda de Churro\n1\nAdd to order\n\u00a33.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nRueda de Churro\n\u00a33.00\n1\nSubtotal\n\u00a33.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.29\nAdd special instructions\nCheckout\nEvery bite is a crispy delight - enjoy Rueda de Curro for only \u00a32.50!\nWake up to flavour! Enjoy a hot, freshly made Bacon & Egg Roll for just \u00a33.00!\nTop Selling Items\nChurros\nBreakfast Rolls\nCoffee\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nBacon & Egg Roll\n\u00a34.00\nBacon Roll\n\u00a33.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nChurros\nAvailable on Weekdays until 12pm on Weekends until 12:30pm\n1\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nChocolate Dip\n\u00a32.00\nKinder Bueno Dip\n\u00a32.00\nWhite Chocolate Dip\n\u00a32.00\nDulce de leche dip (caramel)\n\u00a32.00\nBreakfast Rolls\nBacon Roll\n\u00a33.50\nBacon & Egg Roll\n\u00a34.00\nCoffee\nWhite Coffee\n\u00a32.50\nBlack Coffee\n\u00a32.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nView allergy information\n\ue8cb",
-            "notices": []
-          }
-        ],
-        "item": "Rueda de Churro",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Papichurro",
       "status": "open",
       "notice": "",
@@ -290,6 +221,75 @@
           }
         ],
         "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Fresh Organic Juice Bar",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nJuices\nWellness Shots\nCoffees\nIced Drinks\nSpeciality\nTeas\nSmoothies\nSnacks\nJuices\nFresh cold-pressed juices for daily hydration and natural energy. (500ml)\nDeep Green Clean\nCelery, cucumber and apple with ginger and lemon for a crisp, refreshing citrus lift.\n\u00a38.75\nRuby Citrus\nBright Orange and Grapefruit, with fresh lemon and a hint of ginger\n\u00a38.75\nPear & Quince\nSweet Quince & Pear, with fresh lemon and a hint of ginger\n\u00a38.75\nWellness Shots\nOur wellness shots deliver concentrated boosts, designed to support specific needs. (100ml)\nDefence Green Shot 100ml\nMandarin and lemon with kiwi, cucumber and ginger, fresh, vibrant and naturally invigorating. A great place to start.\n\u00a33.75\nImmunity Fire Shot 100ml\nOur best seller, bold, warming citrus with ginger, turmeric and cayenne.\n\u00a33.75\nImmunity Gold Shot 100ml\nLemon and mandarin with turmeric, ginger and black pepper, warm, vibrant and naturally uplifting.\n\u00a33.75\nCoffees\nAmericano\nA longer, lighter coffee with a clean, balanced taste\n\u00a33.25\nMocha\n\u00a33.90\nManchado\nA cup of smooth, velvety milk 'stained' with a touch of espresso.\n\u00a33.50\nCafe Con Leche\n\u00a33.50\nCortado\n\u00a32.65\nLatte\n\u00a33.50\nEspresso\n\u00a31.90\nFlat White\n\u00a33.50\nIced Drinks\nPremium drinks, iced.\nIced Coffee\nFreshly brewed and poured over ice for a clean, bold finish. Smooth, refreshing and made to keep you moving.\n\u00a34.90\nIced Matcha\nCeremonial-style matcha shaken over ice for a smooth, vibrant lift. Fresh, earthy and gently energizing.\n\u00a36.00\nIced Chocolate Cacao\nRaw cacao blended with vanilla and a pinch of sea salt, poured over ice. Deep, smooth and quietly energising our iced take on a classic hot chocolate.\n\u00a36.00\nIced Mocha\nRich espresso blended with raw cacao, vanilla and a ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nJuices\nWellness Shots\nCoffees\nIced Drinks\nSpeciality\nTeas\nSmoothies\nSnacks\nJuices\nFresh cold-pressed juices for daily hydration and natural energy. (500ml)\nDeep Green Clean\nCelery, cucumber and apple with ginger and lemon for a crisp, refreshing citrus lift.\n\u00a38.75\nRuby Citrus\nBright Orange and Grapefruit, with fresh lemon and a hint of ginger\n\u00a38.75\nPear & Quince\nSweet Quince & Pear, with fresh lemon and a hint of ginger\n\u00a38.75\nWellness Shots\nOur wellness shots deliver concentrated boosts, designed to support specific needs. (100ml)\nDefence Green Shot 100ml\nMandarin and lemon with kiwi, cucumber and ginger, fresh, vibrant and naturally invigorating. A great place to start.\n\u00a33.75\nImmunity Fire Shot 100ml\nOur best seller, bold, warming citrus with ginger, turmeric and cayenne.\n\u00a33.75\nImmunity Gold Shot 100ml\nLemon and mandarin with turmeric, ginger and black pepper, warm, vibrant and naturally uplifting.\n\u00a33.75\nCoffees\nAmericano\nA longer, lighter coffee with a clean, balanced taste\n\u00a33.25\nMocha\n\u00a33.90\nManchado\nA cup of smooth, velvety milk 'stained' with a touch of espresso.\n\u00a33.50\nCafe Con Leche\n\u00a33.50\nCortado\n\u00a32.65\nLatte\n\u00a33.50\nEspresso\n\u00a31.90\nFlat White\n\u00a33.50\nIced Drinks\nPremium drinks, iced.\nIced Coffee\nFreshly brewed and poured over ice for a clean, bold finish. Smooth, refreshing and made to keep you moving.\n\u00a34.90\nIced Matcha\nCeremonial-style matcha shaken over ice for a smooth, vibrant lift. Fresh, earthy and gently energizing.\n\u00a36.00\nIced Chocolate Cacao\nRaw cacao blended with vanilla and a pinch of sea salt, poured over ice. Deep, smooth and quietly energising our iced take on a classic hot chocolate.\n\u00a36.00\nIced Mocha\nRich espresso blended with raw cacao, vanilla and a ",
+            "notices": [
+              {
+                "text": "Deep Green Clean\n\nCelery, cucumber and apple with ginger and lemon for a crisp, refreshing citrus lift.\n\n1\nAdd to order\n\u00a38.75",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a38.75"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nDeep Green Clean\n\u00a38.75\n1\nSubtotal\n\u00a38.75\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a312.04\nAdd special instructions\nCheckout\nJuices\nWellness Shots\nCoffees\nIced Drinks\nSpeciality\nTeas\nSmoothies\nSnacks\nJuices\nFresh cold-pressed juices for daily hydration and natural energy. (500ml)\n1\nDeep Green Clean\nCelery, cucumber and apple with ginger and lemon for a crisp, refreshing citrus lift.\n\u00a38.75\nRuby Citrus\nBright Orange and Grapefruit, with fresh lemon and a hint of ginger\n\u00a38.75\nPear & Quince\nSweet Quince & Pear, with fresh lemon and a hint of ginger\n\u00a38.75\nWellness Shots\nOur wellness shots deliver concentrated boosts, designed to support specific needs. (100ml)\nDefence Green Shot 100ml\nMandarin and lemon with kiwi, cucumber and ginger, fresh, vibrant and naturally invigorating. A great place to start.\n\u00a33.75\nImmunity Fire Shot 100ml\nOur best seller, bold, warming citrus with ginger, turmeric and cayenne.\n\u00a33.75\nImmunity Gold Shot 100ml\nLemon and mandarin with turmeric, ginger and black pepper, warm, vibrant and naturally uplifting.\n\u00a33.75\nCoffees\nAmericano\nA longer, lighter coffee with a clean, balanced taste\n\u00a33.25\nMocha\n\u00a33.90\nManchado\nA cup of smooth, velvety milk 'stained' with a touch of espresso.\n\u00a33.50\nCafe Con Leche\n\u00a33.50\nCortado\n\u00a32.65\nLatte\n\u00a33.50\nEspresso\n\u00a31.90\nFlat White\n\u00a33.50\nIced Drinks\nPremium drinks, iced.\nIced Coffee\nFreshly brewed and poured over ice for a clean, bold finish. Smooth, refreshing and made to keep you moving.\n\u00a34.90\nIced Matcha\nCeremonial-style matcha shaken over ice for a smooth, vibrant lift. Fresh, earthy and gently energizing.\n\u00a36.00\nIced Chocolate Cacao\nRaw cacao blended with vanilla and a pinch of sea salt, poured over ice. Deep, smooth and quietly energising ",
+            "notices": []
+          }
+        ],
+        "item": "Deep Green Clean",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -798,9 +798,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-30T11:58:43.344476+01:00",
+  "last_confirmed_at": "2026-10-30T12:00:43.344633+01:00",
   "last_sample_check": {
-    "at": "2026-10-30T11:58:43.344476+01:00",
+    "at": "2026-10-30T12:00:43.344633+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
