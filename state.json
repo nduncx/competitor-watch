@@ -10,16 +10,23 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-30T19:38:56.934579+01:00",
+  "last_observed_at": "2026-10-30T19:40:56.934243+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "open",
-      "notice": "",
+      "status": "delays",
+      "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -35,6 +42,19 @@
         },
         {
           "step": 1,
+          "notices": [
+            {
+              "text": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
           "notices": []
         },
         {
@@ -465,11 +485,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-27T20:11:06.862978+01:00:closed",
-      "subject": "Hungry Monkey: 20:11 check unconfirmed - last confirmed not taking orders at 20:09",
-      "delivered_at": "2026-10-27T20:12:18.356188+01:00"
-    },
     {
       "id": "2026-10-27T20:13:06.860036+01:00:open",
       "subject": "Hungry Monkey is taking orders again (20:13) - basket test passed",
@@ -964,13 +979,18 @@
       "id": "2026-10-30T19:38:56.934579+01:00:delays",
       "subject": "Hungry Monkey is taking orders again (19:38) - basket test passed",
       "delivered_at": "2026-10-30T19:39:53.082426+01:00"
+    },
+    {
+      "id": "2026-10-30T19:40:56.934243+01:00:delays",
+      "subject": "Hungry Monkey is STILL warning of long delays (19:40) - OPEN (basket test)",
+      "delivered_at": "2026-10-30T19:41:55.998688+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "delays",
-  "last_confirmed_at": "2026-10-30T19:38:56.934579+01:00",
+  "last_confirmed_at": "2026-10-30T19:40:56.934243+01:00",
   "last_sample_check": {
-    "at": "2026-10-30T19:38:56.934579+01:00",
+    "at": "2026-10-30T19:40:56.934243+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
