@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-30T21:43:21.238279+01:00",
+  "last_observed_at": "2026-10-30T21:45:21.238505+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,75 +156,6 @@
       }
     },
     {
-      "name": "El Kasbah",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef slow-cooked with carrots, peas and olives in Moroccan spices and served with chips\n\u00a318.50\nMini Chicken",
-            "notices": [
-              {
-                "text": "Coca Cola\n1\nAdd to order\n\u00a32.40",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.40"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEl Kasbah\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.40\n1\nSubtotal\n\u00a32.40\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.69\nAdd special instructions\nCheckout\nMini Chicken Pastela: Juicy chicken in crisp filo pastry with honey, almonds & cinnamon only for \u00a36!\nExoerience our rich, slow-cooked Tagines from \u00a317.85! Authentic Moroccan comfort in every bite.\nRefresh your day with Wiame Special Homemade Lemonades! Lime & Mint, Passionfruit & more just \u00a35!\nTop Selling Items\nStarters\nSPECIALS\nMains\nLight Bites\nPlatters\nSalads\nTagines\nEl Kasbah Kids\nSides & Extras\nSoft Drinks\nWiame Special - Homemade Limonades\nIced Coffee & Frapp\u00e9 & Bobba\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Brochettes\nSkewers of Moroccan-spiced chicken pieces, with peppers and onions. Served with side salad, zaalouk and either: Basmati Rice, Sumac-spiced chips, Plain chips (Choose one)\n\u00a316.50\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMezze Platter\nClassic hummus, falafel, couscous salad, olives, feta, muhammara, dates, tzatziki, Vegetable sticks and pita.\n\u00a317.99\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nBuffalo Cauliflower\nCrispy cauliflower bites with homemade BBQ sauce\n\u00a39.99\nStarters\nSpinach Briwats\nFilo pastry triangles filled with spinach and mixed veggies. Contains mushroo\n\u00a39.99\nChicken Briwats\nFilo pastry triangles filled with Moroccan-spiced chicken.\n\u00a39.99\nMuhummara\nA Syrian roasted red pepper and walnut dip, served with: Pita or Veggie sticks\n\u00a38.50\nMaakouda\nSpicy potato fritters, served with a garlic dip.\n\u00a38.95\nClassic Hummus\n\u00a38.50\nTurmeric Hummus\n\u00a38.50\nBeetroot & Feta Hummus\n\u00a38.50\nSPECIALS\nWeekly specials, limited time only!\nBeef Tagine\nTender beef s",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Candy Castle",
       "status": "open",
       "notice": "",
@@ -290,6 +221,104 @@
           }
         ],
         "item": "Kingdom Favourites (300g)",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Cafetto Nostro",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, White Chocolate.\n\u00a30.99\nGladiatore Burger\nDouble prime Beef smash patties, crispy bacon, melted parmesan cheese, Gherkins, sweet tomato relish & sw",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, White Chocolate.\n\u00a30.99\nGladiatore Burger\nDouble prime Beef smash patties, crispy bacon, melted parmesan cheese, Gherkins, sweet tomato relish & sw",
+            "notices": [
+              {
+                "text": "Buy 2 Tostas Get 2 Croissants on the House!\n\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\nChoose your 1st Tosta\nSelect 1 option\nAdd Salmon, Avocado & Poached Egg Tosta\n\u00a312.00\nAdd Cream Cheese, Salmon, Sliced Fresh Tomato & Avocado Tosta\n\u00a312.00\nAdd Cream Cheese, Avocado & Sliced Fresh Tomato Tosta\n\u00a37.80\nAdd Scrambled Eggs & Avocado Tosta\n\u00a37.80\nAdd Olive Oil & Sliced Fresh Tomato Tosta\n\u00a36.00\nChoose your 2nd Tosta\nSelect 1 option\nAdd Salmon, Avocado & Poached Egg Tosta\n\u00a312.00\nAdd Cream Cheese, Salmon, Sliced Fresh Tomato & Avocado Tosta\n\u00a312.00\nAdd Cream Cheese, Avocado & Sliced Fresh Tomato Tosta\n\u00a37.80\nAdd Scrambled Eggs & Avocado Tosta\n\u00a37.80\nAdd Olive Oil & Sliced Fresh Tomato Tosta\n\u00a36.00\nChoose your 2 FREE Croissants!\nSelect 2 options\n0/2\nAdd Croissant with Pictachio Topping\nAdd Croissant with Lotus Topping\nAdd Croissant with Nutella Topping\n1\nAdd to order\n\u00a30.00",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a30.00"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "Buy 2 Tostas Get 2 Croissants on the House!",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, White Chocolate.\n\u00a30.99\nGladiatore Burger\nDouble prime Beef smash patties, crispy bacon, melted parmesan cheese, Gherkins, sweet tomato relish & sw",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, White Chocolate.\n\u00a30.99\nGladiatore Burger\nDouble prime Beef smash patties, crispy bacon, melted parmesan cheese, Gherkins, sweet tomato relish & sw",
+            "notices": [
+              {
+                "text": "Panino Milanese - Medium Size *OUR BEST SELLER*\n\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\nWould you like Sauce?\nAdd Ketchup\n\u00a30.65\nAdd Mayo\n\u00a30.65\nAdd Cocktail Sauce\n\u00a30.65\nAdd BBQ Sauce\n\u00a31.25\nAdd Cheddar Sauce\n\u00a31.25\nAdd Bacon Jam\n\u00a31.90\nAdd Pesto\n\u00a31.90\nAdd Melted Parmesan\n\u00a31.90\nAdd Mild Truffle Mayo\n\u00a31.90\nAdd Sweet Chilli Mayo\n\u00a31.25\nAdd Sweet Tomato Relish\n\u00a31.25\nAdd Mango Chutney\n\u00a31.25\nUpgrade your Dish to a Meal Deal\nSelect up to 1 option\nUpgrade to Meal Deal (Portion of fries & Choice of Drink)\n\u00a34.50\n1\nAdd to order\n\u00a39.20",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a39.20"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPanino Milanese - Medium Size *OUR BEST SELLER*\n\u00a39.20\n1\nSubtotal\n\u00a39.20\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a312.49\nAdd special instructions\nCheckout\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, Whit",
+            "notices": []
+          }
+        ],
+        "item": "Panino Milanese - Medium Size *OUR BEST SELLER*",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -798,9 +827,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-30T21:43:21.238279+01:00",
+  "last_confirmed_at": "2026-10-30T21:45:21.238505+01:00",
   "last_sample_check": {
-    "at": "2026-10-30T21:43:21.238279+01:00",
+    "at": "2026-10-30T21:45:21.238505+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
