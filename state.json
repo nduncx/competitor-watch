@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-30T21:33:21.237149+01:00",
+  "last_observed_at": "2026-10-30T21:35:21.237459+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,75 +156,6 @@
       }
     },
     {
-      "name": "Ace Burgers",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot enough to make your ex jealous. Our prime beef smash patty grilled to perfection with our famous c",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot enough to make your ex jealous. Our prime beef smash patty grilled to perfection with our famous c",
-            "notices": [
-              {
-                "text": "Pepsi\n1\nAdd to order\n\u00a31.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot e",
-            "notices": []
-          }
-        ],
-        "item": "Pepsi",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "El Kasbah",
       "status": "open",
       "notice": "",
@@ -290,6 +221,75 @@
           }
         ],
         "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Candy Castle",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nDubai Chocolates\nBol\u00e7i Pistachio Dubai Chocolate Bar\nSavour the classic Bol\u00e7i Dubai Milk Chocolate bar, imported directly from Turkey. Each 100-gram bar features smooth milk chocolate with pistachio filling and crunchy kadayif pieces, delivering a uniquely delightful taste and texture combination.\n\u00a38.99\nBol\u00e7i Dubai Dark Chocolate Bar\nEnjoy the Bol\u00e7i Dubai Dark Chocolate bar, imported from Turkey. This 100-gram bar blends rich dark chocolate with a pistachio and kadayif filling, giving a bold flavour with a crisp bite.\n\u00a38.99\nFreeze-Dried Candy\nCandy Castle Freeze Dried Watermelon Millions (100g)\nLimited edition! Freeze-dried Watermelon Millions, crunchy and bursting with flavour\n\u00a35.99\nGluten FreeVeganVegetarian\nFreeze Dried Milk Chocolate Strawberries\n\u00a34.49\nFreeze Dried Dark Chocolate Strawberries\n\u00a34.49\nFreeze Dri",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nDubai Chocolates\nBol\u00e7i Pistachio Dubai Chocolate Bar\nSavour the classic Bol\u00e7i Dubai Milk Chocolate bar, imported directly from Turkey. Each 100-gram bar features smooth milk chocolate with pistachio filling and crunchy kadayif pieces, delivering a uniquely delightful taste and texture combination.\n\u00a38.99\nBol\u00e7i Dubai Dark Chocolate Bar\nEnjoy the Bol\u00e7i Dubai Dark Chocolate bar, imported from Turkey. This 100-gram bar blends rich dark chocolate with a pistachio and kadayif filling, giving a bold flavour with a crisp bite.\n\u00a38.99\nFreeze-Dried Candy\nCandy Castle Freeze Dried Watermelon Millions (100g)\nLimited edition! Freeze-dried Watermelon Millions, crunchy and bursting with flavour\n\u00a35.99\nGluten FreeVeganVegetarian\nFreeze Dried Milk Chocolate Strawberries\n\u00a34.49\nFreeze Dried Dark Chocolate Strawberries\n\u00a34.49\nFreeze Dri",
+            "notices": [
+              {
+                "text": "Kingdom Favourites (300g)\n\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\n1\nAdd to order\n\u00a39.90",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a39.90"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nKingdom Favourites (300g)\n\u00a39.90\n1\nSubtotal\n\u00a39.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a313.19\nAdd special instructions\nCheckout\nOne scoop of smooth, creamy Gelato, the perfect sweet treat any time only from \u00a33.95!\nOur highest quality collection of Italian Gelato, 4 scoops of your choice for \u00a39.95!\nAngel Hair Dubai Chocolate Bar NOW \u00a33!! Discount applied at checkout\nTop Selling Items\nDubai Chocolates\nFreeze-Dried Candy\nOne Sweet Wonders\nThe Castle Mix\nCastle Products\nEnchanted Elixirs\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nKingdom Favourites (300g)\nFive of our most loved gummies in one bag. Giant snakes, giant dolphins, giant fried eggs, giant grapes and friendship rings come together to create the ultimate fruity, chewy sweet mix. A true Candy Castle favourite. Contents may vary subject to stock availability.\n\u00a39.90\nHard liquorice Sticks\nHard liquorice sticks for a proper classic chew. Each pack includes 6 traditional black liquorice sticks.\n\u00a34.99\nVegetarian\nDubai Chocolates\nBol\u00e7i Pistachio Dubai Chocolate Bar\nSavour the classic Bol\u00e7i Dubai Milk Chocolate bar, imported directly from Turkey. Each 100-gram bar features smooth milk chocolate with pistachio filling and crunchy kadayif pieces, delivering a uniquely delightful taste and texture combination.\n\u00a38.99\nBol\u00e7i Dubai Dark Chocolate Bar\nEnjoy the Bol\u00e7i Dubai Dark Chocolate bar, imported from Turkey. This 100-gram bar blends rich dark chocolate with a pistachio and kadayif filling, giving a bold flavour with a crisp bite.\n\u00a38.99\nFreeze-Dried Candy\nCandy Castle Freeze Dried Watermelon Millions (100g)\nLimited edition! Freeze-dried Watermelon Millions, crunchy and bursting with flavour\n\u00a35.99\nGluten Free",
+            "notices": []
+          }
+        ],
+        "item": "Kingdom Favourites (300g)",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -798,9 +798,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-30T21:33:21.237149+01:00",
+  "last_confirmed_at": "2026-10-30T21:35:21.237459+01:00",
   "last_sample_check": {
-    "at": "2026-10-30T21:33:21.237149+01:00",
+    "at": "2026-10-30T21:35:21.237459+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
