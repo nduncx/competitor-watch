@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-30T16:24:56.917131+01:00",
+  "last_observed_at": "2026-10-30T16:26:56.920386+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,58 +176,6 @@
       }
     },
     {
-      "name": "Caffe Bottega",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
       "name": "Era",
       "status": "open",
       "notice": "",
@@ -318,101 +266,6 @@
     },
     {
       "name": "Bivoo",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Coke Classic Large 2L\n1\nAdd to order\n\u00a32.30",
-              "buttons": [
-                "",
-                "",
-                "",
-                "Add to order\n\u00a32.30"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": false,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBivoo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCooking Products\nSnacks\nCleaning Products\nDrink Products\nSweet Loose\nItems\nVapes\nCooking Products\nPenne Pasta 400g\n\u00a31.50\nLentejas 500g (Dominguez)\n\u00a31.60\nLentejas 500g (Rombo)\n\u00a31.60\nFideo Cabellin 500g\n\u00a31.50\nRice 1kg (Eliges)\nArroz Largo\n\u00a32.10\nSpaghetti 500g (Eliges)\n\u00a30.99\nSalt Thin 250g (Eliges)\n\u00a31.00\nSalt Marina 350g (La Barraca)\n\u00a33.30\nLa Pedriza Chickpeas 400g\n\u00a31.50\nPiment\u00f3n picante\n\u00a31.20\nPerejil 13g (Eliges)\n\u00a31.20\nBlack Pepper 45g (Eliges)\n\u00a31.40\nAlsur Maradonia Vegetable 660g\n\u00a32.15\nColorante Alimentario 50g (La Barraca)\n\u00a31.30\nOregano 11g (Eliges)\n\u00a31.20\nSopa de Pollo 72g (Gallina Blanca)\n\u00a31.00\nSopa de Cocido 72g (Gallina Blanca)\n\u00a31.00\nCanned Mushroom 355g (Eliges)\n\u00a31.30\nCanned Sweet Corn 70g (Diamir)\nOut of stock\nHeinz Beanz 417g\n\u00a32.10\nCanned Tuna Calvo 195g\n\u00a33.80\nOlive Oil 750g (Coosur)\n\u00a38.50\nSunflower Oil 1L (Dal y Sol)\n\u00a32.85\nHellmann's Mayonnaise 450ml\n\u00a33.99\nHellmann's Brava Sauce 250ml\n\u00a32.60\nHeinz Ketchup 300ml\n\u00a32.75\nAluminium\n\u00a32.10\nCling film\n\u00a31.75\nPancake Mix 215g (Maizena)\n\u00a33.99\nSemi-Skimmed Milk 1L (Covap)\n\u00a31.40\nWhole Milk 1L (Covap)\n\u00a31.40\nHoney 500g (Aljara Flor)\n\u00a34.30\nMint Tea 37.5g (Eliges)\nMenta poleo\n\u00a31.50\nOriginal P.G. Tips 116g\n\u00a33.45\nNescafe Coffee 50g\n\u00a33.50\nInes Rosales 120g\n\u00a32.19\nCola-Cao Powder 385g\n\u00a33.83\nSausages Frankfurt Canned 410g (Crismona)\n\u00a32.75\nStock Avecrem 150g\n\u00a32.25\nKellogg's Corn Flakes 375g\n\u00a32.99\nTrigo Inflado con Miel 500g (Eliges)\n\u00a32.99\nCarrs Table Water Crackers 125g\n\u00a32.00\nTallarines al Formaggio (Gallina Blanca)\n\u00a32.75\nCoquinas 250g (Proxa)\nOut of stock\nCorned Beef 340g (Hereford)\n\u00a36.99\nJamon Cocido 75g (Campofrio)\n\u00a31.00\nFrankfurt Sausages 160g\nOut of stock\nJamon Serrano\n\u00a32.75\nSalcichon de Pavo 65g (El Pozo)\n\u00a31.00\nPechuga de",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBivoo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCooking Products\nSnacks\nCleaning Products\nDrink Products\nSweet Loose\nItems\nVapes\nCooking Products\nPenne Pasta 400g\n\u00a31.50\nLentejas 500g (Dominguez)\n\u00a31.60\nLentejas 500g (Rombo)\n\u00a31.60\nFideo Cabellin 500g\n\u00a31.50\nRice 1kg (Eliges)\nArroz Largo\n\u00a32.10\nSpaghetti 500g (Eliges)\n\u00a30.99\nSalt Thin 250g (Eliges)\n\u00a31.00\nSalt Marina 350g (La Barraca)\n\u00a33.30\nLa Pedriza Chickpeas 400g\n\u00a31.50\nPiment\u00f3n picante\n\u00a31.20\nPerejil 13g (Eliges)\n\u00a31.20\nBlack Pepper 45g (Eliges)\n\u00a31.40\nAlsur Maradonia Vegetable 660g\n\u00a32.15\nColorante Alimentario 50g (La Barraca)\n\u00a31.30\nOregano 11g (Eliges)\n\u00a31.20\nSopa de Pollo 72g (Gallina Blanca)\n\u00a31.00\nSopa de Cocido 72g (Gallina Blanca)\n\u00a31.00\nCanned Mushroom 355g (Eliges)\n\u00a31.30\nCanned Sweet Corn 70g (Diamir)\nOut of stock\nHeinz Beanz 417g\n\u00a32.10\nCanned Tuna Calvo 195g\n\u00a33.80\nOlive Oil 750g (Coosur)\n\u00a38.50\nSunflower Oil 1L (Dal y Sol)\n\u00a32.85\nHellmann's Mayonnaise 450ml\n\u00a33.99\nHellmann's Brava Sauce 250ml\n\u00a32.60\nHeinz Ketchup 300ml\n\u00a32.75\nAluminium\n\u00a32.10\nCling film\n\u00a31.75\nPancake Mix 215g (Maizena)\n\u00a33.99\nSemi-Skimmed Milk 1L (Covap)\n\u00a31.40\nWhole Milk 1L (Covap)\n\u00a31.40\nHoney 500g (Aljara Flor)\n\u00a34.30\nMint Tea 37.5g (Eliges)\nMenta poleo\n\u00a31.50\nOriginal P.G. Tips 116g\n\u00a33.45\nNescafe Coffee 50g\n\u00a33.50\nInes Rosales 120g\n\u00a32.19\nCola-Cao Powder 385g\n\u00a33.83\nSausages Frankfurt Canned 410g (Crismona)\n\u00a32.75\nStock Avecrem 150g\n\u00a32.25\nKellogg's Corn Flakes 375g\n\u00a32.99\nTrigo Inflado con Miel 500g (Eliges)\n\u00a32.99\nCarrs Table Water Crackers 125g\n\u00a32.00\nTallarines al Formaggio (Gallina Blanca)\n\u00a32.75\nCoquinas 250g (Proxa)\nOut of stock\nCorned Beef 340g (Hereford)\n\u00a36.99\nJamon Cocido 75g (Campofrio)\n\u00a31.00\nFrankfurt Sausages 160g\nOut of stock\nJamon Serrano\n\u00a32.75\nSalcichon de Pavo 65g (El Pozo)\n\u00a31.00\nPechuga de",
-            "notices": [
-              {
-                "text": "Coke Classic Large 2L\n1\nAdd to order\n\u00a32.30",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.30"
-                ],
-                "has_inputs": false
-              }
-            ]
-          }
-        ],
-        "item": "Coke Classic Large 2L",
-        "reason": "notices or ordering unavailable after adding"
-      }
-    },
-    {
-      "name": "Cafe Louis",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -471,15 +324,15 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nTop Selling Items\nBreakfast Menu\nViennoiserie & Danish Pastry\nLunch Sandwiches\nSalads\nCakes & Desserts\nWaffles & Other Sweets\nBreads\nEnd of the Day Mystery Boxes\nSoft Drinks\nCoffee & Tea\nCoffee & Tea (Delta Go-Chill)\nTea\nJuices\nWater\nWines\nSparkling Wine\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nBreakfast Menu\nCroissants & Preserves, Home-made Toasted Croissants, Butter & Jam\n\u00a34.30\nSmoked Salmon, Herbed Cream Cheese & Cucumber Sandwich\n\u00a36.75\nToast & Preserves, Home-made Bread, Butter & Jam\n\u00a33.60\nHam & Mozzarella Croissant Slice\n\u00a35.70\nBoiled Egg, Mexican Style Guacamole & Tomato Sandwich\n\u00a35.60\nSmoked Salmon, Herbed Cream Cheese & Cucumber Sandwich\n\u00a36.75\nHam & Emmental Cheese Waffle\n\u00a35.50\nScrambled Eggs & Bacon with Maple Syrup Waffle\n\u00a35.80\nHam & Cheddar Cheese Sandwich\n\u00a35.30\nScrambled Eggs, Bacon & Cheese Bun\n\u00a35.80\nJamon Serrano, Olive Oil & Tomato Baguette\n\u00a36.50\nJam\u00f3n Serrano & parmesan cheese\nJam\u00f3n serrano, parmesan cheese and olive o\u00edl in a wholemeal baguette\n\u00a36.95\nViennoiserie & Danish Pastry\nCinnamon Rolls\n\u00a33.95\nPain au Chocolate\n\u00a33.95\nChelsea Bun\n\u00a33.95\nMini croissant assorted flavours\n2 units os mini filling croissants\n\u00a32.95\n2 units Brioche bun\nOut of stock\nApple pie\nOut of stock\nAlmond Croissant\n\u00a33.95\nPlain Croissant\n\u00a32.95\nLunch Sandwiches\nTuna salad\nTuna, boiled egg, salad cres",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBivoo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCooking Products\nSnacks\nCleaning Products\nDrink Products\nSweet Loose\nItems\nVapes\nCooking Products\nPenne Pasta 400g\n\u00a31.50\nLentejas 500g (Dominguez)\n\u00a31.60\nLentejas 500g (Rombo)\n\u00a31.60\nFideo Cabellin 500g\n\u00a31.50\nRice 1kg (Eliges)\nArroz Largo\n\u00a32.10\nSpaghetti 500g (Eliges)\n\u00a30.99\nSalt Thin 250g (Eliges)\n\u00a31.00\nSalt Marina 350g (La Barraca)\n\u00a33.30\nLa Pedriza Chickpeas 400g\n\u00a31.50\nPiment\u00f3n picante\n\u00a31.20\nPerejil 13g (Eliges)\n\u00a31.20\nBlack Pepper 45g (Eliges)\n\u00a31.40\nAlsur Maradonia Vegetable 660g\n\u00a32.15\nColorante Alimentario 50g (La Barraca)\n\u00a31.30\nOregano 11g (Eliges)\n\u00a31.20\nSopa de Pollo 72g (Gallina Blanca)\n\u00a31.00\nSopa de Cocido 72g (Gallina Blanca)\n\u00a31.00\nCanned Mushroom 355g (Eliges)\n\u00a31.30\nCanned Sweet Corn 70g (Diamir)\nOut of stock\nHeinz Beanz 417g\n\u00a32.10\nCanned Tuna Calvo 195g\n\u00a33.80\nOlive Oil 750g (Coosur)\n\u00a38.50\nSunflower Oil 1L (Dal y Sol)\n\u00a32.85\nHellmann's Mayonnaise 450ml\n\u00a33.99\nHellmann's Brava Sauce 250ml\n\u00a32.60\nHeinz Ketchup 300ml\n\u00a32.75\nAluminium\n\u00a32.10\nCling film\n\u00a31.75\nPancake Mix 215g (Maizena)\n\u00a33.99\nSemi-Skimmed Milk 1L (Covap)\n\u00a31.40\nWhole Milk 1L (Covap)\n\u00a31.40\nHoney 500g (Aljara Flor)\n\u00a34.30\nMint Tea 37.5g (Eliges)\nMenta poleo\n\u00a31.50\nOriginal P.G. Tips 116g\n\u00a33.45\nNescafe Coffee 50g\n\u00a33.50\nInes Rosales 120g\n\u00a32.19\nCola-Cao Powder 385g\n\u00a33.83\nSausages Frankfurt Canned 410g (Crismona)\n\u00a32.75\nStock Avecrem 150g\n\u00a32.25\nKellogg's Corn Flakes 375g\n\u00a32.99\nTrigo Inflado con Miel 500g (Eliges)\n\u00a32.99\nCarrs Table Water Crackers 125g\n\u00a32.00\nTallarines al Formaggio (Gallina Blanca)\n\u00a32.75\nCoquinas 250g (Proxa)\nOut of stock\nCorned Beef 340g (Hereford)\n\u00a36.99\nJamon Cocido 75g (Campofrio)\n\u00a31.00\nFrankfurt Sausages 160g\nOut of stock\nJamon Serrano\n\u00a32.75\nSalcichon de Pavo 65g (El Pozo)\n\u00a31.00\nPechuga de",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nTop Selling Items\nBreakfast Menu\nViennoiserie & Danish Pastry\nLunch Sandwiches\nSalads\nCakes & Desserts\nWaffles & Other Sweets\nBreads\nEnd of the Day Mystery Boxes\nSoft Drinks\nCoffee & Tea\nCoffee & Tea (Delta Go-Chill)\nTea\nJuices\nWater\nWines\nSparkling Wine\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nBreakfast Menu\nCroissants & Preserves, Home-made Toasted Croissants, Butter & Jam\n\u00a34.30\nSmoked Salmon, Herbed Cream Cheese & Cucumber Sandwich\n\u00a36.75\nToast & Preserves, Home-made Bread, Butter & Jam\n\u00a33.60\nHam & Mozzarella Croissant Slice\n\u00a35.70\nBoiled Egg, Mexican Style Guacamole & Tomato Sandwich\n\u00a35.60\nSmoked Salmon, Herbed Cream Cheese & Cucumber Sandwich\n\u00a36.75\nHam & Emmental Cheese Waffle\n\u00a35.50\nScrambled Eggs & Bacon with Maple Syrup Waffle\n\u00a35.80\nHam & Cheddar Cheese Sandwich\n\u00a35.30\nScrambled Eggs, Bacon & Cheese Bun\n\u00a35.80\nJamon Serrano, Olive Oil & Tomato Baguette\n\u00a36.50\nJam\u00f3n Serrano & parmesan cheese\nJam\u00f3n serrano, parmesan cheese and olive o\u00edl in a wholemeal baguette\n\u00a36.95\nViennoiserie & Danish Pastry\nCinnamon Rolls\n\u00a33.95\nPain au Chocolate\n\u00a33.95\nChelsea Bun\n\u00a33.95\nMini croissant assorted flavours\n2 units os mini filling croissants\n\u00a32.95\n2 units Brioche bun\nOut of stock\nApple pie\nOut of stock\nAlmond Croissant\n\u00a33.95\nPlain Croissant\n\u00a32.95\nLunch Sandwiches\nTuna salad\nTuna, boiled egg, salad cres",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBivoo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCooking Products\nSnacks\nCleaning Products\nDrink Products\nSweet Loose\nItems\nVapes\nCooking Products\nPenne Pasta 400g\n\u00a31.50\nLentejas 500g (Dominguez)\n\u00a31.60\nLentejas 500g (Rombo)\n\u00a31.60\nFideo Cabellin 500g\n\u00a31.50\nRice 1kg (Eliges)\nArroz Largo\n\u00a32.10\nSpaghetti 500g (Eliges)\n\u00a30.99\nSalt Thin 250g (Eliges)\n\u00a31.00\nSalt Marina 350g (La Barraca)\n\u00a33.30\nLa Pedriza Chickpeas 400g\n\u00a31.50\nPiment\u00f3n picante\n\u00a31.20\nPerejil 13g (Eliges)\n\u00a31.20\nBlack Pepper 45g (Eliges)\n\u00a31.40\nAlsur Maradonia Vegetable 660g\n\u00a32.15\nColorante Alimentario 50g (La Barraca)\n\u00a31.30\nOregano 11g (Eliges)\n\u00a31.20\nSopa de Pollo 72g (Gallina Blanca)\n\u00a31.00\nSopa de Cocido 72g (Gallina Blanca)\n\u00a31.00\nCanned Mushroom 355g (Eliges)\n\u00a31.30\nCanned Sweet Corn 70g (Diamir)\nOut of stock\nHeinz Beanz 417g\n\u00a32.10\nCanned Tuna Calvo 195g\n\u00a33.80\nOlive Oil 750g (Coosur)\n\u00a38.50\nSunflower Oil 1L (Dal y Sol)\n\u00a32.85\nHellmann's Mayonnaise 450ml\n\u00a33.99\nHellmann's Brava Sauce 250ml\n\u00a32.60\nHeinz Ketchup 300ml\n\u00a32.75\nAluminium\n\u00a32.10\nCling film\n\u00a31.75\nPancake Mix 215g (Maizena)\n\u00a33.99\nSemi-Skimmed Milk 1L (Covap)\n\u00a31.40\nWhole Milk 1L (Covap)\n\u00a31.40\nHoney 500g (Aljara Flor)\n\u00a34.30\nMint Tea 37.5g (Eliges)\nMenta poleo\n\u00a31.50\nOriginal P.G. Tips 116g\n\u00a33.45\nNescafe Coffee 50g\n\u00a33.50\nInes Rosales 120g\n\u00a32.19\nCola-Cao Powder 385g\n\u00a33.83\nSausages Frankfurt Canned 410g (Crismona)\n\u00a32.75\nStock Avecrem 150g\n\u00a32.25\nKellogg's Corn Flakes 375g\n\u00a32.99\nTrigo Inflado con Miel 500g (Eliges)\n\u00a32.99\nCarrs Table Water Crackers 125g\n\u00a32.00\nTallarines al Formaggio (Gallina Blanca)\n\u00a32.75\nCoquinas 250g (Proxa)\nOut of stock\nCorned Beef 340g (Hereford)\n\u00a36.99\nJamon Cocido 75g (Campofrio)\n\u00a31.00\nFrankfurt Sausages 160g\nOut of stock\nJamon Serrano\n\u00a32.75\nSalcichon de Pavo 65g (El Pozo)\n\u00a31.00\nPechuga de",
             "notices": [
               {
-                "text": "Coke\n\nCan\n\n1\nAdd to order\n\u00a32.30",
+                "text": "Coke Classic Large 2L\n1\nAdd to order\n\u00a32.30",
                 "buttons": [
                   "",
                   "",
@@ -492,11 +345,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.30\n1\nSubtotal\n\u00a32.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.59\nAdd special instructions\nCheckout\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nTop Selling Items\nBreakfast Menu\nViennoiserie & Danish Pastry\nLunch Sandwiches\nSalads\nCakes & Desserts\nWaffles & Other Sweets\nBreads\nEnd of the Day Mystery Boxes\nSoft Drinks\nCoffee & Tea\nCoffee & Tea (Delta Go-Chill)\nTea\nJuices\nWater\nWines\nSparkling Wine\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nCinnamon Rolls\n\u00a33.95\nBreakfast Menu\nCroissants & Preserves, Home-made Toasted Croissants, Butter & Jam\n\u00a34.30\nSmoked Salmon, Herbed Cream Cheese & Cucumber Sandwich\n\u00a36.75\nToast & Preserves, Home-made Bread, Butter & Jam\n\u00a33.60\nHam & Mozzarella Croissant Slice\n\u00a35.70\nBoiled Egg, Mexican Style Guacamole & Tomato Sandwich\n\u00a35.60\nSmoked Salmon, Herbed Cream Cheese & Cucumber Sandwich\n\u00a36.75\nHam & Emmental Cheese Waffle\n\u00a35.50\nScrambled Eggs & Bacon with Maple Syrup Waffle\n\u00a35.80\nHam & Cheddar Cheese Sandwich\n\u00a35.30\nScrambled Eggs, Bacon & Cheese Bun\n\u00a35.80\nJamon Serrano, Olive Oil & Tomato Baguette\n\u00a36.50\nJam\u00f3n Serrano & parmesan cheese\nJam\u00f3n serrano, parmesan cheese and olive o\u00edl in a wholemeal baguette\n\u00a36.95\nViennoiserie & Danish Pastry\nCinnamon Rolls\n\u00a33.95\nPain au Chocolate\n\u00a33.95\nChelsea Bun\n\u00a33.95\nMini croissant assorted flavours\n2 units os mini filling croissants\n\u00a32.95\n2 units Brioche bun\nOut of stock\nApple pie\nOut of stock\nAlmon",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBivoo\nBasket\nCollection or Delivery\nYour order\nCoke Classic Large 2L\n\u00a32.30\n1\nSubtotal\n\u00a32.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.59\nAdd special instructions\nCheckout\nCooking Products\nSnacks\nCleaning Products\nDrink Products\nSweet Loose\nItems\nVapes\nCooking Products\nPenne Pasta 400g\n\u00a31.50\nLentejas 500g (Dominguez)\n\u00a31.60\nLentejas 500g (Rombo)\n\u00a31.60\nFideo Cabellin 500g\n\u00a31.50\nRice 1kg (Eliges)\nArroz Largo\n\u00a32.10\nSpaghetti 500g (Eliges)\n\u00a30.99\nSalt Thin 250g (Eliges)\n\u00a31.00\nSalt Marina 350g (La Barraca)\n\u00a33.30\nLa Pedriza Chickpeas 400g\n\u00a31.50\nPiment\u00f3n picante\n\u00a31.20\nPerejil 13g (Eliges)\n\u00a31.20\nBlack Pepper 45g (Eliges)\n\u00a31.40\nAlsur Maradonia Vegetable 660g\n\u00a32.15\nColorante Alimentario 50g (La Barraca)\n\u00a31.30\nOregano 11g (Eliges)\n\u00a31.20\nSopa de Pollo 72g (Gallina Blanca)\n\u00a31.00\nSopa de Cocido 72g (Gallina Blanca)\n\u00a31.00\nCanned Mushroom 355g (Eliges)\n\u00a31.30\nCanned Sweet Corn 70g (Diamir)\nOut of stock\nHeinz Beanz 417g\n\u00a32.10\nCanned Tuna Calvo 195g\n\u00a33.80\nOlive Oil 750g (Coosur)\n\u00a38.50\nSunflower Oil 1L (Dal y Sol)\n\u00a32.85\nHellmann's Mayonnaise 450ml\n\u00a33.99\nHellmann's Brava Sauce 250ml\n\u00a32.60\nHeinz Ketchup 300ml\n\u00a32.75\nAluminium\n\u00a32.10\nCling film\n\u00a31.75\nPancake Mix 215g (Maizena)\n\u00a33.99\nSemi-Skimmed Milk 1L (Covap)\n\u00a31.40\nWhole Milk 1L (Covap)\n\u00a31.40\nHoney 500g (Aljara Flor)\n\u00a34.30\nMint Tea 37.5g (Eliges)\nMenta poleo\n\u00a31.50\nOriginal P.G. Tips 116g\n\u00a33.45\nNescafe Coffee 50g\n\u00a33.50\nInes Rosales 120g\n\u00a32.19\nCola-Cao Powder 385g\n\u00a33.83\nSausages Frankfurt Canned 410g (Crismona)\n\u00a32.75\nStock Avecrem 150g\n\u00a32.25\nKellogg's Corn Flakes 375g\n\u00a32.99\nTrigo Inflado con Miel 500g (Eliges)\n\u00a32.99\nCarrs Table Water Crackers 125g\n\u00a32.00\nTallarines al Formaggio (Gallina Blanca)\n\u00a32.75\nCoquinas 250g (Proxa)\nOut of stock\nCorned Beef 340g (Hereford)\n\u00a36.99\nJamon Cocido 75g (Campofrio",
             "notices": []
           }
         ],
-        "item": "Coke",
+        "item": "Coke Classic Large 2L",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -1005,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-30T16:24:56.917131+01:00",
+  "last_confirmed_at": "2026-10-30T16:26:56.920386+01:00",
   "last_sample_check": {
-    "at": "2026-10-30T16:24:56.917131+01:00",
+    "at": "2026-10-30T16:26:56.920386+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
