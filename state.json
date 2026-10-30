@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-30T21:57:21.238561+01:00",
+  "last_observed_at": "2026-10-30T21:59:21.238775+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -255,8 +255,8 @@
     },
     {
       "name": "Curry & Nigiri",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -277,50 +277,109 @@
         {
           "step": 1,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our Japanese Homemade Dumplings from \u00a37.50!\nEnjoy authentic Chinese cousine like Chicken in Soya Ginger Garlic Sauce only for \u00a39.50!\nTop Selling Items\nChinese - Starters\nChinese - Soup (Vegetarian)\nChinese - Rice & Noodles\nChinese - Soups (Non-Vegetarian)\nChinese - Main Courses\nJapanese Starters\nJapanese Homemade Dumplings\nJapanese - Sushi Vegetarian\nJapanese - Soup\nJapanese - Vegan Makki Rolls\nJapanese - Sushi Non - Vegetarian\nJapanese - Makki Rolls - Non-Vegetarian\nJapanese - Anshika Special Sushi Platter\nIndian - Vegetarian Starters\nIndian - Starters Non-Vegetarian\nIndian Main Course - Vegetarian Curry\nIndian - Chicken Curry\nIndian Style Lamb Curry\nIndian - Prawn Curry\nIndian - Naan Bread\nIndian - Rice\nIndian - Extras\nIndian - Raita\nIndian - Dessert\nSoft Drinks\nLassi\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Masala\nBoneless chicken leg, cooked in an onion tomato based sauce with Indian spices\n\u00a311.25\nBoneless Butter Chicken\nTandoori chicken tikka, cooked in cashew tomato gravy with some cream and butter\n\u00a311.95\nPork Sui Mai [6 pieces]\nPartially wrapped Pancake filled with minced pork and vegetables,. Served with Japanese mayonnaise\n\u00a38.95\nChicken Korma Mild\nBoneless Chicken Breast, cooked in creamy cashew sauce\n\u00a311.45\nCrunchy Monster Roll [8 pieces]\nTiger prawn tempura, Philadelphia cheese, avocado, teriyaki sauce, framed with tobiko seven spices and tempura crunch\n\u00a312.95\nChinese - Starters\nVegetable Spring Roll [2 pieces]\nCabbage carrots onions capsicum\n\u00a35.95\nChicken Spring Roll [2 pieces]\nChicken cabbage carrot onions capsicum\n\u00a36.95\nVegetables & Prawn Spring Roll [2 pieces]\nPrawn Cabbage Carrots onion cap",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our Japanese Homemade Dumplings from \u00a37.50!\nEnjoy authentic Chinese cousine like Chicken in Soya Ginger Garlic Sauce only for \u00a39.50!\nTop Selling Items\nChinese - Starters\nChinese - Soup (Vegetarian)\nChinese - Rice & Noodles\nChinese - Soups (Non-Vegetarian)\nChinese - Main Courses\nJapanese Starters\nJapanese Homemade Dumplings\nJapanese - Sushi Vegetarian\nJapanese - Soup\nJapanese - Vegan Makki Rolls\nJapanese - Sushi Non - Vegetarian\nJapanese - Makki Rolls - Non-Vegetarian\nJapanese - Anshika Special Sushi Platter\nIndian - Vegetarian Starters\nIndian - Starters Non-Vegetarian\nIndian Main Course - Vegetarian Curry\nIndian - Chicken Curry\nIndian Style Lamb Curry\nIndian - Prawn Curry\nIndian - Naan Bread\nIndian - Rice\nIndian - Extras\nIndian - Raita\nIndian - Dessert\nSoft Drinks\nLassi\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Masala\nBoneless chicken leg, cooked in an onion tomato based sauce with Indian spices\n\u00a311.25\nBoneless Butter Chicken\nTandoori chicken tikka, cooked in cashew tomato gravy with some cream and butter\n\u00a311.95\nPork Sui Mai [6 pieces]\nPartially wrapped Pancake filled with minced pork and vegetables,. Served with Japanese mayonnaise\n\u00a38.95\nChicken Korma Mild\nBoneless Chicken Breast, cooked in creamy cashew sauce\n\u00a311.45\nCrunchy Monster Roll [8 pieces]\nTiger prawn tempura, Philadelphia cheese, avocado, teriyaki sauce, framed with tobiko seven spices and tempura crunch\n\u00a312.95\nChinese - Starters\nVegetable Spring Roll [2 pieces]\nCabbage carrots onions capsicum\n\u00a35.95\nChicken Spring Roll [2 pieces]\nChicken cabbage carrot onions capsicum\n\u00a36.95\nVegetables & Prawn Spring Roll [2 pieces]\nPrawn Cabbage Carrots onion cap",
-            "notices": [
-              {
-                "text": "Coke Zero\n\n330ml\n\n1\nAdd to order\n\u00a32.25",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.25"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero\n\u00a32.25\n1\nSubtotal\n\u00a32.25\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.54\nAdd special instructions\nCheckout\nExperience our Japanese Homemade Dumplings from \u00a37.50!\nEnjoy authentic Chinese cousine like Chicken in Soya Ginger Garlic Sauce only for \u00a39.50!\nTop Selling Items\nChinese - Starters\nChinese - Soup (Vegetarian)\nChinese - Rice & Noodles\nChinese - Soups (Non-Vegetarian)\nChinese - Main Courses\nJapanese Starters\nJapanese Homemade Dumplings\nJapanese - Sushi Vegetarian\nJapanese - Soup\nJapanese - Vegan Makki Rolls\nJapanese - Sushi Non - Vegetarian\nJapanese - Makki Rolls - Non-Vegetarian\nJapanese - Anshika Special Sushi Platter\nIndian - Vegetarian Starters\nIndian - Starters Non-Vegetarian\nIndian Main Course - Vegetarian Curry\nIndian - Chicken Curry\nIndian Style Lamb Curry\nIndian - Prawn Curry\nIndian - Naan Bread\nIndian - Rice\nIndian - Extras\nIndian - Raita\nIndian - Dessert\nSoft Drinks\nLassi\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Masala\nBoneless chicken leg, cooked in an onion tomato based sauce with Indian spices\n\u00a311.25\nBoneless Butter Chicken\nTandoori chicken tikka, cooked in cashew tomato gravy with some cream and butter\n\u00a311.95\nPork Sui Mai [6 pieces]\nPartially wrapped Pancake filled with minced pork and vegetables,. Served with Japanese mayonnaise\n\u00a38.95\nChicken Korma Mild\nBoneless Chicken Breast, cooked in creamy cashew sauce\n\u00a311.45\nCrunchy Monster Roll [8 pieces]\nTiger prawn tempura, Philadelphia cheese, avocado, teriyaki sauce, framed with tobiko seven spices and tempura crunch\n\u00a312.95\nChinese - Starters\nVegetable Spring Roll [2 pieces]\nCabbage carrots onions capsicum\n\u00a35.95\nChicken Spring Roll [2 pieces]\nChicken cabbage c",
-            "notices": []
-          }
-        ],
-        "item": "Coke Zero",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
+    },
+    {
+      "name": "Freska E1 - Devils Tower",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Los Olivillos Grill",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Panzerotto",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
@@ -827,9 +886,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-30T21:57:21.238561+01:00",
+  "last_confirmed_at": "2026-10-30T21:59:21.238775+01:00",
   "last_sample_check": {
-    "at": "2026-10-30T21:57:21.238561+01:00",
+    "at": "2026-10-30T21:59:21.238775+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
