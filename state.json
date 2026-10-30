@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-30T19:58:56.934232+01:00",
+  "last_observed_at": "2026-10-30T20:00:56.934981+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -50,7 +50,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Royal Calpe",
+      "name": "OAKBERRY",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -87,7 +87,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Starbucks",
+      "name": "The Star Bar",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -125,11 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-27T20:47:06.868888+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (20:47)",
-      "delivered_at": "2026-10-27T20:47:42.838847+01:00"
-    },
     {
       "id": "2026-10-27T20:49:06.862504+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:49)",
@@ -624,13 +619,18 @@
       "id": "2026-10-30T19:58:56.934232+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (19:58)",
       "delivered_at": "2026-10-30T19:59:32.219230+01:00"
+    },
+    {
+      "id": "2026-10-30T20:00:56.934981+01:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (20:00)",
+      "delivered_at": "2026-10-30T20:01:33.128204+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-10-30T19:58:56.934232+01:00",
+  "last_confirmed_at": "2026-10-30T20:00:56.934981+01:00",
   "last_sample_check": {
-    "at": "2026-10-30T19:58:56.934232+01:00",
+    "at": "2026-10-30T20:00:56.934981+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
