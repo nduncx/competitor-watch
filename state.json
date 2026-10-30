@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-30T18:36:56.928137+01:00",
+  "last_observed_at": "2026-10-30T18:38:56.932719+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -318,16 +318,16 @@
     },
     {
       "name": "Jury`s",
-      "status": "open",
-      "notice": "",
+      "status": "closed",
+      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
               "buttons": [
-                "OK"
+                "GOT IT"
               ],
               "has_inputs": false
             },
@@ -342,68 +342,16 @@
               "has_inputs": false
             }
           ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
+          "covered_buttons": [
+            "Reject non-essential"
+          ]
         }
       ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion and hoisin sauce with hand-cut fries.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing with hand-cut fries\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion and hoisin sauce with hand-cut fries.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing with hand-cut fries\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed",
-            "notices": [
-              {
-                "text": "Coke\n\n33cl\n\n1\nAdd to order\n\u00a33.10",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.10"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.10\n1\nSubtotal\n\u00a33.10\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.39\nAdd special instructions\nCheckout\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion and hoisin sauce with hand-cut fries.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing with hand-cut fries\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
@@ -910,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-30T18:36:56.928137+01:00",
+  "last_confirmed_at": "2026-10-30T18:38:56.932719+01:00",
   "last_sample_check": {
-    "at": "2026-10-30T18:36:56.928137+01:00",
+    "at": "2026-10-30T18:38:56.932719+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
