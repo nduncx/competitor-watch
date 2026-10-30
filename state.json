@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-30T22:57:21.243297+01:00",
+  "last_observed_at": "2026-10-30T22:59:21.243336+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -226,6 +226,102 @@
     },
     {
       "name": "Birdie Cafe",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Roosters Fried Chicken",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Thi Vietnamese Restaurant",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Loco Burgers",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -264,20 +360,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35\n23. Chicken Noodles\n\u00a37.35\n23A. Plain Noodles\n\u00a35.25\nSpecial Dishes\n36. Beef in Oyster Sauce\n\u00a38.2",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving something hearty? Try our Lokito 2 Patty Burgers for just \u00a311.50!\nSpice up your meal with our NEW Loco Wings! Sweet Chilli, BBQ & more for \u00a38.95!\nTop Selling Items\nNEW!! LOCO WINGS\nLokito 2 Patty Burgers\nLoco Burgers\nKids Menu\nSides\nSauces\nDesserts\nDrinks\nBeers\nCiders\nRed Wine\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nViva La Pepper Burger\nFour meat patties cheese burger topped with steak in pepper sauce. Served with a small side of loco potato crisps.\n\u00a314.50\nLokito Maradona 2 Patty Burger\nTwo meat patties cheese burger, criollo sausage, loco crisps & chimichurri. Served with loco crazy crisps.\n\u00a311.50\nOle y Ole Loaded Fries\nCheesy loaded fries with chorizo and fried egg\n\u00a38.50\nLokito The Pull 2 Patty Burger\nTwo meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with loco crazy crisps.\n\u00a311.50\nThe Pull Burger\nFour meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with a small side of loco potato crisps.\n\u00a314.50\nNEW!! LOCO WINGS\n6 X SWEET CHILLI WINGS\n6 WHOLE WINGS 12 PIECES SWEET CHILLI SAUCE & LOCO CRISPS\n\u00a38.95\n6 X BBQ WINGS\n6 WHOLE WINGS 12 PIECES WITH BBQ SAUCE & LOCO CRISPS\n\u00a38.95\n6 X GAUCHA WINGS\n6 WHOLE WINGS 12 PIECES WITH GAUCHA SAUCE & LOCO CRISPS\n\u00a38.95\n6 X HONEY MUSTARD WINGS\n6 WHOLE WINGS 12 PIECES WITH MUSTARD SAUCE & LOCO CRISPS\n\u00a38.95\n6 X FRIED CHICKEN WINGS\n6 WHOLE WINGS 12 PIECES & LOCO CRISPS\n\u00a38.95\n6 X HOT BRAVA WINGS\n6 WHOLE WINGS 12 PIECES WITH HOT BRAVA WINGS & LOCO CRISPS\n\u00a38.95\nLokito 2 Patty Burgers\nNEW! Lokito Classic Cheese Bacon 2 Patty Burger\nServed with loco crazy crisps\n\u00a311.50\nLokito Viva La Pepper 2 Patty Burger\nTwo meat patties ch",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35\n23. Chicken Noodles\n\u00a37.35\n23A. Plain Noodles\n\u00a35.25\nSpecial Dishes\n36. Beef in Oyster Sauce\n\u00a38.2",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving something hearty? Try our Lokito 2 Patty Burgers for just \u00a311.50!\nSpice up your meal with our NEW Loco Wings! Sweet Chilli, BBQ & more for \u00a38.95!\nTop Selling Items\nNEW!! LOCO WINGS\nLokito 2 Patty Burgers\nLoco Burgers\nKids Menu\nSides\nSauces\nDesserts\nDrinks\nBeers\nCiders\nRed Wine\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nViva La Pepper Burger\nFour meat patties cheese burger topped with steak in pepper sauce. Served with a small side of loco potato crisps.\n\u00a314.50\nLokito Maradona 2 Patty Burger\nTwo meat patties cheese burger, criollo sausage, loco crisps & chimichurri. Served with loco crazy crisps.\n\u00a311.50\nOle y Ole Loaded Fries\nCheesy loaded fries with chorizo and fried egg\n\u00a38.50\nLokito The Pull 2 Patty Burger\nTwo meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with loco crazy crisps.\n\u00a311.50\nThe Pull Burger\nFour meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with a small side of loco potato crisps.\n\u00a314.50\nNEW!! LOCO WINGS\n6 X SWEET CHILLI WINGS\n6 WHOLE WINGS 12 PIECES SWEET CHILLI SAUCE & LOCO CRISPS\n\u00a38.95\n6 X BBQ WINGS\n6 WHOLE WINGS 12 PIECES WITH BBQ SAUCE & LOCO CRISPS\n\u00a38.95\n6 X GAUCHA WINGS\n6 WHOLE WINGS 12 PIECES WITH GAUCHA SAUCE & LOCO CRISPS\n\u00a38.95\n6 X HONEY MUSTARD WINGS\n6 WHOLE WINGS 12 PIECES WITH MUSTARD SAUCE & LOCO CRISPS\n\u00a38.95\n6 X FRIED CHICKEN WINGS\n6 WHOLE WINGS 12 PIECES & LOCO CRISPS\n\u00a38.95\n6 X HOT BRAVA WINGS\n6 WHOLE WINGS 12 PIECES WITH HOT BRAVA WINGS & LOCO CRISPS\n\u00a38.95\nLokito 2 Patty Burgers\nNEW! Lokito Classic Cheese Bacon 2 Patty Burger\nServed with loco crazy crisps\n\u00a311.50\nLokito Viva La Pepper 2 Patty Burger\nTwo meat patties ch",
             "notices": [
               {
-                "text": "Coke\n1\nAdd to order\n\u00a32.00",
+                "text": "7Up\n1\nAdd to order\n\u00a31.90",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.00"
+                  "Add to order\n\u00a31.90"
                 ],
                 "has_inputs": false
               }
@@ -285,11 +381,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n7Up\n\u00a31.90\n1\nSubtotal\n\u00a31.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.19\nAdd special instructions\nCheckout\nCraving something hearty? Try our Lokito 2 Patty Burgers for just \u00a311.50!\nSpice up your meal with our NEW Loco Wings! Sweet Chilli, BBQ & more for \u00a38.95!\nTop Selling Items\nNEW!! LOCO WINGS\nLokito 2 Patty Burgers\nLoco Burgers\nKids Menu\nSides\nSauces\nDesserts\nDrinks\nBeers\nCiders\nRed Wine\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nViva La Pepper Burger\nFour meat patties cheese burger topped with steak in pepper sauce. Served with a small side of loco potato crisps.\n\u00a314.50\nLokito Maradona 2 Patty Burger\nTwo meat patties cheese burger, criollo sausage, loco crisps & chimichurri. Served with loco crazy crisps.\n\u00a311.50\nOle y Ole Loaded Fries\nCheesy loaded fries with chorizo and fried egg\n\u00a38.50\nLokito The Pull 2 Patty Burger\nTwo meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with loco crazy crisps.\n\u00a311.50\nThe Pull Burger\nFour meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with a small side of loco potato crisps.\n\u00a314.50\nNEW!! LOCO WINGS\n6 X SWEET CHILLI WINGS\n6 WHOLE WINGS 12 PIECES SWEET CHILLI SAUCE & LOCO CRISPS\n\u00a38.95\n6 X BBQ WINGS\n6 WHOLE WINGS 12 PIECES WITH BBQ SAUCE & LOCO CRISPS\n\u00a38.95\n6 X GAUCHA WINGS\n6 WHOLE WINGS 12 PIECES WITH GAUCHA SAUCE & LOCO CRISPS\n\u00a38.95\n6 X HONEY MUSTARD WINGS\n6 WHOLE WINGS 12 PIECES WITH MUSTARD SAUCE & LOCO CRISPS\n\u00a38.95\n6 X FRIED CHICKEN WINGS\n6 WHOLE WINGS 12 PIECES & LOCO CRISPS\n\u00a38.95\n6 X HOT BRAVA WINGS\n6 WHOLE WINGS 12 PIECES WITH HOT BRAVA WINGS & LOCO CRISPS\n\u00a38.95\nLokito 2 Patty Burgers\nNEW! Lokito Classic Cheese Bacon 2 Patty Burge",
             "notices": []
           }
         ],
-        "item": "Coke",
+        "item": "7Up",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -798,9 +894,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-30T22:57:21.243297+01:00",
+  "last_confirmed_at": "2026-10-30T22:59:21.243336+01:00",
   "last_sample_check": {
-    "at": "2026-10-30T22:57:21.243297+01:00",
+    "at": "2026-10-30T22:59:21.243336+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
