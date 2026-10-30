@@ -1,8 +1,8 @@
 {
-  "status": "delays",
-  "since": "2026-10-30T20:12:56.936321+01:00",
-  "alerted": true,
-  "notice": "Hungry Monkey orders may incur long delays. Apologies for the inconvenience as we work with our venues and drivers to maintain service.",
+  "status": "open",
+  "since": "2026-10-30T20:22:56.936751+01:00",
+  "alerted": false,
+  "notice": "",
   "last_checked_date": "2026-10-30",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-30T20:20:56.941252+01:00",
+  "last_observed_at": "2026-10-30T20:22:56.936751+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -295,11 +295,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "monitor:2026-10-28T09:06:08.735086+01:00:restored",
-      "subject": "Competitor Watch: suitable stores available again",
-      "delivered_at": "2026-10-28T09:07:16.218731+01:00"
-    },
     {
       "id": "monitor:2026-10-28T19:30:07.800552+01:00:failed",
       "subject": "Competitor Watch: monitoring problem",
@@ -794,13 +789,18 @@
       "id": "2026-10-30T20:20:56.941252+01:00:delays",
       "subject": "Hungry Monkey: 20:20 check unconfirmed - last confirmed showing a long-delays warning at 20:18",
       "delivered_at": "2026-10-30T20:21:52.072496+01:00"
+    },
+    {
+      "id": "2026-10-30T20:22:56.936751+01:00:open",
+      "subject": "Hungry Monkey: long-delays warning cleared (20:22) - basket test passed",
+      "delivered_at": "2026-10-30T20:23:52.849728+01:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-30T20:18:56.939860+01:00",
+  "last_confirmed_at": "2026-10-30T20:22:56.936751+01:00",
   "last_sample_check": {
-    "at": "2026-10-30T20:20:56.941252+01:00",
+    "at": "2026-10-30T20:22:56.936751+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
@@ -980,7 +980,10 @@
     {
       "id": "2026-10-30T20:12:56.936321+01:00:delays",
       "delivered_at": "2026-10-30T20:13:48.575874+01:00"
+    },
+    {
+      "id": "2026-10-30T20:22:56.936751+01:00:open",
+      "delivered_at": "2026-10-30T20:23:52.940874+01:00"
     }
-  ],
-  "recovery_candidate_at": "2026-10-30T20:20:56.941252+01:00"
+  ]
 }
