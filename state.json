@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-30T22:59:21.243336+01:00",
+  "last_observed_at": "2026-10-30T23:01:21.243894+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,171 +156,6 @@
       }
     },
     {
-      "name": "BABA",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in every bite.\n\u00a37.50\nBABA Korean Wings x10\nDouble-fried for extra crunch, then coated in a glossy Ko",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury flavour in every bite.\n\u00a37.50\nBABA Korean Wings x10\nDouble-fried for extra crunch, then coated in a glossy Ko",
-            "notices": [
-              {
-                "text": "Coke 1.75L Bottle\n1\nAdd to order\n\u00a33.99",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.99"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 1.75L Bottle\n\u00a33.99\n1\nSubtotal\n\u00a33.99\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a37.28\nAdd special instructions\nCheckout\nCrispy, juicy & full of taste! Try our New BABA Wings in differend flavours only for \u00a311.95!\nROOSTERS Bucket Meals from \u00a316.50! Try Dinner for 2: x6 original chicken, 2 fries & 1.5L Drink!\nTop Selling Items & NEW\nBABA Burgers\nNEW!! BABA WINGS\nROOSTERS Box Meal\nROOSTERS Wraps\nSides, Start & Share\nBABA Kids Meals\nROOSTERS Bucket Meal\nMilkshakes\nDips & Sauces\nROOSTERS Burgers\nSLUSH Puppie\nSoft Drinks\nBeer & Cider\nTop Selling Items & NEW\nA quick look at our top sellers chosen by you!\nBABA Burger\nDouble smash premium beef patties, American cheddar cheese, fried onion ring, bacon bits and signature BABA sauce. Served with a portion of our signature fresh hand cut chips\n\u00a312.50\nBig BABA\nFour smash patties, cheddar cheese, fried onion ring, bacon bits, baba sauce. Served with a portion of our signature fresh hand cut chips\n\u00a314.50\nBABA Cheeseburger\nDouble smashed beef patties, cheddar cheese, diced onions, pickles, ketchup and mustard. Served with a portion of our signature fresh hand cut chips\n\u00a313.00\nBABA Chilli Burger\nDouble smash beef patties, cheddar cheese, jalape\u00f1os, chilli jam, cheddar sauce. Served with a portion of our signature fresh hand cut chips.\n\u00a313.00\nWheat\nBABA The GOAT\nTwo juicy smash patties, grilled goats cheese, Baba signature cheddar, fresh arugula, and a drizzle of our signature bang bang sauce. A burger fit for the greats! Includes a serving of fresh cut chips.\n\u00a313.00\nBeef Dirty Fries\nCrispy golden fries generously topped with seasoned beef, smoky bacon, and finished with a rich, creamy cheddar sauce. A bold, indulgent classic packed with savoury",
-            "notices": []
-          }
-        ],
-        "item": "Coke 1.75L Bottle",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Birdie Cafe",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Roosters Fried Chicken",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Thi Vietnamese Restaurant",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
       "name": "Loco Burgers",
       "status": "open",
       "notice": "",
@@ -386,6 +221,75 @@
           }
         ],
         "item": "7Up",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Neha Curry House",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nB\nBooze Promos!\nVapes\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nBooze Promos!\n5 Cider Combo\nGet 5 Ciders for \u00a310.00\n\u00a310.00\n5 Breezer Combo\nMix & Match Breezers for \u00a312.00\n\u00a312.00\n5 + 1 San Miguel Bottles\nBuy 5 and Get 1 FREE!\n\u00a312.00\n6 x Corona Bottles\nSummer Promo!\n\u00a311.99\n10 + 2 Heineken Bottles\nBuy 10 and Get 2 FREE!\n\u00a325.00\nVapes\nVapes\n2 Bou Vape Combo for \u00a322\n\u00a322.00\nBou 7000: Blueberry Cranberry Cherry\n\u00a312.99\nBou 7000: Melon Pineapple Orange\n\u00a312.99\nBou 7000: Watermelon Kiwi\n\u00a312.99\nBou 7000: Strawberry Kiwi\n\u00a312.99\nBou 7000: Mango Ice\n\u00a311.99\nBou 7000: Mr Blue\n\u00a312.99\nBou 7000: Raspberry Lemon\n\u00a312.99\nBou 7000: Grape Cranberry Blueberry Raspberry\n\u00a312.99\nBou 7000: Melon Banana Pineapple\n\u00a312.99\nBou 7000: Cherry Cola\n\u00a312.99\nDesserts (Indian Sweets)\nIn-House Gulab Jamun\nA rich and delicious Indian dessert made of sweet and soft cheese balls, dipped in sugar syrup.\n\u00a32.50\nIn-House Mango Kulfi (Indian Mango Ice-Cream)\nThe premium mango ice-cream made in-house!\n\u00a33.50\nSoft Drinks\nNeha's Mango Lassi\nNeha's In-House made Mango Lassi!\n\u00a33.50\nPepsi Can\n330ml Can\n\u00a31.50\nPepsi Max Can\n330ml Can\n\u00a31.50\nPepsi Max Cherry Can\n330ml Can\n\u00a31.50\nCoke Zero Can\n330ml Can\n\u00a31.50\nCoca Cola Can\n\u00a31.50\nDiet Coke Can\nCan 330ml\n\u00a31.50\nTango Cherry Can (Sugar Free)\n330ml Can\n\u00a31.50\nTango Apple Can (Sugar Free)\n330ml Can\n\u00a31.50\nFanta Orange Can\n330ml Can\n\u00a31.50\nFanta Lemon Ca",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nBooze Promos!\nVapes\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nBooze Promos!\n5 Cider Combo\nGet 5 Ciders for \u00a310.00\n\u00a310.00\n5 Breezer Combo\nMix & Match Breezers for \u00a312.00\n\u00a312.00\n5 + 1 San Miguel Bottles\nBuy 5 and Get 1 FREE!\n\u00a312.00\n6 x Corona Bottles\nSummer Promo!\n\u00a311.99\n10 + 2 Heineken Bottles\nBuy 10 and Get 2 FREE!\n\u00a325.00\nVapes\nVapes\n2 Bou Vape Combo for \u00a322\n\u00a322.00\nBou 7000: Blueberry Cranberry Cherry\n\u00a312.99\nBou 7000: Melon Pineapple Orange\n\u00a312.99\nBou 7000: Watermelon Kiwi\n\u00a312.99\nBou 7000: Strawberry Kiwi\n\u00a312.99\nBou 7000: Mango Ice\n\u00a311.99\nBou 7000: Mr Blue\n\u00a312.99\nBou 7000: Raspberry Lemon\n\u00a312.99\nBou 7000: Grape Cranberry Blueberry Raspberry\n\u00a312.99\nBou 7000: Melon Banana Pineapple\n\u00a312.99\nBou 7000: Cherry Cola\n\u00a312.99\nDesserts (Indian Sweets)\nIn-House Gulab Jamun\nA rich and delicious Indian dessert made of sweet and soft cheese balls, dipped in sugar syrup.\n\u00a32.50\nIn-House Mango Kulfi (Indian Mango Ice-Cream)\nThe premium mango ice-cream made in-house!\n\u00a33.50\nSoft Drinks\nNeha's Mango Lassi\nNeha's In-House made Mango Lassi!\n\u00a33.50\nPepsi Can\n330ml Can\n\u00a31.50\nPepsi Max Can\n330ml Can\n\u00a31.50\nPepsi Max Cherry Can\n330ml Can\n\u00a31.50\nCoke Zero Can\n330ml Can\n\u00a31.50\nCoca Cola Can\n\u00a31.50\nDiet Coke Can\nCan 330ml\n\u00a31.50\nTango Cherry Can (Sugar Free)\n330ml Can\n\u00a31.50\nTango Apple Can (Sugar Free)\n330ml Can\n\u00a31.50\nFanta Orange Can\n330ml Can\n\u00a31.50\nFanta Lemon Can\n",
+            "notices": [
+              {
+                "text": "Pepsi Can\n\n330ml Can\n\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Can\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\nBooze Promos!\nVapes\nDesserts (Indian Sweets)\nSoft Drinks\nBeers & Ciders\nWines\nSalitos / Breezers\nEnergy Drinks\nVodka\nGin\nRum\nWhiskey\nBooze Promos!\n5 Cider Combo\nGet 5 Ciders for \u00a310.00\n\u00a310.00\n5 Breezer Combo\nMix & Match Breezers for \u00a312.00\n\u00a312.00\n5 + 1 San Miguel Bottles\nBuy 5 and Get 1 FREE!\n\u00a312.00\n6 x Corona Bottles\nSummer Promo!\n\u00a311.99\n10 + 2 Heineken Bottles\nBuy 10 and Get 2 FREE!\n\u00a325.00\nVapes\nVapes\n2 Bou Vape Combo for \u00a322\n\u00a322.00\nBou 7000: Blueberry Cranberry Cherry\n\u00a312.99\nBou 7000: Melon Pineapple Orange\n\u00a312.99\nBou 7000: Watermelon Kiwi\n\u00a312.99\nBou 7000: Strawberry Kiwi\n\u00a312.99\nBou 7000: Mango Ice\n\u00a311.99\nBou 7000: Mr Blue\n\u00a312.99\nBou 7000: Raspberry Lemon\n\u00a312.99\nBou 7000: Grape Cranberry Blueberry Raspberry\n\u00a312.99\nBou 7000: Melon Banana Pineapple\n\u00a312.99\nBou 7000: Cherry Cola\n\u00a312.99\nDesserts (Indian Sweets)\nIn-House Gulab Jamun\nA rich and delicious Indian dessert made of sweet and soft cheese balls, dipped in sugar syrup.\n\u00a32.50\nIn-House Mango Kulfi (Indian Mango Ice-Cream)\nThe premium mango ice-cream made in-house!\n\u00a33.50\nSoft Drinks\nNeha's Mango Lassi\nNeha's In-House made Mango Lassi!\n\u00a33.50\n1\nPepsi Can\n330ml Can\n\u00a31.50\nPepsi Max Can\n330ml Can\n\u00a31.50\nPepsi Max Cherry Can\n330ml Can\n\u00a31.50\nCoke Zero Can\n330ml Can\n\u00a31.50\nCoca Cola Can\n\u00a31.50\nDiet Coke Can\nCan 330ml\n\u00a31.50\nTango Cherry Can (Sugar Free)\n330ml C",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi Can",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -894,9 +798,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-30T22:59:21.243336+01:00",
+  "last_confirmed_at": "2026-10-30T23:01:21.243894+01:00",
   "last_sample_check": {
-    "at": "2026-10-30T22:59:21.243336+01:00",
+    "at": "2026-10-30T23:01:21.243894+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
