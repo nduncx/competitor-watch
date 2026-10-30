@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-30T21:59:21.238775+01:00",
+  "last_observed_at": "2026-10-30T22:01:21.239092+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,7 +156,7 @@
       }
     },
     {
-      "name": "Cafetto Nostro",
+      "name": "Pollo Hermano's & Pollo Loco",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -195,49 +195,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, White Chocolate.\n\u00a30.99\nGladiatore Burger\nDouble prime Beef smash patties, crispy bacon, melted parmesan cheese, Gherkins, sweet tomato relish & sw",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast on a Whole Chicken, Large Chips, Alioli & 4 Croquetas - all for just \u00a319.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35.70!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHalf Chicken & Rice and Ali Oli\n\u00a310.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a319.50\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\nAfricano\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.70, wrap \u00a36.20 or combo \u00a37.00\n\u00a35.70\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a319.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a319.00\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a319.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a319.50\nMini Cordon Bleu\nper unit\n\u00a31.00\nKids Meal - Nuggets and Chips\n\u00a35.00\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a319.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a319.50\nMenu Offer Pepsi\nIncludes: Whole Chicken + Large Chips + Alioli + 2L Pepsi.\n\u00a319.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.70, wrap \u00a36.20 or combo \u00a37.00\n\u00a35.70\nPlain\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nGarlic\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nAfricano\nRoll \u00a34.80, wrap \u00a35.5",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, White Chocolate.\n\u00a30.99\nGladiatore Burger\nDouble prime Beef smash patties, crispy bacon, melted parmesan cheese, Gherkins, sweet tomato relish & sw",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast on a Whole Chicken, Large Chips, Alioli & 4 Croquetas - all for just \u00a319.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35.70!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHalf Chicken & Rice and Ali Oli\n\u00a310.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a319.50\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\nAfricano\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.70, wrap \u00a36.20 or combo \u00a37.00\n\u00a35.70\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a319.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a319.00\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a319.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a319.50\nMini Cordon Bleu\nper unit\n\u00a31.00\nKids Meal - Nuggets and Chips\n\u00a35.00\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a319.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a319.50\nMenu Offer Pepsi\nIncludes: Whole Chicken + Large Chips + Alioli + 2L Pepsi.\n\u00a319.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.70, wrap \u00a36.20 or combo \u00a37.00\n\u00a35.70\nPlain\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nGarlic\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nAfricano\nRoll \u00a34.80, wrap \u00a35.5",
             "notices": [
               {
-                "text": "Buy 2 Tostas Get 2 Croissants on the House!\n\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\nChoose your 1st Tosta\nSelect 1 option\nAdd Salmon, Avocado & Poached Egg Tosta\n\u00a312.00\nAdd Cream Cheese, Salmon, Sliced Fresh Tomato & Avocado Tosta\n\u00a312.00\nAdd Cream Cheese, Avocado & Sliced Fresh Tomato Tosta\n\u00a37.80\nAdd Scrambled Eggs & Avocado Tosta\n\u00a37.80\nAdd Olive Oil & Sliced Fresh Tomato Tosta\n\u00a36.00\nChoose your 2nd Tosta\nSelect 1 option\nAdd Salmon, Avocado & Poached Egg Tosta\n\u00a312.00\nAdd Cream Cheese, Salmon, Sliced Fresh Tomato & Avocado Tosta\n\u00a312.00\nAdd Cream Cheese, Avocado & Sliced Fresh Tomato Tosta\n\u00a37.80\nAdd Scrambled Eggs & Avocado Tosta\n\u00a37.80\nAdd Olive Oil & Sliced Fresh Tomato Tosta\n\u00a36.00\nChoose your 2 FREE Croissants!\nSelect 2 options\n0/2\nAdd Croissant with Pictachio Topping\nAdd Croissant with Lotus Topping\nAdd Croissant with Nutella Topping\n1\nAdd to order\n\u00a30.00",
+                "text": "Small Menu - Half Chicken, Small Chips and Ali Oli\n1\nAdd to order\n\u00a310.50",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a30.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "skip_item",
-            "item": "Buy 2 Tostas Get 2 Croissants on the House!",
-            "reason": "pre-order or required choices or disabled add"
-          },
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, White Chocolate.\n\u00a30.99\nGladiatore Burger\nDouble prime Beef smash patties, crispy bacon, melted parmesan cheese, Gherkins, sweet tomato relish & sw",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, White Chocolate.\n\u00a30.99\nGladiatore Burger\nDouble prime Beef smash patties, crispy bacon, melted parmesan cheese, Gherkins, sweet tomato relish & sw",
-            "notices": [
-              {
-                "text": "Panino Milanese - Medium Size *OUR BEST SELLER*\n\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\nWould you like Sauce?\nAdd Ketchup\n\u00a30.65\nAdd Mayo\n\u00a30.65\nAdd Cocktail Sauce\n\u00a30.65\nAdd BBQ Sauce\n\u00a31.25\nAdd Cheddar Sauce\n\u00a31.25\nAdd Bacon Jam\n\u00a31.90\nAdd Pesto\n\u00a31.90\nAdd Melted Parmesan\n\u00a31.90\nAdd Mild Truffle Mayo\n\u00a31.90\nAdd Sweet Chilli Mayo\n\u00a31.25\nAdd Sweet Tomato Relish\n\u00a31.25\nAdd Mango Chutney\n\u00a31.25\nUpgrade your Dish to a Meal Deal\nSelect up to 1 option\nUpgrade to Meal Deal (Portion of fries & Choice of Drink)\n\u00a34.50\n1\nAdd to order\n\u00a39.20",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a39.20"
+                  "Add to order\n\u00a310.50"
                 ],
                 "has_inputs": false
               }
@@ -245,18 +216,18 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPanino Milanese - Medium Size *OUR BEST SELLER*\n\u00a39.20\n1\nSubtotal\n\u00a39.20\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a312.49\nAdd special instructions\nCheckout\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, Whit",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\n1\nSubtotal\n\u00a310.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a313.79\nAdd special instructions\nCheckout\nFeast on a Whole Chicken, Large Chips, Alioli & 4 Croquetas - all for just \u00a319.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35.70!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nHalf Chicken & Rice and Ali Oli\n\u00a310.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a319.50\n1\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\nAfricano\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.70, wrap \u00a36.20 or combo \u00a37.00\n\u00a35.70\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a319.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a319.00\n1\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a319.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a319.50\nMini Cordon Bleu\nper unit\n\u00a31.00\nKids Meal - Nuggets and Chips\n\u00a35.00\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a319.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a319.50\nMenu Offer Pepsi\nIncludes: Whole Chicken + Large Chips + Alioli + 2L Pepsi.\n\u00a319.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.70, wrap \u00a36.20 or ",
             "notices": []
           }
         ],
-        "item": "Panino Milanese - Medium Size *OUR BEST SELLER*",
+        "item": "Small Menu - Half Chicken, Small Chips and Ali Oli",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Curry & Nigiri",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
+      "name": "Wagamama",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
@@ -277,109 +248,50 @@
         {
           "step": 1,
           "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Freska E1 - Devils Tower",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
         },
         {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Los Olivillos Grill",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
           "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Panzerotto",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste of ginger\n\u00a36.70\nVegan\n11 | positive\npineapple. lime. spinach. cucumber. apple\n\u00a36.70\nVegan\n14 | power\ns",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste of ginger\n\u00a36.70\nVegan\n11 | positive\npineapple. lime. spinach. cucumber. apple\n\u00a36.70\nVegan\n14 | power\ns",
+            "notices": [
+              {
+                "text": "7705 | coke\n\n330ml\n\n1\nAdd to order\n\u00a32.95",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.95"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n7705 | coke\n\u00a32.95\n1\nSubtotal\n\u00a32.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.24\nAdd special instructions\nCheckout\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste",
+            "notices": []
+          }
+        ],
+        "item": "7705 | coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
@@ -886,9 +798,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-30T21:59:21.238775+01:00",
+  "last_confirmed_at": "2026-10-30T22:01:21.239092+01:00",
   "last_sample_check": {
-    "at": "2026-10-30T21:59:21.238775+01:00",
+    "at": "2026-10-30T22:01:21.239092+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
