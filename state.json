@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-30T12:28:43.348253+01:00",
+  "last_observed_at": "2026-10-30T12:30:43.349483+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,75 +156,6 @@
       }
     },
     {
-      "name": "Papichurro",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.70\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.70\nPapitas Portion x12\n\u00a34.70\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.70\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.70\nPapitas Portion x12\n\u00a34.70\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb\nCoca Cola\n1\nAdd to order\n\u00a32.00",
-            "notices": [
-              {
-                "text": "Coca Cola\n1\nAdd to order\n\u00a32.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.70\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.70\nPapitas Portion x12\n\u00a34.70\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\n1\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Fresh Organic Juice Bar",
       "status": "open",
       "notice": "",
@@ -290,6 +221,75 @@
           }
         ],
         "item": "Deep Green Clean",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Sanu Brunch & Co",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nButter & Jam Toast\n\u00a32.50\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ha",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nButter & Jam Toast\n\u00a32.50\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ha",
+            "notices": [
+              {
+                "text": "Chicken Strips\nWould you like Sauce?\nAdd Gaucho Sauce\nAdd Mayo\nAdd Ketchup\nAdd Caesar Sauce\nAdd HP Sauce\nAdd BBQ Sauce\nAdd Yoghurt Sauce\nAdd Ali-Oli\nOut of stock\nAdd Queso Sauce\nWould you like some Savoury Extras?\nAdd Cheese\n\u00a31.00\nAdd Bacon\n\u00a31.00\nAdd Sausage\n\u00a31.00\nAdd Chicken\n\u00a31.00\nAdd Salmon\n\u00a31.00\nAdd Salad\n\u00a31.00\nAdd Scrambled Egg\n\u00a31.00\nAdd Poached Egg\n\u00a31.00\nAdd Fried Egg\n\u00a31.00\nAdd Ham\n\u00a31.00\nAdd Avocado\n\u00a31.00\nAdd Mushrooms\n\u00a31.00\nAdd Tuna\n\u00a31.00\nWould you like some Sweet Extras?\nAdd Nutella\n\u00a31.00\nAdd Kinder Bueno Sauce\n\u00a31.00\nAdd Kinder Bueno Bar\n\u00a31.00\nAdd Milky Way\n\u00a31.00\nAdd Maple Syrup\n\u00a31.00\nAdd Peanut Butter\n\u00a31.00\nAdd Strawberry Jam\n\u00a31.00\nAdd Butter\n\u00a31.00\nAdd Cream Cheese\n\u00a31.00\nAdd Honey\n\u00a31.00\nAdd Granola\n\u00a31.00\nAdd Fresh Fruits\n\u00a31.00\n1\nAdd to order\n\u00a36.95",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a36.95"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nChicken Strips\n\u00a36.95\n1\nSubtotal\n\u00a36.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a310.24\nAdd special instructions\nCheckout\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nMains\nBrunch\nSanu Signatures\nCakes\nAppetisers\nSalads\nBurgers\nKids\nSmoothies\nCoffeine & Tea\nSoft Drinks\nCocktails\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.50\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.50\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.50\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nPeppered Steak\nCreamy and rich peppercon sauce with steak. Served with a side of fries or rice\n\u00a311.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a35.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a35.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.50\nCheese & Ham Croissant\n\u00a32.50\nPlain Croissant\n\u00a32.50\nBagel\nWith your choice of sweet/savo",
+            "notices": []
+          }
+        ],
+        "item": "Chicken Strips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -798,9 +798,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-30T12:28:43.348253+01:00",
+  "last_confirmed_at": "2026-10-30T12:30:43.349483+01:00",
   "last_sample_check": {
-    "at": "2026-10-30T12:28:43.348253+01:00",
+    "at": "2026-10-30T12:30:43.349483+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
