@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-31T14:27:25.962913+01:00",
+  "last_observed_at": "2026-10-31T14:29:25.962921+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -266,6 +266,58 @@
     },
     {
       "name": "Piece Of Cake",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Charlies Steakhouse",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -324,20 +376,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Novelty Cakes: Barbie, Stitch & more design (Pre-order 3 working days) from \u00a372!\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nHalloween Selection\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nHot Chocolate Bombes\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nNovelty Cakes Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nHalloween Selection\nHalloween pumpkin Sweetie Box\n\u00a32.50\nHalloween cupcake- Chocolate\n\u00a34.20\nHalloween Cupcake-Red velvet\n\u00a34.20\nHalloween Cupcake-Victoria sponge\n\u00a34.20\nMonster Lollipops\n\u00a30.60\nToday's Specials\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed Velvet & White Chocolate Chip Cookies\n\u00a33.00\nCupcakes\nLemon Cheesecake Cupcake.\nLuxury Range. Lemon Spo",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nHand-crafted burgers, starting at just \u00a310.75, served with crispy chips for the perfect meal!\nTreat yourself to the Chef's Specials like Balti & King Prawn Puri starting at just \u00a313.45!\nTop Selling Items\nStarters\nSalads\nGarlic Breads\nClassic & Comfort\nSeafood\nSide Orders\nHand-crafted Burgers\nPastas & Stir Fry\nFrom the Grill\nPassage to India - Starters\nPassage to India - Chef's Specials\nPassage to India - Main Course\nPassage to India - Naan Breads\nPassage to India - Side Orders\nKids Meals\nDesserts\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTikka Masala\nA world famous dish. This smooth and creamy dish is a must try!\n\u00a313.45\nKorma\nA very creamy and mild dish topped with coconut\n\u00a313.45\nSpare Ribs\nA full rack of ribs, served with steakhouse chips, coleslaw, corn on the cob & Jack Daniels BBQ sauce\n\u00a317.95\nButter Chicken\nChicken cooked in butter & Indian spices sauce\n\u00a313.45\nChicken Pepper Brandy\nTender pieces of chicken breast cooked in a creamy crushed black pepper and brandy sauce.\n\u00a316.50\nCheesy Chicken Tikka\n\u00a39.95\nStarters\nLoaded Potato Skins\nstuffed with bacon and melted cheddar\n\u00a36.95\nPrawns Au Gratin\nA delicious starter of King Prawns cooked with fresh chilies, lime, garlic and red onion, gratinated with a mixture of Cheddar and Parmigiano cheese\n\u00a39.65\nPrawn Cocktail\n\u00a38.95\nGarlic Mushrooms\nBreaded mushrooms served with Ali Oli\n\u00a37.05\nVegetarian\nCharlie Hot & Spicy Buffalo Wings\n\u00a39.25\nHot\nMexican Nachos\nNachos topped with jalapeno peppers &amp; cheese, served with spicy tomato relish, sour cream, and guacamole on the side.\n\u00a39.15\nVegetarian\nThai Fishcakes\nTwo homemade fish cakes served with a sweet chilli sauce\n\u00a39.25\n",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Novelty Cakes: Barbie, Stitch & more design (Pre-order 3 working days) from \u00a372!\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nHalloween Selection\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nHot Chocolate Bombes\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nNovelty Cakes Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nHalloween Selection\nHalloween pumpkin Sweetie Box\n\u00a32.50\nHalloween cupcake- Chocolate\n\u00a34.20\nHalloween Cupcake-Red velvet\n\u00a34.20\nHalloween Cupcake-Victoria sponge\n\u00a34.20\nMonster Lollipops\n\u00a30.60\nToday's Specials\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed Velvet & White Chocolate Chip Cookies\n\u00a33.00\nCupcakes\nLemon Cheesecake Cupcake.\nLuxury Range. Lemon Spo",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nHand-crafted burgers, starting at just \u00a310.75, served with crispy chips for the perfect meal!\nTreat yourself to the Chef's Specials like Balti & King Prawn Puri starting at just \u00a313.45!\nTop Selling Items\nStarters\nSalads\nGarlic Breads\nClassic & Comfort\nSeafood\nSide Orders\nHand-crafted Burgers\nPastas & Stir Fry\nFrom the Grill\nPassage to India - Starters\nPassage to India - Chef's Specials\nPassage to India - Main Course\nPassage to India - Naan Breads\nPassage to India - Side Orders\nKids Meals\nDesserts\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTikka Masala\nA world famous dish. This smooth and creamy dish is a must try!\n\u00a313.45\nKorma\nA very creamy and mild dish topped with coconut\n\u00a313.45\nSpare Ribs\nA full rack of ribs, served with steakhouse chips, coleslaw, corn on the cob & Jack Daniels BBQ sauce\n\u00a317.95\nButter Chicken\nChicken cooked in butter & Indian spices sauce\n\u00a313.45\nChicken Pepper Brandy\nTender pieces of chicken breast cooked in a creamy crushed black pepper and brandy sauce.\n\u00a316.50\nCheesy Chicken Tikka\n\u00a39.95\nStarters\nLoaded Potato Skins\nstuffed with bacon and melted cheddar\n\u00a36.95\nPrawns Au Gratin\nA delicious starter of King Prawns cooked with fresh chilies, lime, garlic and red onion, gratinated with a mixture of Cheddar and Parmigiano cheese\n\u00a39.65\nPrawn Cocktail\n\u00a38.95\nGarlic Mushrooms\nBreaded mushrooms served with Ali Oli\n\u00a37.05\nVegetarian\nCharlie Hot & Spicy Buffalo Wings\n\u00a39.25\nHot\nMexican Nachos\nNachos topped with jalapeno peppers &amp; cheese, served with spicy tomato relish, sour cream, and guacamole on the side.\n\u00a39.15\nVegetarian\nThai Fishcakes\nTwo homemade fish cakes served with a sweet chilli sauce\n\u00a39.25\n",
             "notices": [
               {
-                "text": "Pepsi Can\n1\nAdd to order\n\u00a31.70",
+                "text": "Pepsi Max\n1\nAdd to order\n\u00a32.15",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.70"
+                  "Add to order\n\u00a32.15"
                 ],
                 "has_inputs": false
               }
@@ -345,11 +397,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Can\n\u00a31.70\n1\nSubtotal\n\u00a31.70\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.99\nAdd special instructions\nCheckout\nEnjoy our Novelty Cakes: Barbie, Stitch & more design (Pre-order 3 working days) from \u00a372!\nDon't miss out our Vegan Treats: Vegan Peanut Butter Chocolate Brownie & more only for \u00a34.20!\nHalloween Selection\nToday's Specials\nTop Selling Items\nCupcakes\nBrownies, Brookies, Muffins and Cake Loaves\nCookies\nCounter Cakes Same Day\nSavoury options & Meal deal\nGift Options\nVegan Range\nGluten Free. Made in Gluten environment- prepared separately not be suitable for severe allergies.\nParty Range (Pre-order only)\nTreat Selection Box\nHot Chocolate Bombes\nSpecial Dietary Cupcakes (Pre-order 24hrs)\nCounter Cake Pre Order (3 working days notice)\nNovelty Cakes Pre Order (3 working days notice)\nCake Candles & Toppers\nDrinks\nHalloween Selection\nHalloween pumpkin Sweetie Box\n\u00a32.50\nHalloween cupcake- Chocolate\n\u00a34.20\nHalloween Cupcake-Red velvet\n\u00a34.20\nHalloween Cupcake-Victoria sponge\n\u00a34.20\nMonster Lollipops\n\u00a30.60\nToday's Specials\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nCake Tubs (Lucky Dip)\nOur cake cuts but just a bit fancier... Choose this option and receive a box of our cake, cookie or brownie cut offs with various toppings- selection is random and changes every day. Are you ready to take the dip?\n\u00a33.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhite Chocaholic Cupcake\n\u00a33.90\nMini Cupcakes Selection (Box of 12)\nAn assortment of 12 mini cupcakes-all different flavours. Cannot choose flavours.\n\u00a324.00\nOreo Brownie\nFudgy chocolate brownie filled and topped with Oreo cookies\n\u00a34.20\nRed V",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Max\n\u00a32.15\n1\nSubtotal\n\u00a32.15\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.44\nAdd special instructions\nCheckout\nHand-crafted burgers, starting at just \u00a310.75, served with crispy chips for the perfect meal!\nTreat yourself to the Chef's Specials like Balti & King Prawn Puri starting at just \u00a313.45!\nTop Selling Items\nStarters\nSalads\nGarlic Breads\nClassic & Comfort\nSeafood\nSide Orders\nHand-crafted Burgers\nPastas & Stir Fry\nFrom the Grill\nPassage to India - Starters\nPassage to India - Chef's Specials\nPassage to India - Main Course\nPassage to India - Naan Breads\nPassage to India - Side Orders\nKids Meals\nDesserts\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTikka Masala\nA world famous dish. This smooth and creamy dish is a must try!\n\u00a313.45\nKorma\nA very creamy and mild dish topped with coconut\n\u00a313.45\nSpare Ribs\nA full rack of ribs, served with steakhouse chips, coleslaw, corn on the cob & Jack Daniels BBQ sauce\n\u00a317.95\nButter Chicken\nChicken cooked in butter & Indian spices sauce\n\u00a313.45\nChicken Pepper Brandy\nTender pieces of chicken breast cooked in a creamy crushed black pepper and brandy sauce.\n\u00a316.50\nCheesy Chicken Tikka\n\u00a39.95\nStarters\nLoaded Potato Skins\nstuffed with bacon and melted cheddar\n\u00a36.95\nPrawns Au Gratin\nA delicious starter of King Prawns cooked with fresh chilies, lime, garlic and red onion, gratinated with a mixture of Cheddar and Parmigiano cheese\n\u00a39.65\nPrawn Cocktail\n\u00a38.95\nGarlic Mushrooms\nBreaded mushrooms served with Ali Oli\n\u00a37.05\nVegetarian\nCharlie Hot & Spicy Buffalo Wings\n\u00a39.25\nHot\nMexican Nachos\nNachos topped with jalapeno peppers &amp; cheese, served with spicy tomato relish, sour cream, and guacamole on the ",
             "notices": []
           }
         ],
-        "item": "Pepsi Can",
+        "item": "Pepsi Max",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +910,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-31T14:27:25.962913+01:00",
+  "last_confirmed_at": "2026-10-31T14:29:25.962921+01:00",
   "last_sample_check": {
-    "at": "2026-10-31T14:27:25.962913+01:00",
+    "at": "2026-10-31T14:29:25.962921+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
