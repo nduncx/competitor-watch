@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-31T16:27:25.970487+01:00",
+  "last_observed_at": "2026-10-31T16:29:25.970278+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -266,6 +266,58 @@
     },
     {
       "name": "Hotel Chocolat",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Costa Coffee",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -324,20 +376,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our New Chocolate Boxes! Patisserie Dreamer Chocolate Box 27-Piece & more for \u00a334!\nCan you get a more classic pairing? Strawberry & Cream Puddles for \u00a37.95!\nCelebrate the sweet side of Halloween with our frighteningly flavoursome chocolates from \u00a35.45!\nTop Selling Items\nHALLOWEEN\nNEW CHOCOLATE BOXES\nSPECIALITIES - GIFTS\nGIFT BAGS\nSELECTORS\nBATONS\nALCOHOL\nENROBED FRUIT\nSPECIALS FOR KIDS\nRIBBON BAGS\nGIFT CARDS\nDRINKING CHOCOLATE\nC\nCHRISTMAS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nStrawberries & Cream Heart\nA well-loved summer combination encased in six 36% white chocolate hearts\n\u00a35.45\nPatisserie Dreamer Chocolate Box 27-Piece\nPatisserie recipes, ready to gift and share.\n\u00a334.00\nDizzy Praline\nMellow, creamy milk chocolate and silky smooth praline come together to create the most indulgent praline chocolate. Our Praline Chocolate Selector is deeply satisfying; filled with a nutty, comforting hazelnut praline, this praline is a delight for milk chocolate-devotees. Intensely nutty, our hazelnut praline is brimming with hazelnuts to capture the gently roasted notes of this humble nut. At Hotel Chocolat, we never use artificial flavours; we dont need to, as the ingredients we use are packed full of natural flavours. Our Praline Chocolate Selector lets the hazelnut truly shine, resulting in an indulgent, not-too-sweet milk chocolate treat.\n\u00a35.45\nPistachio heart\n\u00a35.45\nHALLOWEEN\nHALLOWEEN\nFright Night Halloween Chocolate Selector\nScarily smooth white peanut pralines and 50% milk chocolate ganaches.\n\u00a35.45\nThe Grim Treaters\nFour fearsome chocolate skulls crafted in milk hazelnut praline and a mix of dark hazelnut praline and caramel-milk pecan pr",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nAutumn\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\n\u00a32.65\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\n\u00a34.55\nAutumn\nPumpkin Spiced Latte\nA smooth and creamy latte with the comforting flavours of pumpkin and warming autumn spices, perfectly blended with rich espresso and silky steamed milk. Finished with a delicate layer of foam, its a cosy seasonal favourite that brings a little taste of autumn to every sip. Please note: Served without whipped cream.\n\u00a34.35\nPumpkin Spiced Iced Latte\nA refreshing twist on an autumn favourite! Rich espresso blended with creamy milk, sweet pumpkin flavour and warming seasonal spices, served over ice for a smooth and deliciously refreshing treat. Please note: Served without whipped cream.\n\u00a34.35\n",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our New Chocolate Boxes! Patisserie Dreamer Chocolate Box 27-Piece & more for \u00a334!\nCan you get a more classic pairing? Strawberry & Cream Puddles for \u00a37.95!\nCelebrate the sweet side of Halloween with our frighteningly flavoursome chocolates from \u00a35.45!\nTop Selling Items\nHALLOWEEN\nNEW CHOCOLATE BOXES\nSPECIALITIES - GIFTS\nGIFT BAGS\nSELECTORS\nBATONS\nALCOHOL\nENROBED FRUIT\nSPECIALS FOR KIDS\nRIBBON BAGS\nGIFT CARDS\nDRINKING CHOCOLATE\nC\nCHRISTMAS\nTop Selling Items\nA quick look at our top sellers chosen by you!\nStrawberries & Cream Heart\nA well-loved summer combination encased in six 36% white chocolate hearts\n\u00a35.45\nPatisserie Dreamer Chocolate Box 27-Piece\nPatisserie recipes, ready to gift and share.\n\u00a334.00\nDizzy Praline\nMellow, creamy milk chocolate and silky smooth praline come together to create the most indulgent praline chocolate. Our Praline Chocolate Selector is deeply satisfying; filled with a nutty, comforting hazelnut praline, this praline is a delight for milk chocolate-devotees. Intensely nutty, our hazelnut praline is brimming with hazelnuts to capture the gently roasted notes of this humble nut. At Hotel Chocolat, we never use artificial flavours; we dont need to, as the ingredients we use are packed full of natural flavours. Our Praline Chocolate Selector lets the hazelnut truly shine, resulting in an indulgent, not-too-sweet milk chocolate treat.\n\u00a35.45\nPistachio heart\n\u00a35.45\nHALLOWEEN\nHALLOWEEN\nFright Night Halloween Chocolate Selector\nScarily smooth white peanut pralines and 50% milk chocolate ganaches.\n\u00a35.45\nThe Grim Treaters\nFour fearsome chocolate skulls crafted in milk hazelnut praline and a mix of dark hazelnut praline and caramel-milk pecan pr",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nAutumn\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\n\u00a32.65\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\n\u00a34.55\nAutumn\nPumpkin Spiced Latte\nA smooth and creamy latte with the comforting flavours of pumpkin and warming autumn spices, perfectly blended with rich espresso and silky steamed milk. Finished with a delicate layer of foam, its a cosy seasonal favourite that brings a little taste of autumn to every sip. Please note: Served without whipped cream.\n\u00a34.35\nPumpkin Spiced Iced Latte\nA refreshing twist on an autumn favourite! Rich espresso blended with creamy milk, sweet pumpkin flavour and warming seasonal spices, served over ice for a smooth and deliciously refreshing treat. Please note: Served without whipped cream.\n\u00a34.35\n",
             "notices": [
               {
-                "text": "Strawberries & Cream Heart\n\nA well-loved summer combination encased in six 36% white chocolate hearts\n\n1\nAdd to order\n\u00a35.45",
+                "text": "Coca Cola Pet 50\n1\nAdd to order\n\u00a32.35",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a35.45"
+                  "Add to order\n\u00a32.35"
                 ],
                 "has_inputs": false
               }
@@ -345,11 +397,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nStrawberries & Cream Heart\n\u00a35.45\n1\nSubtotal\n\u00a35.45\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a38.74\nAdd special instructions\nCheckout\nDiscover our New Chocolate Boxes! Patisserie Dreamer Chocolate Box 27-Piece & more for \u00a334!\nCan you get a more classic pairing? Strawberry & Cream Puddles for \u00a37.95!\nCelebrate the sweet side of Halloween with our frighteningly flavoursome chocolates from \u00a35.45!\nTop Selling Items\nHALLOWEEN\nNEW CHOCOLATE BOXES\nSPECIALITIES - GIFTS\nGIFT BAGS\nSELECTORS\nBATONS\nALCOHOL\nENROBED FRUIT\nSPECIALS FOR KIDS\nRIBBON BAGS\nGIFT CARDS\nDRINKING CHOCOLATE\nC\nCHRISTMAS\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nStrawberries & Cream Heart\nA well-loved summer combination encased in six 36% white chocolate hearts\n\u00a35.45\nPatisserie Dreamer Chocolate Box 27-Piece\nPatisserie recipes, ready to gift and share.\n\u00a334.00\nDizzy Praline\nMellow, creamy milk chocolate and silky smooth praline come together to create the most indulgent praline chocolate. Our Praline Chocolate Selector is deeply satisfying; filled with a nutty, comforting hazelnut praline, this praline is a delight for milk chocolate-devotees. Intensely nutty, our hazelnut praline is brimming with hazelnuts to capture the gently roasted notes of this humble nut. At Hotel Chocolat, we never use artificial flavours; we dont need to, as the ingredients we use are packed full of natural flavours. Our Praline Chocolate Selector lets the hazelnut truly shine, resulting in an indulgent, not-too-sweet milk chocolate treat.\n\u00a35.45\nPistachio heart\n\u00a35.45\nHALLOWEEN\nHALLOWEEN\nFright Night Halloween Chocolate Selector\nScarily smooth white peanut pralines and 50% milk chocolate ganaches.\n\u00a35.45\nThe Grim Treaters\nFour",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola Pet 50\n\u00a32.35\n1\nSubtotal\n\u00a32.35\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.64\nAdd special instructions\nCheckout\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nAutumn\nOffers\nMerch\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\n\u00a32.65\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\n\u00a34.55\nAutumn\nPumpkin Spiced Latte\nA smooth and creamy latte with the comforting flavours of pumpkin and warming autumn spices, perfectly blended with rich espresso and silky steamed milk. Finished with a delicate layer of foam, its a cosy seasonal favourite that brings a little taste of autumn to every sip. Please note: Served without whipped cream.\n\u00a34.35\nPumpkin Spiced Iced Latte\nA refreshing twist on an autumn favourite! Rich espresso blended with creamy milk, sweet pumpkin flavour and warming seasonal spices, serv",
             "notices": []
           }
         ],
-        "item": "Strawberries & Cream Heart",
+        "item": "Coca Cola Pet 50",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +910,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-31T16:27:25.970487+01:00",
+  "last_confirmed_at": "2026-10-31T16:29:25.970278+01:00",
   "last_sample_check": {
-    "at": "2026-10-31T16:27:25.970487+01:00",
+    "at": "2026-10-31T16:29:25.970278+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
