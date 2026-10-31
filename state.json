@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-10-31T20:57:51.092796+01:00",
+  "last_observed_at": "2026-10-31T20:59:51.092659+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,8 +177,8 @@
     },
     {
       "name": "Boss Kitchen",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -219,53 +219,172 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper C",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper C",
-            "notices": [
-              {
-                "text": "Coke 330ml\n1\nAdd to order\n\u00a32.35",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.35"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 330ml\n\u00a32.35\n1\nSubtotal\n\u00a32.35\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.64\nAdd special instructions\nCheckout\nExperience a boxed selection of Salt 'n' Pepper dishes with our Mixed Sharing Boxes from \u00a320!\nTreat yourself to our incredible BBQ Pulled Pork Burger, comes with homemade chips only from \u00a313.95!\nSpice up your day with our Salt n Pepper Spice Bags from just \u00a35.95! Packed with crispy bites!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own BOSS Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nSunday Roast\nTop Selling Items\nA quick look at our top sellers chosen by you!\nClassic Boss Cheeseburger\nHomemade beef patty, melted cheddar cheese, lettuce, tomato, red onion and gherkin. Comes with homemade chips.\n\u00a313.95\nDevils Tower Burger\nHomemade beef patty, lettuce, tomato, red onion, jalape\u00f1os, melted cheddar cheese and our own spicy BBQ sauce. Comes with homemade chips.\n\u00a313.95\nHot\nThe Hen House Crispy Battered Chicken Burger\nHomemade chicken patty, lettuce, tomato, red onion, melted cheddar cheese, and sweet chilli sauce. Comes with homemade chips.\n\u00a313.95\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our s",
-            "notices": []
-          }
-        ],
-        "item": "Coke 330ml",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     },
     {
       "name": "Salt n Pepper Kitchen",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Special Olympics Cafe",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "The Hendrix",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Ace Burgers",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -324,20 +443,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, bold & seriously satisfying - Grab your favourite Salt n Pepper Spice Bag from just \u00a35.95!\nNo fuss, no frills. Just honest to goodess Butties from \u00a32.50!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nSunday Roast\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nBob Marley Reggae Reggae Burger\nHomemade beef patty, lettuce, tomato, red onion, Reggae Reggae Sauce. Comes with homemade chips.\n\u00a313.95\nSausage and Mash\nHearty sausages on a bed of creamy mash (or fries) with rich gravy\n\u00a310.95\nGluten Free\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper Chicken Sharing Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a313.95\nSalt n Pepper Chicken Wings Spice Bag\nStir-fried chicken wings and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with sid",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot enough to make your ex jealous. Our prime beef smash patty grilled to perfection with our famous c",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCrispy, bold & seriously satisfying - Grab your favourite Salt n Pepper Spice Bag from just \u00a35.95!\nNo fuss, no frills. Just honest to goodess Butties from \u00a32.50!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nSunday Roast\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nBob Marley Reggae Reggae Burger\nHomemade beef patty, lettuce, tomato, red onion, Reggae Reggae Sauce. Comes with homemade chips.\n\u00a313.95\nSausage and Mash\nHearty sausages on a bed of creamy mash (or fries) with rich gravy\n\u00a310.95\nGluten Free\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper Chicken Sharing Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a313.95\nSalt n Pepper Chicken Wings Spice Bag\nStir-fried chicken wings and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with sid",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot enough to make your ex jealous. Our prime beef smash patty grilled to perfection with our famous c",
             "notices": [
               {
-                "text": "Coke 330ml\n1\nAdd to order\n\u00a32.65",
+                "text": "Pepsi\n1\nAdd to order\n\u00a31.50",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.65"
+                  "Add to order\n\u00a31.50"
                 ],
                 "has_inputs": false
               }
@@ -345,11 +464,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 330ml\n\u00a32.65\n1\nSubtotal\n\u00a32.65\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.94\nAdd special instructions\nCheckout\nCrispy, bold & seriously satisfying - Grab your favourite Salt n Pepper Spice Bag from just \u00a35.95!\nNo fuss, no frills. Just honest to goodess Butties from \u00a32.50!\nTop Selling Items\nNEW! Salt 'n' Pepper Spice Bags\nOur Classic Salt 'n' Pepper Dishes\nSharing Boxes! Salt 'n' Pepper Mixed Sharing Boxes\nSalt 'n' Pepper Wrap & Burger Bun\nButties\nSunday Roast\nStarters\nMains\nSandwiches, Wraps & Baguettes\nBeef Burgers\nChicken Burgers\nPulled Pork & Lamb Burgers\nFish & Vegan Burgers\nBuild Your Own Burger\nSides\nKids Meals\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nSmoky BBQ Rack of Ribs\nTender, slow-cooked honey glazed ribs in a rich smoky BBQ sauce. Served with chips\n\u00a313.95\nBob Marley Reggae Reggae Burger\nHomemade beef patty, lettuce, tomato, red onion, Reggae Reggae Sauce. Comes with homemade chips.\n\u00a313.95\nSausage and Mash\nHearty sausages on a bed of creamy mash (or fries) with rich gravy\n\u00a310.95\nGluten Free\nNew! Salt n Pepper Crunchy Punchy Prawns\nChoose from Starter and Main Dish size\n\u00a39.95\nNEW! Salt 'n' Pepper Spice Bags\nSalt n Pepper Chicken Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a38.95\nSalt n Pepper Chicken Sharing Spice Bag\nStir-fried chicken strips and chips with a fragrant mix of chilli, peppers, onions, and our signature salt n pepper seasoning. Served with side of our chip shop curry sauce.\n\u00a313.95\nSalt n Pepper Chicken Wings Spice Bag\nStir-fried chicken wings and chips with",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot e",
             "notices": []
           }
         ],
-        "item": "Coke 330ml",
+        "item": "Pepsi",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +977,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-10-31T20:57:51.092796+01:00",
+  "last_confirmed_at": "2026-10-31T20:59:51.092659+01:00",
   "last_sample_check": {
-    "at": "2026-10-31T20:57:51.092796+01:00",
+    "at": "2026-10-31T20:59:51.092659+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
