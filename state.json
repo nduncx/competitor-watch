@@ -126,11 +126,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "monitor:2026-10-30T19:34:56.860093+01:00:failed",
-      "subject": "Competitor Watch: monitoring problem",
-      "delivered_at": "2026-10-30T19:35:48.928669+01:00"
-    },
-    {
       "id": "2026-10-30T19:36:56.935017+01:00:closed",
       "subject": "Hungry Monkey: 19:36 check unconfirmed - last confirmed not taking orders at 19:32",
       "delivered_at": "2026-10-30T19:38:12.254495+01:00"
@@ -624,14 +619,46 @@
       "id": "2026-11-01T18:03:13.168126+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (18:03)",
       "delivered_at": "2026-11-01T18:03:52.014001+01:00"
+    },
+    {
+      "id": "monitor:2026-11-01T18:05:13.125874+01:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-11-01T18:06:44.059224+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
   "last_confirmed_at": "2026-11-01T18:03:13.168126+01:00",
   "last_sample_check": {
-    "at": "2026-11-01T18:03:13.168126+01:00",
-    "eligible": true
+    "at": "2026-11-01T18:05:13.170679+01:00",
+    "eligible": false,
+    "exclusions_confirmed": false,
+    "venues": [
+      {
+        "name": "Essaouira",
+        "status": "closed"
+      },
+      {
+        "name": "Beeyo",
+        "status": "open"
+      },
+      {
+        "name": "Grocers Choice",
+        "status": "unknown"
+      },
+      {
+        "name": "Eroski VIP",
+        "status": "unknown"
+      },
+      {
+        "name": "Lord Nelson",
+        "status": "unknown"
+      },
+      {
+        "name": "Rissos Daily",
+        "status": "unknown"
+      }
+    ]
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
