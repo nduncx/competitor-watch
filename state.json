@@ -2,7 +2,7 @@
   "status": "closed",
   "since": "2026-11-01T19:51:59.165488+01:00",
   "alerted": true,
-  "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 20:05pm. Our apologies for the inconvenience caused.",
+  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
   "last_checked_date": "2026-11-01",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,20 +10,20 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-01T19:51:59.165488+01:00",
+  "last_observed_at": "2026-11-01T19:53:59.162710+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "platform_closed",
-      "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 20:05pm. Our apologies for the inconvenience caused.",
+      "status": "closed",
+      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 20:05pm. Our apologies for the inconvenience caused.\nOK",
+              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
               "buttons": [
-                "OK"
+                "GOT IT"
               ],
               "has_inputs": false
             },
@@ -38,27 +38,12 @@
               "has_inputs": false
             }
           ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 20:05pm. Our apologies for the inconvenience caused.\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
+          "covered_buttons": [
+            "Reject non-essential"
+          ]
         }
       ],
-      "unresolved_notice": false,
+      "unresolved_notice": true,
       "order_button_after_notices": false,
       "closure_notice_only": false,
       "stale_closure_notice": false,
@@ -140,11 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-10-30T19:42:56.938206+01:00:delays",
-      "subject": "Hungry Monkey is STILL warning of long delays (19:42) - OPEN (basket test)",
-      "delivered_at": "2026-10-30T19:43:54.381405+01:00"
-    },
     {
       "id": "2026-10-30T19:44:56.935820+01:00:delays",
       "subject": "Hungry Monkey is STILL warning of long delays (19:44) - OPEN (basket test)",
@@ -639,13 +619,18 @@
       "id": "2026-11-01T19:51:59.165488+01:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (19:51)",
       "delivered_at": "2026-11-01T19:52:38.546167+01:00"
+    },
+    {
+      "id": "2026-11-01T19:53:59.162710+01:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (19:53)",
+      "delivered_at": "2026-11-01T19:54:35.968279+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-11-01T19:51:59.165488+01:00",
+  "last_confirmed_at": "2026-11-01T19:53:59.162710+01:00",
   "last_sample_check": {
-    "at": "2026-11-01T19:51:59.165488+01:00",
+    "at": "2026-11-01T19:53:59.162710+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
