@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-02T21:57:47.611964+01:00",
+  "last_observed_at": "2026-11-02T21:59:47.610899+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,8 +177,8 @@
     },
     {
       "name": "AquaTerra",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -219,53 +219,172 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nTapas and Bao Buns\nFish\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nGoat cheese salad\nMix lettuces, cherry tomato, goat cheese, honey mustard dressing and walnuts\n\u00a38.95\nGluten FreeVegetarian\nMelva salad\nTomato, Melva, onion with a balsamic dressing\n\u00a38.95\nMea",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nTapas and Bao Buns\nFish\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nGoat cheese salad\nMix lettuces, cherry tomato, goat cheese, honey mustard dressing and walnuts\n\u00a38.95\nGluten FreeVegetarian\nMelva salad\nTomato, Melva, onion with a balsamic dressing\n\u00a38.95\nMea",
-            "notices": [
-              {
-                "text": "Coca Cola\n\n33cl\n\n1\nAdd to order\n\u00a30.99",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a30.99"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a30.99\n1\nSubtotal\n\u00a30.99\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.28\nAdd special instructions\nCheckout\nBanana Promo Free Delivery For Orders Of \u00a330 Or Over!\nDon't miss out our Pulled Pork Burger only for \u00a37.50! Guaranteed to satisfy your cravings!\nTop Selling Items\nPrice Crash Offers!\nStarters\nSalads\nMeats\nTapas and Bao Buns\nFish\nDesserts\nIberico Ham Vacuum Sealed\nCharcuterie Vacuum Sealed\nRolls and Sandwiches\nGourmet products\nKids Menu\nDrinks\nBeers\nRed Wines\nWhite Wines\nRose, Cava & Champagne\nTop Selling Items\nA quick look at our top sellers chosen by you!\nJamon Iberico Roll\n\u00a35.50\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nOctopus\nWe recommend mashed cauliflower\n\u00a319.95\nClams \"a la marinera\"\n\u00a314.50\nPrice Crash Offers!\nPulled Pork Burger\nBrioche bread, pulled pork, canons, crispy onion, fried egg, cured cheese and barbecue sauce\n\u00a36.95\nStarters\nAvailable from 12pm\nIberian Ham croquettes\nHam croquettes with forest fruit coulis\n\u00a36.95\nPrawns with spinach\nChef's recommendation\n\u00a314.50\nPil Pil Prawns\n15 prawns aprox\n\u00a314.50\nFried Eggs, Potatoes, Ham, Onions and Peppers\nChef recommendation\n\u00a313.95\nFried Eggs with Potatoes & Ham\nTwo eggs, potatoes and iberian ham\n\u00a310.95\nBaby potatoes\n\u00a32.50\nChips\n\u00a32.50\nSalads\nBurrata salad\nCanons, roasted tomato, caramelized onion, pine nuts, burrata and pistachio pesto.\n\u00a311.95\nTerra salad\nlettuce. cheese, Iberian ham, caramel coated seeds, tomato cherry and balsamic dressing\n\u00a39.95\nGoat cheese salad\nMix lettuces, cherry tomato, goat cheese, honey mustard dressing and wa",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     },
     {
       "name": "Freska E1 - Devils Tower",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Los Olivillos Grill",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "The Arena",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Pizza Hut",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -324,20 +443,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBig flavours, juicy bites, discover your favourite Burgers - served from 12pm only from \u00a314.45!\nSatisfy your cravings with our delicious Mains from \u00a314.00! Served from 12pm.\nTop Selling Items\nSunday Roast - Served from 12.30pm till 3pm\nFull English Breakfasts - Served until 12pm\nBreakfast Baps - Served until 12pm\nBreakfast Egg Muffin - Served until 12pm\nBreakfast Granola Sundae - Served until 12pm\nBreakfast Omelette - Served until 12pm\nFresKa Fit Breakfast Combo - Served until 12pm\nBreakfast Toast / Bread - Served until 12pm\nTraditional Breakfast Pancakes - Served until 12pm\nBreakfast Waffles - Served until 12pm\nStarters - Served from 12pm\nWraps - Served from 12pm\nPaninis - Served from 12pm\nJacket Potato - Served from 12pm\nSalads - Served from 12pm\nMains - Served from 12pm\nBurgers - Served from 12pm\nKids Menu - Served from 12pm\nSide Order - Served from 12pm\nDesserts\nHot Drinks\nHot Specials\nSmoothies/Milkshakes (Available from 8.15am until 5.30pm)\nFrappes\nTeas & infusion\nSoft Drinks\nBeers /Cider\nRed Wines\nWhite Wines\nRose Wines\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheesecake of the day\nServed with Cream\n\u00a36.50\nDairyGluten\nBrownie with Walnuts\nServed with Cream\n\u00a36.50\nGlutenNuts\nTiramisu\nServed with Cream or Ice Cream\n\u00a36.50\nDairyGluten\nGluten Free Carrot Cake\nServed with Cream or Ice Cream\n\u00a37.30\nBanoffee Pie\nServed with Cream or Ice Cream\n\u00a36.50\nDairyGluten\nSunday Roast - Served from 12.30pm till 3pm\nSunday Roast\nRoast Chicken\nServed with roast potaotes, vegetables, pigs in blankets.cauliflower & cheese, Yorkshire pudding & gravy\nOut of stock\nRoast Beef\nServed with roast potaotes, vegetables, pigs in blankets.cauliflower & chees",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover the Triple Box Medium for just \u00a337.50 - 2 pizzas, sides, and sauces for the ultimate feast!\nCraving more? Go LARGE! Any 2 Large Pizzas from just \u00a331.20!\nTop Selling Items\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nNEW! Melts\nTriple Box only for \u00a337.50!\nPrice Crash Offer! Hut Three!\nDouble Hut Mediums only form \u00a322.40!\nDouble Hut Family only from \u00a331.20!\nStarters\nSmall Pizzas\nMedium Pizzas\nLarge Pizzas\nGluten Free Pizzas\nDesserts\nDips\nSoft Drinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble Hut Medium Pizzas only from \u00a322.40!\nChoose any 2 medium pizzas\n\u00a322.40\nAny 2 Large Pizzas only from \u00a331.20!\nChoose any 2 large pizzas\n\u00a331.20\nMedium Meat Lovers\nBeef, pepperoni, ham and spicy pork\n\u00a313.70\nChicken Wings\nSucculent chicken wings lightly marinated and accompanied by BBQ or Garlic Sauce\n\u00a38.10\nTriple Box Medium only for \u00a337.50!\nIncludes any 2 medium pizzas, 5 onion rings, grill fries, 4 garlic bread, 5 chicken delights and 2 sauces (garlic or BBQ)\n\u00a337.50\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nAvailable Monday to Thursday\nGo Large Americana\nPepperoni, bacon and onion\n\u00a313.70\nGo Large Kebab\nFresh tomato, onion, chicken kebab and kebab sauce\n\u00a313.70\nGo Large Pepperoni Lovers\nClassic pepperoni pizza topped with over 50% pepperoni\n\u00a313.70\nGo Large Hawaiana\nHam and pineapple\n\u00a313.70\nGo Large Veggie Lovers\nOnion, sweet corn, green pepper, mushroom and fresh tomato\n\u00a313.70\nGo Large Margherita\nWith tomato sauce and mozzarella\n\u00a313.70\nGo Large Cheese & Ham\nClassic pizza topped with cheese and ham\n\u00a313.70\nNEW! Melts\nNEW! Melts Bourbon BBQ\nBourbon sauce, mozzarella, bacon, veal, chicken kebab & your choice of sauce\n\u00a3",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBig flavours, juicy bites, discover your favourite Burgers - served from 12pm only from \u00a314.45!\nSatisfy your cravings with our delicious Mains from \u00a314.00! Served from 12pm.\nTop Selling Items\nSunday Roast - Served from 12.30pm till 3pm\nFull English Breakfasts - Served until 12pm\nBreakfast Baps - Served until 12pm\nBreakfast Egg Muffin - Served until 12pm\nBreakfast Granola Sundae - Served until 12pm\nBreakfast Omelette - Served until 12pm\nFresKa Fit Breakfast Combo - Served until 12pm\nBreakfast Toast / Bread - Served until 12pm\nTraditional Breakfast Pancakes - Served until 12pm\nBreakfast Waffles - Served until 12pm\nStarters - Served from 12pm\nWraps - Served from 12pm\nPaninis - Served from 12pm\nJacket Potato - Served from 12pm\nSalads - Served from 12pm\nMains - Served from 12pm\nBurgers - Served from 12pm\nKids Menu - Served from 12pm\nSide Order - Served from 12pm\nDesserts\nHot Drinks\nHot Specials\nSmoothies/Milkshakes (Available from 8.15am until 5.30pm)\nFrappes\nTeas & infusion\nSoft Drinks\nBeers /Cider\nRed Wines\nWhite Wines\nRose Wines\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheesecake of the day\nServed with Cream\n\u00a36.50\nDairyGluten\nBrownie with Walnuts\nServed with Cream\n\u00a36.50\nGlutenNuts\nTiramisu\nServed with Cream or Ice Cream\n\u00a36.50\nDairyGluten\nGluten Free Carrot Cake\nServed with Cream or Ice Cream\n\u00a37.30\nBanoffee Pie\nServed with Cream or Ice Cream\n\u00a36.50\nDairyGluten\nSunday Roast - Served from 12.30pm till 3pm\nSunday Roast\nRoast Chicken\nServed with roast potaotes, vegetables, pigs in blankets.cauliflower & cheese, Yorkshire pudding & gravy\nOut of stock\nRoast Beef\nServed with roast potaotes, vegetables, pigs in blankets.cauliflower & chees",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover the Triple Box Medium for just \u00a337.50 - 2 pizzas, sides, and sauces for the ultimate feast!\nCraving more? Go LARGE! Any 2 Large Pizzas from just \u00a331.20!\nTop Selling Items\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nNEW! Melts\nTriple Box only for \u00a337.50!\nPrice Crash Offer! Hut Three!\nDouble Hut Mediums only form \u00a322.40!\nDouble Hut Family only from \u00a331.20!\nStarters\nSmall Pizzas\nMedium Pizzas\nLarge Pizzas\nGluten Free Pizzas\nDesserts\nDips\nSoft Drinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble Hut Medium Pizzas only from \u00a322.40!\nChoose any 2 medium pizzas\n\u00a322.40\nAny 2 Large Pizzas only from \u00a331.20!\nChoose any 2 large pizzas\n\u00a331.20\nMedium Meat Lovers\nBeef, pepperoni, ham and spicy pork\n\u00a313.70\nChicken Wings\nSucculent chicken wings lightly marinated and accompanied by BBQ or Garlic Sauce\n\u00a38.10\nTriple Box Medium only for \u00a337.50!\nIncludes any 2 medium pizzas, 5 onion rings, grill fries, 4 garlic bread, 5 chicken delights and 2 sauces (garlic or BBQ)\n\u00a337.50\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nAvailable Monday to Thursday\nGo Large Americana\nPepperoni, bacon and onion\n\u00a313.70\nGo Large Kebab\nFresh tomato, onion, chicken kebab and kebab sauce\n\u00a313.70\nGo Large Pepperoni Lovers\nClassic pepperoni pizza topped with over 50% pepperoni\n\u00a313.70\nGo Large Hawaiana\nHam and pineapple\n\u00a313.70\nGo Large Veggie Lovers\nOnion, sweet corn, green pepper, mushroom and fresh tomato\n\u00a313.70\nGo Large Margherita\nWith tomato sauce and mozzarella\n\u00a313.70\nGo Large Cheese & Ham\nClassic pizza topped with cheese and ham\n\u00a313.70\nNEW! Melts\nNEW! Melts Bourbon BBQ\nBourbon sauce, mozzarella, bacon, veal, chicken kebab & your choice of sauce\n\u00a3",
             "notices": [
               {
-                "text": "Coke\n\nCan (330ml)\n\n1\nAdd to order\n\u00a32.50",
+                "text": "Pepsi 2 Litre Bottle\n1\nAdd to order\n\u00a33.80",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.50"
+                  "Add to order\n\u00a33.80"
                 ],
                 "has_inputs": false
               }
@@ -345,11 +464,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nBig flavours, juicy bites, discover your favourite Burgers - served from 12pm only from \u00a314.45!\nSatisfy your cravings with our delicious Mains from \u00a314.00! Served from 12pm.\nTop Selling Items\nSunday Roast - Served from 12.30pm till 3pm\nFull English Breakfasts - Served until 12pm\nBreakfast Baps - Served until 12pm\nBreakfast Egg Muffin - Served until 12pm\nBreakfast Granola Sundae - Served until 12pm\nBreakfast Omelette - Served until 12pm\nFresKa Fit Breakfast Combo - Served until 12pm\nBreakfast Toast / Bread - Served until 12pm\nTraditional Breakfast Pancakes - Served until 12pm\nBreakfast Waffles - Served until 12pm\nStarters - Served from 12pm\nWraps - Served from 12pm\nPaninis - Served from 12pm\nJacket Potato - Served from 12pm\nSalads - Served from 12pm\nMains - Served from 12pm\nBurgers - Served from 12pm\nKids Menu - Served from 12pm\nSide Order - Served from 12pm\nDesserts\nHot Drinks\nHot Specials\nSmoothies/Milkshakes (Available from 8.15am until 5.30pm)\nFrappes\nTeas & infusion\nSoft Drinks\nBeers /Cider\nRed Wines\nWhite Wines\nRose Wines\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheesecake of the day\nServed with Cream\n\u00a36.50\nDairyGluten\nBrownie with Walnuts\nServed with Cream\n\u00a36.50\nGlutenNuts\nTiramisu\nServed with Cream or Ice Cream\n\u00a36.50\nDairyGluten\nGluten Free Carrot Cake\nServed with Cream or Ice Cream\n\u00a37.30\nBanoffee Pie\nServed with Cream or Ice Cream\n\u00a36.50\nDairyGluten\nSunday Roast - Served from 12.30pm till 3pm\nSunday Roast\nRoast Chicken\nServed with roast potaotes, vegetables, pigs in blankets.cauliflower & cheese, Yorkshire pudding & gravy\nOut ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi 2 Litre Bottle\n\u00a33.80\n1\nSubtotal\n\u00a33.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a37.09\nAdd special instructions\nCheckout\nDiscover the Triple Box Medium for just \u00a337.50 - 2 pizzas, sides, and sauces for the ultimate feast!\nCraving more? Go LARGE! Any 2 Large Pizzas from just \u00a331.20!\nTop Selling Items\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nNEW! Melts\nTriple Box only for \u00a337.50!\nPrice Crash Offer! Hut Three!\nDouble Hut Mediums only form \u00a322.40!\nDouble Hut Family only from \u00a331.20!\nStarters\nSmall Pizzas\nMedium Pizzas\nLarge Pizzas\nGluten Free Pizzas\nDesserts\nDips\nSoft Drinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDouble Hut Medium Pizzas only from \u00a322.40!\nChoose any 2 medium pizzas\n\u00a322.40\nAny 2 Large Pizzas only from \u00a331.20!\nChoose any 2 large pizzas\n\u00a331.20\nMedium Meat Lovers\nBeef, pepperoni, ham and spicy pork\n\u00a313.70\nChicken Wings\nSucculent chicken wings lightly marinated and accompanied by BBQ or Garlic Sauce\n\u00a38.10\nTriple Box Medium only for \u00a337.50!\nIncludes any 2 medium pizzas, 5 onion rings, grill fries, 4 garlic bread, 5 chicken delights and 2 sauces (garlic or BBQ)\n\u00a337.50\nGo Large!!! Large \"Greatest Hits\" Pizzas for just \u00a313.70!\nAvailable Monday to Thursday\nGo Large Americana\nPepperoni, bacon and onion\n\u00a313.70\nGo Large Kebab\nFresh tomato, onion, chicken kebab and kebab sauce\n\u00a313.70\nGo Large Pepperoni Lovers\nClassic pepperoni pizza topped with over 50% pepperoni\n\u00a313.70\nGo Large Hawaiana\nHam and pineapple\n\u00a313.70\nGo Large Veggie Lovers\nOnion, sweet corn, green pepper, mushroom and fresh tomato\n\u00a313.70\nGo Large Margherita\nWith tomato sauce and mozzarella\n\u00a313.70\nGo Large Cheese & Ham\nClassic pizza topped with cheese and ham\n\u00a313.70\n",
             "notices": []
           }
         ],
-        "item": "Coke",
+        "item": "Pepsi 2 Litre Bottle",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +977,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-02T21:57:47.611964+01:00",
+  "last_confirmed_at": "2026-11-02T21:59:47.610899+01:00",
   "last_sample_check": {
-    "at": "2026-11-02T21:57:47.611964+01:00",
+    "at": "2026-11-02T21:59:47.610899+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
