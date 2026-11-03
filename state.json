@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-03T16:09:02.552363+01:00",
+  "last_observed_at": "2026-11-03T16:11:02.551396+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -332,7 +332,7 @@
             "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nEra\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our delicious, protein-packed Mains with your choice of two sides & house sauce from \u00a311.50!\nTreat yourself to a delicious slice of Banana Bread for \u00a36.30! Perfect with your favourite espresso!\nMains - Let's Eat\nStarters & Sharers\nSomething Sweet\nSauce Pots\nSmoothies\nDrinks & Hydration\nCoffee\nMains - Let's Eat\nOne protein, two sides and a house sauce. Straightforward choices, cooked with olive oil.\nChicken Breast\nChargrilled chicken breast finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Breast with Harissa\n\u00a312.20\nChicken Thigh\nChargrilled chicken thigh finished with flaky sea salt, served with your choice of sauce and two complimentary sides. Image: Chicken Thigh with Hot Honey Piri Piri sauce\nOut of stock\nSteak\nChargrilled lean steak, finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a316.60\nSecreto Iberico\nChargrilled secreto Ib\u00e9rico, sliced and finished with flaked sea salt, served with your choice of sauce and two complimentary sides.\n\u00a315.30\nHalloumi (V)\nGrilled halloumi, served with your choice of sauce and two complimentary sides. Image: Halloumi with Hot Honey Piri Piri sauce\n\u00a314.00\nVegetarian\nFalafel (Ve)\nCrispy falafel, freshly fried and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Falafel with Tahini Sauce\n\u00a311.50\nVegan\nCrispy Tofu (Ve)\nCrispy tofu, golden seared and finished with flaked sea salt, served with your choice of sauce and two complimentary sides. Image: Harissa Tofu\n\u00a311.50\nVegan\nStarters & Sharers\nSignature Sweet Potato Fries\nOur crispy homemade sweet potato fries cooked in olive oi",
             "notices": [
               {
-                "text": "Error loading image\nPepsi Max\n\nAn ice-cold 330 ml can of Pepsi Max maximum cola taste, zero sugar. Contains caffeine.\n\n1\nAdd to order\n\u00a32.90",
+                "text": "Pepsi Max\n\nAn ice-cold 330 ml can of Pepsi Max maximum cola taste, zero sugar. Contains caffeine.\n\n1\nAdd to order\n\u00a32.90",
                 "buttons": [
                   "",
                   "",
@@ -858,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-03T16:09:02.552363+01:00",
+  "last_confirmed_at": "2026-11-03T16:11:02.551396+01:00",
   "last_sample_check": {
-    "at": "2026-11-03T16:09:02.552363+01:00",
+    "at": "2026-11-03T16:11:02.551396+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
