@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-03T21:47:52.800915+01:00",
+  "last_observed_at": "2026-11-03T21:49:52.804584+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,8 +177,8 @@
     },
     {
       "name": "Burger King",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -219,50 +219,13 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN KRISPPER WHITE BBQ BACON Served with Chips and Drink\nLarge Meal, cheese, bacon, white bbq sauce and bbq sauce\n\u00a313.68\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X CRISPY CHICKEN MEAL for \u00a313.20!\nLarge Meal, Mayonnaise, Lettuce, Tomato. Served with Chips and Drink\n\u00a313.20\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips and Drink\n\u00a313.20\n2X LONG SPICY VEGETABLE MEAL for \u00a316!\nLarge Meal, Srira",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN KRISPPER WHITE BBQ BACON Served with Chips and Drink\nLarge Meal, cheese, bacon, white bbq sauce and bbq sauce\n\u00a313.68\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X CRISPY CHICKEN MEAL for \u00a313.20!\nLarge Meal, Mayonnaise, Lettuce, Tomato. Served with Chips and Drink\n\u00a313.20\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and cheese. Served with Chips and Drink\n\u00a313.20\n2X LONG SPICY VEGETABLE MEAL for \u00a316!\nLarge Meal, Srira",
-            "notices": [
-              {
-                "text": "Coke\n1\nAdd to order\n\u00a33.30",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.30"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.30\n1\nSubtotal\n\u00a33.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.59\nAdd special instructions\nCheckout\nEnjoy 2 Long Spicy Vegetable Meal just for \u00a316 - the ultimate deal, grab yours before it's gone!\nTry 1x Big King & 1x Crispy Chicken Medium Meal for \u00a313.20! (Available Sunday to Thursday)\nGreat news for little foodies! Kid Meals are \u00a35.95 - tasty bites at a tastier price!\nTreat yourself to our NEW Pulled Pork Menus from just \u00a313.70!\nTop Selling Items\nSpecial Offers! 2x Meals !!\nSpecial Offers! Two Meals For \u00a316!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Menu\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCHICKEN KRISPPER WHITE BBQ BACON Served with Chips and Drink\nLarge Meal, cheese, bacon, white bbq sauce and bbq sauce\n\u00a313.68\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a311.94\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a314.70\nSpecial Offers! 2x Meals !!\n1X BIG KING & 1X CRISPY CHICKEN MEDIUM MEAL for \u00a313.20!\nServed with Chips and Drink\n\u00a313.20\n1X STEAKHOUSE & 1X CBK MEDIUM MEAL for \u00a320.40!\n\u00a320.40\nSpecial Offers! Two Meals For \u00a316!\nAvailable Sunday to Thursday\n2X CRISPY CHICKEN MEAL for \u00a313.20!\nLarge Meal, Mayonnaise, Lettuce, Tomato. Served with Chips and Drink\n\u00a313.20\n2X BIG KING MEAL for \u00a313.20!\nA pairing of Two Flame-Grilled Beef Patties Topped with Lettice, Pickles, and Onions on a Sesame Seed Bun Topped with our Big King Sauce and ch",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     },
     {
       "name": "AquaTerra",
@@ -350,6 +313,124 @@
           }
         ],
         "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Cafetto Nostro",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, White Chocolate.\n\u00a30.99\nGladiatore Burger\nDouble prime Beef smash patties, crispy bacon, melted parmesan cheese, Gherkins, sweet tomato relish & sw",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, White Chocolate.\n\u00a30.99\nGladiatore Burger\nDouble prime Beef smash patties, crispy bacon, melted parmesan cheese, Gherkins, sweet tomato relish & sw",
+            "notices": [
+              {
+                "text": "Buy 2 Tostas Get 2 Croissants on the House!\n\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\nChoose your 1st Tosta\nSelect 1 option\nAdd Salmon, Avocado & Poached Egg Tosta\n\u00a312.00\nAdd Cream Cheese, Salmon, Sliced Fresh Tomato & Avocado Tosta\n\u00a312.00\nAdd Cream Cheese, Avocado & Sliced Fresh Tomato Tosta\n\u00a37.80\nAdd Scrambled Eggs & Avocado Tosta\n\u00a37.80\nAdd Olive Oil & Sliced Fresh Tomato Tosta\n\u00a36.00\nChoose your 2nd Tosta\nSelect 1 option\nAdd Salmon, Avocado & Poached Egg Tosta\n\u00a312.00\nAdd Cream Cheese, Salmon, Sliced Fresh Tomato & Avocado Tosta\n\u00a312.00\nAdd Cream Cheese, Avocado & Sliced Fresh Tomato Tosta\n\u00a37.80\nAdd Scrambled Eggs & Avocado Tosta\n\u00a37.80\nAdd Olive Oil & Sliced Fresh Tomato Tosta\n\u00a36.00\nChoose your 2 FREE Croissants!\nSelect 2 options\n0/2\nAdd Croissant with Pictachio Topping\nAdd Croissant with Lotus Topping\nAdd Croissant with Nutella Topping\n1\nAdd to order\n\u00a30.00",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a30.00"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "skip_item",
+            "item": "Buy 2 Tostas Get 2 Croissants on the House!",
+            "reason": "pre-order or required choices or disabled add"
+          },
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, White Chocolate.\n\u00a30.99\nGladiatore Burger\nDouble prime Beef smash patties, crispy bacon, melted parmesan cheese, Gherkins, sweet tomato relish & sw",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, White Chocolate.\n\u00a30.99\nGladiatore Burger\nDouble prime Beef smash patties, crispy bacon, melted parmesan cheese, Gherkins, sweet tomato relish & sw",
+            "notices": [
+              {
+                "text": "Panino Milanese - Medium Size *OUR BEST SELLER*\n\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\nWould you like Sauce?\nAdd Ketchup\n\u00a30.65\nAdd Mayo\n\u00a30.65\nAdd Cocktail Sauce\n\u00a30.65\nAdd BBQ Sauce\n\u00a31.25\nAdd Cheddar Sauce\n\u00a31.25\nAdd Bacon Jam\n\u00a31.90\nAdd Pesto\n\u00a31.90\nAdd Melted Parmesan\n\u00a31.90\nAdd Mild Truffle Mayo\n\u00a31.90\nAdd Sweet Chilli Mayo\n\u00a31.25\nAdd Sweet Tomato Relish\n\u00a31.25\nAdd Mango Chutney\n\u00a31.25\nUpgrade your Dish to a Meal Deal\nSelect up to 1 option\nUpgrade to Meal Deal (Portion of fries & Choice of Drink)\n\u00a34.50\n1\nAdd to order\n\u00a39.20",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a39.20"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPanino Milanese - Medium Size *OUR BEST SELLER*\n\u00a39.20\n1\nSubtotal\n\u00a39.20\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a312.49\nAdd special instructions\nCheckout\nNew! Our Next Crowd Driver! Crispy Cod Fish & Chips only for \u00a39.95!\nOur Classic Cheesecake made freshly daily only for \u00a30.99! Choose your topping to make it unique!\n2026 FIFA World Cup Inspired Special Burgers & Baguettes only for \u00a310.80! Make it a meal for \u00a32.30!\nLimited time offer! With your order of 2 Tostas we include 2 Croissants of your choice!\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nTop Selling Items\nNew! Tostas\n!!WORLD CUP SPECIALS!!\nSpecial Word Cup Carlsberg Offer! x5 Beers for \u00a38.50 & x1 Beer for \u00a31.90!\nSpecial Offer! Classic Cheesecake only for \u00a30.99!\nBreakfast Favourites\nBurgers & Baguettes\nBreakfast Baguettes\nBreakfast Muffins\nNEW! Our Next Crowd Driver! Fish N Chips!!\nPaninos & Focaccia\nLocal Favourites\nLoaded Fries\nSweet Corner\nSoft Drinks\nHot Drinks\nBeers\nSpecial Offer! Buy 2 Tostas Get 2 Croissants for FREE!\nLimited Time Only!\nBuy 2 Tostas Get 2 Croissants on the House!\nWhen you order two of our new Tostas (open-faced sandwiches), youll get 2 croissants - with the topping of your choiceon the house!\n\u00a312.00\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nPanino Milanese - Medium Size *OUR BEST SELLER*\nParma ham, breaded chicken, mozzarella, basil pesto. Upgrade your panino to a meal deal for an additional \u00a34.50, which inculdes: a portion of fries and choice of drink\n\u00a39.20\nENGLAND BURGER\nDouble Beef Patties, Roast Beef, Mature Cheddar Cheese, Crispy Onions, Crispy Bacon, Horseradish Mayo\n\u00a310.80\nClassic Cheesecake\nYou choose the topping: Pistachio, Lotus, Nutella, Strawberry, Whit",
+            "notices": []
+          }
+        ],
+        "item": "Panino Milanese - Medium Size *OUR BEST SELLER*",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +939,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-03T21:47:52.800915+01:00",
+  "last_confirmed_at": "2026-11-03T21:49:52.804584+01:00",
   "last_sample_check": {
-    "at": "2026-11-03T21:47:52.800915+01:00",
+    "at": "2026-11-03T21:49:52.804584+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
