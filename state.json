@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-03T20:59:52.796917+01:00",
+  "last_observed_at": "2026-11-03T21:01:52.798572+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,9 +176,9 @@
       }
     },
     {
-      "name": "Boss Kitchen",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
+      "name": "Ace Burgers",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
@@ -219,18 +219,55 @@
         {
           "step": 2,
           "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot enough to make your ex jealous. Our prime beef smash patty grilled to perfection with our famous c",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot enough to make your ex jealous. Our prime beef smash patty grilled to perfection with our famous c",
+            "notices": [
+              {
+                "text": "Pepsi\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot e",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     },
     {
-      "name": "Las Iguanas",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
+      "name": "Wagamama",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
@@ -271,169 +308,50 @@
         {
           "step": 2,
           "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Mac & Wings by PizzaExpress",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
+        },
         {
           "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Pizza Express",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Salt n Pepper Kitchen",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste of ginger\n\u00a36.70\nVegan\n11 | positive\npineapple. lime. spinach. cucumber. apple\n\u00a36.70\nVegan\n14 | power\ns",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste of ginger\n\u00a36.70\nVegan\n11 | positive\npineapple. lime. spinach. cucumber. apple\n\u00a36.70\nVegan\n14 | power\ns",
+            "notices": [
+              {
+                "text": "7705 | coke\n\n330ml\n\n1\nAdd to order\n\u00a32.95",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.95"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n7705 | coke\n\u00a32.95\n1\nSubtotal\n\u00a32.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.24\nAdd special instructions\nCheckout\nIndulge in Chicken Katsu Curry: Crispy panko-coated chicken, curry sauce, rice & salad just \u00a316.70!\nEnjoy our Donburi Rice Bowls in different flavours from \u00a316.50!\nTop Selling Items\n**new** fresh juices\nbao buns\ngyoza\nsmall plates big flavour\nlighter bites\niconic curries\ndonburi rice bowls\nramen\nteppanyaki\nvibrant salads\nvegan mains\nchopsticks + napkins\nkids\nextras\nextra sauces\ndesserts\nsoft drinks\nbeer + cider\nred wine\nwhite wine\nrose wine\nsparkling wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\n71 | chicken katsu curry\npanko. sticky white rice. katsu curry sauce. dressed salad. japanese pickles\n\u00a316.90\n20 | grilled chicken ramen\nmarinated chicken. grilled noodles. rich chicken broth. seasonal greens. menma. spring onion\n\u00a315.80\n89 | grilled duck donburi\nteriyaki sauce. carrots. mangetout. sweet potato. cucumber. onion. fried egg. kimchee. sticky white rice\n\u00a319.90\n113 | korean barbecue brisket bao buns\ntwo fluffy, pillowy buns. beef brisket. fresh asian slaw. sriracha vegan mayo\n\u00a39.20\n30 | tantanmen beef brisket ramen\nramen noodles. extra rich chicken broth. menma. kimchee. spring onion. coriander. chilli oil. tea-stained egg\n\u00a318.80\n**new** fresh juices\nnutrient powerhouses squeezed and freshly poured\n06 | kick start\nstrawberry. apple. mint. lemon\n\u00a36.70\nVeganVegetarian\n05 | high five\nmelon. pineapple. lemon. apple. orange juice\n\u00a36.70\nVegetarian\n08 | tropical\nmango. apple. orange juice\n\u00a36.70\n13 | repair\nkale. apple. lime. pear\n\u00a36.70\nVegan\n02 | fruit\napple. orange. passion fruit\n\u00a36.70\n10 | blueberry spice\nblueberry, apple and carrot with a taste",
+            "notices": []
+          }
+        ],
+        "item": "7705 | coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
@@ -940,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-03T20:59:52.796917+01:00",
+  "last_confirmed_at": "2026-11-03T21:01:52.798572+01:00",
   "last_sample_check": {
-    "at": "2026-11-03T20:59:52.796917+01:00",
+    "at": "2026-11-03T21:01:52.798572+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
