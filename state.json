@@ -416,11 +416,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-10-31T19:55:51.088436+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (19:55)",
-      "delivered_at": "2026-10-31T19:56:34.455323+01:00"
-    },
-    {
       "id": "2026-10-31T19:57:51.089363+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (19:57)",
       "delivered_at": "2026-10-31T19:58:25.971472+01:00"
@@ -914,15 +909,20 @@
       "id": "monitor:2026-11-03T23:09:23.236753+01:00:no_samples",
       "subject": "Competitor Watch: no suitable stores available to test",
       "delivered_at": "2026-11-03T23:10:54.393945+01:00"
+    },
+    {
+      "id": "monitor:2026-11-03T23:11:23.236906+01:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-11-03T23:13:29.602150+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "open",
   "last_confirmed_at": "2026-11-03T22:55:52.812281+01:00",
   "last_sample_check": {
-    "at": "2026-11-03T23:09:23.307372+01:00",
+    "at": "2026-11-03T23:11:23.308017+01:00",
     "eligible": false,
-    "exclusions_confirmed": true,
+    "exclusions_confirmed": false,
     "venues": [
       {
         "name": "Essaouira",
@@ -938,7 +938,7 @@
       },
       {
         "name": "54 Dining & Caf\u00e9",
-        "status": "venue_closed"
+        "status": "unknown"
       },
       {
         "name": "Ace Burgers",
