@@ -920,7 +920,7 @@
   "last_result": "open",
   "last_confirmed_at": "2026-11-03T22:55:52.812281+01:00",
   "last_sample_check": {
-    "at": "2026-11-03T23:11:23.308017+01:00",
+    "at": "2026-11-03T23:16:24.197264+01:00",
     "eligible": false,
     "exclusions_confirmed": false,
     "venues": [
@@ -930,10 +930,6 @@
       },
       {
         "name": "3Bros Takeout",
-        "status": "venue_closed"
-      },
-      {
-        "name": "4 Stagioni",
         "status": "venue_closed"
       },
       {
