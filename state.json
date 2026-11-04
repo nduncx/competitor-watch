@@ -126,11 +126,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "monitor:2026-10-31T20:21:51.022856+01:00:failed",
-      "subject": "Competitor Watch: monitoring problem",
-      "delivered_at": "2026-10-31T20:22:28.382973+01:00"
-    },
-    {
       "id": "2026-10-31T20:23:51.090329+01:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (20:23)",
       "delivered_at": "2026-10-31T20:24:26.804269+01:00"
@@ -624,14 +619,38 @@
       "id": "monitor:2026-11-04T17:43:05.938848+01:00:restored",
       "subject": "Competitor Watch: monitoring restored",
       "delivered_at": "2026-11-04T17:43:41.517049+01:00"
+    },
+    {
+      "id": "monitor:2026-11-04T17:45:05.938979+01:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-11-04T17:46:06.850850+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
   "last_confirmed_at": "2026-11-04T17:43:06.004428+01:00",
   "last_sample_check": {
-    "at": "2026-11-04T17:43:06.004428+01:00",
-    "eligible": true
+    "at": "2026-11-04T17:45:06.005122+01:00",
+    "eligible": false,
+    "exclusions_confirmed": false,
+    "venues": [
+      {
+        "name": "Essaouira",
+        "status": "closed"
+      },
+      {
+        "name": "Costa Coffee",
+        "status": "open"
+      },
+      {
+        "name": "Hotel Chocolat",
+        "status": "unknown"
+      },
+      {
+        "name": "Piece Of Cake",
+        "status": "open"
+      }
+    ]
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
