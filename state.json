@@ -1,8 +1,8 @@
 {
-  "status": "closed",
-  "since": "2026-11-05T18:59:08.962704+01:00",
-  "alerted": true,
-  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+  "status": "open",
+  "since": "2026-11-05T19:07:08.959363+01:00",
+  "alerted": false,
+  "notice": "",
   "last_checked_date": "2026-11-05",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-05T19:05:08.964768+01:00",
+  "last_observed_at": "2026-11-05T19:07:08.959363+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -20,6 +20,13 @@
         {
           "step": 0,
           "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -35,6 +42,19 @@
         },
         {
           "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
           "notices": []
         },
         {
@@ -335,11 +355,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-11-01T13:46:15.900925+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (13:46)",
-      "delivered_at": "2026-11-01T13:46:51.678752+01:00"
-    },
     {
       "id": "2026-11-01T13:48:15.900844+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (13:48)",
@@ -834,13 +849,18 @@
       "id": "2026-11-05T19:05:08.964768+01:00:closed",
       "subject": "Hungry Monkey: 19:05 check unconfirmed - last confirmed not taking orders at 19:03",
       "delivered_at": "2026-11-05T19:06:00.658067+01:00"
+    },
+    {
+      "id": "2026-11-05T19:07:08.959363+01:00:open",
+      "subject": "Hungry Monkey is taking orders again (19:07) - basket test passed",
+      "delivered_at": "2026-11-05T19:08:01.899319+01:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-05T19:03:08.958659+01:00",
+  "last_confirmed_at": "2026-11-05T19:07:08.959363+01:00",
   "last_sample_check": {
-    "at": "2026-11-05T19:05:08.964768+01:00",
+    "at": "2026-11-05T19:07:08.959363+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
@@ -1124,7 +1144,10 @@
     {
       "id": "2026-11-05T18:59:08.962704+01:00:closed",
       "delivered_at": "2026-11-05T18:59:43.543301+01:00"
+    },
+    {
+      "id": "2026-11-05T19:07:08.959363+01:00:open",
+      "delivered_at": "2026-11-05T19:08:02.079458+01:00"
     }
-  ],
-  "recovery_candidate_at": "2026-11-05T19:05:08.964768+01:00"
+  ]
 }
