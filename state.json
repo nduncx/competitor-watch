@@ -10,23 +10,16 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-06T19:12:54.328232+01:00",
+  "last_observed_at": "2026-11-06T19:16:54.327255+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
-      "status": "closed",
-      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "status": "unknown",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
-            {
-              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
-              "buttons": [
-                "GOT IT"
-              ],
-              "has_inputs": false
-            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -51,19 +44,12 @@
     },
     {
       "name": "Jury`s",
-      "status": "closed",
-      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
-            {
-              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
-              "buttons": [
-                "GOT IT"
-              ],
-              "has_inputs": false
-            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -75,32 +61,64 @@
               "has_inputs": false
             }
           ],
-          "covered_buttons": [
-            "Reject non-essential"
-          ]
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion and hoisin sauce with hand-cut fries.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing with hand-cut fries\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion and hoisin sauce with hand-cut fries.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing with hand-cut fries\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA lighter serving of our signature breakfast. Vegetarian option available.\n\u00a38.00\nFreshly Squeezed",
+            "notices": [
+              {
+                "text": "Coke\n\n33cl\n\n1\nAdd to order\n\u00a33.10",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a33.10"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.10\n1\nSubtotal\n\u00a33.10\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.39\nAdd special instructions\nCheckout\nEnjoy a delicious Full English Breakfast for just \u00a311.95! A hearty start to your day!\nBuild your perfect classic sandwich with 1, 2 or 3 fillings, from just \u00a32.95!\nTop Selling Items\nClassic Breakfast\nBreads & Light Bites\nClassic Sandwiches\nEgg Dishes\nEggs Benedict\nSweet Indulgences\nSalads\nStarters\nWraps & Burgers\nMain Courses\nPasta\nChildren's Menu\nSides\nDesserts\nSoft Drinks\nCoffee & Hot Drinks\nBottled Beer\nBottled Cider\nWhite Wines\nRose Wines\nRed Wines\nChampagne\nSparkling Wine\nCava\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDeluxe Crispy Chicken Burger\nCrispy Southern fried chicken in a toasted brioche bun, fresh lettuce, tomato & pickle with sriracha mayo. Served with fries. Best with Blackthorn cider.\n\u00a314.95\nCrispy Duck Wrap\nConfit duck with cucumber, spinach, red onion and hoisin sauce with hand-cut fries.\n\u00a315.95\nChicken Caesar Wrap\nGrilled chicken, crisp gem lettuce, Parmesan, bacon bits, and classic Caesar dressing with hand-cut fries\n\u00a314.95\nJurys Beef Burger\n200g Angus beef patty topped with melted cheese, tomato, fried egg, red onion, and gherkins. Served with fries. Perfect with a cold pint of Guinness.\n\u00a314.95\nJury's Rustic Avocado Bread\nRustic bread topped with mashed avocado, poached eggs and chilli flakes. Add smoked salmon +\u00a32.00.\n\u00a37.50\nClassic Breakfast\nAvailable until 12pm\nFull English Breakfast\nTwo eggs (fried, poached or scrambled), Danish bacon, two Cumberland sausages, grilled tomato, mushrooms, Heinz baked beans, hash browns, black pudding and farmhouse toast with butter. Vegetarian option available.\n\u00a311.95\nHalf English Breakfast\nA",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     },
     {
       "name": "TopDogs Gibraltar",
-      "status": "closed",
-      "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
-            {
-              "text": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.\nGOT IT",
-              "buttons": [
-                "GOT IT"
-              ],
-              "has_inputs": false
-            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -112,29 +130,127 @@
               "has_inputs": false
             }
           ],
-          "covered_buttons": [
-            "Reject non-essential"
-          ]
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs for \u00a318\nChoose three of your favourite hotdogs for only \u00a318\n\u00a318.00\nNew! Signature Rolls\nChicken",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs for \u00a318\nChoose three of your favourite hotdogs for only \u00a318\n\u00a318.00\nNew! Signature Rolls\nChicken",
+            "notices": [
+              {
+                "text": "Coke\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Royal Calpe",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of slow cooked roast turkey breast, gravy and a mix of vegetable\n\u00a317.95\nMixed Roast\none slice of eac",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of slow cooked roast turkey breast, gravy and a mix of vegetable\n\u00a317.95\nMixed Roast\none slice of eac",
+            "notices": [
+              {
+                "text": "Pepsi\n1\nAdd to order\n\u00a32.40",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.40"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a32.40\n1\nSubtotal\n\u00a32.40\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.69\nAdd special instructions\nCheckout\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of ",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-11-04T19:21:34.719309+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (19:21)",
-      "delivered_at": "2026-11-04T19:22:08.753730+01:00"
-    },
-    {
-      "id": "2026-11-04T19:23:34.721442+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (19:23)",
-      "delivered_at": "2026-11-04T19:24:09.479689+01:00"
-    },
     {
       "id": "2026-11-04T19:25:34.720020+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (19:25)",
@@ -624,33 +740,24 @@
       "id": "monitor:2026-11-06T19:14:54.272302+01:00:failed",
       "subject": "Competitor Watch: monitoring problem",
       "delivered_at": "2026-11-06T19:15:57.146757+01:00"
+    },
+    {
+      "id": "2026-11-06T19:16:54.327255+01:00:closed",
+      "subject": "Hungry Monkey: 19:16 check unconfirmed - last confirmed not taking orders at 19:12",
+      "delivered_at": "2026-11-06T19:17:58.201027+01:00"
+    },
+    {
+      "id": "monitor:2026-11-06T19:16:54.272436+01:00:restored",
+      "subject": "Competitor Watch: monitoring restored",
+      "delivered_at": "2026-11-06T19:17:58.470183+01:00"
     }
   ],
-  "recovery_streak": 0,
-  "last_result": "closed",
+  "recovery_streak": 1,
+  "last_result": "open",
   "last_confirmed_at": "2026-11-06T19:12:54.328232+01:00",
   "last_sample_check": {
-    "at": "2026-11-06T19:14:54.327657+01:00",
-    "eligible": false,
-    "exclusions_confirmed": false,
-    "venues": [
-      {
-        "name": "Essaouira",
-        "status": "closed"
-      },
-      {
-        "name": "Jury`s",
-        "status": "unknown"
-      },
-      {
-        "name": "TopDogs Gibraltar",
-        "status": "open"
-      },
-      {
-        "name": "Royal Calpe",
-        "status": "open"
-      }
-    ]
+    "at": "2026-11-06T19:16:54.327255+01:00",
+    "eligible": true
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
@@ -982,5 +1089,6 @@
       "id": "2026-11-06T18:56:26.942593+01:00:closed",
       "delivered_at": "2026-11-06T18:57:02.994626+01:00"
     }
-  ]
+  ],
+  "recovery_candidate_at": "2026-11-06T19:16:54.327255+01:00"
 }
