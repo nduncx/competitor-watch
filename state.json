@@ -126,11 +126,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-11-04T19:19:34.720867+01:00:closed",
-      "subject": "Hungry Monkey has STOPPED taking orders (19:19)",
-      "delivered_at": "2026-11-04T19:20:09.122070+01:00"
-    },
-    {
       "id": "2026-11-04T19:21:34.719309+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (19:21)",
       "delivered_at": "2026-11-04T19:22:08.753730+01:00"
@@ -624,14 +619,38 @@
       "id": "2026-11-06T19:12:54.328232+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (19:12)",
       "delivered_at": "2026-11-06T19:13:30.318912+01:00"
+    },
+    {
+      "id": "monitor:2026-11-06T19:14:54.272302+01:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-11-06T19:15:57.146757+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
   "last_confirmed_at": "2026-11-06T19:12:54.328232+01:00",
   "last_sample_check": {
-    "at": "2026-11-06T19:12:54.328232+01:00",
-    "eligible": true
+    "at": "2026-11-06T19:14:54.327657+01:00",
+    "eligible": false,
+    "exclusions_confirmed": false,
+    "venues": [
+      {
+        "name": "Essaouira",
+        "status": "closed"
+      },
+      {
+        "name": "Jury`s",
+        "status": "unknown"
+      },
+      {
+        "name": "TopDogs Gibraltar",
+        "status": "open"
+      },
+      {
+        "name": "Royal Calpe",
+        "status": "open"
+      }
+    ]
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
