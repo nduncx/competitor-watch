@@ -1,8 +1,8 @@
 {
-  "status": "closed",
-  "since": "2026-11-06T09:59:57.949331+01:00",
-  "alerted": true,
-  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+  "status": "open",
+  "since": "2026-11-06T10:25:57.950513+01:00",
+  "alerted": false,
+  "notice": "",
   "last_checked_date": "2026-11-06",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-06T10:23:57.951277+01:00",
+  "last_observed_at": "2026-11-06T10:25:57.950513+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -31,13 +31,15 @@
               "has_inputs": false
             }
           ],
-          "covered_buttons": [
-            "Reject non-essential"
-          ]
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
         }
       ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {}
@@ -251,11 +253,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "monitor:2026-11-01T20:39:59.098561+01:00:failed",
-      "subject": "Competitor Watch: monitoring problem",
-      "delivered_at": "2026-11-01T20:40:47.006160+01:00"
-    },
     {
       "id": "2026-11-01T20:41:59.167352+01:00:closed",
       "subject": "Hungry Monkey: 20:41 check unconfirmed - last confirmed not taking orders at 20:37",
@@ -750,13 +747,18 @@
       "id": "2026-11-06T10:23:57.951277+01:00:closed",
       "subject": "Hungry Monkey: 10:23 check unconfirmed - last confirmed not taking orders at 10:21",
       "delivered_at": "2026-11-06T10:24:58.594435+01:00"
+    },
+    {
+      "id": "2026-11-06T10:25:57.950513+01:00:open",
+      "subject": "Hungry Monkey is taking orders again (10:25) - basket test passed",
+      "delivered_at": "2026-11-06T10:26:59.077488+01:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-06T10:21:57.954985+01:00",
+  "last_confirmed_at": "2026-11-06T10:25:57.950513+01:00",
   "last_sample_check": {
-    "at": "2026-11-06T10:23:57.951277+01:00",
+    "at": "2026-11-06T10:25:57.950513+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
@@ -1072,7 +1074,10 @@
     {
       "id": "2026-11-06T09:59:57.949331+01:00:closed",
       "delivered_at": "2026-11-06T10:00:32.335644+01:00"
+    },
+    {
+      "id": "2026-11-06T10:25:57.950513+01:00:open",
+      "delivered_at": "2026-11-06T10:26:59.166986+01:00"
     }
-  ],
-  "recovery_candidate_at": "2026-11-06T10:23:57.951277+01:00"
+  ]
 }
