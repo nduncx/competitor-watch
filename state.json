@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-06T10:09:57.954162+01:00",
+  "last_observed_at": "2026-11-06T10:11:57.952116+01:00",
   "last_venues": [
     {
       "name": "Laguna Bar",
@@ -125,11 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-11-01T20:25:59.167821+01:00:closed",
-      "subject": "Hungry Monkey has STOPPED taking orders (20:25)",
-      "delivered_at": "2026-11-01T20:26:36.738530+01:00"
-    },
     {
       "id": "2026-11-01T20:27:59.167642+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:27)",
@@ -624,13 +619,18 @@
       "id": "2026-11-06T10:09:57.954162+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (10:09)",
       "delivered_at": "2026-11-06T10:10:31.120537+01:00"
+    },
+    {
+      "id": "2026-11-06T10:11:57.952116+01:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (10:11)",
+      "delivered_at": "2026-11-06T10:12:31.250944+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-11-06T10:09:57.954162+01:00",
+  "last_confirmed_at": "2026-11-06T10:11:57.952116+01:00",
   "last_sample_check": {
-    "at": "2026-11-06T10:09:57.954162+01:00",
+    "at": "2026-11-06T10:11:57.952116+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
