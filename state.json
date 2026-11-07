@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-07T21:28:13.224572+01:00",
+  "last_observed_at": "2026-11-07T21:30:13.224023+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,75 +156,6 @@
       }
     },
     {
-      "name": "Charlies Steakhouse",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nHand-crafted burgers, starting at just \u00a310.75, served with crispy chips for the perfect meal!\nTreat yourself to the Chef's Specials like Balti & King Prawn Puri starting at just \u00a313.45!\nTop Selling Items\nStarters\nSalads\nGarlic Breads\nClassic & Comfort\nSeafood\nSide Orders\nHand-crafted Burgers\nPastas & Stir Fry\nFrom the Grill\nPassage to India - Starters\nPassage to India - Chef's Specials\nPassage to India - Main Course\nPassage to India - Naan Breads\nPassage to India - Side Orders\nKids Meals\nDesserts\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTikka Masala\nA world famous dish. This smooth and creamy dish is a must try!\n\u00a313.45\nKorma\nA very creamy and mild dish topped with coconut\n\u00a313.45\nSpare Ribs\nA full rack of ribs, served with steakhouse chips, coleslaw, corn on the cob & Jack Daniels BBQ sauce\n\u00a317.95\nButter Chicken\nChicken cooked in butter & Indian spices sauce\n\u00a313.45\nChicken Pepper Brandy\nTender pieces of chicken breast cooked in a creamy crushed black pepper and brandy sauce.\n\u00a316.50\nCheesy Chicken Tikka\n\u00a39.95\nStarters\nLoaded Potato Skins\nstuffed with bacon and melted cheddar\n\u00a36.95\nPrawns Au Gratin\nA delicious starter of King Prawns cooked with fresh chilies, lime, garlic and red onion, gratinated with a mixture of Cheddar and Parmigiano cheese\n\u00a39.65\nPrawn Cocktail\n\u00a38.95\nGarlic Mushrooms\nBreaded mushrooms served with Ali Oli\n\u00a37.05\nVegetarian\nCharlie Hot & Spicy Buffalo Wings\n\u00a39.25\nHot\nMexican Nachos\nNachos topped with jalapeno peppers &amp; cheese, served with spicy tomato relish, sour cream, and guacamole on the side.\n\u00a39.15\nVegetarian\nThai Fishcakes\nTwo homemade fish cakes served with a sweet chilli sauce\n\u00a39.25\n",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nHand-crafted burgers, starting at just \u00a310.75, served with crispy chips for the perfect meal!\nTreat yourself to the Chef's Specials like Balti & King Prawn Puri starting at just \u00a313.45!\nTop Selling Items\nStarters\nSalads\nGarlic Breads\nClassic & Comfort\nSeafood\nSide Orders\nHand-crafted Burgers\nPastas & Stir Fry\nFrom the Grill\nPassage to India - Starters\nPassage to India - Chef's Specials\nPassage to India - Main Course\nPassage to India - Naan Breads\nPassage to India - Side Orders\nKids Meals\nDesserts\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTikka Masala\nA world famous dish. This smooth and creamy dish is a must try!\n\u00a313.45\nKorma\nA very creamy and mild dish topped with coconut\n\u00a313.45\nSpare Ribs\nA full rack of ribs, served with steakhouse chips, coleslaw, corn on the cob & Jack Daniels BBQ sauce\n\u00a317.95\nButter Chicken\nChicken cooked in butter & Indian spices sauce\n\u00a313.45\nChicken Pepper Brandy\nTender pieces of chicken breast cooked in a creamy crushed black pepper and brandy sauce.\n\u00a316.50\nCheesy Chicken Tikka\n\u00a39.95\nStarters\nLoaded Potato Skins\nstuffed with bacon and melted cheddar\n\u00a36.95\nPrawns Au Gratin\nA delicious starter of King Prawns cooked with fresh chilies, lime, garlic and red onion, gratinated with a mixture of Cheddar and Parmigiano cheese\n\u00a39.65\nPrawn Cocktail\n\u00a38.95\nGarlic Mushrooms\nBreaded mushrooms served with Ali Oli\n\u00a37.05\nVegetarian\nCharlie Hot & Spicy Buffalo Wings\n\u00a39.25\nHot\nMexican Nachos\nNachos topped with jalapeno peppers &amp; cheese, served with spicy tomato relish, sour cream, and guacamole on the side.\n\u00a39.15\nVegetarian\nThai Fishcakes\nTwo homemade fish cakes served with a sweet chilli sauce\n\u00a39.25\n",
-            "notices": [
-              {
-                "text": "Pepsi Max\n1\nAdd to order\n\u00a32.15",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.15"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Max\n\u00a32.15\n1\nSubtotal\n\u00a32.15\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.44\nAdd special instructions\nCheckout\nHand-crafted burgers, starting at just \u00a310.75, served with crispy chips for the perfect meal!\nTreat yourself to the Chef's Specials like Balti & King Prawn Puri starting at just \u00a313.45!\nTop Selling Items\nStarters\nSalads\nGarlic Breads\nClassic & Comfort\nSeafood\nSide Orders\nHand-crafted Burgers\nPastas & Stir Fry\nFrom the Grill\nPassage to India - Starters\nPassage to India - Chef's Specials\nPassage to India - Main Course\nPassage to India - Naan Breads\nPassage to India - Side Orders\nKids Meals\nDesserts\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTikka Masala\nA world famous dish. This smooth and creamy dish is a must try!\n\u00a313.45\nKorma\nA very creamy and mild dish topped with coconut\n\u00a313.45\nSpare Ribs\nA full rack of ribs, served with steakhouse chips, coleslaw, corn on the cob & Jack Daniels BBQ sauce\n\u00a317.95\nButter Chicken\nChicken cooked in butter & Indian spices sauce\n\u00a313.45\nChicken Pepper Brandy\nTender pieces of chicken breast cooked in a creamy crushed black pepper and brandy sauce.\n\u00a316.50\nCheesy Chicken Tikka\n\u00a39.95\nStarters\nLoaded Potato Skins\nstuffed with bacon and melted cheddar\n\u00a36.95\nPrawns Au Gratin\nA delicious starter of King Prawns cooked with fresh chilies, lime, garlic and red onion, gratinated with a mixture of Cheddar and Parmigiano cheese\n\u00a39.65\nPrawn Cocktail\n\u00a38.95\nGarlic Mushrooms\nBreaded mushrooms served with Ali Oli\n\u00a37.05\nVegetarian\nCharlie Hot & Spicy Buffalo Wings\n\u00a39.25\nHot\nMexican Nachos\nNachos topped with jalapeno peppers &amp; cheese, served with spicy tomato relish, sour cream, and guacamole on the ",
-            "notices": []
-          }
-        ],
-        "item": "Pepsi Max",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "El Kasbah",
       "status": "open",
       "notice": "",
@@ -290,6 +221,75 @@
           }
         ],
         "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Burger King",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGreat news for little foodies! Kid Meals are \u00a35.30 - tasty bites at a tastier price!\nTreat yourself to our NEW Bacon Pop burgers from \u00a311.46!\nTop Selling Items\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nSpecial Offers! 2x Meals + Kids meal for \u00a315!!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Meals\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon Pop Burger\nWhopper patty, Butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a311.46\nDouble BACON POP Served with Chips and Drink\nLarge Meal! 2x whopper patties, butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a316.75\nCHICKEN KRISPPER WHITE BBQ BACON Served with Chips and Drink\nLarge Meal, cheese, bacon, white bbq sauce and bbq sauce\n\u00a313.15\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a312.44\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a315.55\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nCHICKEN BURGER MEDIUM MEAL Served with Chips and Drink\nThe chicken burger is a mighty tasty chicken patty on a toasted sesame bun, topped with fresh lettuce and creamy mayonnaise.\n\u00a35.40\nCHEESEBURGER MEDIUM MEAL with Chips and Drink\nMedium Meal. Made from 100% beef topped with a slice of cheese, pickles, ketchup and mustard all wrapped up in a sesame seed bun.\n\u00a35.40\nCRISPY CHICKEN MEDIUM MEAL Served with Chips ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGreat news for little foodies! Kid Meals are \u00a35.30 - tasty bites at a tastier price!\nTreat yourself to our NEW Bacon Pop burgers from \u00a311.46!\nTop Selling Items\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nSpecial Offers! 2x Meals + Kids meal for \u00a315!!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Meals\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon Pop Burger\nWhopper patty, Butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a311.46\nDouble BACON POP Served with Chips and Drink\nLarge Meal! 2x whopper patties, butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a316.75\nCHICKEN KRISPPER WHITE BBQ BACON Served with Chips and Drink\nLarge Meal, cheese, bacon, white bbq sauce and bbq sauce\n\u00a313.15\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a312.44\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a315.55\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nCHICKEN BURGER MEDIUM MEAL Served with Chips and Drink\nThe chicken burger is a mighty tasty chicken patty on a toasted sesame bun, topped with fresh lettuce and creamy mayonnaise.\n\u00a35.40\nCHEESEBURGER MEDIUM MEAL with Chips and Drink\nMedium Meal. Made from 100% beef topped with a slice of cheese, pickles, ketchup and mustard all wrapped up in a sesame seed bun.\n\u00a35.40\nCRISPY CHICKEN MEDIUM MEAL Served with Chips ",
+            "notices": [
+              {
+                "text": "Coke\n1\nAdd to order\n\u00a33.30",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a33.30"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.30\n1\nSubtotal\n\u00a33.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.59\nAdd special instructions\nCheckout\nGreat news for little foodies! Kid Meals are \u00a35.30 - tasty bites at a tastier price!\nTreat yourself to our NEW Bacon Pop burgers from \u00a311.46!\nTop Selling Items\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nSpecial Offers! 2x Meals + Kids meal for \u00a315!!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Meals\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon Pop Burger\nWhopper patty, Butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a311.46\nDouble BACON POP Served with Chips and Drink\nLarge Meal! 2x whopper patties, butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a316.75\nCHICKEN KRISPPER WHITE BBQ BACON Served with Chips and Drink\nLarge Meal, cheese, bacon, white bbq sauce and bbq sauce\n\u00a313.15\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a312.44\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a315.55\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nCHICKEN BURGER MEDIUM MEAL Served with Chips and Drink\nThe chicken burger is a mighty tasty chicken patty on a toasted sesame bun, topped with fresh lettuce and creamy mayonnaise.\n\u00a35.40\nCHEESEBURGER MEDIUM MEAL with Chips and Drink\nMedium Meal. Made from 100% beef topped with a slice of cheese, pickles, ketchup and ",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -798,9 +798,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-07T21:28:13.224572+01:00",
+  "last_confirmed_at": "2026-11-07T21:30:13.224023+01:00",
   "last_sample_check": {
-    "at": "2026-11-07T21:28:13.224572+01:00",
+    "at": "2026-11-07T21:30:13.224023+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
