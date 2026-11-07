@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-07T19:44:13.216706+01:00",
+  "last_observed_at": "2026-11-07T19:46:13.218201+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,75 +156,6 @@
       }
     },
     {
-      "name": "TopDogs Gibraltar",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs for \u00a318\nChoose three of your favourite hotdogs for only \u00a318\n\u00a318.00\nNew! Signature Rolls\nChicken",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs for \u00a318\nChoose three of your favourite hotdogs for only \u00a318\n\u00a318.00\nNew! Signature Rolls\nChicken",
-            "notices": [
-              {
-                "text": "Coke\n1\nAdd to order\n\u00a31.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nMeal deals!!\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nNew! Signature Rolls\nGrab & Go Food\nCroquetas\nSpecial Burgers\nBurgers\nJacket Potatoes\nTopDogs\nSub Rolls\nChips\nKids Meals\nWaffle Sticks\nCandy Floss\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nChoose from: cheese, sweetcorn, olives, shredded carrots, shredded beetroot, shredded crab, tuna, ham.\n\u00a310.00\nClassic Dog\nXL Frankfurt Sausage served with a subway roll, boiled onions, crispy onions. With a side of straw chips.\n\u00a35.50\nBurger Meal - Served with Chips & Drink\nTwo premium beef burger patties, served in a brioche bun. Served with chips and your choice of drink\n\u00a313.00\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nSteak bomb sub roll\nSteak, cheese sauce, fried onions and green peppers\n\u00a38.50\nMeal deals!!\n2 TopDogs for \u00a313\nGet 2 hotdogs with your choice of sauce\n\u00a313.00\nMenu 1 - 1 Burger Meal & 1 Mini Hotdog + 1 Waffle stick only for \u00a319\nTwo premium Angus beef patties placed on a soft brioche bun, chips & a drink. Mini hotdog . Homemade Waffle stick.\n\u00a319.00\nMenu 2 - 2 Burger Meals & 1 XL Hotdog + 2 Waffle stick only for \u00a332\nTwo premium Angus beef patties placed on a soft Brioche bun, chips & drink. Large Frankfurt Sausage served in a subway roll.. 2 Homemade Waffle stick.\n\u00a332.00\nPrice Crash Offers! Any 3 Hotdogs for \u00a318\nMix and Match!\nAny 3 Hotdogs",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "OAKBERRY",
       "status": "open",
       "notice": "",
@@ -290,6 +221,75 @@
           }
         ],
         "item": "Classic Bowl (350ml)",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "The Star Bar",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy two satisfying Full English Breakfasts for only \u00a325.95 - a great deal for a great meal!\nIndulge in a delicious Toastie with Three Fillings of your choice all for just \u00a36.90!\nTop Selling Items\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nBreakfast Menu\nStarters\nMains\nBurgers & Wraps\nPastas\nSalads\nHome Baked Rolls or Freshly Cut Sandwiches\nSide Dishes\nKids Menu\nHomemade Desserts\nSoft Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRos\u00e9 Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12pm\nAmerican Style Nachos\nJalapenos, Mexican tomato sauce & cheddar cheese\n\u00a39.50\nVegetarian\nChicken Wings\nWith sour cream - 7 pieces\n\u00a38.95\nBritish Fish & Chips - Our Most Popular Dish\n12 oz Atlantic cod fillet coated in a light beer batter, served with hand cut chips, peas & tartar sauce\n\u00a317.95\nSignature Star Burger\nFresh minced beef steak, Manchego cheese, Serrano ham, roast pepper & mayo served with hand cut chips.\n\u00a316.95\nCrispy Duck and Hoisin Wrap\nSpinach, red onion, cucumber, Hoisin mayo & hand cut chips\n\u00a315.95\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nIt's what we are famous for! Available All Day, Every day\n2 Full English Breakfasts Only for \u00a319.50\nTwo fried eggs, two rashers of Danish bacon, two pork sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans with traditional black pudding & toast.\n\u00a319.50\nBreakfast Menu\nAvailable until 12pm\nAward Winning Star Bar Breakfast\nTwo fried eggs, two rashers of Danish bacon, two Cumberland sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans & toast. Its what we are famous for!\n\u00a311.95\nEarly Starter\nHalf sized breakfast for the smaller app",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy two satisfying Full English Breakfasts for only \u00a325.95 - a great deal for a great meal!\nIndulge in a delicious Toastie with Three Fillings of your choice all for just \u00a36.90!\nTop Selling Items\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nBreakfast Menu\nStarters\nMains\nBurgers & Wraps\nPastas\nSalads\nHome Baked Rolls or Freshly Cut Sandwiches\nSide Dishes\nKids Menu\nHomemade Desserts\nSoft Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRos\u00e9 Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12pm\nAmerican Style Nachos\nJalapenos, Mexican tomato sauce & cheddar cheese\n\u00a39.50\nVegetarian\nChicken Wings\nWith sour cream - 7 pieces\n\u00a38.95\nBritish Fish & Chips - Our Most Popular Dish\n12 oz Atlantic cod fillet coated in a light beer batter, served with hand cut chips, peas & tartar sauce\n\u00a317.95\nSignature Star Burger\nFresh minced beef steak, Manchego cheese, Serrano ham, roast pepper & mayo served with hand cut chips.\n\u00a316.95\nCrispy Duck and Hoisin Wrap\nSpinach, red onion, cucumber, Hoisin mayo & hand cut chips\n\u00a315.95\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nIt's what we are famous for! Available All Day, Every day\n2 Full English Breakfasts Only for \u00a319.50\nTwo fried eggs, two rashers of Danish bacon, two pork sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans with traditional black pudding & toast.\n\u00a319.50\nBreakfast Menu\nAvailable until 12pm\nAward Winning Star Bar Breakfast\nTwo fried eggs, two rashers of Danish bacon, two Cumberland sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans & toast. Its what we are famous for!\n\u00a311.95\nEarly Starter\nHalf sized breakfast for the smaller app",
+            "notices": [
+              {
+                "text": "Coke 33cl\n1\nAdd to order\n\u00a32.60",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.60"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke 33cl\n\u00a32.60\n1\nSubtotal\n\u00a32.60\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.89\nAdd special instructions\nCheckout\nEnjoy two satisfying Full English Breakfasts for only \u00a325.95 - a great deal for a great meal!\nIndulge in a delicious Toastie with Three Fillings of your choice all for just \u00a36.90!\nTop Selling Items\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nBreakfast Menu\nStarters\nMains\nBurgers & Wraps\nPastas\nSalads\nHome Baked Rolls or Freshly Cut Sandwiches\nSide Dishes\nKids Menu\nHomemade Desserts\nSoft Drinks\nBeers & Ciders\nRed Wines\nWhite Wines\nRos\u00e9 Wines\nTop Selling Items\nA quick look at our top sellers chosen by you! Available from 12pm\nAmerican Style Nachos\nJalapenos, Mexican tomato sauce & cheddar cheese\n\u00a39.50\nVegetarian\nChicken Wings\nWith sour cream - 7 pieces\n\u00a38.95\nBritish Fish & Chips - Our Most Popular Dish\n12 oz Atlantic cod fillet coated in a light beer batter, served with hand cut chips, peas & tartar sauce\n\u00a317.95\nSignature Star Burger\nFresh minced beef steak, Manchego cheese, Serrano ham, roast pepper & mayo served with hand cut chips.\n\u00a316.95\nCrispy Duck and Hoisin Wrap\nSpinach, red onion, cucumber, Hoisin mayo & hand cut chips\n\u00a315.95\nBreakfast Offer - 2 Full English Breakfasts Only for \u00a325.95\nIt's what we are famous for! Available All Day, Every day\n2 Full English Breakfasts Only for \u00a319.50\nTwo fried eggs, two rashers of Danish bacon, two pork sausages, sauteed mushrooms, grilled tomato, hash browns & baked beans with traditional black pudding & toast.\n\u00a319.50\nBreakfast Menu\nAvailable until 12pm\nAward Winning Star Bar Breakfast\nTwo fried eggs, two rashers of Danish bacon, two Cumberland sausages, sauteed mushrooms, grilled tomato, hash browns & baked bea",
+            "notices": []
+          }
+        ],
+        "item": "Coke 33cl",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -798,9 +798,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-07T19:44:13.216706+01:00",
+  "last_confirmed_at": "2026-11-07T19:46:13.218201+01:00",
   "last_sample_check": {
-    "at": "2026-11-07T19:44:13.216706+01:00",
+    "at": "2026-11-07T19:46:13.218201+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
