@@ -1,8 +1,8 @@
 {
-  "status": "closed",
-  "since": "2026-11-08T13:19:19.132375+01:00",
-  "alerted": true,
-  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+  "status": "open",
+  "since": "2026-11-08T13:37:19.133322+01:00",
+  "alerted": false,
+  "notice": "",
   "last_checked_date": "2026-11-08",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,18 +10,18 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-08T13:35:19.133959+01:00",
+  "last_observed_at": "2026-11-08T13:37:19.133322+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
       "status": "open",
-      "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 13:35pm. Our apologies for the inconvenience caused.",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 13:35pm. Our apologies for the inconvenience caused.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -44,7 +44,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 13:35pm. Our apologies for the inconvenience caused.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -65,8 +65,8 @@
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
-      "closure_notice_only": true,
-      "stale_closure_notice": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
       "basket_probe": {
         "passed": true,
         "steps": [
@@ -172,19 +172,19 @@
           }
         ],
         "item": "Southern Fried Chicken Strips",
-        "reason": "item appeared in fresh basket despite earlier dismissed closure notice; no current refusal or pre-order"
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
       "name": "Sanu Brunch & Co",
       "status": "open",
-      "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 13:35pm. Our apologies for the inconvenience caused.",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
             {
-              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 13:35pm. Our apologies for the inconvenience caused.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -207,7 +207,7 @@
           "step": 1,
           "notices": [
             {
-              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 13:35pm. Our apologies for the inconvenience caused.\nOK",
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
               "buttons": [
                 "OK"
               ],
@@ -228,8 +228,8 @@
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
-      "closure_notice_only": true,
-      "stale_closure_notice": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
       "basket_probe": {
         "passed": true,
         "steps": [
@@ -261,7 +261,7 @@
           }
         ],
         "item": "Chicken Strips",
-        "reason": "item appeared in fresh basket despite earlier dismissed closure notice; no current refusal or pre-order"
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
@@ -355,11 +355,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "monitor:2026-11-05T19:51:08.915393+01:00:failed",
-      "subject": "Competitor Watch: monitoring problem",
-      "delivered_at": "2026-11-05T19:52:09.120160+01:00"
-    },
     {
       "id": "2026-11-05T19:53:08.961607+01:00:closed",
       "subject": "Hungry Monkey: 19:53 check unconfirmed - last confirmed not taking orders at 19:49",
@@ -854,13 +849,18 @@
       "id": "2026-11-08T13:35:19.133959+01:00:closed",
       "subject": "Hungry Monkey: 13:35 check unconfirmed - last confirmed not taking orders at 13:33",
       "delivered_at": "2026-11-08T13:36:13.244148+01:00"
+    },
+    {
+      "id": "2026-11-08T13:37:19.133322+01:00:open",
+      "subject": "Hungry Monkey is taking orders again (13:37) - basket test passed",
+      "delivered_at": "2026-11-08T13:38:13.833586+01:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-08T13:33:19.135542+01:00",
+  "last_confirmed_at": "2026-11-08T13:37:19.133322+01:00",
   "last_sample_check": {
-    "at": "2026-11-08T13:35:19.133959+01:00",
+    "at": "2026-11-08T13:37:19.133322+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
@@ -1216,7 +1216,10 @@
     {
       "id": "2026-11-08T13:19:19.132375+01:00:closed",
       "delivered_at": "2026-11-08T13:19:55.878121+01:00"
+    },
+    {
+      "id": "2026-11-08T13:37:19.133322+01:00:open",
+      "delivered_at": "2026-11-08T13:38:14.074720+01:00"
     }
-  ],
-  "recovery_candidate_at": "2026-11-08T13:35:19.133959+01:00"
+  ]
 }
