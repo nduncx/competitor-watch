@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-09T21:47:30.342733+01:00",
+  "last_observed_at": "2026-11-09T21:49:30.342122+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,8 +177,8 @@
     },
     {
       "name": "Burger King",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -219,50 +219,13 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGreat news for little foodies! Kid Meals are \u00a35.30 - tasty bites at a tastier price!\nTreat yourself to our NEW Bacon Pop burgers from \u00a311.46!\nTop Selling Items\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nSpecial Offers! 2x Meals + Kids meal for \u00a315!!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Meals\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon Pop Burger\nWhopper patty, Butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a311.46\nDouble BACON POP Served with Chips and Drink\nLarge Meal! 2x whopper patties, butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a316.75\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a312.44\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a315.55\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nCHICKEN BURGER MEDIUM MEAL Served with Chips and Drink\nThe chicken burger is a mighty tasty chicken patty on a toasted sesame bun, topped with fresh lettuce and creamy mayonnaise.\n\u00a35.40\nCHEESEBURGER MEDIUM MEAL with Chips and Drink\nMedium Meal. Made from 100% beef topped with a slice of cheese, pickles, ketchup and mustard all wrapped up in a sesame seed bun.\n\u00a35.40\nCRISPY CHICKEN MEDIUM MEAL Served with Chips and Drink\nMedium meal. Crispy on the outside, tender on the inside. The best chicken in a crispy, slightly spicy breading, fr",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGreat news for little foodies! Kid Meals are \u00a35.30 - tasty bites at a tastier price!\nTreat yourself to our NEW Bacon Pop burgers from \u00a311.46!\nTop Selling Items\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nSpecial Offers! 2x Meals + Kids meal for \u00a315!!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Meals\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon Pop Burger\nWhopper patty, Butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a311.46\nDouble BACON POP Served with Chips and Drink\nLarge Meal! 2x whopper patties, butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a316.75\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a312.44\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a315.55\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nCHICKEN BURGER MEDIUM MEAL Served with Chips and Drink\nThe chicken burger is a mighty tasty chicken patty on a toasted sesame bun, topped with fresh lettuce and creamy mayonnaise.\n\u00a35.40\nCHEESEBURGER MEDIUM MEAL with Chips and Drink\nMedium Meal. Made from 100% beef topped with a slice of cheese, pickles, ketchup and mustard all wrapped up in a sesame seed bun.\n\u00a35.40\nCRISPY CHICKEN MEDIUM MEAL Served with Chips and Drink\nMedium meal. Crispy on the outside, tender on the inside. The best chicken in a crispy, slightly spicy breading, fr",
-            "notices": [
-              {
-                "text": "Coke\n1\nAdd to order\n\u00a33.30",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.30"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.30\n1\nSubtotal\n\u00a33.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.59\nAdd special instructions\nCheckout\nGreat news for little foodies! Kid Meals are \u00a35.30 - tasty bites at a tastier price!\nTreat yourself to our NEW Bacon Pop burgers from \u00a311.46!\nTop Selling Items\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nSpecial Offers! 2x Meals + Kids meal for \u00a315!!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Meals\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon Pop Burger\nWhopper patty, Butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a311.46\nDouble BACON POP Served with Chips and Drink\nLarge Meal! 2x whopper patties, butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a316.75\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a312.44\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a315.55\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nCHICKEN BURGER MEDIUM MEAL Served with Chips and Drink\nThe chicken burger is a mighty tasty chicken patty on a toasted sesame bun, topped with fresh lettuce and creamy mayonnaise.\n\u00a35.40\nCHEESEBURGER MEDIUM MEAL with Chips and Drink\nMedium Meal. Made from 100% beef topped with a slice of cheese, pickles, ketchup and mustard all wrapped up in a sesame seed bun.\n\u00a35.40\nCRISPY CHICKEN MEDIUM MEAL Served with Chips and Drink\nMedium meal. Crispy",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     },
     {
       "name": "AquaTerra",
@@ -350,6 +313,95 @@
           }
         ],
         "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Curry & Nigiri",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our Japanese Homemade Dumplings from \u00a37.50!\nEnjoy authentic Chinese cousine like Chicken in Soya Ginger Garlic Sauce only for \u00a39.50!\nTop Selling Items\nChinese - Starters\nChinese - Soup (Vegetarian)\nChinese - Rice & Noodles\nChinese - Soups (Non-Vegetarian)\nChinese - Main Courses\nJapanese Starters\nJapanese Homemade Dumplings\nJapanese - Sushi Vegetarian\nJapanese - Soup\nJapanese - Vegan Makki Rolls\nJapanese - Sushi Non - Vegetarian\nJapanese - Makki Rolls - Non-Vegetarian\nJapanese - Anshika Special Sushi Platter\nIndian - Vegetarian Starters\nIndian - Starters Non-Vegetarian\nIndian Main Course - Vegetarian Curry\nIndian - Chicken Curry\nIndian Style Lamb Curry\nIndian - Prawn Curry\nIndian - Naan Bread\nIndian - Rice\nIndian - Extras\nIndian - Raita\nIndian - Dessert\nSoft Drinks\nLassi\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Masala\nBoneless chicken leg, cooked in an onion tomato based sauce with Indian spices\n\u00a311.25\nBoneless Butter Chicken\nTandoori chicken tikka, cooked in cashew tomato gravy with some cream and butter\n\u00a311.95\nPork Sui Mai [6 pieces]\nPartially wrapped Pancake filled with minced pork and vegetables,. Served with Japanese mayonnaise\n\u00a38.95\nChicken Korma Mild\nBoneless Chicken Breast, cooked in creamy cashew sauce\n\u00a311.45\nCrunchy Monster Roll [8 pieces]\nTiger prawn tempura, Philadelphia cheese, avocado, teriyaki sauce, framed with tobiko seven spices and tempura crunch\n\u00a312.95\nChinese - Starters\nVegetable Spring Roll [2 pieces]\nCabbage carrots onions capsicum\n\u00a35.95\nChicken Spring Roll [2 pieces]\nChicken cabbage carrot onions capsicum\n\u00a36.95\nVegetables & Prawn Spring Roll [2 pieces]\nPrawn Cabbage Carrots onion cap",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nExperience our Japanese Homemade Dumplings from \u00a37.50!\nEnjoy authentic Chinese cousine like Chicken in Soya Ginger Garlic Sauce only for \u00a39.50!\nTop Selling Items\nChinese - Starters\nChinese - Soup (Vegetarian)\nChinese - Rice & Noodles\nChinese - Soups (Non-Vegetarian)\nChinese - Main Courses\nJapanese Starters\nJapanese Homemade Dumplings\nJapanese - Sushi Vegetarian\nJapanese - Soup\nJapanese - Vegan Makki Rolls\nJapanese - Sushi Non - Vegetarian\nJapanese - Makki Rolls - Non-Vegetarian\nJapanese - Anshika Special Sushi Platter\nIndian - Vegetarian Starters\nIndian - Starters Non-Vegetarian\nIndian Main Course - Vegetarian Curry\nIndian - Chicken Curry\nIndian Style Lamb Curry\nIndian - Prawn Curry\nIndian - Naan Bread\nIndian - Rice\nIndian - Extras\nIndian - Raita\nIndian - Dessert\nSoft Drinks\nLassi\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Masala\nBoneless chicken leg, cooked in an onion tomato based sauce with Indian spices\n\u00a311.25\nBoneless Butter Chicken\nTandoori chicken tikka, cooked in cashew tomato gravy with some cream and butter\n\u00a311.95\nPork Sui Mai [6 pieces]\nPartially wrapped Pancake filled with minced pork and vegetables,. Served with Japanese mayonnaise\n\u00a38.95\nChicken Korma Mild\nBoneless Chicken Breast, cooked in creamy cashew sauce\n\u00a311.45\nCrunchy Monster Roll [8 pieces]\nTiger prawn tempura, Philadelphia cheese, avocado, teriyaki sauce, framed with tobiko seven spices and tempura crunch\n\u00a312.95\nChinese - Starters\nVegetable Spring Roll [2 pieces]\nCabbage carrots onions capsicum\n\u00a35.95\nChicken Spring Roll [2 pieces]\nChicken cabbage carrot onions capsicum\n\u00a36.95\nVegetables & Prawn Spring Roll [2 pieces]\nPrawn Cabbage Carrots onion cap",
+            "notices": [
+              {
+                "text": "Coke Zero\n\n330ml\n\n1\nAdd to order\n\u00a32.25",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.25"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero\n\u00a32.25\n1\nSubtotal\n\u00a32.25\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.54\nAdd special instructions\nCheckout\nExperience our Japanese Homemade Dumplings from \u00a37.50!\nEnjoy authentic Chinese cousine like Chicken in Soya Ginger Garlic Sauce only for \u00a39.50!\nTop Selling Items\nChinese - Starters\nChinese - Soup (Vegetarian)\nChinese - Rice & Noodles\nChinese - Soups (Non-Vegetarian)\nChinese - Main Courses\nJapanese Starters\nJapanese Homemade Dumplings\nJapanese - Sushi Vegetarian\nJapanese - Soup\nJapanese - Vegan Makki Rolls\nJapanese - Sushi Non - Vegetarian\nJapanese - Makki Rolls - Non-Vegetarian\nJapanese - Anshika Special Sushi Platter\nIndian - Vegetarian Starters\nIndian - Starters Non-Vegetarian\nIndian Main Course - Vegetarian Curry\nIndian - Chicken Curry\nIndian Style Lamb Curry\nIndian - Prawn Curry\nIndian - Naan Bread\nIndian - Rice\nIndian - Extras\nIndian - Raita\nIndian - Dessert\nSoft Drinks\nLassi\nWines\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Masala\nBoneless chicken leg, cooked in an onion tomato based sauce with Indian spices\n\u00a311.25\nBoneless Butter Chicken\nTandoori chicken tikka, cooked in cashew tomato gravy with some cream and butter\n\u00a311.95\nPork Sui Mai [6 pieces]\nPartially wrapped Pancake filled with minced pork and vegetables,. Served with Japanese mayonnaise\n\u00a38.95\nChicken Korma Mild\nBoneless Chicken Breast, cooked in creamy cashew sauce\n\u00a311.45\nCrunchy Monster Roll [8 pieces]\nTiger prawn tempura, Philadelphia cheese, avocado, teriyaki sauce, framed with tobiko seven spices and tempura crunch\n\u00a312.95\nChinese - Starters\nVegetable Spring Roll [2 pieces]\nCabbage carrots onions capsicum\n\u00a35.95\nChicken Spring Roll [2 pieces]\nChicken cabbage c",
+            "notices": []
+          }
+        ],
+        "item": "Coke Zero",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +910,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-09T21:47:30.342733+01:00",
+  "last_confirmed_at": "2026-11-09T21:49:30.342122+01:00",
   "last_sample_check": {
-    "at": "2026-11-09T21:47:30.342733+01:00",
+    "at": "2026-11-09T21:49:30.342122+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
