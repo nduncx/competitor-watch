@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-09T21:29:30.343759+01:00",
+  "last_observed_at": "2026-11-09T21:31:30.341633+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,251 +176,6 @@
       }
     },
     {
-      "name": "Kick Ass Burritos",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Chilli Burrito\nPacked full of veggies this chilli is a real hit\n\u00a37.50\nChicken Tinga Burrito\nShredded an",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Chilli Burrito\nPacked full of veggies this chilli is a real hit\n\u00a37.50\nChicken Tinga Burrito\nShredded an",
-            "notices": [
-              {
-                "text": "Coca Cola\n\nCan139 kcal\n\n1\nAdd to order\n\u00a32.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Ch",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Panzerotto",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Vinopolis Gastrobar",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Charlies Steakhouse",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
       "name": "El Kasbah",
       "status": "open",
       "notice": "",
@@ -506,6 +261,95 @@
           }
         ],
         "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Burger King",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGreat news for little foodies! Kid Meals are \u00a35.30 - tasty bites at a tastier price!\nTreat yourself to our NEW Bacon Pop burgers from \u00a311.46!\nTop Selling Items\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nSpecial Offers! 2x Meals + Kids meal for \u00a315!!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Meals\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon Pop Burger\nWhopper patty, Butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a311.46\nDouble BACON POP Served with Chips and Drink\nLarge Meal! 2x whopper patties, butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a316.75\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a312.44\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a315.55\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nCHICKEN BURGER MEDIUM MEAL Served with Chips and Drink\nThe chicken burger is a mighty tasty chicken patty on a toasted sesame bun, topped with fresh lettuce and creamy mayonnaise.\n\u00a35.40\nCHEESEBURGER MEDIUM MEAL with Chips and Drink\nMedium Meal. Made from 100% beef topped with a slice of cheese, pickles, ketchup and mustard all wrapped up in a sesame seed bun.\n\u00a35.40\nCRISPY CHICKEN MEDIUM MEAL Served with Chips and Drink\nMedium meal. Crispy on the outside, tender on the inside. The best chicken in a crispy, slightly spicy breading, fr",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGreat news for little foodies! Kid Meals are \u00a35.30 - tasty bites at a tastier price!\nTreat yourself to our NEW Bacon Pop burgers from \u00a311.46!\nTop Selling Items\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nSpecial Offers! 2x Meals + Kids meal for \u00a315!!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Meals\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon Pop Burger\nWhopper patty, Butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a311.46\nDouble BACON POP Served with Chips and Drink\nLarge Meal! 2x whopper patties, butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a316.75\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a312.44\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a315.55\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nCHICKEN BURGER MEDIUM MEAL Served with Chips and Drink\nThe chicken burger is a mighty tasty chicken patty on a toasted sesame bun, topped with fresh lettuce and creamy mayonnaise.\n\u00a35.40\nCHEESEBURGER MEDIUM MEAL with Chips and Drink\nMedium Meal. Made from 100% beef topped with a slice of cheese, pickles, ketchup and mustard all wrapped up in a sesame seed bun.\n\u00a35.40\nCRISPY CHICKEN MEDIUM MEAL Served with Chips and Drink\nMedium meal. Crispy on the outside, tender on the inside. The best chicken in a crispy, slightly spicy breading, fr",
+            "notices": [
+              {
+                "text": "Coke\n1\nAdd to order\n\u00a33.30",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a33.30"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a33.30\n1\nSubtotal\n\u00a33.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.59\nAdd special instructions\nCheckout\nGreat news for little foodies! Kid Meals are \u00a35.30 - tasty bites at a tastier price!\nTreat yourself to our NEW Bacon Pop burgers from \u00a311.46!\nTop Selling Items\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nSpecial Offers! 2x Meals + Kids meal for \u00a315!!\nNEW!\nLast Units\nVeggie and Plant Based\nFlame Grilled Burger Meals\nFlame Grilled Burgers (BURGER ONLY)\nCrispy & Tender Chicken Meals\nCrispy & Tender Chicken Burgers (BURGER ONLY)\nKing Junior Meals\nSalads\nSides & Snacks\nDips & Sauces\nDrinks\nBeers\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon Pop Burger\nWhopper patty, Butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a311.46\nDouble BACON POP Served with Chips and Drink\nLarge Meal! 2x whopper patties, butter bacon sauce, Bacon slices, Cheese slices, in a Bacon topped bun. + a small bag of popcorn.\n\u00a316.75\nWHOPPER Served with Chips and Drink\nLarger Meal, Mayonnaise, Lettuce, Tomato, Onion, Pickle and ketchup.\n\u00a312.44\nDOUBLE CHEESE BACON XXL Served with Chips and Drink\nLarger Meal, Ketchup, Mustard, Pickle, cheese and bacon.\n\u00a315.55\nSpecial Offers! Medium Meal Deals from \u00a35.40!\nCHICKEN BURGER MEDIUM MEAL Served with Chips and Drink\nThe chicken burger is a mighty tasty chicken patty on a toasted sesame bun, topped with fresh lettuce and creamy mayonnaise.\n\u00a35.40\nCHEESEBURGER MEDIUM MEAL with Chips and Drink\nMedium Meal. Made from 100% beef topped with a slice of cheese, pickles, ketchup and mustard all wrapped up in a sesame seed bun.\n\u00a35.40\nCRISPY CHICKEN MEDIUM MEAL Served with Chips and Drink\nMedium meal. Crispy",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -1014,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-09T21:29:30.343759+01:00",
+  "last_confirmed_at": "2026-11-09T21:31:30.341633+01:00",
   "last_sample_check": {
-    "at": "2026-11-09T21:29:30.343759+01:00",
+    "at": "2026-11-09T21:31:30.341633+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
