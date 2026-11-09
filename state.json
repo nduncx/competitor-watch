@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-09T22:27:30.344356+01:00",
+  "last_observed_at": "2026-11-09T22:29:30.344971+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -266,8 +266,8 @@
     },
     {
       "name": "Dirty Burger",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -308,50 +308,169 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nSpecials\nOG",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nSpecials\nOG",
-            "notices": [
-              {
-                "text": "Coke Zero\n\nCan 33cl\n\n1\nAdd to order\n\u00a32.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke Zero\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nLevel up your Burges with Dirty Jolene Fries and Tajin Corn Ribs only from \u00a36.50!\nScoop up the fun with Ben & Jerrys - 100ml for \u00a33.50 or 465ml for \u00a38.50! Explore our flavours!\nAmazing offer! Add FREE Chips with every Burger ordered!\nTop Selling Items\nDirty Burgers\nSpecials\nDirty Mike\nDirty Chicken Burgers\nIce-cream\nSauces\nSides\nSoft Drinks\nBeer & Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Donald\nAn OG American Cheeseburger - Double smash, double cheese, fresh onions, gherkins, ketchup & mustard.\n\u00a313.80\nDirty Jack\nBeef patty, onions, Italian cheese, overnight home made Jack Daniels bacon. JD BBQ sauce and secret sauce!\n\u00a313.50\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Burgers\nSecret sauce and burger have some heat. Please call if youre intolerant.\nDirty Joe - THE OG!\nSmash Beef patty, Italian cheese, Grilled Onions, Secret sauce.\n\u00a311.00\nDirty Max Burger\nSmash Beef patty, Italian cheese, Grilled Onions, Mushroom & Swiss cheese patty, Truffle mayo, Secret sauce.\n\u00a313.50\nDirty Kevin\nSmash Beef patty, Italian cheese, Grilled Onions, Crumbled Bacon, Bacon jam, Truffle mayo.\n\u00a313.40\nDirty Hybrid\nSmash Beef patty, Italian cheese, Grilled Onions, Hot Buffalo Chicken strips, Gorgonzola blue cheese, Secret sauce.\n\u00a313.95\nDirty Jack\nBeef patty, onions, Ital",
-            "notices": []
-          }
-        ],
-        "item": "Coke Zero",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
+    },
+    {
+      "name": "Firefly",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Morex",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Rock Noodles",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
@@ -858,9 +977,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-09T22:27:30.344356+01:00",
+  "last_confirmed_at": "2026-11-09T22:29:30.344971+01:00",
   "last_sample_check": {
-    "at": "2026-11-09T22:27:30.344356+01:00",
+    "at": "2026-11-09T22:29:30.344971+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
