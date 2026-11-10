@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-10T11:59:08.563324+01:00",
+  "last_observed_at": "2026-11-10T12:01:08.567572+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,75 +156,6 @@
       }
     },
     {
-      "name": "Laguna Bar",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEvery bite is a crispy delight - enjoy Rueda de Curro for only \u00a32.50!\nWake up to flavour! Enjoy a hot, freshly made Bacon & Egg Roll for just \u00a33.00!\nTop Selling Items\nChurros\nBreakfast Rolls\nCoffee\nTop Selling Items\nA quick look at our top sellers chosen by you!\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nBacon & Egg Roll\n\u00a34.00\nBacon Roll\n\u00a33.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nChurros\nAvailable on Weekdays until 12pm on Weekends until 12:30pm\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nChocolate Dip\n\u00a32.00\nKinder Bueno Dip\n\u00a32.00\nWhite Chocolate Dip\n\u00a32.00\nDulce de leche dip (caramel)\n\u00a32.00\nBreakfast Rolls\nBacon Roll\n\u00a33.50\nBacon & Egg Roll\n\u00a34.00\nCoffee\nWhite Coffee\n\u00a32.50\nBlack Coffee\n\u00a32.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nView allergy information\n\ue8cb",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEvery bite is a crispy delight - enjoy Rueda de Curro for only \u00a32.50!\nWake up to flavour! Enjoy a hot, freshly made Bacon & Egg Roll for just \u00a33.00!\nTop Selling Items\nChurros\nBreakfast Rolls\nCoffee\nTop Selling Items\nA quick look at our top sellers chosen by you!\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nBacon & Egg Roll\n\u00a34.00\nBacon Roll\n\u00a33.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nChurros\nAvailable on Weekdays until 12pm on Weekends until 12:30pm\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nChocolate Dip\n\u00a32.00\nKinder Bueno Dip\n\u00a32.00\nWhite Chocolate Dip\n\u00a32.00\nDulce de leche dip (caramel)\n\u00a32.00\nBreakfast Rolls\nBacon Roll\n\u00a33.50\nBacon & Egg Roll\n\u00a34.00\nCoffee\nWhite Coffee\n\u00a32.50\nBlack Coffee\n\u00a32.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nView allergy information\n\ue8cb\nRueda de Churro\n1\nAdd to order\n\u00a33.00",
-            "notices": [
-              {
-                "text": "Rueda de Churro\n1\nAdd to order\n\u00a33.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a33.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nRueda de Churro\n\u00a33.00\n1\nSubtotal\n\u00a33.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.29\nAdd special instructions\nCheckout\nEvery bite is a crispy delight - enjoy Rueda de Curro for only \u00a32.50!\nWake up to flavour! Enjoy a hot, freshly made Bacon & Egg Roll for just \u00a33.00!\nTop Selling Items\nChurros\nBreakfast Rolls\nCoffee\nTop Selling Items\nA quick look at our top sellers chosen by you!\n1\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nBacon & Egg Roll\n\u00a34.00\nBacon Roll\n\u00a33.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nChurros\nAvailable on Weekdays until 12pm on Weekends until 12:30pm\n1\nRueda de Churro\n\u00a33.00\nPapitas X6\n\u00a32.50\nChocolate Dip\n\u00a32.00\nKinder Bueno Dip\n\u00a32.00\nWhite Chocolate Dip\n\u00a32.00\nDulce de leche dip (caramel)\n\u00a32.00\nBreakfast Rolls\nBacon Roll\n\u00a33.50\nBacon & Egg Roll\n\u00a34.00\nCoffee\nWhite Coffee\n\u00a32.50\nBlack Coffee\n\u00a32.50\nFresh Hot Chocolate Cup\nFreshly Made Hot Chocolate\n\u00a32.50\nView allergy information\n\ue8cb",
-            "notices": []
-          }
-        ],
-        "item": "Rueda de Churro",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Papichurro",
       "status": "open",
       "notice": "",
@@ -290,6 +221,75 @@
           }
         ],
         "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Ace Burgers",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot enough to make your ex jealous. Our prime beef smash patty grilled to perfection with our famous c",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot enough to make your ex jealous. Our prime beef smash patty grilled to perfection with our famous c",
+            "notices": [
+              {
+                "text": "Pepsi\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot e",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -798,9 +798,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-10T11:59:08.563324+01:00",
+  "last_confirmed_at": "2026-11-10T12:01:08.567572+01:00",
   "last_sample_check": {
-    "at": "2026-11-10T11:59:08.563324+01:00",
+    "at": "2026-11-10T12:01:08.567572+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
