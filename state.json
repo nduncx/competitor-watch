@@ -639,7 +639,7 @@
   "last_result": "closed",
   "last_confirmed_at": "2026-11-11T22:58:41.913971+01:00",
   "last_sample_check": {
-    "at": "2026-11-11T23:04:41.914667+01:00",
+    "at": "2026-11-11T23:06:41.915832+01:00",
     "eligible": false,
     "exclusions_confirmed": true,
     "venues": [
