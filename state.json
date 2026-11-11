@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-11T20:28:41.902495+01:00",
+  "last_observed_at": "2026-11-11T20:30:41.903341+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -50,7 +50,7 @@
       "basket_probe": {}
     },
     {
-      "name": "OAKBERRY",
+      "name": "Ramsons Watergardens",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -87,7 +87,7 @@
       "basket_probe": {}
     },
     {
-      "name": "The Star Bar",
+      "name": "Boss Kitchen",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -125,11 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-11-11T17:08:16.741019+01:00:open",
-      "subject": "Hungry Monkey is taking orders again (17:08) - basket test passed",
-      "delivered_at": "2026-11-11T17:09:06.549264+01:00"
-    },
     {
       "id": "2026-11-11T17:12:16.742358+01:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (17:12)",
@@ -624,13 +619,18 @@
       "id": "2026-11-11T20:28:41.902495+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:28)",
       "delivered_at": "2026-11-11T20:29:15.246753+01:00"
+    },
+    {
+      "id": "2026-11-11T20:30:41.903341+01:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (20:30)",
+      "delivered_at": "2026-11-11T20:31:15.995594+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-11-11T20:28:41.902495+01:00",
+  "last_confirmed_at": "2026-11-11T20:30:41.903341+01:00",
   "last_sample_check": {
-    "at": "2026-11-11T20:28:41.902495+01:00",
+    "at": "2026-11-11T20:30:41.903341+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
