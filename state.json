@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-11T12:28:45.730026+01:00",
+  "last_observed_at": "2026-11-11T12:30:45.731119+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,75 +156,6 @@
       }
     },
     {
-      "name": "Papichurro",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.25\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.25\nPapitas Portion x12\n\u00a34.25\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.25\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.25\nPapitas Portion x12\n\u00a34.25\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb\nCoca Cola\n1\nAdd to order\n\u00a32.00",
-            "notices": [
-              {
-                "text": "Coca Cola\n1\nAdd to order\n\u00a32.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.70 at Papichurro!\nSip and relax with your favourite Tea! Mint, Chamomile, or English Breakfast Tea only \u00a31.90!\nTop Selling Items\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLarge Rueda Churros\n\u00a34.25\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nLatte\n\u00a32.20\nMilk with ColaCao\n\u00a32.00\nStill Water\n\u00a31.30\nChurros\nLarge Rueda Churros\n\u00a34.25\nPapitas Portion x12\n\u00a34.25\nHot Drinks\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nCoffee Solo\n\u00a31.70\nEspresso\n\u00a31.70\nAmericano\n\u00a31.90\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\n1\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nStill Water\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Ace Burgers",
       "status": "open",
       "notice": "",
@@ -290,6 +221,75 @@
           }
         ],
         "item": "Pepsi",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Charlies Steakhouse",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nHand-crafted burgers, starting at just \u00a310.75, served with crispy chips for the perfect meal!\nTreat yourself to the Chef's Specials like Balti & King Prawn Puri starting at just \u00a313.45!\nTop Selling Items\nStarters\nSalads\nGarlic Breads\nClassic & Comfort\nSeafood\nSide Orders\nHand-crafted Burgers\nPastas & Stir Fry\nFrom the Grill\nPassage to India - Starters\nPassage to India - Chef's Specials\nPassage to India - Main Course\nPassage to India - Naan Breads\nPassage to India - Side Orders\nKids Meals\nDesserts\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTikka Masala\nA world famous dish. This smooth and creamy dish is a must try!\n\u00a313.45\nKorma\nA very creamy and mild dish topped with coconut\n\u00a313.45\nSpare Ribs\nA full rack of ribs, served with steakhouse chips, coleslaw, corn on the cob & Jack Daniels BBQ sauce\n\u00a317.95\nButter Chicken\nChicken cooked in butter & Indian spices sauce\n\u00a313.45\nChicken Pepper Brandy\nTender pieces of chicken breast cooked in a creamy crushed black pepper and brandy sauce.\n\u00a316.50\nCheesy Chicken Tikka\n\u00a39.95\nStarters\nLoaded Potato Skins\nstuffed with bacon and melted cheddar\n\u00a36.95\nPrawns Au Gratin\nA delicious starter of King Prawns cooked with fresh chilies, lime, garlic and red onion, gratinated with a mixture of Cheddar and Parmigiano cheese\n\u00a39.65\nPrawn Cocktail\n\u00a38.95\nGarlic Mushrooms\nBreaded mushrooms served with Ali Oli\n\u00a37.05\nVegetarian\nCharlie Hot & Spicy Buffalo Wings\n\u00a39.25\nHot\nMexican Nachos\nNachos topped with jalapeno peppers &amp; cheese, served with spicy tomato relish, sour cream, and guacamole on the side.\n\u00a39.15\nVegetarian\nThai Fishcakes\nTwo homemade fish cakes served with a sweet chilli sauce\n\u00a39.25\n",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nHand-crafted burgers, starting at just \u00a310.75, served with crispy chips for the perfect meal!\nTreat yourself to the Chef's Specials like Balti & King Prawn Puri starting at just \u00a313.45!\nTop Selling Items\nStarters\nSalads\nGarlic Breads\nClassic & Comfort\nSeafood\nSide Orders\nHand-crafted Burgers\nPastas & Stir Fry\nFrom the Grill\nPassage to India - Starters\nPassage to India - Chef's Specials\nPassage to India - Main Course\nPassage to India - Naan Breads\nPassage to India - Side Orders\nKids Meals\nDesserts\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTikka Masala\nA world famous dish. This smooth and creamy dish is a must try!\n\u00a313.45\nKorma\nA very creamy and mild dish topped with coconut\n\u00a313.45\nSpare Ribs\nA full rack of ribs, served with steakhouse chips, coleslaw, corn on the cob & Jack Daniels BBQ sauce\n\u00a317.95\nButter Chicken\nChicken cooked in butter & Indian spices sauce\n\u00a313.45\nChicken Pepper Brandy\nTender pieces of chicken breast cooked in a creamy crushed black pepper and brandy sauce.\n\u00a316.50\nCheesy Chicken Tikka\n\u00a39.95\nStarters\nLoaded Potato Skins\nstuffed with bacon and melted cheddar\n\u00a36.95\nPrawns Au Gratin\nA delicious starter of King Prawns cooked with fresh chilies, lime, garlic and red onion, gratinated with a mixture of Cheddar and Parmigiano cheese\n\u00a39.65\nPrawn Cocktail\n\u00a38.95\nGarlic Mushrooms\nBreaded mushrooms served with Ali Oli\n\u00a37.05\nVegetarian\nCharlie Hot & Spicy Buffalo Wings\n\u00a39.25\nHot\nMexican Nachos\nNachos topped with jalapeno peppers &amp; cheese, served with spicy tomato relish, sour cream, and guacamole on the side.\n\u00a39.15\nVegetarian\nThai Fishcakes\nTwo homemade fish cakes served with a sweet chilli sauce\n\u00a39.25\n",
+            "notices": [
+              {
+                "text": "Pepsi Max\n1\nAdd to order\n\u00a32.15",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.15"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Max\n\u00a32.15\n1\nSubtotal\n\u00a32.15\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.44\nAdd special instructions\nCheckout\nHand-crafted burgers, starting at just \u00a310.75, served with crispy chips for the perfect meal!\nTreat yourself to the Chef's Specials like Balti & King Prawn Puri starting at just \u00a313.45!\nTop Selling Items\nStarters\nSalads\nGarlic Breads\nClassic & Comfort\nSeafood\nSide Orders\nHand-crafted Burgers\nPastas & Stir Fry\nFrom the Grill\nPassage to India - Starters\nPassage to India - Chef's Specials\nPassage to India - Main Course\nPassage to India - Naan Breads\nPassage to India - Side Orders\nKids Meals\nDesserts\nSoft Drinks\nBeers & Ciders\nWines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTikka Masala\nA world famous dish. This smooth and creamy dish is a must try!\n\u00a313.45\nKorma\nA very creamy and mild dish topped with coconut\n\u00a313.45\nSpare Ribs\nA full rack of ribs, served with steakhouse chips, coleslaw, corn on the cob & Jack Daniels BBQ sauce\n\u00a317.95\nButter Chicken\nChicken cooked in butter & Indian spices sauce\n\u00a313.45\nChicken Pepper Brandy\nTender pieces of chicken breast cooked in a creamy crushed black pepper and brandy sauce.\n\u00a316.50\nCheesy Chicken Tikka\n\u00a39.95\nStarters\nLoaded Potato Skins\nstuffed with bacon and melted cheddar\n\u00a36.95\nPrawns Au Gratin\nA delicious starter of King Prawns cooked with fresh chilies, lime, garlic and red onion, gratinated with a mixture of Cheddar and Parmigiano cheese\n\u00a39.65\nPrawn Cocktail\n\u00a38.95\nGarlic Mushrooms\nBreaded mushrooms served with Ali Oli\n\u00a37.05\nVegetarian\nCharlie Hot & Spicy Buffalo Wings\n\u00a39.25\nHot\nMexican Nachos\nNachos topped with jalapeno peppers &amp; cheese, served with spicy tomato relish, sour cream, and guacamole on the ",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi Max",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -798,9 +798,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-11T12:28:45.730026+01:00",
+  "last_confirmed_at": "2026-11-11T12:30:45.731119+01:00",
   "last_sample_check": {
-    "at": "2026-11-11T12:28:45.730026+01:00",
+    "at": "2026-11-11T12:30:45.731119+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
