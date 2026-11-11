@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-11T15:14:16.733167+01:00",
+  "last_observed_at": "2026-11-11T15:16:16.736834+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,107 +156,6 @@
       }
     },
     {
-      "name": "Firefly",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a feast for the family with our Family Comfort Pack: 4 mains, 2 rice, 2 naans & 2 sauces \u00a349!\nSatisfy your midweek cravings with a starter, main, and choice of naan or rice for only \u00a310.95!\nSavor the Veggie Lover's Deal vegetarian starters, mains, biryani rice & chapati for just \u00a314.95!\nTop Selling Items\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nSpecial Offer! Family Comfort Pack for only \u00a349!\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nSpecial Offer! Veggie Lover's Deal only for \u00a314.95!\nLUNCH Meal Deal of the Day Non Vegetarian\nLUNCH Meal Deal of the Day Vegetarian\nSunday Lunch Specials\nStarters\nBiryani Dishes\nNaan\nRice\nChips\nChicken\nLamb\nFish\nVegetarian\nSouth Indian\nIndo-Chinese\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Korma\n\u00a38.25\nChicken Tikka Masala\n\u00a38.25\nCreamy Butter Chicken\n\u00a38.25\nKing Prawn Haka Noodles\n\u00a310.95\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Family Comfort Pack for only \u00a349!\nFeeds 4-5 people\nFamily Comfort Pack (feeds 4/5) for only \u00a349!\nIncludes 4 mains: chicken, lamb, veg, south Indian and fish dishes, 2 naans, 2 rice and 2small sauces\n\u00a349.00\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nAvailable only from Monday to Thursday\nMidweek Curry Cravings only for \u00a310.95!\nIncludes 1 starter, 1 main: chicken, lamb, veg, south Indian and fish dishes and 1 naan or 1 rice\n\u00a310.95\n",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy a feast for the family with our Family Comfort Pack: 4 mains, 2 rice, 2 naans & 2 sauces \u00a349!\nSatisfy your midweek cravings with a starter, main, and choice of naan or rice for only \u00a310.95!\nSavor the Veggie Lover's Deal vegetarian starters, mains, biryani rice & chapati for just \u00a314.95!\nTop Selling Items\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nSpecial Offer! Family Comfort Pack for only \u00a349!\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nSpecial Offer! Veggie Lover's Deal only for \u00a314.95!\nLUNCH Meal Deal of the Day Non Vegetarian\nLUNCH Meal Deal of the Day Vegetarian\nSunday Lunch Specials\nStarters\nBiryani Dishes\nNaan\nRice\nChips\nChicken\nLamb\nFish\nVegetarian\nSouth Indian\nIndo-Chinese\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Korma\n\u00a38.25\nChicken Tikka Masala\n\u00a38.25\nCreamy Butter Chicken\n\u00a38.25\nKing Prawn Haka Noodles\n\u00a310.95\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Family Comfort Pack for only \u00a349!\nFeeds 4-5 people\nFamily Comfort Pack (feeds 4/5) for only \u00a349!\nIncludes 4 mains: chicken, lamb, veg, south Indian and fish dishes, 2 naans, 2 rice and 2small sauces\n\u00a349.00\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nAvailable only from Monday to Thursday\nMidweek Curry Cravings only for \u00a310.95!\nIncludes 1 starter, 1 main: chicken, lamb, veg, south Indian and fish dishes and 1 naan or 1 rice\n\u00a310.95\n",
-            "notices": [
-              {
-                "text": "Coke\n1\nAdd to order\n\u00a31.25",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.25"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.25\n1\nSubtotal\n\u00a31.25\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.54\nAdd special instructions\nCheckout\nEnjoy a feast for the family with our Family Comfort Pack: 4 mains, 2 rice, 2 naans & 2 sauces \u00a349!\nSatisfy your midweek cravings with a starter, main, and choice of naan or rice for only \u00a310.95!\nSavor the Veggie Lover's Deal vegetarian starters, mains, biryani rice & chapati for just \u00a314.95!\nTop Selling Items\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nSpecial Offer! Family Comfort Pack for only \u00a349!\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nSpecial Offer! Veggie Lover's Deal only for \u00a314.95!\nLUNCH Meal Deal of the Day Non Vegetarian\nLUNCH Meal Deal of the Day Vegetarian\nSunday Lunch Specials\nStarters\nBiryani Dishes\nNaan\nRice\nChips\nChicken\nLamb\nFish\nVegetarian\nSouth Indian\nIndo-Chinese\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Korma\n\u00a38.25\nChicken Tikka Masala\n\u00a38.25\nCreamy Butter Chicken\n\u00a38.25\nKing Prawn Haka Noodles\n\u00a310.95\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Firefly Feast for Two only for \u00a327!\nFirefly Feast for Two only for \u00a327!\nIncludes 2 starters, 2 mains: chicken, lamb, veg, south Indian and fish dishes, 1 naan and 1 rice\n\u00a327.00\nSpecial Offer! Family Comfort Pack for only \u00a349!\nFeeds 4-5 people\nFamily Comfort Pack (feeds 4/5) for only \u00a349!\nIncludes 4 mains: chicken, lamb, veg, south Indian and fish dishes, 2 naans, 2 rice and 2small sauces\n\u00a349.00\nSpecial Offer! Midweek Curry Cravings only for \u00a310.95!\nAvailable only from Monday to Thursday\nMidweek Curry Cravings only for \u00a310.95!\nIncludes ",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Flame Grill & Indian Tex Mex",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
       "name": "54 Dining & Caf\u00e9",
       "status": "open",
       "notice": "",
@@ -322,6 +221,75 @@
           }
         ],
         "item": "Coke (Can)",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Poptata Chicken",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a345!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a323!\n\u2b50\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE Premium Sauces - Choose your favourites!\n\u00a345.00\nTop Selling Items\nA quick look at our top selle",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a345!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a323!\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE Premium Sauces - Choose your favourites!\n\u00a345.00\nTop Selling Items\nA quick look at our top sellers",
+            "notices": [
+              {
+                "text": "Coke\n1\nAdd to order\n\u00a32.00",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.00"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a345!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a323!\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE P",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -830,9 +798,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-11T15:14:16.733167+01:00",
+  "last_confirmed_at": "2026-11-11T15:16:16.736834+01:00",
   "last_sample_check": {
-    "at": "2026-11-11T15:14:16.733167+01:00",
+    "at": "2026-11-11T15:16:16.736834+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
