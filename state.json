@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-11T17:58:16.744077+01:00",
+  "last_observed_at": "2026-11-11T18:00:16.747539+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -50,7 +50,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Costa Coffee",
+      "name": "Beeyo",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -87,7 +87,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Hotel Chocolat",
+      "name": "Grocers Choice",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -125,11 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-11-06T12:39:57.959829+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (12:39)",
-      "delivered_at": "2026-11-06T12:40:31.139640+01:00"
-    },
     {
       "id": "2026-11-06T12:41:57.960095+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (12:41)",
@@ -624,13 +619,18 @@
       "id": "2026-11-11T17:58:16.744077+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (17:58)",
       "delivered_at": "2026-11-11T17:58:49.667691+01:00"
+    },
+    {
+      "id": "2026-11-11T18:00:16.747539+01:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (18:00)",
+      "delivered_at": "2026-11-11T18:00:50.698831+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-11-11T17:58:16.744077+01:00",
+  "last_confirmed_at": "2026-11-11T18:00:16.747539+01:00",
   "last_sample_check": {
-    "at": "2026-11-11T17:58:16.744077+01:00",
+    "at": "2026-11-11T18:00:16.747539+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
