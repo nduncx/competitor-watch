@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-11T21:28:41.906586+01:00",
+  "last_observed_at": "2026-11-11T21:30:41.906362+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -50,7 +50,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Kick Ass Burritos",
+      "name": "Charlies Steakhouse",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -87,7 +87,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Monique's",
+      "name": "El Kasbah",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -125,11 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-11-11T18:10:16.746661+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (18:10)",
-      "delivered_at": "2026-11-11T18:10:53.016918+01:00"
-    },
     {
       "id": "2026-11-11T18:12:16.748601+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (18:12)",
@@ -624,13 +619,18 @@
       "id": "2026-11-11T21:28:41.906586+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (21:28)",
       "delivered_at": "2026-11-11T21:29:15.903705+01:00"
+    },
+    {
+      "id": "2026-11-11T21:30:41.906362+01:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (21:30)",
+      "delivered_at": "2026-11-11T21:31:15.467946+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-11-11T21:28:41.906586+01:00",
+  "last_confirmed_at": "2026-11-11T21:30:41.906362+01:00",
   "last_sample_check": {
-    "at": "2026-11-11T21:28:41.906586+01:00",
+    "at": "2026-11-11T21:30:41.906362+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
