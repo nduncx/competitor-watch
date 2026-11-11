@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-11T22:28:41.909437+01:00",
+  "last_observed_at": "2026-11-11T22:30:41.910930+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -50,7 +50,7 @@
       "basket_probe": {}
     },
     {
-      "name": "3Bros Takeout",
+      "name": "Babu Takeaway & Restaurant 1947",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -87,7 +87,7 @@
       "basket_probe": {}
     },
     {
-      "name": "4 Stagioni",
+      "name": "Flame Grill & Indian Tex Mex",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -125,11 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-11-11T19:10:41.899843+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (19:10)",
-      "delivered_at": "2026-11-11T19:11:16.175900+01:00"
-    },
     {
       "id": "2026-11-11T19:12:41.896902+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (19:12)",
@@ -624,13 +619,18 @@
       "id": "2026-11-11T22:28:41.909437+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (22:28)",
       "delivered_at": "2026-11-11T22:29:16.001518+01:00"
+    },
+    {
+      "id": "2026-11-11T22:30:41.910930+01:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (22:30)",
+      "delivered_at": "2026-11-11T22:31:15.565406+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-11-11T22:28:41.909437+01:00",
+  "last_confirmed_at": "2026-11-11T22:30:41.910930+01:00",
   "last_sample_check": {
-    "at": "2026-11-11T22:28:41.909437+01:00",
+    "at": "2026-11-11T22:30:41.910930+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
