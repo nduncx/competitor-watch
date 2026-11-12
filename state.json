@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-12T19:42:42.603064+01:00",
+  "last_observed_at": "2026-11-12T19:44:42.601930+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,8 +177,8 @@
     },
     {
       "name": "TopDogs Gibraltar",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -219,50 +219,13 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nSpecial Offers!\nHotdogs (Halal)\nSmash Burgers\nCrispy Chicken Burgers\nCroquettes\nChips\nJacket Potatoes\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nSpud with a choice of Sweet Corn, Beetroot, Carrots, Tuna, Crab Sticks, Olives, Cheese, Jalape\u00f1os, Cooked Ham.\n\u00a37.00\nSimple Dog\nHotdog with a choice of sauce. Served with a side of chips.\n\u00a33.50\nCheesy Crispy Chicken Burger\nCrispy Chicken, Cheese, & Cheese Sauce. Served with a side of chips.\n\u00a36.00\nBacon Smash Burger\nDouble Beef Patty, Cheese, Bacon Bits, Crispy Onions & Bolognaise Sauce. Served with a side of chips.\n\u00a37.00\nMexican Smash Burger\nDouble Beef Patty, Chilli con Carne, Jalape\u00f1os & Chilli Sauce. Served with a side of chips.\n\u00a37.00\nSpecial Offers!\nVegan Dog & Drink for \u00a34!\nVegan Hotdog, Fried Onions and a choice of Sauce. Served with a side of chips and choice of drink.\n\u00a34.00\nVegan Smash Burger & Drink for \u00a36.50!\nDouble Vegan Patty, Lettuce, Tomato, Onions and a choice of Sauce. Served with a side of chips and choice of drink.\n\u00a36.50\nHotdogs (Halal)\nAll Hotdogs are served with a side of chips.\nSimple Dog\nHotdog with a choice of sauce. Served with a side of chips.\n\u00a33.50\nClassic Dog\nHotdog, Crispy Onions and a choice of Sauce. Served with a side of chips\n\u00a34.00\nCheesy Dog\nHotdog, Cheese Sauce, Mozarella & Crispy Onions and a choice of Sauce. Served with a side of chips.\n\u00a34.50\nBacon Dog\nHotdog, Bacon Bits, Crispy Onions & Bolognaise Sauce. Served with a side of chi",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nSpecial Offers!\nHotdogs (Halal)\nSmash Burgers\nCrispy Chicken Burgers\nCroquettes\nChips\nJacket Potatoes\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nSpud with a choice of Sweet Corn, Beetroot, Carrots, Tuna, Crab Sticks, Olives, Cheese, Jalape\u00f1os, Cooked Ham.\n\u00a37.00\nSimple Dog\nHotdog with a choice of sauce. Served with a side of chips.\n\u00a33.50\nCheesy Crispy Chicken Burger\nCrispy Chicken, Cheese, & Cheese Sauce. Served with a side of chips.\n\u00a36.00\nBacon Smash Burger\nDouble Beef Patty, Cheese, Bacon Bits, Crispy Onions & Bolognaise Sauce. Served with a side of chips.\n\u00a37.00\nMexican Smash Burger\nDouble Beef Patty, Chilli con Carne, Jalape\u00f1os & Chilli Sauce. Served with a side of chips.\n\u00a37.00\nSpecial Offers!\nVegan Dog & Drink for \u00a34!\nVegan Hotdog, Fried Onions and a choice of Sauce. Served with a side of chips and choice of drink.\n\u00a34.00\nVegan Smash Burger & Drink for \u00a36.50!\nDouble Vegan Patty, Lettuce, Tomato, Onions and a choice of Sauce. Served with a side of chips and choice of drink.\n\u00a36.50\nHotdogs (Halal)\nAll Hotdogs are served with a side of chips.\nSimple Dog\nHotdog with a choice of sauce. Served with a side of chips.\n\u00a33.50\nClassic Dog\nHotdog, Crispy Onions and a choice of Sauce. Served with a side of chips\n\u00a34.00\nCheesy Dog\nHotdog, Cheese Sauce, Mozarella & Crispy Onions and a choice of Sauce. Served with a side of chips.\n\u00a34.50\nBacon Dog\nHotdog, Bacon Bits, Crispy Onions & Bolognaise Sauce. Served with a side of chi",
-            "notices": [
-              {
-                "text": "Coke\n1\nAdd to order\n\u00a31.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.00\n1\nSubtotal\n\u00a31.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.29\nAdd special instructions\nCheckout\nTreat yourself to 3 delicious hotdogs just \u00a318 - a perfect combo of flavours at an unbeatable price!\nTry our Menu 2: Enjoy 2 Burger Meals, 1 XL Hotdog, & 2 Waffle Sticks for only \u00a332.00!\nTop Selling Items\nSpecial Offers!\nHotdogs (Halal)\nSmash Burgers\nCrispy Chicken Burgers\nCroquettes\nChips\nJacket Potatoes\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nSpud with a choice of Sweet Corn, Beetroot, Carrots, Tuna, Crab Sticks, Olives, Cheese, Jalape\u00f1os, Cooked Ham.\n\u00a37.00\nSimple Dog\nHotdog with a choice of sauce. Served with a side of chips.\n\u00a33.50\nCheesy Crispy Chicken Burger\nCrispy Chicken, Cheese, & Cheese Sauce. Served with a side of chips.\n\u00a36.00\nBacon Smash Burger\nDouble Beef Patty, Cheese, Bacon Bits, Crispy Onions & Bolognaise Sauce. Served with a side of chips.\n\u00a37.00\nMexican Smash Burger\nDouble Beef Patty, Chilli con Carne, Jalape\u00f1os & Chilli Sauce. Served with a side of chips.\n\u00a37.00\nSpecial Offers!\nVegan Dog & Drink for \u00a34!\nVegan Hotdog, Fried Onions and a choice of Sauce. Served with a side of chips and choice of drink.\n\u00a34.00\nVegan Smash Burger & Drink for \u00a36.50!\nDouble Vegan Patty, Lettuce, Tomato, Onions and a choice of Sauce. Served with a side of chips and choice of drink.\n\u00a36.50\nHotdogs (Halal)\nAll Hotdogs are served with a side of chips.\nSimple Dog\nHotdog with a choice of sauce. Served with a side of chips.\n\u00a33.50\nClassic Dog\nHotdog, Crispy Onions and a choice of Sauce. Served with a side of chips\n\u00a34.00\nCheesy Dog\nHotdog, Cheese Sauce, Mozarella & Crispy Onions and a choice of Sauce. Served with a side of chips.",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     },
     {
       "name": "Candy Castle",
@@ -350,6 +313,95 @@
           }
         ],
         "item": "Kingdom Favourites (300g)",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Royal Calpe",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of slow cooked roast turkey breast, gravy and a mix of vegetable\n\u00a317.95\nMixed Roast\none slice of eac",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of slow cooked roast turkey breast, gravy and a mix of vegetable\n\u00a317.95\nMixed Roast\none slice of eac",
+            "notices": [
+              {
+                "text": "Pepsi\n1\nAdd to order\n\u00a32.40",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.40"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a32.40\n1\nSubtotal\n\u00a32.40\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.69\nAdd special instructions\nCheckout\nTreat yourself to our mouthwatering Rolls, made fresh & packed with flavour, starting at just \u00a37.35!\nIndulge in our hearty mains like Scampi & Chips, Steak & Ale Pie, and more, all for just \u00a314.35!\nTop Selling Items\nBreakfast\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nRolls\nStarters\nMains\nBurgers\nBreakfast\nKids Menu\nSides / Snacks\nSalads\nSauces\nDesserts\nSoft Drinks\nHot Drinks\nNon-Alcoholic Beers\nBottled Beers\nBottled Cider\nHouse Wine\nWhite Wines\nRed Wines\nRose Wines\nChampagne / Sparkling\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheese Bacon Egg Burger\nBeef Burger with Cheddar Cheese, one Egg and one slice of Bacon in a bap, served with chips & salad\n\u00a314.70\nScampi & Chips\nScampi breadcrumbed and deep fried served with chips & salad, tartar sauce and lemon\n\u00a314.35\nBeef Chilli con Carne\nServed plain basmati rice or chunky chips.\n\u00a314.35\nSteak & Ale Pie\nCubes of beef steak in a thick Ale gravy ,baked in a pastry case s with Salad or vegetables chips and chunky chips or mash\n\u00a314.35\nBeef Burger\nPlain beef burger(200gr) with chips & salad\n\u00a313.15\nBreakfast\nAvailable until 10:00 AM\nBacon Roll with Coffee\n\u00a35.60\nSausage Roll with Coffee\n\u00a35.60\nBacon, Sausage & Egg with Coffee\n\u00a36.85\nSunday Carvery (ONLY SUNDAYS 12:30 - 15:00)\nONLY SUNDAYS 12:30 - 15:00\nRoast Beef\nFour slices of slow cooked roast beef, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Pork\nFour slices of slow cooked roast pork, gravy and a mix of vegetable\n\u00a317.95\nRoast Leg Of Lamb\nFour slices of slow cooked roast leg of lamb, gravy and a mix of vegetable\n\u00a317.95\nRoast Turkey Breast\nFour slices of ",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +910,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-12T19:42:42.603064+01:00",
+  "last_confirmed_at": "2026-11-12T19:44:42.601930+01:00",
   "last_sample_check": {
-    "at": "2026-11-12T19:42:42.603064+01:00",
+    "at": "2026-11-12T19:44:42.601930+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
