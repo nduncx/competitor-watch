@@ -126,11 +126,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-11-11T20:02:41.915776+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (20:02)",
-      "delivered_at": "2026-11-11T20:03:16.053190+01:00"
-    },
-    {
       "id": "2026-11-11T20:04:41.902443+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:04)",
       "delivered_at": "2026-11-11T20:05:15.376372+01:00"
@@ -624,14 +619,34 @@
       "id": "2026-11-12T11:42:49.835570+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (11:42)",
       "delivered_at": "2026-11-12T11:43:26.307103+01:00"
+    },
+    {
+      "id": "monitor:2026-11-12T11:44:49.767478+01:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-11-12T11:45:35.973566+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
   "last_confirmed_at": "2026-11-12T11:42:49.835570+01:00",
   "last_sample_check": {
-    "at": "2026-11-12T11:42:49.835570+01:00",
-    "eligible": true
+    "at": "2026-11-12T11:44:49.833958+01:00",
+    "eligible": false,
+    "exclusions_confirmed": false,
+    "venues": [
+      {
+        "name": "Essaouira",
+        "status": "closed"
+      },
+      {
+        "name": "Laguna Bar",
+        "status": "open"
+      },
+      {
+        "name": "Papichurro",
+        "status": "open"
+      }
+    ]
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
