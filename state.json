@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-12T15:28:11.300882+01:00",
+  "last_observed_at": "2026-11-12T15:30:11.269324+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,7 +176,7 @@
       }
     },
     {
-      "name": "54 Dining & Caf\u00e9",
+      "name": "Eat Happy",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -235,104 +235,15 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLane 3 Feast! Get Ensaladilla Rusa, 8 Croquettes, 16 Chicken Strips & 1.5L bottle only for \u00a332.20!\nDon't miss out our Beef Slices in Pepper Sauce with Fresh Chips only for \u00a313.15!\n2 Full Wheels of Churros with choice of 2 sauces only for \u00a35! (Available until 12pm)\nTop Selling Items\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nBeach Medley Relay\nChurros, Papitas & Churro Pops\nNEW! Homemade Daily Gibraltarian Delights\nBaguettes / Rolls\nToast\nBreakfast\nDaily Favourites\nStarters\nSpecials\nBurger\nHot Lunches\nOn Their Own\nSalads\nFish\nMeat & Chicken\nPaella\nPortuguese Cuisine\nSnacks\nDrinks\nCoffee\nTea\nBeer & Cider\nWines - Rioja & Ribera del Duero\nWhite Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nEgg, Bacon & Sausage\n\u00a35.50\nSerrano Ham\n\u00a34.56\nChicken Tikka with Rice or Chips\n\u00a38.35\nHam & Cheese\n\u00a34.20\nPigs Cheeks in Homemade Sauce with Fresh Chips\nCarrillada en Salsa Casera con Patatas Frescas\n\u00a314.35\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nAvailable Monday-Sunday until 12pm. Limited Time Offer.\n2 Full Wheels of Churros with choice of 2 sauces for \u00a35!\n\u00a35.00\nBeach Medley Relay\nWhich lane will win today?\nLane 1 (2 persons)\n1 Tapa of Ensaladilla Rusa; 4 Homemade Croquettes; 12 Chicken Strips; 2 Soft Drinks (can) + 1 FREE Soft Drink\n\u00a319.15\nLane 2 (2 persons)\n1 Momemade Torta de Patata; 4 Homemade Chicken Croquettes; 6 homemade Breaded Chicken; 2 Soft Drinks (can) + 1 FREE soft drink.\n\u00a326.40\nLane 3 (4 persons)\n1 Portion of Ensaladilla Rusa; 8 Homemade Croquettes; 16 Chicken Strips; 1.5L FREE bottle of soft drink\n\u00a332.20\nLane 4 (4 persons)\n2 Homemade Torta de Patata; 8 Homemade Croquettes; 8 Homemade Breaded Chicken; 1 FRE",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving a snack? Get Big Chips for just \u00a33 and refreshing soft drinks for only \u00a31.30!\nTreat yourself to Chicken Tikka, Sausage or BBQ Chicken Tray - Served with salad for only \u00a34.50!\nTop Selling Items\nBaguettes & Wraps\nChips\nContainers\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nBig Chips\n\u00a33.00\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nBaguettes & Wraps\nPlain Chicken Baguette\nServed with salad\n\u00a34.50\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nBBQ Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nIndian Chicken Baguette\nServed with salad.\n\u00a34.50\nKefta Baguette\nServed with salad.\n\u00a34.50\nAfrican Chicken Baguette\nServed with salad.\n\u00a34.50\nMoroccan Special Baguette\nTuna Mortadella, salad and chips inside.\n\u00a34.50\nSausage Baguette\nServed with salad.\n\u00a34.00\nTuna Egg Mayonnaise Baguette\nServed with salad.\n\u00a33.90\nOmelette Baguette\nServed with salad.\n\u00a33.50\nSweet chill Baguette\nServed with salad.\n\u00a34.50\nTuna Mayonnaise Baguette\nServed with salad.\n\u00a33.50\nPeri Peri Chicken Baguette\nServed with salad.\n\u00a34.50\nChips\nBig Chips\n\u00a33.00\nSmall Chips\n\u00a32.00\nContainers\nPlain Chicken Tray\nServed with salad\n\u00a34.50\nChicken Tikka Tray\nServed with salad\n\u00a34.50\nMoroccan Chicken Tray\nServed with salad\n\u00a34.50\nBBQ Chicken Tray\nServed with salad\n\u00a34.50\nTandoori Chicken Tray\nServed with salad\n\u00a34.50\nBreaded Chicken Tray\nServed with salad\n\u00a34.50\nIndian Chicken Tray\nServed with salad\n\u00a34.50\nAfrican Chicken Tray\nServed with salad\n",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nLane 3 Feast! Get Ensaladilla Rusa, 8 Croquettes, 16 Chicken Strips & 1.5L bottle only for \u00a332.20!\nDon't miss out our Beef Slices in Pepper Sauce with Fresh Chips only for \u00a313.15!\n2 Full Wheels of Churros with choice of 2 sauces only for \u00a35! (Available until 12pm)\nTop Selling Items\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nBeach Medley Relay\nChurros, Papitas & Churro Pops\nNEW! Homemade Daily Gibraltarian Delights\nBaguettes / Rolls\nToast\nBreakfast\nDaily Favourites\nStarters\nSpecials\nBurger\nHot Lunches\nOn Their Own\nSalads\nFish\nMeat & Chicken\nPaella\nPortuguese Cuisine\nSnacks\nDrinks\nCoffee\nTea\nBeer & Cider\nWines - Rioja & Ribera del Duero\nWhite Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nEgg, Bacon & Sausage\n\u00a35.50\nSerrano Ham\n\u00a34.56\nChicken Tikka with Rice or Chips\n\u00a38.35\nHam & Cheese\n\u00a34.20\nPigs Cheeks in Homemade Sauce with Fresh Chips\nCarrillada en Salsa Casera con Patatas Frescas\n\u00a314.35\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nAvailable Monday-Sunday until 12pm. Limited Time Offer.\n2 Full Wheels of Churros with choice of 2 sauces for \u00a35!\n\u00a35.00\nBeach Medley Relay\nWhich lane will win today?\nLane 1 (2 persons)\n1 Tapa of Ensaladilla Rusa; 4 Homemade Croquettes; 12 Chicken Strips; 2 Soft Drinks (can) + 1 FREE Soft Drink\n\u00a319.15\nLane 2 (2 persons)\n1 Momemade Torta de Patata; 4 Homemade Chicken Croquettes; 6 homemade Breaded Chicken; 2 Soft Drinks (can) + 1 FREE soft drink.\n\u00a326.40\nLane 3 (4 persons)\n1 Portion of Ensaladilla Rusa; 8 Homemade Croquettes; 16 Chicken Strips; 1.5L FREE bottle of soft drink\n\u00a332.20\nLane 4 (4 persons)\n2 Homemade Torta de Patata; 8 Homemade Croquettes; 8 Homemade Breaded Chicken; 1 FRE",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving a snack? Get Big Chips for just \u00a33 and refreshing soft drinks for only \u00a31.30!\nTreat yourself to Chicken Tikka, Sausage or BBQ Chicken Tray - Served with salad for only \u00a34.50!\nTop Selling Items\nBaguettes & Wraps\nChips\nContainers\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nBig Chips\n\u00a33.00\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nBaguettes & Wraps\nPlain Chicken Baguette\nServed with salad\n\u00a34.50\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nBBQ Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nIndian Chicken Baguette\nServed with salad.\n\u00a34.50\nKefta Baguette\nServed with salad.\n\u00a34.50\nAfrican Chicken Baguette\nServed with salad.\n\u00a34.50\nMoroccan Special Baguette\nTuna Mortadella, salad and chips inside.\n\u00a34.50\nSausage Baguette\nServed with salad.\n\u00a34.00\nTuna Egg Mayonnaise Baguette\nServed with salad.\n\u00a33.90\nOmelette Baguette\nServed with salad.\n\u00a33.50\nSweet chill Baguette\nServed with salad.\n\u00a34.50\nTuna Mayonnaise Baguette\nServed with salad.\n\u00a33.50\nPeri Peri Chicken Baguette\nServed with salad.\n\u00a34.50\nChips\nBig Chips\n\u00a33.00\nSmall Chips\n\u00a32.00\nContainers\nPlain Chicken Tray\nServed with salad\n\u00a34.50\nChicken Tikka Tray\nServed with salad\n\u00a34.50\nMoroccan Chicken Tray\nServed with salad\n\u00a34.50\nBBQ Chicken Tray\nServed with salad\n\u00a34.50\nTandoori Chicken Tray\nServed with salad\n\u00a34.50\nBreaded Chicken Tray\nServed with salad\n\u00a34.50\nIndian Chicken Tray\nServed with salad\n\u00a34.50\nAfrican Chicken Tray\nServed with salad\n",
             "notices": [
               {
-                "text": "Coke (Can)\n1\nAdd to order\n\u00a31.80",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.80"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke (Can)\n\u00a31.80\n1\nSubtotal\n\u00a31.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.09\nAdd special instructions\nCheckout\nLane 3 Feast! Get Ensaladilla Rusa, 8 Croquettes, 16 Chicken Strips & 1.5L bottle only for \u00a332.20!\nDon't miss out our Beef Slices in Pepper Sauce with Fresh Chips only for \u00a313.15!\n2 Full Wheels of Churros with choice of 2 sauces only for \u00a35! (Available until 12pm)\nTop Selling Items\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nBeach Medley Relay\nChurros, Papitas & Churro Pops\nNEW! Homemade Daily Gibraltarian Delights\nBaguettes / Rolls\nToast\nBreakfast\nDaily Favourites\nStarters\nSpecials\nBurger\nHot Lunches\nOn Their Own\nSalads\nFish\nMeat & Chicken\nPaella\nPortuguese Cuisine\nSnacks\nDrinks\nCoffee\nTea\nBeer & Cider\nWines - Rioja & Ribera del Duero\nWhite Wines\nRose Wines\nTop Selling Items\nA quick look at our top sellers chosen by you!\nEgg, Bacon & Sausage\n\u00a35.50\nSerrano Ham\n\u00a34.56\nChicken Tikka with Rice or Chips\n\u00a38.35\nHam & Cheese\n\u00a34.20\nPigs Cheeks in Homemade Sauce with Fresh Chips\nCarrillada en Salsa Casera con Patatas Frescas\n\u00a314.35\nSpecial Offer! 2 Churros with choice of 2 sauces for \u00a35!\nAvailable Monday-Sunday until 12pm. Limited Time Offer.\n2 Full Wheels of Churros with choice of 2 sauces for \u00a35!\n\u00a35.00\nBeach Medley Relay\nWhich lane will win today?\nLane 1 (2 persons)\n1 Tapa of Ensaladilla Rusa; 4 Homemade Croquettes; 12 Chicken Strips; 2 Soft Drinks (can) + 1 FREE Soft Drink\n\u00a319.15\nLane 2 (2 persons)\n1 Momemade Torta de Patata; 4 Homemade Chicken Croquettes; 6 homemade Breaded Chicken; 2 Soft Drinks (can) + 1 FREE soft drink.\n\u00a326.40\nLane 3 (4 persons)\n1 Portion of Ensaladilla Rusa; 8 Homemade Croquettes; 16 Chicken Strips; 1.5L FREE bottle of soft drink\n\u00a332.20\nL",
-            "notices": []
-          }
-        ],
-        "item": "Coke (Can)",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Poptata Chicken",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a345!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a323!\n\u2b50\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE Premium Sauces - Choose your favourites!\n\u00a345.00\nTop Selling Items\nA quick look at our top selle",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a345!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a323!\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE Premium Sauces - Choose your favourites!\n\u00a345.00\nTop Selling Items\nA quick look at our top sellers",
-            "notices": [
-              {
-                "text": "Coke\n1\nAdd to order\n\u00a32.00",
+                "text": "Small Chips\nWould you like Sauce?\nAdd Ketchup\nAdd Cocktail Sauce\nAdd Mayonnaise\nAdd Gaucha Sauce\nAdd Alioli\nAdd Yogurt Sauce\nAdd Chilli\nAdd BBQ Sauce\nAdd Salt\nAdd Vinegar\n1\nAdd to order\n\u00a32.00",
                 "buttons": [
                   "",
                   "",
@@ -345,11 +256,100 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nTry our NEW Peanut Parm Frietz! Crispy golden fries loaded with rich parmesan, in our peanut sauce!\nSpecial offer! Free delivery on all of \u00a350+ !\nEnjoy our NEW Family of 4 Meal Deal: 4 Smash Burgers, 1 Fries, 4 Drinks & 4 Sauces only for \u00a345!\nNew on the scene! Family of 2 Meal Deal: 2 Poptata Fritz, 2 Molletes, 2 Drinks & 2 Sauce for \u00a323!\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nMeal Deals only from \u00a323!\nTop Selling Items\nPoptata Fritz Meal Deal\nPoptata Fritz\nSmash Burgers - Premium Beef\nBurger Menus\nBurgers\nMolleta Classics\nChicken Tenders Menu\nChicken Tenders\nSides\nSauces\nDrinks\n\u2b50NEW\u2b50 Combinados Wraps Pitta Mollete\nCombinado\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE... with Chips or Rice\n\u00a39.70\nCombinado - Meat + Salad (No Chips)\n\u00a38.25\nMixed Grill & Chips or Rice Combinado\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions + Chips or Rice\n\u00a310.25\nMixed Grill Tray\nIdeal Meal for 2 - Tikka Tandoori Africano Kebab Peppers Onions - Portion Size Large\n\u00a312.00\nMixed Grill Wrap\nTikka Tandoori Africano Kebab Grilled Peppers Grilled Onions\n\u00a39.30\nWraps Pitta Mollete\nCHOOSE 1, 2 OR 3 MEATS FOR YOUR meal SAME PORTION, SAME PRICE!\n\u00a37.20\nPeppered Steak or Chicken & Chips or Rice\n\u00a312.75\nMeal Deals only from \u00a323!\nFamily of 2 Meal Deal only for \u00a323!\nIncludes: 2x Poptata Fritz - Choose your favourite, 2x Molletes - Choose from: Lemon Chicken, Africanos, Chicken Piri Piri, Bacon & Egg, 2 Soft Drinks & FREE Premium Sauce - Choose your favourite!\n\u00a323.00\nFamily of 4 Meal Deal only for \u00a345!\nIncludes: 4 Premium Double Smash Burgers, 1 Family Fries, 4 Soft Drinks & FREE P",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Chips\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nCraving a snack? Get Big Chips for just \u00a33 and refreshing soft drinks for only \u00a31.30!\nTreat yourself to Chicken Tikka, Sausage or BBQ Chicken Tray - Served with salad for only \u00a34.50!\nTop Selling Items\nBaguettes & Wraps\nChips\nContainers\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nBig Chips\n\u00a33.00\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nBaguettes & Wraps\nPlain Chicken Baguette\nServed with salad\n\u00a34.50\nChicken Tikka Baguette\nServed with salad.\n\u00a34.50\nMoroccan Chicken Baguette\nServed with salad.\n\u00a34.50\nBBQ Chicken Baguette\nServed with salad.\n\u00a34.50\nTandoori Chicken Baguette\n\u00a34.50\nBreaded Chicken Baguette\nServed with salad.\n\u00a34.50\nIndian Chicken Baguette\nServed with salad.\n\u00a34.50\nKefta Baguette\nServed with salad.\n\u00a34.50\nAfrican Chicken Baguette\nServed with salad.\n\u00a34.50\nMoroccan Special Baguette\nTuna Mortadella, salad and chips inside.\n\u00a34.50\nSausage Baguette\nServed with salad.\n\u00a34.00\nTuna Egg Mayonnaise Baguette\nServed with salad.\n\u00a33.90\nOmelette Baguette\nServed with salad.\n\u00a33.50\nSweet chill Baguette\nServed with salad.\n\u00a34.50\nTuna Mayonnaise Baguette\nServed with salad.\n\u00a33.50\nPeri Peri Chicken Baguette\nServed with salad.\n\u00a34.50\nChips\nBig Chips\n\u00a33.00\n1\nSmall Chips\n\u00a32.00\nContainers\nPlain Chicken Tray\nServed with salad\n\u00a34.50\nChicken Tikka Tray\nServed with salad\n\u00a34.50\nMoroccan Chicken Tray\nServed with salad\n\u00a34.50\nBBQ Chicken Tray\nServed with salad\n\u00a34.50\nTandoori Chicken Tray\nServed with salad\n\u00a34.50\nBreaded Chicken Tray\nSe",
             "notices": []
           }
         ],
-        "item": "Coke",
+        "item": "Small Chips",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Fresh Organic Juice Bar",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nJuices\nWellness Shots\nCoffees\nIced Drinks\nSpeciality\nTeas\nSmoothies\nSnacks\nJuices\nFresh cold-pressed juices for daily hydration and natural energy. (500ml)\nDeep Green Clean\nCelery, cucumber and apple with ginger and lemon for a crisp, refreshing citrus lift.\n\u00a38.75\nRuby Citrus\nBright Orange and Grapefruit, with fresh lemon and a hint of ginger\n\u00a38.75\nPear & Quince\nSweet Quince & Pear, with fresh lemon and a hint of ginger\n\u00a38.75\nWellness Shots\nOur wellness shots deliver concentrated boosts, designed to support specific needs. (100ml)\nDefence Green Shot 100ml\nMandarin and lemon with kiwi, cucumber and ginger, fresh, vibrant and naturally invigorating. A great place to start.\n\u00a33.75\nImmunity Fire Shot 100ml\nOur best seller, bold, warming citrus with ginger, turmeric and cayenne.\n\u00a33.75\nImmunity Gold Shot 100ml\nLemon and mandarin with turmeric, ginger and black pepper, warm, vibrant and naturally uplifting.\n\u00a33.75\nCoffees\nAmericano\nA longer, lighter coffee with a clean, balanced taste\n\u00a33.25\nMocha\n\u00a33.90\nManchado\nA cup of smooth, velvety milk 'stained' with a touch of espresso.\n\u00a33.50\nCafe Con Leche\n\u00a33.50\nCortado\n\u00a32.65\nLatte\n\u00a33.50\nEspresso\n\u00a31.90\nFlat White\n\u00a33.50\nIced Drinks\nPremium drinks, iced.\nIced Coffee\nFreshly brewed and poured over ice for a clean, bold finish. Smooth, refreshing and made to keep you moving.\n\u00a34.90\nIced Matcha\nCeremonial-style matcha shaken over ice for a smooth, vibrant lift. Fresh, earthy and gently energizing.\n\u00a36.00\nIced Chocolate Cacao\nRaw cacao blended with vanilla and a pinch of sea salt, poured over ice. Deep, smooth and quietly energising our iced take on a classic hot chocolate.\n\u00a36.00\nIced Mocha\nRich espresso blended with raw cacao, vanilla and a ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nJuices\nWellness Shots\nCoffees\nIced Drinks\nSpeciality\nTeas\nSmoothies\nSnacks\nJuices\nFresh cold-pressed juices for daily hydration and natural energy. (500ml)\nDeep Green Clean\nCelery, cucumber and apple with ginger and lemon for a crisp, refreshing citrus lift.\n\u00a38.75\nRuby Citrus\nBright Orange and Grapefruit, with fresh lemon and a hint of ginger\n\u00a38.75\nPear & Quince\nSweet Quince & Pear, with fresh lemon and a hint of ginger\n\u00a38.75\nWellness Shots\nOur wellness shots deliver concentrated boosts, designed to support specific needs. (100ml)\nDefence Green Shot 100ml\nMandarin and lemon with kiwi, cucumber and ginger, fresh, vibrant and naturally invigorating. A great place to start.\n\u00a33.75\nImmunity Fire Shot 100ml\nOur best seller, bold, warming citrus with ginger, turmeric and cayenne.\n\u00a33.75\nImmunity Gold Shot 100ml\nLemon and mandarin with turmeric, ginger and black pepper, warm, vibrant and naturally uplifting.\n\u00a33.75\nCoffees\nAmericano\nA longer, lighter coffee with a clean, balanced taste\n\u00a33.25\nMocha\n\u00a33.90\nManchado\nA cup of smooth, velvety milk 'stained' with a touch of espresso.\n\u00a33.50\nCafe Con Leche\n\u00a33.50\nCortado\n\u00a32.65\nLatte\n\u00a33.50\nEspresso\n\u00a31.90\nFlat White\n\u00a33.50\nIced Drinks\nPremium drinks, iced.\nIced Coffee\nFreshly brewed and poured over ice for a clean, bold finish. Smooth, refreshing and made to keep you moving.\n\u00a34.90\nIced Matcha\nCeremonial-style matcha shaken over ice for a smooth, vibrant lift. Fresh, earthy and gently energizing.\n\u00a36.00\nIced Chocolate Cacao\nRaw cacao blended with vanilla and a pinch of sea salt, poured over ice. Deep, smooth and quietly energising our iced take on a classic hot chocolate.\n\u00a36.00\nIced Mocha\nRich espresso blended with raw cacao, vanilla and a ",
+            "notices": [
+              {
+                "text": "Deep Green Clean\n\nCelery, cucumber and apple with ginger and lemon for a crisp, refreshing citrus lift.\n\n1\nAdd to order\n\u00a38.75",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a38.75"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nDeep Green Clean\n\u00a38.75\n1\nSubtotal\n\u00a38.75\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a312.04\nAdd special instructions\nCheckout\nJuices\nWellness Shots\nCoffees\nIced Drinks\nSpeciality\nTeas\nSmoothies\nSnacks\nJuices\nFresh cold-pressed juices for daily hydration and natural energy. (500ml)\n1\nDeep Green Clean\nCelery, cucumber and apple with ginger and lemon for a crisp, refreshing citrus lift.\n\u00a38.75\nRuby Citrus\nBright Orange and Grapefruit, with fresh lemon and a hint of ginger\n\u00a38.75\nPear & Quince\nSweet Quince & Pear, with fresh lemon and a hint of ginger\n\u00a38.75\nWellness Shots\nOur wellness shots deliver concentrated boosts, designed to support specific needs. (100ml)\nDefence Green Shot 100ml\nMandarin and lemon with kiwi, cucumber and ginger, fresh, vibrant and naturally invigorating. A great place to start.\n\u00a33.75\nImmunity Fire Shot 100ml\nOur best seller, bold, warming citrus with ginger, turmeric and cayenne.\n\u00a33.75\nImmunity Gold Shot 100ml\nLemon and mandarin with turmeric, ginger and black pepper, warm, vibrant and naturally uplifting.\n\u00a33.75\nCoffees\nAmericano\nA longer, lighter coffee with a clean, balanced taste\n\u00a33.25\nMocha\n\u00a33.90\nManchado\nA cup of smooth, velvety milk 'stained' with a touch of espresso.\n\u00a33.50\nCafe Con Leche\n\u00a33.50\nCortado\n\u00a32.65\nLatte\n\u00a33.50\nEspresso\n\u00a31.90\nFlat White\n\u00a33.50\nIced Drinks\nPremium drinks, iced.\nIced Coffee\nFreshly brewed and poured over ice for a clean, bold finish. Smooth, refreshing and made to keep you moving.\n\u00a34.90\nIced Matcha\nCeremonial-style matcha shaken over ice for a smooth, vibrant lift. Fresh, earthy and gently energizing.\n\u00a36.00\nIced Chocolate Cacao\nRaw cacao blended with vanilla and a pinch of sea salt, poured over ice. Deep, smooth and quietly energising ",
+            "notices": []
+          }
+        ],
+        "item": "Deep Green Clean",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-12T15:28:11.300882+01:00",
+  "last_confirmed_at": "2026-11-12T15:30:11.269324+01:00",
   "last_sample_check": {
-    "at": "2026-11-12T15:28:11.300882+01:00",
+    "at": "2026-11-12T15:30:11.269324+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
