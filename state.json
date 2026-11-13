@@ -356,11 +356,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-11-11T21:30:41.906362+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (21:30)",
-      "delivered_at": "2026-11-11T21:31:15.467946+01:00"
-    },
-    {
       "id": "2026-11-11T21:32:41.906910+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (21:32)",
       "delivered_at": "2026-11-11T21:33:15.292670+01:00"
@@ -854,6 +849,11 @@
       "id": "monitor:2026-11-13T09:05:00.605028+01:00:restored",
       "subject": "Competitor Watch: suitable stores available again",
       "delivered_at": "2026-11-13T09:06:13.841452+01:00"
+    },
+    {
+      "id": "monitor:2026-11-13T19:03:33.298282+01:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-11-13T19:04:10.649454+01:00"
     }
   ],
   "recovery_streak": 0,
