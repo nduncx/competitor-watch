@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-13T23:20:11.628041+01:00",
+  "last_observed_at": "2026-11-13T23:22:11.629243+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,95 +176,6 @@
       }
     },
     {
-      "name": "Loco Burgers",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving something hearty? Try our Lokito 2 Patty Burgers for just \u00a311.50!\nSpice up your meal with our NEW Loco Wings! Sweet Chilli, BBQ & more for \u00a38.95!\nTop Selling Items\nNEW!! LOCO WINGS\nLokito 2 Patty Burgers\nLoco Burgers\nKids Menu\nSides\nSauces\nDesserts\nDrinks\nBeers\nCiders\nRed Wine\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nViva La Pepper Burger\nFour meat patties cheese burger topped with steak in pepper sauce. Served with a small side of loco potato crisps.\n\u00a314.50\nLokito Maradona 2 Patty Burger\nTwo meat patties cheese burger, criollo sausage, loco crisps & chimichurri. Served with loco crazy crisps.\n\u00a311.50\nOle y Ole Loaded Fries\nCheesy loaded fries with chorizo and fried egg\n\u00a38.50\nLokito The Pull 2 Patty Burger\nTwo meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with loco crazy crisps.\n\u00a311.50\nThe Pull Burger\nFour meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with a small side of loco potato crisps.\n\u00a314.50\nNEW!! LOCO WINGS\n6 X SWEET CHILLI WINGS\n6 WHOLE WINGS 12 PIECES SWEET CHILLI SAUCE & LOCO CRISPS\n\u00a38.95\n6 X BBQ WINGS\n6 WHOLE WINGS 12 PIECES WITH BBQ SAUCE & LOCO CRISPS\n\u00a38.95\n6 X GAUCHA WINGS\n6 WHOLE WINGS 12 PIECES WITH GAUCHA SAUCE & LOCO CRISPS\n\u00a38.95\n6 X HONEY MUSTARD WINGS\n6 WHOLE WINGS 12 PIECES WITH MUSTARD SAUCE & LOCO CRISPS\n\u00a38.95\n6 X FRIED CHICKEN WINGS\n6 WHOLE WINGS 12 PIECES & LOCO CRISPS\n\u00a38.95\n6 X HOT BRAVA WINGS\n6 WHOLE WINGS 12 PIECES WITH HOT BRAVA WINGS & LOCO CRISPS\n\u00a38.95\nLokito 2 Patty Burgers\nNEW! Lokito Classic Cheese Bacon 2 Patty Burger\nServed with loco crazy crisps\n\u00a311.50\nLokito Viva La Pepper 2 Patty Burger\nTwo meat patties ch",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCraving something hearty? Try our Lokito 2 Patty Burgers for just \u00a311.50!\nSpice up your meal with our NEW Loco Wings! Sweet Chilli, BBQ & more for \u00a38.95!\nTop Selling Items\nNEW!! LOCO WINGS\nLokito 2 Patty Burgers\nLoco Burgers\nKids Menu\nSides\nSauces\nDesserts\nDrinks\nBeers\nCiders\nRed Wine\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nViva La Pepper Burger\nFour meat patties cheese burger topped with steak in pepper sauce. Served with a small side of loco potato crisps.\n\u00a314.50\nLokito Maradona 2 Patty Burger\nTwo meat patties cheese burger, criollo sausage, loco crisps & chimichurri. Served with loco crazy crisps.\n\u00a311.50\nOle y Ole Loaded Fries\nCheesy loaded fries with chorizo and fried egg\n\u00a38.50\nLokito The Pull 2 Patty Burger\nTwo meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with loco crazy crisps.\n\u00a311.50\nThe Pull Burger\nFour meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with a small side of loco potato crisps.\n\u00a314.50\nNEW!! LOCO WINGS\n6 X SWEET CHILLI WINGS\n6 WHOLE WINGS 12 PIECES SWEET CHILLI SAUCE & LOCO CRISPS\n\u00a38.95\n6 X BBQ WINGS\n6 WHOLE WINGS 12 PIECES WITH BBQ SAUCE & LOCO CRISPS\n\u00a38.95\n6 X GAUCHA WINGS\n6 WHOLE WINGS 12 PIECES WITH GAUCHA SAUCE & LOCO CRISPS\n\u00a38.95\n6 X HONEY MUSTARD WINGS\n6 WHOLE WINGS 12 PIECES WITH MUSTARD SAUCE & LOCO CRISPS\n\u00a38.95\n6 X FRIED CHICKEN WINGS\n6 WHOLE WINGS 12 PIECES & LOCO CRISPS\n\u00a38.95\n6 X HOT BRAVA WINGS\n6 WHOLE WINGS 12 PIECES WITH HOT BRAVA WINGS & LOCO CRISPS\n\u00a38.95\nLokito 2 Patty Burgers\nNEW! Lokito Classic Cheese Bacon 2 Patty Burger\nServed with loco crazy crisps\n\u00a311.50\nLokito Viva La Pepper 2 Patty Burger\nTwo meat patties ch",
-            "notices": [
-              {
-                "text": "7Up\n1\nAdd to order\n\u00a31.90",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a31.90"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\n7Up\n\u00a31.90\n1\nSubtotal\n\u00a31.90\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.19\nAdd special instructions\nCheckout\nCraving something hearty? Try our Lokito 2 Patty Burgers for just \u00a311.50!\nSpice up your meal with our NEW Loco Wings! Sweet Chilli, BBQ & more for \u00a38.95!\nTop Selling Items\nNEW!! LOCO WINGS\nLokito 2 Patty Burgers\nLoco Burgers\nKids Menu\nSides\nSauces\nDesserts\nDrinks\nBeers\nCiders\nRed Wine\nRose Wine\nWhite Wine\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nViva La Pepper Burger\nFour meat patties cheese burger topped with steak in pepper sauce. Served with a small side of loco potato crisps.\n\u00a314.50\nLokito Maradona 2 Patty Burger\nTwo meat patties cheese burger, criollo sausage, loco crisps & chimichurri. Served with loco crazy crisps.\n\u00a311.50\nOle y Ole Loaded Fries\nCheesy loaded fries with chorizo and fried egg\n\u00a38.50\nLokito The Pull 2 Patty Burger\nTwo meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with loco crazy crisps.\n\u00a311.50\nThe Pull Burger\nFour meat patties cheese burger topped with BBQ pulled pork & coleslaw. Served with a small side of loco potato crisps.\n\u00a314.50\nNEW!! LOCO WINGS\n6 X SWEET CHILLI WINGS\n6 WHOLE WINGS 12 PIECES SWEET CHILLI SAUCE & LOCO CRISPS\n\u00a38.95\n6 X BBQ WINGS\n6 WHOLE WINGS 12 PIECES WITH BBQ SAUCE & LOCO CRISPS\n\u00a38.95\n6 X GAUCHA WINGS\n6 WHOLE WINGS 12 PIECES WITH GAUCHA SAUCE & LOCO CRISPS\n\u00a38.95\n6 X HONEY MUSTARD WINGS\n6 WHOLE WINGS 12 PIECES WITH MUSTARD SAUCE & LOCO CRISPS\n\u00a38.95\n6 X FRIED CHICKEN WINGS\n6 WHOLE WINGS 12 PIECES & LOCO CRISPS\n\u00a38.95\n6 X HOT BRAVA WINGS\n6 WHOLE WINGS 12 PIECES WITH HOT BRAVA WINGS & LOCO CRISPS\n\u00a38.95\nLokito 2 Patty Burgers\nNEW! Lokito Classic Cheese Bacon 2 Patty Burge",
-            "notices": []
-          }
-        ],
-        "item": "7Up",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Neha Curry House",
       "status": "open",
       "notice": "",
@@ -350,6 +261,155 @@
           }
         ],
         "item": "Pepsi Can",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Donations, Gifts, Vouchers and Bags!",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": [
+            {
+              "text": "Donate, Vouchers, Gifts or Bag For Life ?\nDonate \u00a32 - Get a \u00a32 Hungry Monkey Voucher\nLimited Edition Monkey!\nHungry Monkey Vouchers\nGifts\nBag For Life\nContinue",
+              "buttons": [
+                "Continue"
+              ],
+              "has_inputs": false
+            }
+          ]
+        }
+      ],
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Shack 2",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nWraps\nKids Meals\nPinchitos\nChicken kebabs\nSnacks\nSalads\nSides\nNEW! Desserts\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nChicken in Tomato with Chips\n\u00a37.00\nPeppered Chicken with Chips\n\u00a37.00\nLentil Stew\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized o",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nWraps\nKids Meals\nPinchitos\nChicken kebabs\nSnacks\nSalads\nSides\nNEW! Desserts\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nChicken in Tomato with Chips\n\u00a37.00\nPeppered Chicken with Chips\n\u00a37.00\nLentil Stew\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats cheese and caramelized o",
+            "notices": [
+              {
+                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nWraps\nKids Meals\nPinchitos\nChicken kebabs\nSnacks\nSalads\nSides\nNEW! Desserts\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nChicken in Tomato with Chips\n\u00a37.00\nPeppered Chicken with Chips\n\u00a37.00\nLentil Stew\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with yo",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola 33cl",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +918,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-13T23:20:11.628041+01:00",
+  "last_confirmed_at": "2026-11-13T23:22:11.629243+01:00",
   "last_sample_check": {
-    "at": "2026-11-13T23:20:11.628041+01:00",
+    "at": "2026-11-13T23:22:11.629243+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
