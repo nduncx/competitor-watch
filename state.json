@@ -1,8 +1,8 @@
 {
-  "status": "closed",
-  "since": "2026-11-13T19:38:11.613852+01:00",
-  "alerted": true,
-  "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
+  "status": "open",
+  "since": "2026-11-13T19:58:11.614151+01:00",
+  "alerted": false,
+  "notice": "",
   "last_checked_date": "2026-11-13",
   "applied_recoveries": [
     "2026-09-25-missed-closure-reopening",
@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-13T19:56:11.613343+01:00",
+  "last_observed_at": "2026-11-13T19:58:11.614151+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -459,11 +459,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-11-11T22:16:41.910055+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (22:16)",
-      "delivered_at": "2026-11-11T22:17:15.260645+01:00"
-    },
     {
       "id": "2026-11-11T22:18:41.908383+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (22:18)",
@@ -958,21 +953,22 @@
       "id": "2026-11-13T19:56:11.613343+01:00:closed",
       "subject": "Hungry Monkey: 19:56 check unconfirmed - last confirmed not taking orders at 19:54",
       "delivered_at": "2026-11-13T19:57:09.050210+01:00"
+    },
+    {
+      "id": "2026-11-13T19:58:11.614151+01:00:open",
+      "subject": "Hungry Monkey is taking orders again (19:58) - basket test passed",
+      "delivered_at": "2026-11-13T19:59:10.019533+01:00"
     }
   ],
-  "recovery_streak": 1,
+  "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-13T19:54:11.612268+01:00",
+  "last_confirmed_at": "2026-11-13T19:58:11.614151+01:00",
   "last_sample_check": {
-    "at": "2026-11-13T19:56:11.613343+01:00",
+    "at": "2026-11-13T19:58:11.614151+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
-    {
-      "id": "2026-10-22T19:26:22.754678+02:00:closed",
-      "delivered_at": "2026-10-22T19:26:57.676306+02:00"
-    },
     {
       "id": "2026-10-22T19:48:22.756903+02:00:open",
       "delivered_at": "2026-10-22T19:49:29.379385+02:00"
@@ -1368,7 +1364,10 @@
     {
       "id": "2026-11-13T19:38:11.613852+01:00:closed",
       "delivered_at": "2026-11-13T19:38:48.471127+01:00"
+    },
+    {
+      "id": "2026-11-13T19:58:11.614151+01:00:open",
+      "delivered_at": "2026-11-13T19:59:10.256737+01:00"
     }
-  ],
-  "recovery_candidate_at": "2026-11-13T19:56:11.613343+01:00"
+  ]
 }
