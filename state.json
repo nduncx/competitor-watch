@@ -126,11 +126,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-11-11T22:36:41.914767+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (22:36)",
-      "delivered_at": "2026-11-11T22:37:15.367442+01:00"
-    },
-    {
       "id": "2026-11-11T22:38:41.911939+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (22:38)",
       "delivered_at": "2026-11-11T22:39:15.634916+01:00"
@@ -624,14 +619,46 @@
       "id": "2026-11-13T20:38:11.617335+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:38)",
       "delivered_at": "2026-11-13T20:38:48.320904+01:00"
+    },
+    {
+      "id": "monitor:2026-11-13T20:40:11.548928+01:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-11-13T20:41:47.010591+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
   "last_confirmed_at": "2026-11-13T20:38:11.617335+01:00",
   "last_sample_check": {
-    "at": "2026-11-13T20:38:11.617335+01:00",
-    "eligible": true
+    "at": "2026-11-13T20:40:11.615990+01:00",
+    "eligible": false,
+    "exclusions_confirmed": false,
+    "venues": [
+      {
+        "name": "Essaouira",
+        "status": "unknown"
+      },
+      {
+        "name": "Ramsons Watergardens",
+        "status": "unknown"
+      },
+      {
+        "name": "Boss Kitchen",
+        "status": "open"
+      },
+      {
+        "name": "Haagen Dazs",
+        "status": "unknown"
+      },
+      {
+        "name": "Salt n Pepper Kitchen",
+        "status": "open"
+      },
+      {
+        "name": "Special Olympics Cafe",
+        "status": "open"
+      }
+    ]
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
