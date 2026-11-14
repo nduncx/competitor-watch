@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-14T09:28:42.666828+01:00",
+  "last_observed_at": "2026-11-14T09:30:42.666424+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -63,95 +63,6 @@
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {}
-    },
-    {
-      "name": "The Portuguese Nata",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a32.50\nPopular Breaks\nEach Popular Break includes 1 drink & 1 Pastel de Nata. Make it a m",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a32.50\nPopular Breaks\nEach Popular Break includes 1 drink & 1 Pastel de Nata. Make it a m",
-            "notices": [
-              {
-                "text": "Box of 4 Past\u00e9is de Nata\n\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\n1\nAdd to order\n\u00a39.80",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a39.80"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Portuguese Nata\nBasket\nCollection or Delivery\nYour order\nBox of 4 Past\u00e9is de Nata\n\u00a39.80\n1\nSubtotal\n\u00a39.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a313.09\nAdd special instructions\nCheckout\nDiscover our signature liquor cocktails, from creamy Pastel de Nata to fruity Ginja, from \u00a35.90!\nCool down with our Signature Cream Coolersr! From Berry Crush to Cookie Cream, from just \u00a33.90!\nEnjoy our 'Popular Breaks' offer! Coffee & Pastel de Nata from 4.20!\nTop Selling Items\nPast\u00e9is de Nata\nP\u00e3o de Queijo\nPopular Breaks\nHot Drinks\nIced Drinks\nPortuguese Signature Liqueur Cocktails\nSoft Drinks\nTeas\nTop Selling Items\n1\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nFlat White + Pastel de Nata\n\u00a34.70\nIced Latte\nDouble shot espresso with cold milk and ice.\n\u00a33.30\nIced Pastel de Nata Liquor (400cc)\nIndulgent and creamy with the flavour of our iconic Pastel de Nata. The only one made with milk.\n\u00a35.90\nPast\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\nPastel de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a32.70\n1\nBox of 4 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a39.80\nBox of 6 Past\u00e9is de Nata\nA flaky Portuguese custard tart with a creamy egg-custard filling, baked until golden.\n\u00a313.20\nP\u00e3o de Queijo\nWarm, chewy Portuguese cheesy balls with a lightly crisp, golden crust.\n1 P\u00e3o de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.00\n2 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread with a lightly crisp, golden crust.\n\u00a31.80\n3 P\u00e3es de Queijo\nWarm, chewy Portuguese cheese bread wit",
-            "notices": []
-          }
-        ],
-        "item": "Box of 4 Past\u00e9is de Nata",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
     },
     {
       "name": "Laguna Bar",
@@ -328,6 +239,95 @@
           }
         ],
         "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "NAAFI Ocean Village",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover timeless elegance with our premium fragrances! Iconic brands: Paco Rabanne, Versace & more!\nHungry? Weve got you covered! Breakfast Bap & Hot Drink for only \u00a36!\nTreat yourself to a delicious muffin! Salted Caramel, Blueberry Crumble Muffins & more for just \u00a33!\nTop Selling Items\nAll-day Breakfast Meal Deal\nAll-day Breakfast Baps\nSandwiches, Paninis & Toasties\nCakes & Donuts\nChocolate Bars\nYankee Candles\nIce Cream\nSmoothies\nIced Drinks\nSoft Drinks\nCoffee & Hot Drinks\nBeers & Ciders\nSoft Toy\nFragrances\nSpirits\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPaco Rabanne One Million EDT 100ml\n\u00a380.00\nVersace Eros EDT 100ml Him\n\u00a375.00\nBOSS Infinite EDP 100ml\n\u00a390.00\nYankee Candles Signature Large Jar Midsummer Night 567g\n\u00a322.50\nYankee Candles Signature Large Jar Midnight Jasmine 567g\n\u00a322.50\nYankee Candles Signature Bayside Cedar 567g\n\u00a322.50\nYankee Candles Signature Stargazing 567g\n\u00a322.50\nOld and Rare Inchgower 15yr\n\u00a3110.00\nGlenmorangie Original 12 Years Old 1Ltr\n\u00a335.00\nAU Vodka Blue Raspberry 1L\n\u00a342.50\nAll-day Breakfast Meal Deal\nChoose your breakfast bap, add a sauce, then add your hot drink!\nBreakfast Bap & Hot Drink for \u00a36!\n\u00a36.00\nAll-day Breakfast Baps\nSausage Bap\nPork Sausages served inside a floured Bap\n\u00a33.95\nBacon Bap\nStreaky Bacon served inside a floured Bap\n\u00a33.95\nSandwiches, Paninis & Toasties\nHam Cheese & Pickle Sandwich Baguette\nWhite sandwich baguette filled with sliced ham and cheese with Branston pickle\n\u00a34.75\nChicken Tikka Sandwich Baguette\nWhite sandwich baguette filled with sliced chicken & Tikka sauce\n\u00a34.75\nBLT Sandwich Baguette\nWhite sandwich baguette filled with bacon, lettuce & tomato slices\n\u00a34.75\nTuna Mayo & Sweetcorn Sandwich ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover timeless elegance with our premium fragrances! Iconic brands: Paco Rabanne, Versace & more!\nHungry? Weve got you covered! Breakfast Bap & Hot Drink for only \u00a36!\nTreat yourself to a delicious muffin! Salted Caramel, Blueberry Crumble Muffins & more for just \u00a33!\nTop Selling Items\nAll-day Breakfast Meal Deal\nAll-day Breakfast Baps\nSandwiches, Paninis & Toasties\nCakes & Donuts\nChocolate Bars\nYankee Candles\nIce Cream\nSmoothies\nIced Drinks\nSoft Drinks\nCoffee & Hot Drinks\nBeers & Ciders\nSoft Toy\nFragrances\nSpirits\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPaco Rabanne One Million EDT 100ml\n\u00a380.00\nVersace Eros EDT 100ml Him\n\u00a375.00\nBOSS Infinite EDP 100ml\n\u00a390.00\nYankee Candles Signature Large Jar Midsummer Night 567g\n\u00a322.50\nYankee Candles Signature Large Jar Midnight Jasmine 567g\n\u00a322.50\nYankee Candles Signature Bayside Cedar 567g\n\u00a322.50\nYankee Candles Signature Stargazing 567g\n\u00a322.50\nOld and Rare Inchgower 15yr\n\u00a3110.00\nGlenmorangie Original 12 Years Old 1Ltr\n\u00a335.00\nAU Vodka Blue Raspberry 1L\n\u00a342.50\nAll-day Breakfast Meal Deal\nChoose your breakfast bap, add a sauce, then add your hot drink!\nBreakfast Bap & Hot Drink for \u00a36!\n\u00a36.00\nAll-day Breakfast Baps\nSausage Bap\nPork Sausages served inside a floured Bap\n\u00a33.95\nBacon Bap\nStreaky Bacon served inside a floured Bap\n\u00a33.95\nSandwiches, Paninis & Toasties\nHam Cheese & Pickle Sandwich Baguette\nWhite sandwich baguette filled with sliced ham and cheese with Branston pickle\n\u00a34.75\nChicken Tikka Sandwich Baguette\nWhite sandwich baguette filled with sliced chicken & Tikka sauce\n\u00a34.75\nBLT Sandwich Baguette\nWhite sandwich baguette filled with bacon, lettuce & tomato slices\n\u00a34.75\nTuna Mayo & Sweetcorn Sandwich ",
+            "notices": [
+              {
+                "text": "Coca Cola 500ml\n1\nAdd to order\n\u00a32.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola 500ml\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nDiscover timeless elegance with our premium fragrances! Iconic brands: Paco Rabanne, Versace & more!\nHungry? Weve got you covered! Breakfast Bap & Hot Drink for only \u00a36!\nTreat yourself to a delicious muffin! Salted Caramel, Blueberry Crumble Muffins & more for just \u00a33!\nTop Selling Items\nAll-day Breakfast Meal Deal\nAll-day Breakfast Baps\nSandwiches, Paninis & Toasties\nCakes & Donuts\nChocolate Bars\nYankee Candles\nIce Cream\nSmoothies\nIced Drinks\nSoft Drinks\nCoffee & Hot Drinks\nBeers & Ciders\nSoft Toy\nFragrances\nSpirits\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPaco Rabanne One Million EDT 100ml\n\u00a380.00\nVersace Eros EDT 100ml Him\n\u00a375.00\nBOSS Infinite EDP 100ml\n\u00a390.00\nYankee Candles Signature Large Jar Midsummer Night 567g\n\u00a322.50\nYankee Candles Signature Large Jar Midnight Jasmine 567g\n\u00a322.50\nYankee Candles Signature Bayside Cedar 567g\n\u00a322.50\nYankee Candles Signature Stargazing 567g\n\u00a322.50\nOld and Rare Inchgower 15yr\n\u00a3110.00\nGlenmorangie Original 12 Years Old 1Ltr\n\u00a335.00\nAU Vodka Blue Raspberry 1L\n\u00a342.50\nAll-day Breakfast Meal Deal\nChoose your breakfast bap, add a sauce, then add your hot drink!\nBreakfast Bap & Hot Drink for \u00a36!\n\u00a36.00\nAll-day Breakfast Baps\nSausage Bap\nPork Sausages served inside a floured Bap\n\u00a33.95\nBacon Bap\nStreaky Bacon served inside a floured Bap\n\u00a33.95\nSandwiches, Paninis & Toasties\nHam Cheese & Pickle Sandwich Baguette\nWhite sandwich baguette filled with sliced ham and cheese with Branston pickle\n\u00a34.75\nChicken Tikka Sandwich Baguette\nWhite sandwich baguette filled with sliced chicken & Tikka sauce\n\u00a34.75\nBLT Sandwich Baguet",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola 500ml",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -836,9 +836,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-14T09:28:42.666828+01:00",
+  "last_confirmed_at": "2026-11-14T09:30:42.666424+01:00",
   "last_sample_check": {
-    "at": "2026-11-14T09:28:42.666828+01:00",
+    "at": "2026-11-14T09:30:42.666424+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
