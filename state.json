@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-14T12:58:42.681904+01:00",
+  "last_observed_at": "2026-11-14T13:00:42.680827+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,192 +176,6 @@
       }
     },
     {
-      "name": "NAAFI Ocean Village",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover timeless elegance with our premium fragrances! Iconic brands: Paco Rabanne, Versace & more!\nHungry? Weve got you covered! Breakfast Bap & Hot Drink for only \u00a36!\nTreat yourself to a delicious muffin! Salted Caramel, Blueberry Crumble Muffins & more for just \u00a33!\nTop Selling Items\nAll-day Breakfast Meal Deal\nAll-day Breakfast Baps\nSandwiches, Paninis & Toasties\nCakes & Donuts\nChocolate Bars\nYankee Candles\nIce Cream\nSmoothies\nIced Drinks\nSoft Drinks\nCoffee & Hot Drinks\nBeers & Ciders\nSoft Toy\nFragrances\nSpirits\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPaco Rabanne One Million EDT 100ml\n\u00a380.00\nVersace Eros EDT 100ml Him\n\u00a375.00\nBOSS Infinite EDP 100ml\n\u00a390.00\nYankee Candles Signature Large Jar Midsummer Night 567g\n\u00a322.50\nYankee Candles Signature Large Jar Midnight Jasmine 567g\n\u00a322.50\nYankee Candles Signature Bayside Cedar 567g\n\u00a322.50\nYankee Candles Signature Stargazing 567g\n\u00a322.50\nOld and Rare Inchgower 15yr\n\u00a3110.00\nGlenmorangie Original 12 Years Old 1Ltr\n\u00a335.00\nAU Vodka Blue Raspberry 1L\n\u00a342.50\nAll-day Breakfast Meal Deal\nChoose your breakfast bap, add a sauce, then add your hot drink!\nBreakfast Bap & Hot Drink for \u00a36!\n\u00a36.00\nAll-day Breakfast Baps\nSausage Bap\nPork Sausages served inside a floured Bap\n\u00a33.95\nBacon Bap\nStreaky Bacon served inside a floured Bap\n\u00a33.95\nSandwiches, Paninis & Toasties\nHam Cheese & Pickle Sandwich Baguette\nWhite sandwich baguette filled with sliced ham and cheese with Branston pickle\n\u00a34.75\nChicken Tikka Sandwich Baguette\nWhite sandwich baguette filled with sliced chicken & Tikka sauce\n\u00a34.75\nBLT Sandwich Baguette\nWhite sandwich baguette filled with bacon, lettuce & tomato slices\n\u00a34.75\nTuna Mayo & Sweetcorn Sandwich ",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover timeless elegance with our premium fragrances! Iconic brands: Paco Rabanne, Versace & more!\nHungry? Weve got you covered! Breakfast Bap & Hot Drink for only \u00a36!\nTreat yourself to a delicious muffin! Salted Caramel, Blueberry Crumble Muffins & more for just \u00a33!\nTop Selling Items\nAll-day Breakfast Meal Deal\nAll-day Breakfast Baps\nSandwiches, Paninis & Toasties\nCakes & Donuts\nChocolate Bars\nYankee Candles\nIce Cream\nSmoothies\nIced Drinks\nSoft Drinks\nCoffee & Hot Drinks\nBeers & Ciders\nSoft Toy\nFragrances\nSpirits\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPaco Rabanne One Million EDT 100ml\n\u00a380.00\nVersace Eros EDT 100ml Him\n\u00a375.00\nBOSS Infinite EDP 100ml\n\u00a390.00\nYankee Candles Signature Large Jar Midsummer Night 567g\n\u00a322.50\nYankee Candles Signature Large Jar Midnight Jasmine 567g\n\u00a322.50\nYankee Candles Signature Bayside Cedar 567g\n\u00a322.50\nYankee Candles Signature Stargazing 567g\n\u00a322.50\nOld and Rare Inchgower 15yr\n\u00a3110.00\nGlenmorangie Original 12 Years Old 1Ltr\n\u00a335.00\nAU Vodka Blue Raspberry 1L\n\u00a342.50\nAll-day Breakfast Meal Deal\nChoose your breakfast bap, add a sauce, then add your hot drink!\nBreakfast Bap & Hot Drink for \u00a36!\n\u00a36.00\nAll-day Breakfast Baps\nSausage Bap\nPork Sausages served inside a floured Bap\n\u00a33.95\nBacon Bap\nStreaky Bacon served inside a floured Bap\n\u00a33.95\nSandwiches, Paninis & Toasties\nHam Cheese & Pickle Sandwich Baguette\nWhite sandwich baguette filled with sliced ham and cheese with Branston pickle\n\u00a34.75\nChicken Tikka Sandwich Baguette\nWhite sandwich baguette filled with sliced chicken & Tikka sauce\n\u00a34.75\nBLT Sandwich Baguette\nWhite sandwich baguette filled with bacon, lettuce & tomato slices\n\u00a34.75\nTuna Mayo & Sweetcorn Sandwich ",
-            "notices": [
-              {
-                "text": "Coca Cola 500ml\n1\nAdd to order\n\u00a32.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola 500ml\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nDiscover timeless elegance with our premium fragrances! Iconic brands: Paco Rabanne, Versace & more!\nHungry? Weve got you covered! Breakfast Bap & Hot Drink for only \u00a36!\nTreat yourself to a delicious muffin! Salted Caramel, Blueberry Crumble Muffins & more for just \u00a33!\nTop Selling Items\nAll-day Breakfast Meal Deal\nAll-day Breakfast Baps\nSandwiches, Paninis & Toasties\nCakes & Donuts\nChocolate Bars\nYankee Candles\nIce Cream\nSmoothies\nIced Drinks\nSoft Drinks\nCoffee & Hot Drinks\nBeers & Ciders\nSoft Toy\nFragrances\nSpirits\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPaco Rabanne One Million EDT 100ml\n\u00a380.00\nVersace Eros EDT 100ml Him\n\u00a375.00\nBOSS Infinite EDP 100ml\n\u00a390.00\nYankee Candles Signature Large Jar Midsummer Night 567g\n\u00a322.50\nYankee Candles Signature Large Jar Midnight Jasmine 567g\n\u00a322.50\nYankee Candles Signature Bayside Cedar 567g\n\u00a322.50\nYankee Candles Signature Stargazing 567g\n\u00a322.50\nOld and Rare Inchgower 15yr\n\u00a3110.00\nGlenmorangie Original 12 Years Old 1Ltr\n\u00a335.00\nAU Vodka Blue Raspberry 1L\n\u00a342.50\nAll-day Breakfast Meal Deal\nChoose your breakfast bap, add a sauce, then add your hot drink!\nBreakfast Bap & Hot Drink for \u00a36!\n\u00a36.00\nAll-day Breakfast Baps\nSausage Bap\nPork Sausages served inside a floured Bap\n\u00a33.95\nBacon Bap\nStreaky Bacon served inside a floured Bap\n\u00a33.95\nSandwiches, Paninis & Toasties\nHam Cheese & Pickle Sandwich Baguette\nWhite sandwich baguette filled with sliced ham and cheese with Branston pickle\n\u00a34.75\nChicken Tikka Sandwich Baguette\nWhite sandwich baguette filled with sliced chicken & Tikka sauce\n\u00a34.75\nBLT Sandwich Baguet",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola 500ml",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Vinopolis Drinks & Wines",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "",
-              "buttons": [],
-              "has_inputs": false
-            },
-            {
-              "text": "Alcohol Awareness\nPlease be aware you need to be 18 years old or over to purchase this product. If you cannot prove your age upon collection you may not be able to collect your purchase\nContinue",
-              "buttons": [
-                "Continue"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": false,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSavor the rich taste of Glen Moray Classic for \u00a324.70! The perfect pour for every evening.\nSavor the fresh and lively Torres Moscatel Floralis for only \u00a310.25!\nTop Selling Items\nVermouth\nChampagne\nBritish Sparkling\nProsecco\nWhite Wines\nRose Wines\nRed Wines\nSweet Wines\nSherry and Port\nGin\nWhisky\nRum\nVodka\nCognac\nBrandy\nOther Spirits & Liqueurs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMontecillo Reserva\nRioja, Spain\n\u00a316.80\nYellow Tail Merlot\nAustralia\n\u00a312.90\nCasal Garcia Blanco Vinho Verde\nPortugal\n\u00a36.36\nSeptima Malbec\nMendoza Argentina\n\u00a321.30\nMarques de Caceres Reserva\nRioja, Spain\n\u00a318.00\nVermouth\nCinzano Rosso\n1 Litre\n\u00a310.80\nCinzano 1757 Dry vermouth\n1 Litre\n\u00a317.50\nChampagne\nLanson Brut Champagne\n\u00a348.70\nLanson Rose Champagne\n\u00a376.00\nMoet & Chandon Brut Champagne\n\u00a364.50\nMoet Chandon Rose Champagne\n\u00a363.50\nBesserat De Bellefon Cuvee Des Moines Brut Champagne\n\u00a356.20\nBesserat de Bellefon Cuvee Des Moines Sec Gold Champagne\n\u00a362.00\nLaurent Perrier Rose Champagne\n\u00a3113.50\nLouis Roederer Brut Champagne\n\u00a360.00\nBesserat de Bellefon Cuvee Des Moines Rose Champagne\n\u00a359.00\nBritish Sparkling\nWyfold British Sparking\nUK\n\u00a332.40\nProsecco\nGemma Di Luna Moscato Sparkling\nItaly\n\u00a39.95\nVoga Prosecco\nItaly\n\u00a311.60\nTeresa Rizzi Prosecco\nItaly\n\u00a311.03\nLamberti Prosecco extra dry\n\u00a39.80\nWhite Wines\nYellow Tail Chardonnay\nAustralia\n\u00a312.90\nSunday Bay Sauvignon Blanc\nNew Zealand\n\u00a316.20\nFortant Sauvignon Blanc\nFrance\n\u00a38.40\nLe Grand Chai Bordeaux Blanc\nFrance\n\u00a311.70\nPierre Brecht Riesling, Alsace\nFrance\n\u00a317.90\nVoga Moscato Frizzante\nItaly\n\u00a39.10\nVoga Pinot Grigio\nItaly\n\u00a39.40\nCa Montini Pinot Grigio\nTrentino, Italy\n\u00a312.40\nBolla Pinot Grigio Delle Venezie\nVeneto, Italy\n\u00a39.00\nFontana",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nSavor the rich taste of Glen Moray Classic for \u00a324.70! The perfect pour for every evening.\nSavor the fresh and lively Torres Moscatel Floralis for only \u00a310.25!\nTop Selling Items\nVermouth\nChampagne\nBritish Sparkling\nProsecco\nWhite Wines\nRose Wines\nRed Wines\nSweet Wines\nSherry and Port\nGin\nWhisky\nRum\nVodka\nCognac\nBrandy\nOther Spirits & Liqueurs\nTop Selling Items\nA quick look at our top sellers chosen by you!\nMontecillo Reserva\nRioja, Spain\n\u00a316.80\nYellow Tail Merlot\nAustralia\n\u00a312.90\nCasal Garcia Blanco Vinho Verde\nPortugal\n\u00a36.36\nSeptima Malbec\nMendoza Argentina\n\u00a321.30\nMarques de Caceres Reserva\nRioja, Spain\n\u00a318.00\nVermouth\nCinzano Rosso\n1 Litre\n\u00a310.80\nCinzano 1757 Dry vermouth\n1 Litre\n\u00a317.50\nChampagne\nLanson Brut Champagne\n\u00a348.70\nLanson Rose Champagne\n\u00a376.00\nMoet & Chandon Brut Champagne\n\u00a364.50\nMoet Chandon Rose Champagne\n\u00a363.50\nBesserat De Bellefon Cuvee Des Moines Brut Champagne\n\u00a356.20\nBesserat de Bellefon Cuvee Des Moines Sec Gold Champagne\n\u00a362.00\nLaurent Perrier Rose Champagne\n\u00a3113.50\nLouis Roederer Brut Champagne\n\u00a360.00\nBesserat de Bellefon Cuvee Des Moines Rose Champagne\n\u00a359.00\nBritish Sparkling\nWyfold British Sparking\nUK\n\u00a332.40\nProsecco\nGemma Di Luna Moscato Sparkling\nItaly\n\u00a39.95\nVoga Prosecco\nItaly\n\u00a311.60\nTeresa Rizzi Prosecco\nItaly\n\u00a311.03\nLamberti Prosecco extra dry\n\u00a39.80\nWhite Wines\nYellow Tail Chardonnay\nAustralia\n\u00a312.90\nSunday Bay Sauvignon Blanc\nNew Zealand\n\u00a316.20\nFortant Sauvignon Blanc\nFrance\n\u00a38.40\nLe Grand Chai Bordeaux Blanc\nFrance\n\u00a311.70\nPierre Brecht Riesling, Alsace\nFrance\n\u00a317.90\nVoga Moscato Frizzante\nItaly\n\u00a39.10\nVoga Pinot Grigio\nItaly\n\u00a39.40\nCa Montini Pinot Grigio\nTrentino, Italy\n\u00a312.40\nBolla Pinot Grigio Delle Venezie\nVeneto, Italy\n\u00a39.00\nFontana",
-            "notices": [
-              {
-                "text": "Montecillo Reserva\n\nRioja, Spain\n\n1\nAdd to order\n\u00a316.80",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a316.80"
-                ],
-                "has_inputs": false
-              }
-            ]
-          }
-        ],
-        "item": "Montecillo Reserva",
-        "reason": "notices or ordering unavailable after adding"
-      }
-    },
-    {
       "name": "Sanu Brunch & Co",
       "status": "open",
       "notice": "",
@@ -447,6 +261,95 @@
           }
         ],
         "item": "Chicken Strips",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Cafe Louis",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nTop Selling Items\nBreakfast Menu\nLunch Sandwiches\nWaffles & Other Sweets\nCoffee & Tea\nSalads\nCakes & Desserts\nViennoiserie & Danish Pastry\nSoft Drinks\nEnd of the Day Mystery Boxes\nBreads\nCoffee & Tea (Delta Go-Chill)\nTea\nJuices\nWater\nWines\nBeers & Ciders\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nBreakfast Menu\nCroissants & Preserves, Home-made Toasted Croissants, Butter & Jam\n\u00a34.30\nSmoked Salmon, Herbed Cream Cheese & Cucumber Sandwich\n\u00a36.75\nToast & Preserves, Home-made Bread, Butter & Jam\n\u00a33.60\nHam & Mozzarella Croissant Slice\n\u00a35.70\nBoiled Egg, Mexican Style Guacamole & Tomato Sandwich\n\u00a35.60\nSmoked Salmon, Herbed Cream Cheese & Cucumber Sandwich\n\u00a36.75\nHam & Emmental Cheese Waffle\n\u00a35.50\nScrambled Eggs & Bacon with Maple Syrup Waffle\n\u00a35.80\nHam & Cheddar Cheese Sandwich\n\u00a35.30\nScrambled Eggs, Bacon & Cheese Bun\n\u00a35.80\nJam\u00f3n Serrano & parmesan cheese\nJam\u00f3n serrano, parmesan cheese and olive o\u00edl in a wholemeal baguette\nOut of stock\nLunch Sandwiches\nTuna salad\nTuna, boiled egg, salad cress, mayonnaise, Dijon mustard, red onion, sandwich.\n\u00a36.20\nThe Norwegian\nSmoked salmon, dill cream cheese, pickles, capers, red onion, rocket, baguette\n\u00a37.50\nPloughman's\nCheddar cheese Branston pickle, lettuce, apple sauce, sandwich\n\u00a35.50\nThe Coronation\nChicken, spinach, mango mint chutney, mayonnaise curry spread, toasted cashews",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nTop Selling Items\nBreakfast Menu\nLunch Sandwiches\nWaffles & Other Sweets\nCoffee & Tea\nSalads\nCakes & Desserts\nViennoiserie & Danish Pastry\nSoft Drinks\nEnd of the Day Mystery Boxes\nBreads\nCoffee & Tea (Delta Go-Chill)\nTea\nJuices\nWater\nWines\nBeers & Ciders\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nBreakfast Menu\nCroissants & Preserves, Home-made Toasted Croissants, Butter & Jam\n\u00a34.30\nSmoked Salmon, Herbed Cream Cheese & Cucumber Sandwich\n\u00a36.75\nToast & Preserves, Home-made Bread, Butter & Jam\n\u00a33.60\nHam & Mozzarella Croissant Slice\n\u00a35.70\nBoiled Egg, Mexican Style Guacamole & Tomato Sandwich\n\u00a35.60\nSmoked Salmon, Herbed Cream Cheese & Cucumber Sandwich\n\u00a36.75\nHam & Emmental Cheese Waffle\n\u00a35.50\nScrambled Eggs & Bacon with Maple Syrup Waffle\n\u00a35.80\nHam & Cheddar Cheese Sandwich\n\u00a35.30\nScrambled Eggs, Bacon & Cheese Bun\n\u00a35.80\nJam\u00f3n Serrano & parmesan cheese\nJam\u00f3n serrano, parmesan cheese and olive o\u00edl in a wholemeal baguette\nOut of stock\nLunch Sandwiches\nTuna salad\nTuna, boiled egg, salad cress, mayonnaise, Dijon mustard, red onion, sandwich.\n\u00a36.20\nThe Norwegian\nSmoked salmon, dill cream cheese, pickles, capers, red onion, rocket, baguette\n\u00a37.50\nPloughman's\nCheddar cheese Branston pickle, lettuce, apple sauce, sandwich\n\u00a35.50\nThe Coronation\nChicken, spinach, mango mint chutney, mayonnaise curry spread, toasted cashews",
+            "notices": [
+              {
+                "text": "Coke\n\nCan\n\n1\nAdd to order\n\u00a32.30",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a32.30"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.30\n1\nSubtotal\n\u00a32.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.59\nAdd special instructions\nCheckout\nDon't miss out our End of the Day Mystery Boxes from just \u00a35 - surprise yourself with a great deal!\nCraving something sweet? Treat yourself to our Waffles, doughnuts & more only from \u00a32.50!\nTop Selling Items\nBreakfast Menu\nLunch Sandwiches\nWaffles & Other Sweets\nCoffee & Tea\nSalads\nCakes & Desserts\nViennoiserie & Danish Pastry\nSoft Drinks\nEnd of the Day Mystery Boxes\nBreads\nCoffee & Tea (Delta Go-Chill)\nTea\nJuices\nWater\nWines\nBeers & Ciders\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nPlain Croissant\n\u00a32.95\nCiabatta\n\u00a30.90\nClub Sandwich\nChicken breast, bacon, lettuce, tomato slice, mayonnaise\n\u00a36.30\nPlain Sourdough 1kg\n\u00a36.75\nBreakfast Menu\nCroissants & Preserves, Home-made Toasted Croissants, Butter & Jam\n\u00a34.30\nSmoked Salmon, Herbed Cream Cheese & Cucumber Sandwich\n\u00a36.75\nToast & Preserves, Home-made Bread, Butter & Jam\n\u00a33.60\nHam & Mozzarella Croissant Slice\n\u00a35.70\nBoiled Egg, Mexican Style Guacamole & Tomato Sandwich\n\u00a35.60\nSmoked Salmon, Herbed Cream Cheese & Cucumber Sandwich\n\u00a36.75\nHam & Emmental Cheese Waffle\n\u00a35.50\nScrambled Eggs & Bacon with Maple Syrup Waffle\n\u00a35.80\nHam & Cheddar Cheese Sandwich\n\u00a35.30\nScrambled Eggs, Bacon & Cheese Bun\n\u00a35.80\nJam\u00f3n Serrano & parmesan cheese\nJam\u00f3n serrano, parmesan cheese and olive o\u00edl in a wholemeal baguette\nOut of stock\nLunch Sandwiches\nTuna salad\nTuna, boiled egg, salad cress, mayonnaise, Dijon mustard, red onion, sandwich.\n\u00a36.20\nThe Norwegian\nSmoked salmon, dill cream cheese, pickles, capers, red onion, rocket, baguette\n\u00a37.50\nPloughman's\nCheddar cheese Branston pickle, lettuce, apple sauce, sandwich\n\u00a35.",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -955,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-14T12:58:42.681904+01:00",
+  "last_confirmed_at": "2026-11-14T13:00:42.680827+01:00",
   "last_sample_check": {
-    "at": "2026-11-14T12:58:42.681904+01:00",
+    "at": "2026-11-14T13:00:42.680827+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
