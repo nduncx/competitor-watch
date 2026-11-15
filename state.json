@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-15T21:57:32.117981+01:00",
+  "last_observed_at": "2026-11-15T21:59:32.118103+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -177,8 +177,8 @@
     },
     {
       "name": "Freska E1 - Devils Tower",
-      "status": "open",
-      "notice": "",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
       "notice_transcript": [
         {
           "step": 0,
@@ -219,53 +219,172 @@
         {
           "step": 2,
           "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBig flavours, juicy bites, discover your favourite Burgers - served from 12pm only from \u00a314.45!\nSatisfy your cravings with our delicious Mains from \u00a314.00! Served from 12pm.\nTop Selling Items\nSunday Roast - Served from 12.30pm till 3pm\nFull English Breakfasts - Served until 12pm\nBreakfast Baps - Served until 12pm\nBreakfast Egg Muffin - Served until 12pm\nBreakfast Granola Sundae - Served until 12pm\nBreakfast Omelette - Served until 12pm\nFresKa Fit Breakfast Combo - Served until 12pm\nBreakfast Toast / Bread - Served until 12pm\nTraditional Breakfast Pancakes - Served until 12pm\nBreakfast Waffles - Served until 12pm\nStarters - Served from 12pm\nWraps - Served from 12pm\nPaninis - Served from 12pm\nJacket Potato - Served from 12pm\nSalads - Served from 12pm\nMains - Served from 12pm\nBurgers - Served from 12pm\nKids Menu - Served from 12pm\nSide Order - Served from 12pm\nDesserts\nHot Drinks\nHot Specials\nSmoothies/Milkshakes (Available from 8.15am until 5.30pm)\nFrappes\nTeas & infusion\nSoft Drinks\nBeers /Cider\nRed Wines\nWhite Wines\nRose Wines\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheesecake of the day\nServed with Cream\n\u00a36.50\nDairyGluten\nBrownie with Walnuts\nServed with Cream\n\u00a36.50\nGlutenNuts\nTiramisu\nServed with Cream or Ice Cream\n\u00a36.50\nDairyGluten\nGluten Free Carrot Cake\nServed with Cream or Ice Cream\n\u00a37.30\nBanoffee Pie\nServed with Cream or Ice Cream\n\u00a36.50\nDairyGluten\nSunday Roast - Served from 12.30pm till 3pm\nSunday Roast\nRoast Chicken\nServed with roast potaotes, vegetables, pigs in blankets.cauliflower & cheese, Yorkshire pudding & gravy\n\u00a315.90\nRoast Beef\nServed with roast potaotes, vegetables, pigs in blankets.cauliflower & cheese, Yor",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBig flavours, juicy bites, discover your favourite Burgers - served from 12pm only from \u00a314.45!\nSatisfy your cravings with our delicious Mains from \u00a314.00! Served from 12pm.\nTop Selling Items\nSunday Roast - Served from 12.30pm till 3pm\nFull English Breakfasts - Served until 12pm\nBreakfast Baps - Served until 12pm\nBreakfast Egg Muffin - Served until 12pm\nBreakfast Granola Sundae - Served until 12pm\nBreakfast Omelette - Served until 12pm\nFresKa Fit Breakfast Combo - Served until 12pm\nBreakfast Toast / Bread - Served until 12pm\nTraditional Breakfast Pancakes - Served until 12pm\nBreakfast Waffles - Served until 12pm\nStarters - Served from 12pm\nWraps - Served from 12pm\nPaninis - Served from 12pm\nJacket Potato - Served from 12pm\nSalads - Served from 12pm\nMains - Served from 12pm\nBurgers - Served from 12pm\nKids Menu - Served from 12pm\nSide Order - Served from 12pm\nDesserts\nHot Drinks\nHot Specials\nSmoothies/Milkshakes (Available from 8.15am until 5.30pm)\nFrappes\nTeas & infusion\nSoft Drinks\nBeers /Cider\nRed Wines\nWhite Wines\nRose Wines\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheesecake of the day\nServed with Cream\n\u00a36.50\nDairyGluten\nBrownie with Walnuts\nServed with Cream\n\u00a36.50\nGlutenNuts\nTiramisu\nServed with Cream or Ice Cream\n\u00a36.50\nDairyGluten\nGluten Free Carrot Cake\nServed with Cream or Ice Cream\n\u00a37.30\nBanoffee Pie\nServed with Cream or Ice Cream\n\u00a36.50\nDairyGluten\nSunday Roast - Served from 12.30pm till 3pm\nSunday Roast\nRoast Chicken\nServed with roast potaotes, vegetables, pigs in blankets.cauliflower & cheese, Yorkshire pudding & gravy\n\u00a315.90\nRoast Beef\nServed with roast potaotes, vegetables, pigs in blankets.cauliflower & cheese, Yor",
-            "notices": [
-              {
-                "text": "Coke\n\nCan (330ml)\n\n1\nAdd to order\n\u00a32.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nBig flavours, juicy bites, discover your favourite Burgers - served from 12pm only from \u00a314.45!\nSatisfy your cravings with our delicious Mains from \u00a314.00! Served from 12pm.\nTop Selling Items\nSunday Roast - Served from 12.30pm till 3pm\nFull English Breakfasts - Served until 12pm\nBreakfast Baps - Served until 12pm\nBreakfast Egg Muffin - Served until 12pm\nBreakfast Granola Sundae - Served until 12pm\nBreakfast Omelette - Served until 12pm\nFresKa Fit Breakfast Combo - Served until 12pm\nBreakfast Toast / Bread - Served until 12pm\nTraditional Breakfast Pancakes - Served until 12pm\nBreakfast Waffles - Served until 12pm\nStarters - Served from 12pm\nWraps - Served from 12pm\nPaninis - Served from 12pm\nJacket Potato - Served from 12pm\nSalads - Served from 12pm\nMains - Served from 12pm\nBurgers - Served from 12pm\nKids Menu - Served from 12pm\nSide Order - Served from 12pm\nDesserts\nHot Drinks\nHot Specials\nSmoothies/Milkshakes (Available from 8.15am until 5.30pm)\nFrappes\nTeas & infusion\nSoft Drinks\nBeers /Cider\nRed Wines\nWhite Wines\nRose Wines\nSparkling Wine\nTop Selling Items\nA quick look at our top sellers chosen by you!\nCheesecake of the day\nServed with Cream\n\u00a36.50\nDairyGluten\nBrownie with Walnuts\nServed with Cream\n\u00a36.50\nGlutenNuts\nTiramisu\nServed with Cream or Ice Cream\n\u00a36.50\nDairyGluten\nGluten Free Carrot Cake\nServed with Cream or Ice Cream\n\u00a37.30\nBanoffee Pie\nServed with Cream or Ice Cream\n\u00a36.50\nDairyGluten\nSunday Roast - Served from 12.30pm till 3pm\nSunday Roast\nRoast Chicken\nServed with roast potaotes, vegetables, pigs in blankets.cauliflower & cheese, Yorkshire pudding & gravy\n\u00a315.",
-            "notices": []
-          }
-        ],
-        "item": "Coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
+      "basket_probe": {}
     },
     {
       "name": "Los Olivillos Grill",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Southern Chicken Plaza",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "The Arena",
+      "status": "venue_closed",
+      "notice": "We are currently closed but you can still pre-order.",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "Pollo Hermano's & Pollo Loco",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -324,20 +443,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast for the family! Chicken, Family Fries, Croquettes, Alioli, Bread & Drink (2L) for \u00a329.50!\nTry our Special Deals! BBQ Roast Chicken Sandwich + Fries & Drink for \u00a37.50!\nTop Selling Items\nChicken Meal Deals\nRoast Chicken Sandwich\nSpecial Meal Deal\nBurgers and Grill\nChicken\nGolden Fries and Sides\nSauces\nHomemade Dishes\nDesserts\nDrinks\nRoast Chicken Sandwich Meal Deals for \u00a37.50!\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAfricano\nGrilled Loin or Chicken, Grilled Onion, Mayonnaise\n\u00a36.00\nMeatballs\nOut of stock\nSpanish Tortilla\n\u00a37.50\nNew! Cocido Croquettes\nChoose Half or Full Portion from \u00a35.50\n\u00a35.50\nTriple Chocolate Cake\n\u00a34.00\nChicken Meal Deals\nAvailable from 12pm\nChicken + Family Fries + Croquettes + Alioli + Bread + Soft Drink (2L)\n\u00a329.50\nWhole Chicken + Medium Fries + Choice of Salad + Alioli + Bread\n\u00a324.00\n2 Whole Chickens + Family Fries + Alioli + Bread + Soft Drink (2L)\n\u00a335.00\nWhole Chicken + Medium Fries + Alioli\n\u00a319.00\nWhole Chicken + Spanish Omelette + peppers + Alioli + bread + Soft Drink (2L)\n\u00a330.50\nRoast Chicken Sandwich\nRoast Chicken Sandwich (plain)\nBocadillo de pollo asado solo\n\u00a35.50\nBBQ Roast Chicken Sandwich\nBocadillo de pollo asado barbacoa\n\u00a35.50\nRoast Chicken Sandwich with Mayonnaise\nBocadillo de pollo asado mallonesa\n\u00a35.50\nRoast Chicken Sandwich with Spicy Sauce\nBocadillo de pollo asado con picante\n\u00a35.50\nRoast Chicken Sandwich with Ketchup\nBocadillo de pollo asado k\u00e9tchup\n\u00a35.50\nSpecial Meal Deal\nAvailable from 12pm\nSpecial Meal Deal 1! Half Chicken + Small Fries & Soft Drink for \u00a310!\nHalf Chicken + Small Fries + Soft Drink (Can)\n\u00a310.00\nSpecial Meal Deal 2! Half Chicken + Rice + Vegetables + Soft Drink for \u00a311!\nHalf Chicken ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast on a Whole Chicken, Large Chips, Alioli & 2L Pepsi - all for just \u00a319.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35.70!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a319.50\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\nAfricano\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.70, wrap \u00a36.20 or combo \u00a37.00\n\u00a35.70\nTikka\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a319.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a319.00\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a319.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a319.50\nMini Cordon Bleu\nper unit\n\u00a31.00\nKids Meal - Nuggets and Chips\n\u00a35.00\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a319.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a319.50\nMenu Offer Pepsi\nIncludes: Whole Chicken + Large Chips + Alioli + 2L Pepsi.\n\u00a319.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.70, wrap \u00a36.20 or combo \u00a37.00\n\u00a35.70\nPlain\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nGarlic\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nAfricano\nRoll \u00a34.80, w",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast for the family! Chicken, Family Fries, Croquettes, Alioli, Bread & Drink (2L) for \u00a329.50!\nTry our Special Deals! BBQ Roast Chicken Sandwich + Fries & Drink for \u00a37.50!\nTop Selling Items\nChicken Meal Deals\nRoast Chicken Sandwich\nSpecial Meal Deal\nBurgers and Grill\nChicken\nGolden Fries and Sides\nSauces\nHomemade Dishes\nDesserts\nDrinks\nRoast Chicken Sandwich Meal Deals for \u00a37.50!\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAfricano\nGrilled Loin or Chicken, Grilled Onion, Mayonnaise\n\u00a36.00\nMeatballs\nOut of stock\nSpanish Tortilla\n\u00a37.50\nNew! Cocido Croquettes\nChoose Half or Full Portion from \u00a35.50\n\u00a35.50\nTriple Chocolate Cake\n\u00a34.00\nChicken Meal Deals\nAvailable from 12pm\nChicken + Family Fries + Croquettes + Alioli + Bread + Soft Drink (2L)\n\u00a329.50\nWhole Chicken + Medium Fries + Choice of Salad + Alioli + Bread\n\u00a324.00\n2 Whole Chickens + Family Fries + Alioli + Bread + Soft Drink (2L)\n\u00a335.00\nWhole Chicken + Medium Fries + Alioli\n\u00a319.00\nWhole Chicken + Spanish Omelette + peppers + Alioli + bread + Soft Drink (2L)\n\u00a330.50\nRoast Chicken Sandwich\nRoast Chicken Sandwich (plain)\nBocadillo de pollo asado solo\n\u00a35.50\nBBQ Roast Chicken Sandwich\nBocadillo de pollo asado barbacoa\n\u00a35.50\nRoast Chicken Sandwich with Mayonnaise\nBocadillo de pollo asado mallonesa\n\u00a35.50\nRoast Chicken Sandwich with Spicy Sauce\nBocadillo de pollo asado con picante\n\u00a35.50\nRoast Chicken Sandwich with Ketchup\nBocadillo de pollo asado k\u00e9tchup\n\u00a35.50\nSpecial Meal Deal\nAvailable from 12pm\nSpecial Meal Deal 1! Half Chicken + Small Fries & Soft Drink for \u00a310!\nHalf Chicken + Small Fries + Soft Drink (Can)\n\u00a310.00\nSpecial Meal Deal 2! Half Chicken + Rice + Vegetables + Soft Drink for \u00a311!\nHalf Chicken ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nFeast on a Whole Chicken, Large Chips, Alioli & 2L Pepsi - all for just \u00a319.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35.70!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a319.50\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\nAfricano\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.70, wrap \u00a36.20 or combo \u00a37.00\n\u00a35.70\nTikka\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a319.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a319.00\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a319.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a319.50\nMini Cordon Bleu\nper unit\n\u00a31.00\nKids Meal - Nuggets and Chips\n\u00a35.00\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a319.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a319.50\nMenu Offer Pepsi\nIncludes: Whole Chicken + Large Chips + Alioli + 2L Pepsi.\n\u00a319.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.70, wrap \u00a36.20 or combo \u00a37.00\n\u00a35.70\nPlain\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nGarlic\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nAfricano\nRoll \u00a34.80, w",
             "notices": [
               {
-                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.80",
+                "text": "Small Menu - Half Chicken, Small Chips and Ali Oli\n1\nAdd to order\n\u00a310.50",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.80"
+                  "Add to order\n\u00a310.50"
                 ],
                 "has_inputs": false
               }
@@ -345,11 +464,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.80\n1\nSubtotal\n\u00a31.80\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.09\nAdd special instructions\nCheckout\nFeast for the family! Chicken, Family Fries, Croquettes, Alioli, Bread & Drink (2L) for \u00a329.50!\nTry our Special Deals! BBQ Roast Chicken Sandwich + Fries & Drink for \u00a37.50!\nTop Selling Items\nChicken Meal Deals\nRoast Chicken Sandwich\nSpecial Meal Deal\nBurgers and Grill\nChicken\nGolden Fries and Sides\nSauces\nHomemade Dishes\nDesserts\nDrinks\nRoast Chicken Sandwich Meal Deals for \u00a37.50!\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAfricano\nGrilled Loin or Chicken, Grilled Onion, Mayonnaise\n\u00a36.00\nMeatballs\nOut of stock\nSpanish Tortilla\n\u00a37.50\nNew! Cocido Croquettes\nChoose Half or Full Portion from \u00a35.50\n\u00a35.50\nTriple Chocolate Cake\n\u00a34.00\nChicken Meal Deals\nAvailable from 12pm\nChicken + Family Fries + Croquettes + Alioli + Bread + Soft Drink (2L)\n\u00a329.50\nWhole Chicken + Medium Fries + Choice of Salad + Alioli + Bread\n\u00a324.00\n2 Whole Chickens + Family Fries + Alioli + Bread + Soft Drink (2L)\n\u00a335.00\nWhole Chicken + Medium Fries + Alioli\n\u00a319.00\nWhole Chicken + Spanish Omelette + peppers + Alioli + bread + Soft Drink (2L)\n\u00a330.50\nRoast Chicken Sandwich\nRoast Chicken Sandwich (plain)\nBocadillo de pollo asado solo\n\u00a35.50\nBBQ Roast Chicken Sandwich\nBocadillo de pollo asado barbacoa\n\u00a35.50\nRoast Chicken Sandwich with Mayonnaise\nBocadillo de pollo asado mallonesa\n\u00a35.50\nRoast Chicken Sandwich with Spicy Sauce\nBocadillo de pollo asado con picante\n\u00a35.50\nRoast Chicken Sandwich with Ketchup\nBocadillo de pollo asado k\u00e9tchup\n\u00a35.50\nSpecial Meal Deal\nAvailable from 12pm\nSpecial Meal Deal 1! Half Chicken + Small Fries & Soft Drink for \u00a310!\nHalf Chicken + Small Fries + Soft Dr",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\n1\nSubtotal\n\u00a310.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a313.79\nAdd special instructions\nCheckout\nFeast on a Whole Chicken, Large Chips, Alioli & 2L Pepsi - all for just \u00a319.50!\nKickstart your day with our Special: Egg, Cheese & Bacon Roll from just \u00a35.70!\nTop Selling Items\nWeekly Offers\nRolls, Wraps and Combos\nChicken\nChips\nSauces\nSides and Salads\nDesserts\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a319.50\n1\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\nAfricano\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.70, wrap \u00a36.20 or combo \u00a37.00\n\u00a35.70\nTikka\nRoll \u00a34.80, wrap \u00a35.50 or combo \u00a36.80\n\u00a34.80\nWeekly Offers\nWeekly Offers available from 11am\nWhole Chicken, Large Chips, Mini Cordon and Ali Oli\n\u00a319.50\nWhole Chicken, Large Chips, 2 Rolls and Ali Oli\n\u00a319.00\n1\nSmall Menu - Half Chicken, Small Chips and Ali Oli\n\u00a310.50\nMen\u00fa Croquetas de Pollo\nIncludes: Whole Chicken + Large Chips + Alioli + 4 croquetas de pollo.\n\u00a319.50\nMen\u00fa Croquetas De Rabo de Toro\nIncludes: Whole Chicken + Large Chips + 1 Alioli + 4 croquetas de Rabo de Toro.\n\u00a319.50\nMini Cordon Bleu\nper unit\n\u00a31.00\nKids Meal - Nuggets and Chips\n\u00a35.00\nMen\u00fa Russian Salad\nIncludes: Whole Chicken + Large Chips + Alioli + Russian Salad.\n\u00a319.50\nWhole Chicken Men\u00fa\nIncludes: Whole Chicken + Large Chips + Fried Peppers + Alioli Sauce.\n\u00a319.50\nMenu Offer Pepsi\nIncludes: Whole Chicken + Large Chips + Alioli + 2L Pepsi.\n\u00a319.50\nRolls, Wraps and Combos\nAvailable from 11:00am\nSpecial: Egg, Cheese & Bacon Roll\nRoll \u00a35.70, wrap \u00a3",
             "notices": []
           }
         ],
-        "item": "Coca Cola 33cl",
+        "item": "Small Menu - Half Chicken, Small Chips and Ali Oli",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +977,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-15T21:57:32.117981+01:00",
+  "last_confirmed_at": "2026-11-15T21:59:32.118103+01:00",
   "last_sample_check": {
-    "at": "2026-11-15T21:57:32.117981+01:00",
+    "at": "2026-11-15T21:59:32.118103+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
