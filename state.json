@@ -432,11 +432,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-11-12T11:48:49.836144+01:00:open",
-      "subject": "Hungry Monkey is taking orders again (11:48) - basket test passed",
-      "delivered_at": "2026-11-12T11:49:40.733784+01:00"
-    },
-    {
       "id": "2026-11-12T12:46:49.838339+01:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (12:46)",
       "delivered_at": "2026-11-12T12:47:26.066478+01:00"
@@ -930,15 +925,20 @@
       "id": "monitor:2026-11-16T23:01:39.006626+01:00:no_samples",
       "subject": "Competitor Watch: no suitable stores available to test",
       "delivered_at": "2026-11-16T23:03:06.141764+01:00"
+    },
+    {
+      "id": "monitor:2026-11-16T23:27:39.008507+01:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-11-16T23:29:45.036357+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "open",
   "last_confirmed_at": "2026-11-16T22:59:39.075221+01:00",
   "last_sample_check": {
-    "at": "2026-11-16T23:25:39.078058+01:00",
+    "at": "2026-11-16T23:27:39.077150+01:00",
     "eligible": false,
-    "exclusions_confirmed": true,
+    "exclusions_confirmed": false,
     "venues": [
       {
         "name": "Essaouira",
@@ -946,7 +946,7 @@
       },
       {
         "name": "3Bros Takeout",
-        "status": "venue_closed"
+        "status": "unknown"
       },
       {
         "name": "4 Stagioni",
