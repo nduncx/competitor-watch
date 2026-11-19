@@ -973,7 +973,7 @@
   "last_result": "open",
   "last_confirmed_at": "2026-11-19T22:59:25.656340+01:00",
   "last_sample_check": {
-    "at": "2026-11-19T23:11:25.656768+01:00",
+    "at": "2026-11-19T23:13:25.657041+01:00",
     "eligible": false,
     "exclusions_confirmed": true,
     "venues": [
