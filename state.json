@@ -126,11 +126,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-11-15T19:49:32.110671+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (19:49)",
-      "delivered_at": "2026-11-15T19:50:09.814129+01:00"
-    },
-    {
       "id": "2026-11-15T19:51:32.110671+01:00:closed",
       "subject": "Hungry Monkey: 19:51 check unconfirmed - last confirmed not taking orders at 19:49",
       "delivered_at": "2026-11-15T19:52:28.231067+01:00"
@@ -624,14 +619,42 @@
       "id": "2026-11-20T20:22:41.121107+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:22)",
       "delivered_at": "2026-11-20T20:23:15.391010+01:00"
+    },
+    {
+      "id": "monitor:2026-11-20T20:24:41.073267+01:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-11-20T20:25:49.759451+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
   "last_confirmed_at": "2026-11-20T20:22:41.121107+01:00",
   "last_sample_check": {
-    "at": "2026-11-20T20:22:41.121107+01:00",
-    "eligible": true
+    "at": "2026-11-20T20:24:41.121337+01:00",
+    "eligible": false,
+    "exclusions_confirmed": false,
+    "venues": [
+      {
+        "name": "Essaouira",
+        "status": "closed"
+      },
+      {
+        "name": "OAKBERRY",
+        "status": "closed"
+      },
+      {
+        "name": "The Star Bar",
+        "status": "unknown"
+      },
+      {
+        "name": "Ramsons Watergardens",
+        "status": "unknown"
+      },
+      {
+        "name": "Boss Kitchen",
+        "status": "open"
+      }
+    ]
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
