@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-21T22:59:31.109600+01:00",
+  "last_observed_at": "2026-11-21T23:01:31.108071+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,9 +176,9 @@
       }
     },
     {
-      "name": "BABA",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
+      "name": "Neha Curry House",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
@@ -219,18 +219,115 @@
         {
           "step": 2,
           "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nBooze Promos!\nVapes\nKid's Meal\nStreetfood Specials\nDesserts (Indian Sweets)\nSoft Drinks\nSalitos / Breezers\nEnergy Drinks\nBeers & Ciders\nWines\nVodka\nGin\nRum\nWhiskey\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\nIncludes: 4 Appetisers, 4 Mains, 2 Rices, 2 Naans & 4 Drinks\nNeha Combo for 4 (NON-ALCOHOL)\nChoose 4 Appetisers + 4 Mains + 2 Rices + 2 Naans + 4 Drinks\n\u00a349.00\nNeha Combo for 4 (ALCOHOL)\nChoose 4 Appetisers + 4 Mains + 2 Rices + 2 Naans + 4 Beers\n\u00a352.00\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nIncludes: 2 Appetisers, 2 Mains, 1 Rice, 1 Naan & 2 Soft Drinks\nNeha Dinner Date for Two @ \u00a329 (NON-ALCOHOL)\nChoose 2 Appetisers + 2 Mains + 1 Rice + 1 Naan + 2 Drinks\n\u00a329.00\nNeha Dinner Date for Two @ \u00a331 (ALCOHOL)\nChoose 2 Appetisers + 2 Mains + 1 Rice + 1 Naan + 2 Beers\n\u00a331.00\nNeha's Curry Meal Deal\nHalf Rice. Half Curry. Free Poppadom + Drink. (Available from 4pm onwards)\nVegetarian Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a37.99\nChicken Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a38.99\nLamb Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a39.99\nBooze Promos!\n5 Cider Combo\nGet 5 Ciders for \u00a310.00\n\u00a310.00\n5 Breezer Combo\nMix & Match Breezers for \u00a312.00\n\u00a312.00\n5 + 1 San Miguel Bottl",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nBooze Promos!\nVapes\nKid's Meal\nStreetfood Specials\nDesserts (Indian Sweets)\nSoft Drinks\nSalitos / Breezers\nEnergy Drinks\nBeers & Ciders\nWines\nVodka\nGin\nRum\nWhiskey\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\nIncludes: 4 Appetisers, 4 Mains, 2 Rices, 2 Naans & 4 Drinks\nNeha Combo for 4 (NON-ALCOHOL)\nChoose 4 Appetisers + 4 Mains + 2 Rices + 2 Naans + 4 Drinks\n\u00a349.00\nNeha Combo for 4 (ALCOHOL)\nChoose 4 Appetisers + 4 Mains + 2 Rices + 2 Naans + 4 Beers\n\u00a352.00\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nIncludes: 2 Appetisers, 2 Mains, 1 Rice, 1 Naan & 2 Soft Drinks\nNeha Dinner Date for Two @ \u00a329 (NON-ALCOHOL)\nChoose 2 Appetisers + 2 Mains + 1 Rice + 1 Naan + 2 Drinks\n\u00a329.00\nNeha Dinner Date for Two @ \u00a331 (ALCOHOL)\nChoose 2 Appetisers + 2 Mains + 1 Rice + 1 Naan + 2 Beers\n\u00a331.00\nNeha's Curry Meal Deal\nHalf Rice. Half Curry. Free Poppadom + Drink. (Available from 4pm onwards)\nVegetarian Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a37.99\nChicken Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a38.99\nLamb Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a39.99\nBooze Promos!\n5 Cider Combo\nGet 5 Ciders for \u00a310.00\n\u00a310.00\n5 Breezer Combo\nMix & Match Breezers for \u00a312.00\n\u00a312.00\n5 + 1 San Miguel Bottl",
+            "notices": [
+              {
+                "text": "Pepsi Can\n\n330ml Can\n\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Can\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nBooze Promos!\nVapes\nKid's Meal\nStreetfood Specials\nDesserts (Indian Sweets)\nSoft Drinks\nSalitos / Breezers\nEnergy Drinks\nBeers & Ciders\nWines\nVodka\nGin\nRum\nWhiskey\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\nIncludes: 4 Appetisers, 4 Mains, 2 Rices, 2 Naans & 4 Drinks\nNeha Combo for 4 (NON-ALCOHOL)\nChoose 4 Appetisers + 4 Mains + 2 Rices + 2 Naans + 4 Drinks\n\u00a349.00\nNeha Combo for 4 (ALCOHOL)\nChoose 4 Appetisers + 4 Mains + 2 Rices + 2 Naans + 4 Beers\n\u00a352.00\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nIncludes: 2 Appetisers, 2 Mains, 1 Rice, 1 Naan & 2 Soft Drinks\nNeha Dinner Date for Two @ \u00a329 (NON-ALCOHOL)\nChoose 2 Appetisers + 2 Mains + 1 Rice + 1 Naan + 2 Drinks\n\u00a329.00\nNeha Dinner Date for Two @ \u00a331 (ALCOHOL)\nChoose 2 Appetisers + 2 Mains + 1 Rice + 1 Naan + 2 Beers\n\u00a331.00\nNeha's Curry Meal Deal\nHalf Rice. Half Curry. Free Poppadom + Drink. (Available from 4pm onwards)\nVegetarian Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a37.99\nChicken Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a38.99\nLamb Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a39.99\nBooze Promos!\n5 Cider Combo\nGet 5 C",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi Can",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Donations, Gifts, Vouchers and Bags!",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": [
+            {
+              "text": "Donate, Vouchers, Gifts or Bag For Life ?\nDonate \u00a32 - Get a \u00a32 Hungry Monkey Voucher\nLimited Edition Monkey!\nHungry Monkey Vouchers\nGifts\nBag For Life\nContinue",
+              "buttons": [
+                "Continue"
+              ],
+              "has_inputs": false
+            }
+          ]
+        }
+      ],
+      "unresolved_notice": true,
+      "order_button_after_notices": false,
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {}
     },
     {
-      "name": "Birdie Cafe",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
+      "name": "Shack 2",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
@@ -271,169 +368,50 @@
         {
           "step": 2,
           "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Loco Burgers",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
+        },
         {
           "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Piccadilly Garden Bar",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Roosters Fried Chicken",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nWraps\nKids Meals\nPinchitos\nChicken kebabs\nSnacks\nSalads\nSides\nNEW! Desserts\nSweets & Confectionary\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nChicken in Tomato with Chips\n\u00a37.00\nPeppered Chicken with Chips\n\u00a37.00\nLentil Stew\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats c",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nWraps\nKids Meals\nPinchitos\nChicken kebabs\nSnacks\nSalads\nSides\nNEW! Desserts\nSweets & Confectionary\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nChicken in Tomato with Chips\n\u00a37.00\nPeppered Chicken with Chips\n\u00a37.00\nLentil Stew\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats c",
+            "notices": [
+              {
+                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nWraps\nKids Meals\nPinchitos\nChicken kebabs\nSnacks\nSalads\nSides\nNEW! Desserts\nSweets & Confectionary\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nChicken in Tomato with Chips\n\u00a37.00\nPeppered Chicken with Chips\n\u00a37.00\nLentil Stew\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh bu",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola 33cl",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
@@ -940,9 +918,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-21T22:59:31.109600+01:00",
+  "last_confirmed_at": "2026-11-21T23:01:31.108071+01:00",
   "last_sample_check": {
-    "at": "2026-11-21T22:59:31.109600+01:00",
+    "at": "2026-11-21T23:01:31.108071+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
