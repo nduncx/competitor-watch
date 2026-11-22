@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-22T10:27:30.428932+01:00",
+  "last_observed_at": "2026-11-22T10:29:30.431112+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Papichurro",
-      "status": "open",
+      "status": "unknown",
       "notice": "",
       "notice_transcript": [
         {
@@ -111,7 +111,18 @@
         },
         {
           "step": 0,
-          "notices": [],
+          "notices": [
+            {
+              "text": "Coca Cola\n1\nAdd to order\n\u00a32.00",
+              "buttons": [
+                "",
+                "",
+                "",
+                "Add to order\n\u00a32.00"
+              ],
+              "has_inputs": false
+            }
+          ],
           "phase": "after_add"
         }
       ],
@@ -120,7 +131,7 @@
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {
-        "passed": true,
+        "passed": false,
         "steps": [
           {
             "phase": "before_item",
@@ -142,15 +153,10 @@
                 "has_inputs": false
               }
             ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nPapichurro\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nFresh, crispy, & delicious Large Rueda Churros only for \u00a34.25!\nFreshly prepared, tasty and affordable Bacon & Egg, Sausage or Omellette Rolls only from \u00a33.40!\nTop Selling Items\nBreakfast\nChurros\nHot Drinks\nSoft Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nFull Churros\n8 pieces\n\u00a34.25\nFull English Breakfast\n2 Hash Browns, 2 Bacon, 2 Sausages, 2 Fried Eggs, Baked Beans, Tomato & mushrooms and Toast.\n\u00a310.50\nBacon Roll\n\u00a33.40\nSausage & Egg Roll\n\u00a34.00\nOmelette Roll\n\u00a33.50\nBreakfast\nFull English Breakfast\n2 Hash Browns, 2 Bacon, 2 Sausages, 2 Fried Eggs, Baked Beans, Tomato & mushrooms and Toast.\n\u00a310.50\nHalf English Breakfast\n1 Hash Brown, 1 Bacon, 1 Sausage, 1 Fried Eggs Baked Beans, Tomato, mushrooms and Toast.\n\u00a36.50\nBacon Roll\n\u00a33.40\nBacon & Egg Roll\n\u00a34.00\nSausage Roll\n\u00a33.40\nSausage & Egg Roll\n\u00a34.00\nEgg Roll\n\u00a33.40\nOmelette Roll\n\u00a33.50\nChurros\nFull Papitas\n12 pieces\n\u00a34.25\nFull Churros\n8 pieces\n\u00a34.25\nHot Drinks\nAmericano\n\u00a31.90\nCappuccino\n\u00a32.50\nCoffee with Milk\nCoffee con Leche\n\u00a31.90\nWhite Coffee\n\u00a32.25\nCoffee Solo\n\u00a31.70\nDecaf Coffee\n\u00a32.25\nDecaf Sachet\n\u00a32.25\nEspresso\n\u00a31.70\nLatte\n\u00a32.20\nEnglish Breakfast Tea\n\u00a31.90\nDecaf English Breakfast Tea\n\u00a31.90\nMint Tea\n\u00a31.90\nChamomile Tea\n\u00a31.90\nMilk with ColaCao\n\u00a32.00\nSoft Drinks\n1\nCoca Cola\n\u00a32.00\nCoca Zero\n\u00a32.00\nSprite\n\u00a32.00\nFanta Orange\n\u00a32.00\nFanta Lemon\n\u00a32.00\nNestea Lemon\n\u00a32.50\nNestea Maracuya\n\u00a32.50\nOrange Juice\n\u00a32.50\nApple Juice\n\u00a32.50\nPineapple Juice\n\u00a32.50\nPeach Juice\n\u00a32.50\nStill Water\n50cl\n\u00a31.30\nSparkling Water\n\u00a32.00\nView allergy information\n\ue8cb",
-            "notices": []
           }
         ],
         "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+        "reason": "notices or ordering unavailable after adding"
       }
     },
     {
@@ -330,6 +336,110 @@
         "item": "Coca Cola Zero Sugar can 33cl",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
+    },
+    {
+      "name": "Royal Calpe",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "54 Dining & Caf\u00e9",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
     }
   ],
   "notification_receipts": [
@@ -836,9 +946,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-22T10:27:30.428932+01:00",
+  "last_confirmed_at": "2026-11-22T10:29:30.431112+01:00",
   "last_sample_check": {
-    "at": "2026-11-22T10:27:30.428932+01:00",
+    "at": "2026-11-22T10:29:30.431112+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
