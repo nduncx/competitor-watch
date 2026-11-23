@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-23T21:11:33.421742+01:00",
+  "last_observed_at": "2026-11-23T21:13:33.421488+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,6 +176,95 @@
       }
     },
     {
+      "name": "Ace Burgers",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot enough to make your ex jealous. Our prime beef smash patty grilled to perfection with our famous c",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot enough to make your ex jealous. Our prime beef smash patty grilled to perfection with our famous c",
+            "notices": [
+              {
+                "text": "Pepsi\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nTry our Lamb Kebab Wrap served with our in-house butter, salads & sauce only for \u00a38.95!\nCraving something truely delicious? Premium Ground Beef Quesadilla Meal Deal for \u00a311.95!\nTop Selling Items\nHandcrafted 100% Beef Smash Burgers\nDirty Fries\nQuesadillas\nSauces\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nTriple X Smash Burger\nThree x juicy smash patties, loaded with smoky bacon, American cheese and caramelized Oklahoma style onions. It's a monster of a Burger! Served with fresh chips.\n\u00a316.50\nThe Savage Stack Burger\nTwo prime beef smash patties, bockwurst sausage, smoky bacon, egg, American cheese, jalapenos. All finished off with our house chipotle mayo. This burger is like a carnival in your mouth, and everyone's invited to the flavour party. Served with fresh chips.\n\u00a314.50\nSweet Baby Cheesus Burger\nThis burger is so cheesy, it's like a bad romantic comedy. Melted cheese blankets our prime beef smash patty, caramelized Oklahoma style onions, American cheese, crispy onion and our house burger sauce. Served with Fresh chips\n\u00a313.00\nMac Attack Burger\nTwo Prime beef smash patties, cheddar cheese, smoked bacon, creamy mac 'n cheese, Oklahoma style onions and a sauce of your choice, all come together in an unholy alliance to create a burger that'll make you wonder why you ever settled for a plain old sandwich. Get ready for the flavour apocalypse. Served with fresh chips.\n\u00a315.00\nHandcrafted 100% Beef Smash Burgers\nOur smash burgers may be messy, but we don't mess around with quality. We use the best ingredients!\nEl Chilli Burger\nThis burger is hot e",
+            "notices": []
+          }
+        ],
+        "item": "Pepsi",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
       "name": "Wagamama",
       "status": "open",
       "notice": "",
@@ -261,95 +350,6 @@
           }
         ],
         "item": "7705 | coke",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
-      "name": "Kick Ass Burritos",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Chilli Burrito\nPacked full of veggies this chilli is a real hit\n\u00a37.50\nChicken Tinga Burrito\nShredded an",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Chilli Burrito\nPacked full of veggies this chilli is a real hit\n\u00a37.50\nChicken Tinga Burrito\nShredded an",
-            "notices": [
-              {
-                "text": "Coca Cola\n\nCan139 kcal\n\n1\nAdd to order\n\u00a32.50",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.50"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.50\n1\nSubtotal\n\u00a32.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.79\nAdd special instructions\nCheckout\nGo all in with our Kick Ass Meal Deal! Get a Burrito, tortilla, fries, churros & drink- just \u00a313.99!\nThe Ultimate Feast! 2 Kick Ass Burritos, 2 sides + dips & 2 drinks to share just \u00a320.99!\nTop Selling Items\nMeal Deals\nKick Ass Burritos\nKick Ass Chimichangas\nBandidos\nBadass Bowls\nLoaded Fries\nSide Kicks\nDesserts\nSauces\nDrinks\nCutlery\nTop Selling Items\nA quick look at our top sellers chosen by you!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nBeef Brisket Burrito\nIndulge in our most premium filling- juicy, succulent Beef Brisket. Slow cooked to mouth-watering perfection, carefully seasoned and bursting with flavour.\n\u00a39.95\nChicken Tinga Burrito\nShredded and slow cooked chicken Tinga, what's not to like\n\u00a37.50\nBarbacoa Beef Chimichanga\nIndulge in our most premium filling juicy, succulent pulled beef Barbacoa. Slow-cooked to mouth-watering perfection, carefully seasoned and bursting with flavour\n\u00a39.95\nMeal Deals\nEnjoy your Kick Ass favourites every day - maximum flavour, great value!\nKick Ass Meal Deal for 1\nKick Ass burrito, tortilla chips & dips (or fries), churros & a drink\n\u00a313.99\nKick Ass Meal Deal for 2\nTwo Kick Ass burritos + 2 tortilla chips & dips (or fries) + 2 drinks\n\u00a320.99\nUltimate Feast for 2:\nTwo Kick Ass burritos, 2 tortilla chips & dips (or fries), 2 drinks & large churros or Ben & Jerrys ice cream\n\u00a325.99\nKick Ass Burritos\nTortilla packed with Mexican rice, black beans, sour cream, mozzarella.\nVege Ch",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +858,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-23T21:11:33.421742+01:00",
+  "last_confirmed_at": "2026-11-23T21:13:33.421488+01:00",
   "last_sample_check": {
-    "at": "2026-11-23T21:11:33.421742+01:00",
+    "at": "2026-11-23T21:13:33.421488+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
