@@ -432,11 +432,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "monitor:2026-11-16T23:27:39.008507+01:00:failed",
-      "subject": "Competitor Watch: monitoring problem",
-      "delivered_at": "2026-11-16T23:29:45.036357+01:00"
-    },
-    {
       "id": "monitor:2026-11-16T23:29:46.365848+01:00:no_samples",
       "subject": "Competitor Watch: no suitable stores available to test",
       "delivered_at": "2026-11-16T23:31:08.946567+01:00"
@@ -930,14 +925,46 @@
       "id": "monitor:2026-11-23T14:04:37.938150+01:00:restored",
       "subject": "Competitor Watch: suitable stores available again",
       "delivered_at": "2026-11-23T14:05:34.069055+01:00"
+    },
+    {
+      "id": "monitor:2026-11-23T23:01:33.381656+01:00:no_samples",
+      "subject": "Competitor Watch: no suitable stores available to test",
+      "delivered_at": "2026-11-23T23:03:01.938453+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "open",
   "last_confirmed_at": "2026-11-23T22:59:33.429578+01:00",
   "last_sample_check": {
-    "at": "2026-11-23T22:59:33.429578+01:00",
-    "eligible": true
+    "at": "2026-11-23T23:01:33.430217+01:00",
+    "eligible": false,
+    "exclusions_confirmed": true,
+    "venues": [
+      {
+        "name": "Essaouira",
+        "status": "venue_closed"
+      },
+      {
+        "name": "3Bros Takeout",
+        "status": "venue_closed"
+      },
+      {
+        "name": "4 Stagioni",
+        "status": "venue_closed"
+      },
+      {
+        "name": "54 Dining & Caf\u00e9",
+        "status": "venue_closed"
+      },
+      {
+        "name": "Ace Burgers",
+        "status": "venue_closed"
+      },
+      {
+        "name": "AquaTerra",
+        "status": "venue_closed"
+      }
+    ]
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
