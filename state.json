@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-24T16:58:01.822351+01:00",
+  "last_observed_at": "2026-11-24T17:00:01.820300+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -50,7 +50,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Bivoo",
+      "name": "Cafe Louis",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -87,7 +87,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Gallo Nero",
+      "name": "Crown Pharmacy",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -125,11 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-11-17T20:25:33.160240+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (20:25)",
-      "delivered_at": "2026-11-17T20:26:09.618253+01:00"
-    },
     {
       "id": "2026-11-17T20:27:33.156136+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:27)",
@@ -624,13 +619,18 @@
       "id": "2026-11-24T16:58:01.822351+01:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (16:58)",
       "delivered_at": "2026-11-24T16:58:36.685504+01:00"
+    },
+    {
+      "id": "2026-11-24T17:00:01.820300+01:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (17:00)",
+      "delivered_at": "2026-11-24T17:00:36.769734+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-11-24T16:58:01.822351+01:00",
+  "last_confirmed_at": "2026-11-24T17:00:01.820300+01:00",
   "last_sample_check": {
-    "at": "2026-11-24T16:58:01.822351+01:00",
+    "at": "2026-11-24T17:00:01.820300+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
