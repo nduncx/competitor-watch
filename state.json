@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-24T18:28:01.825098+01:00",
+  "last_observed_at": "2026-11-24T18:30:01.825009+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -176,95 +176,6 @@
       }
     },
     {
-      "name": "Beeyo",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yogurt\nFrozen Yoghurt Specials\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.00\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nFrozen Yogurt\nBuild Your Own Natural Frozen Yogurt\nFrozen Yogurt - 500ml\nChoose up to 3 toppings from our delicious selection of chocolates, biscuits, fruits, sauces and crunchy favourites. Want more? Extra toppings are available for a",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yogurt\nFrozen Yoghurt Specials\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.00\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nFrozen Yogurt\nBuild Your Own Natural Frozen Yogurt\nFrozen Yogurt - 500ml\nChoose up to 3 toppings from our delicious selection of chocolates, biscuits, fruits, sauces and crunchy favourites. Want more? Extra toppings are available for a",
-            "notices": [
-              {
-                "text": "Coca Cola\n1\nAdd to order\n\u00a32.00",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.00"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yogurt\nFrozen Yoghurt Specials\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.00\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nFrozen Yogurt\nBuild Your Own Natural Frozen Yogurt\nFrozen Yogurt - 500ml\nChoose up to 3 toppings from our delicious selection of choco",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
-    },
-    {
       "name": "Gela Ti Amo",
       "status": "open",
       "notice": "",
@@ -350,6 +261,147 @@
           }
         ],
         "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Lord Nelson",
+      "status": "unknown",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": false,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {}
+    },
+    {
+      "name": "TopDogs Gibraltar",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our Pulled Dog packed with pulled pork & crispy onions. Comes with Chips.\nBuild Your Own Jacket Potato only from \u00a37!\nTop Selling Items\nHotdogs (Halal)\nSmash Burgers\nCrispy Chicken Burgers\nCroquettes\nChips\nJacket Potatoes\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nSpud with a choice of Sweet Corn, Beetroot, Carrots, Tuna, Crab Sticks, Olives, Cheese, Jalape\u00f1os, Cooked Ham.\n\u00a37.00\nSimple Dog\nHotdog with a choice of sauce. Served with a side of chips.\n\u00a33.50\nCheesy Crispy Chicken Burger\nCrispy Chicken, Cheese, & Cheese Sauce. Served with a side of chips.\n\u00a36.00\nBacon Smash Burger\nDouble Beef Patty, Cheese, Bacon Bits, Crispy Onions & Baconnaise Sauce. Served with a side of chips.\n\u00a37.00\nMexican Smash Burger\nDouble Beef Patty, Chilli con Carne, Jalape\u00f1os & Chilli Sauce. Served with a side of chips.\n\u00a37.00\nHotdogs (Halal)\nAll Hotdogs are served with a side of chips.\nSimple Dog\nHotdog with a choice of sauce. Served with a side of chips.\n\u00a33.50\nClassic Dog\nHotdog, Crispy Onions and a choice of Sauce. Served with a side of chips\n\u00a34.00\nCheesy Dog\nHotdog, Cheese Sauce, Mozarella & Crispy Onions and a choice of Sauce. Served with a side of chips.\n\u00a34.50\nBacon Dog\nHotdog, Bacon Bits, Crispy Onions & Baconnaise Sauce. Served with a side of chips.\n\u00a35.50\nKebab Dog\nHotdog, Chicken Kebab, Crispy Onions and a choice of Sauce. Served with a side of chips.\n\u00a35.50\nPulled Dog\nHotdog, BBQ Pulled Pork, Crispy Onions and a choice of Sauce. Served with a side of chips.\n\u00a35.50\nMexican Dog\nHotdog, Minced Pork, Chilli Tomato Salsa, Jalape\u00f1os, Crispy Onions, Sweet Corn and a choice of Sauce. Served with a side of chips.\n\u00a36.00\nChi",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nTreat yourself to our Pulled Dog packed with pulled pork & crispy onions. Comes with Chips.\nBuild Your Own Jacket Potato only from \u00a37!\nTop Selling Items\nHotdogs (Halal)\nSmash Burgers\nCrispy Chicken Burgers\nCroquettes\nChips\nJacket Potatoes\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nSpud with a choice of Sweet Corn, Beetroot, Carrots, Tuna, Crab Sticks, Olives, Cheese, Jalape\u00f1os, Cooked Ham.\n\u00a37.00\nSimple Dog\nHotdog with a choice of sauce. Served with a side of chips.\n\u00a33.50\nCheesy Crispy Chicken Burger\nCrispy Chicken, Cheese, & Cheese Sauce. Served with a side of chips.\n\u00a36.00\nBacon Smash Burger\nDouble Beef Patty, Cheese, Bacon Bits, Crispy Onions & Baconnaise Sauce. Served with a side of chips.\n\u00a37.00\nMexican Smash Burger\nDouble Beef Patty, Chilli con Carne, Jalape\u00f1os & Chilli Sauce. Served with a side of chips.\n\u00a37.00\nHotdogs (Halal)\nAll Hotdogs are served with a side of chips.\nSimple Dog\nHotdog with a choice of sauce. Served with a side of chips.\n\u00a33.50\nClassic Dog\nHotdog, Crispy Onions and a choice of Sauce. Served with a side of chips\n\u00a34.00\nCheesy Dog\nHotdog, Cheese Sauce, Mozarella & Crispy Onions and a choice of Sauce. Served with a side of chips.\n\u00a34.50\nBacon Dog\nHotdog, Bacon Bits, Crispy Onions & Baconnaise Sauce. Served with a side of chips.\n\u00a35.50\nKebab Dog\nHotdog, Chicken Kebab, Crispy Onions and a choice of Sauce. Served with a side of chips.\n\u00a35.50\nPulled Dog\nHotdog, BBQ Pulled Pork, Crispy Onions and a choice of Sauce. Served with a side of chips.\n\u00a35.50\nMexican Dog\nHotdog, Minced Pork, Chilli Tomato Salsa, Jalape\u00f1os, Crispy Onions, Sweet Corn and a choice of Sauce. Served with a side of chips.\n\u00a36.00\nChi",
+            "notices": [
+              {
+                "text": "Coke\n1\nAdd to order\n\u00a31.00",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.00"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a31.00\n1\nSubtotal\n\u00a31.00\nCheap Tuesday! Everything 10% Off from the Menu! Discount automatically deducted at checkout\n- \u00a30.10\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.19\nAdd special instructions\nCheckout\nTreat yourself to our Pulled Dog packed with pulled pork & crispy onions. Comes with Chips.\nBuild Your Own Jacket Potato only from \u00a37!\nTop Selling Items\nHotdogs (Halal)\nSmash Burgers\nCrispy Chicken Burgers\nCroquettes\nChips\nJacket Potatoes\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBuild Your Own Jacket Potato\nSpud with a choice of Sweet Corn, Beetroot, Carrots, Tuna, Crab Sticks, Olives, Cheese, Jalape\u00f1os, Cooked Ham.\n\u00a37.00\nSimple Dog\nHotdog with a choice of sauce. Served with a side of chips.\n\u00a33.50\nCheesy Crispy Chicken Burger\nCrispy Chicken, Cheese, & Cheese Sauce. Served with a side of chips.\n\u00a36.00\nBacon Smash Burger\nDouble Beef Patty, Cheese, Bacon Bits, Crispy Onions & Baconnaise Sauce. Served with a side of chips.\n\u00a37.00\nMexican Smash Burger\nDouble Beef Patty, Chilli con Carne, Jalape\u00f1os & Chilli Sauce. Served with a side of chips.\n\u00a37.00\nHotdogs (Halal)\nAll Hotdogs are served with a side of chips.\nSimple Dog\nHotdog with a choice of sauce. Served with a side of chips.\n\u00a33.50\nClassic Dog\nHotdog, Crispy Onions and a choice of Sauce. Served with a side of chips\n\u00a34.00\nCheesy Dog\nHotdog, Cheese Sauce, Mozarella & Crispy Onions and a choice of Sauce. Served with a side of chips.\n\u00a34.50\nBacon Dog\nHotdog, Bacon Bits, Crispy Onions & Baconnaise Sauce. Served with a side of chips.\n\u00a35.50\nKebab Dog\nHotdog, Chicken Kebab, Crispy Onions and a choice of Sauce. Served with a side of chips.\n\u00a35.50\nPulled Dog\nHotdog, BBQ Pulled Pork, Crispy Onions and a choice ",
+            "notices": []
+          }
+        ],
+        "item": "Coke",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -858,9 +910,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-24T18:28:01.825098+01:00",
+  "last_confirmed_at": "2026-11-24T18:30:01.825009+01:00",
   "last_sample_check": {
-    "at": "2026-11-24T18:28:01.825098+01:00",
+    "at": "2026-11-24T18:30:01.825009+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
