@@ -126,11 +126,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-11-17T20:35:33.159260+01:00:closed",
-      "subject": "Hungry Monkey: 20:35 check unconfirmed - last confirmed not taking orders at 20:33",
-      "delivered_at": "2026-11-17T20:36:28.970375+01:00"
-    },
-    {
       "id": "2026-11-17T20:37:33.157880+01:00:open",
       "subject": "Hungry Monkey is taking orders again (20:37) - basket test passed",
       "delivered_at": "2026-11-17T20:38:29.284883+01:00"
@@ -624,14 +619,42 @@
       "id": "2026-11-24T17:08:01.821825+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (17:08)",
       "delivered_at": "2026-11-24T17:08:35.773805+01:00"
+    },
+    {
+      "id": "monitor:2026-11-24T17:10:01.752854+01:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-11-24T17:11:16.322024+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
   "last_confirmed_at": "2026-11-24T17:08:01.821825+01:00",
   "last_sample_check": {
-    "at": "2026-11-24T17:08:01.821825+01:00",
-    "eligible": true
+    "at": "2026-11-24T17:10:01.821417+01:00",
+    "eligible": false,
+    "exclusions_confirmed": false,
+    "venues": [
+      {
+        "name": "Essaouira",
+        "status": "closed"
+      },
+      {
+        "name": "Cafe Louis",
+        "status": "unknown"
+      },
+      {
+        "name": "Crown Pharmacy",
+        "status": "open"
+      },
+      {
+        "name": "TCcigs",
+        "status": "unknown"
+      },
+      {
+        "name": "Costa Coffee",
+        "status": "open"
+      }
+    ]
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
