@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-25T19:25:32.893641+01:00",
+  "last_observed_at": "2026-11-25T19:27:32.893285+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -116,11 +116,18 @@
     {
       "name": "Candy Castle",
       "status": "open",
-      "notice": "",
+      "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 19:45pm. Our apologies for the inconvenience caused.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
+            {
+              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 19:45pm. Our apologies for the inconvenience caused.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -136,6 +143,19 @@
         },
         {
           "step": 1,
+          "notices": [
+            {
+              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 19:45pm. Our apologies for the inconvenience caused.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
           "notices": []
         },
         {
@@ -146,8 +166,8 @@
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
+      "closure_notice_only": true,
+      "stale_closure_notice": true,
       "basket_probe": {
         "passed": true,
         "steps": [
@@ -179,17 +199,24 @@
           }
         ],
         "item": "Kingdom Favourites (300g)",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+        "reason": "item appeared in fresh basket despite earlier dismissed closure notice; no current refusal or pre-order"
       }
     },
     {
       "name": "Royal Calpe",
       "status": "open",
-      "notice": "",
+      "notice": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 19:45pm. Our apologies for the inconvenience caused.",
       "notice_transcript": [
         {
           "step": 0,
           "notices": [
+            {
+              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 19:45pm. Our apologies for the inconvenience caused.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
             {
               "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
               "buttons": [
@@ -205,6 +232,19 @@
         },
         {
           "step": 1,
+          "notices": [
+            {
+              "text": "Everyone is a Hungry Monkey today! To avoid delays and to maintain optimal service, we will resume our deliveries at 19:45pm. Our apologies for the inconvenience caused.\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
           "notices": []
         },
         {
@@ -215,8 +255,8 @@
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
+      "closure_notice_only": true,
+      "stale_closure_notice": true,
       "basket_probe": {
         "passed": true,
         "steps": [
@@ -248,7 +288,7 @@
           }
         ],
         "item": "Pepsi",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+        "reason": "item appeared in fresh basket despite earlier dismissed closure notice; no current refusal or pre-order"
       }
     }
   ],
@@ -756,9 +796,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-25T19:25:32.893641+01:00",
+  "last_confirmed_at": "2026-11-25T19:27:32.893285+01:00",
   "last_sample_check": {
-    "at": "2026-11-25T19:25:32.893641+01:00",
+    "at": "2026-11-25T19:27:32.893285+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
