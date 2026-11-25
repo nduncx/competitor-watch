@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-25T17:13:05.060429+01:00",
+  "last_observed_at": "2026-11-25T17:15:05.059637+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -182,36 +182,6 @@
     },
     {
       "name": "Costa Coffee",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "covered_buttons": [
-            "Reject non-essential"
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Hotel Chocolat",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -250,20 +220,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our New Chocolate Boxes! Patisserie Dreamer Chocolate Box 27-Piece & more for \u00a334!\nCan you get a more classic pairing? Strawberry & Cream Puddles for \u00a37.95!\nCelebrate the sweet side of Halloween with our frighteningly flavoursome chocolates from \u00a35.45!\nC\nCHRISTMAS\nNEW CHOCOLATE BOXES\nNEW VELVETISER!!!\nSPECIALITIES - GIFTS\nGIFT BAGS\nSELECTORS\nBATONS\nALCOHOL\nENROBED FRUIT\nSPECIALS FOR KIDS\nRIBBON BAGS\nGIFT CARDS\nDRINKING CHOCOLATE\nCHRISTMAS\nCHRISTMAS\nMilk Santa Lick\nHow many sleeps? As excitement builds, treat them to a milk chocolate Santa lolly. The perfect treat for those who love the moreishness of milk chocolate. Dont worry if you dont think youve made it onto Santas nice list this year - we wont tell if you let yourself have a little nibble on our Milk Santa! He may be on the smaller side, but our Milk Santa Lick is big in cocoa flavour. Mainstream milk chocolate can contain as little as 20% cocoa. We double that starting point in our house grade so that we can keep the cocoa content high, allowing you (or them) to enjoy the nuanced notes of the cocoa bean. Anything lower and you risk losing the more delicate levels of cocoa flavour.\n\u00a32.95\nSanta Tiddly Pot\nDinky drops of milk chocolate in a resealable pot.\n\u00a32.95\nPenguin Tiddly Pot\n\u00a32.95\nPosse of Penguins | Milk Chocolate\nFour snug little penguins all wrapped up in 40% milk chocolate.\n\u00a313.95\nJolly Penguin\n\u00a39.95\nThe Nice Slice Christmas Edition\nSumptuously smooth hazelnut and almond praline, packed with crunch. Inspired by the beloved fridge cake, our Christmas Nice Slice is an elegant treat for all the family.\n\u00a317.95\nLarge Festive Wreath Milk\nA showstopping chocolate Christmas wreath: 50% milk chocolate ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nOffers\nFestive Drinks\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nMerch\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\nOut of stock\nOffers\n3x2 in Popdots\nBuy 2, Get 1 Free on Popdots! Stock up on your favorite Popdots with our 3-for-2 offer! When you buy any two units, youll get a third one completely FREE. No code needed just add three to your cart and the discount will be automatically applied at checkout.\n\u00a32.90\nFestive Drinks\nFestive Drinks\nCaramel Nutcracker Latte\nA latte with our Caramel Nut flavour syrup topped off with Light Whip, a Salted Caramel Sauce drizzle and finished with our festive red and green sprinkle ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ing",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nDiscover our New Chocolate Boxes! Patisserie Dreamer Chocolate Box 27-Piece & more for \u00a334!\nCan you get a more classic pairing? Strawberry & Cream Puddles for \u00a37.95!\nCelebrate the sweet side of Halloween with our frighteningly flavoursome chocolates from \u00a35.45!\nC\nCHRISTMAS\nNEW CHOCOLATE BOXES\nNEW VELVETISER!!!\nSPECIALITIES - GIFTS\nGIFT BAGS\nSELECTORS\nBATONS\nALCOHOL\nENROBED FRUIT\nSPECIALS FOR KIDS\nRIBBON BAGS\nGIFT CARDS\nDRINKING CHOCOLATE\nCHRISTMAS\nCHRISTMAS\nMilk Santa Lick\nHow many sleeps? As excitement builds, treat them to a milk chocolate Santa lolly. The perfect treat for those who love the moreishness of milk chocolate. Dont worry if you dont think youve made it onto Santas nice list this year - we wont tell if you let yourself have a little nibble on our Milk Santa! He may be on the smaller side, but our Milk Santa Lick is big in cocoa flavour. Mainstream milk chocolate can contain as little as 20% cocoa. We double that starting point in our house grade so that we can keep the cocoa content high, allowing you (or them) to enjoy the nuanced notes of the cocoa bean. Anything lower and you risk losing the more delicate levels of cocoa flavour.\n\u00a32.95\nSanta Tiddly Pot\nDinky drops of milk chocolate in a resealable pot.\n\u00a32.95\nPenguin Tiddly Pot\n\u00a32.95\nPosse of Penguins | Milk Chocolate\nFour snug little penguins all wrapped up in 40% milk chocolate.\n\u00a313.95\nJolly Penguin\n\u00a39.95\nThe Nice Slice Christmas Edition\nSumptuously smooth hazelnut and almond praline, packed with crunch. Inspired by the beloved fridge cake, our Christmas Nice Slice is an elegant treat for all the family.\n\u00a317.95\nLarge Festive Wreath Milk\nA showstopping chocolate Christmas wreath: 50% milk chocolate ",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nOffers\nFestive Drinks\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nMerch\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\nOut of stock\nOffers\n3x2 in Popdots\nBuy 2, Get 1 Free on Popdots! Stock up on your favorite Popdots with our 3-for-2 offer! When you buy any two units, youll get a third one completely FREE. No code needed just add three to your cart and the discount will be automatically applied at checkout.\n\u00a32.90\nFestive Drinks\nFestive Drinks\nCaramel Nutcracker Latte\nA latte with our Caramel Nut flavour syrup topped off with Light Whip, a Salted Caramel Sauce drizzle and finished with our festive red and green sprinkle ATTENTION: This drink cannot be made dairy free, even when made with a dairy alternative, due to other ing",
             "notices": [
               {
-                "text": "Milk Santa Lick\n\nHow many sleeps? As excitement builds, treat them to a milk chocolate Santa lolly. The perfect treat for those who love the moreishness of milk chocolate. Dont worry if you dont think youve made it onto Santas nice list this year - we wont tell if you let yourself have a little nibble on our Milk Santa! He may be on the smaller side, but our Milk Santa Lick is big in cocoa flavour. Mainstream milk chocolate can contain as little as 20% cocoa. We double that starting point in our house grade so that we can keep the cocoa content high, allowing you (or them) to enjoy the nuanced notes of the cocoa bean. Anything lower and you risk losing the more delicate levels of cocoa flavour.\n\n1\nAdd to order\n\u00a32.95",
+                "text": "Coca Cola Pet 50\n1\nAdd to order\n\u00a32.35",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a32.95"
+                  "Add to order\n\u00a32.35"
                 ],
                 "has_inputs": false
               }
@@ -271,11 +241,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nMilk Santa Lick\n\u00a32.95\n1\nSubtotal\n\u00a32.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a36.24\nAdd special instructions\nCheckout\nDiscover our New Chocolate Boxes! Patisserie Dreamer Chocolate Box 27-Piece & more for \u00a334!\nCan you get a more classic pairing? Strawberry & Cream Puddles for \u00a37.95!\nCelebrate the sweet side of Halloween with our frighteningly flavoursome chocolates from \u00a35.45!\nC\nCHRISTMAS\nNEW CHOCOLATE BOXES\nNEW VELVETISER!!!\nSPECIALITIES - GIFTS\nGIFT BAGS\nSELECTORS\nBATONS\nALCOHOL\nENROBED FRUIT\nSPECIALS FOR KIDS\nRIBBON BAGS\nGIFT CARDS\nDRINKING CHOCOLATE\nCHRISTMAS\nCHRISTMAS\n1\nMilk Santa Lick\nHow many sleeps? As excitement builds, treat them to a milk chocolate Santa lolly. The perfect treat for those who love the moreishness of milk chocolate. Dont worry if you dont think youve made it onto Santas nice list this year - we wont tell if you let yourself have a little nibble on our Milk Santa! He may be on the smaller side, but our Milk Santa Lick is big in cocoa flavour. Mainstream milk chocolate can contain as little as 20% cocoa. We double that starting point in our house grade so that we can keep the cocoa content high, allowing you (or them) to enjoy the nuanced notes of the cocoa bean. Anything lower and you risk losing the more delicate levels of cocoa flavour.\n\u00a32.95\nSanta Tiddly Pot\nDinky drops of milk chocolate in a resealable pot.\n\u00a32.95\nPenguin Tiddly Pot\n\u00a32.95\nPosse of Penguins | Milk Chocolate\nFour snug little penguins all wrapped up in 40% milk chocolate.\n\u00a313.95\nJolly Penguin\n\u00a39.95\nThe Nice Slice Christmas Edition\nSumptuously smooth hazelnut and almond praline, packed with crunch. Inspired by the beloved fridge cake, our Christmas Nice Slice is an elegant treat for al",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola Pet 50\n\u00a32.35\n1\nSubtotal\n\u00a32.35\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.64\nAdd special instructions\nCheckout\n3-4-2 Offer! Buy 2 Get 1 Free on Popdots. Stock up your favourites for \u00a32.90!\nExperience our Seasonal Specials like Strawberry Coconut Matcha Iced Latte & more!\nTop Selling Items\nOffers\nFestive Drinks\nCoffee\nIced Coffee\nMatcha\nRefreshers & Fruit Coolers\nHot Chocolate\nTea & Chai Latte\nFrappe\nCold Brew\nPastries\nSweets\nCakes & Muffins\nSandwiches\nSnacks\nSoft Drinks\nMerch\nAllergens Document\nTop Selling Items\nA quick look at our top sellers chosen by you!\nLatte\nOur signature blend espresso with steamed milk for a smooth and creamy coffee.\n\u00a33.40\nFlat White\nA short but intense espresso, expertly combined with sweet textured milk for a rich and velvety coffee.\n\u00a33.60\nIced Latte\nCold milk poured over ice, finished with a shot of rich espresso on topsimple and delicious!\n\u00a33.40\nCinnamon Snail\nA soft, spiral-shaped pastry swirled with cinnamon and sugar warm, sweet, and perfect for a cozy snack anytime!\nOut of stock\nBBQ Chicken & Bacon Panini\nA warm panini packed with tender BBQ chicken and crispy bacon, grilled to perfection for a smoky, flavorful bite thats sure to satisfy.\nOut of stock\nOffers\n3x2 in Popdots\nBuy 2, Get 1 Free on Popdots! Stock up on your favorite Popdots with our 3-for-2 offer! When you buy any two units, youll get a third one completely FREE. No code needed just add three to your cart and the discount will be automatically applied at checkout.\n\u00a32.90\nFestive Drinks\nFestive Drinks\nCaramel Nutcracker Latte\nA latte with our Caramel Nut flavour syrup topped off with Light Whip, a Salted Caramel Sauce drizzle and finished with our festive red and green sprinkl",
             "notices": []
           }
         ],
-        "item": "Milk Santa Lick",
+        "item": "Coca Cola Pet 50",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -784,9 +754,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-25T17:13:05.060429+01:00",
+  "last_confirmed_at": "2026-11-25T17:15:05.059637+01:00",
   "last_sample_check": {
-    "at": "2026-11-25T17:13:05.060429+01:00",
+    "at": "2026-11-25T17:15:05.059637+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
