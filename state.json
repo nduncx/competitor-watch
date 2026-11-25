@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-25T10:28:39.216926+01:00",
+  "last_observed_at": "2026-11-25T10:30:39.217920+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -63,95 +63,6 @@
       "closure_notice_only": false,
       "stale_closure_notice": false,
       "basket_probe": {}
-    },
-    {
-      "name": "The Old Mole Kitchen",
-      "status": "open",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": [
-            {
-              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
-              "buttons": [
-                "OK"
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "OK"
-        },
-        {
-          "step": 2,
-          "notices": []
-        },
-        {
-          "step": 0,
-          "notices": [],
-          "phase": "after_add"
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {
-        "passed": true,
-        "steps": [
-          {
-            "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Old Mole Kitchen\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Philly Cheese Steak Roll & Soft Drink only for 7.50!\nEnjoy our crispy, delicious Papitas! 6x for just \u00a33.70 or 12x for \u00a34.70!\nFlash Sale Offer! Philly Cheese Steak Roll & Soft Drink only for \u00a37.50!\nTop Selling Items\nHot Bread Rolls\nCold Bread Rolls\nM\nMontaditos\nBreakfast\nOur Churros\nOur Smashed Burger\nPinchitos\nSalads & Appetizers\nOur Side Orders\nDaily Specials\nHand Crafted Shawarma / Arabian Kebab\nHome-Made Desserts (Exclusive Only At The Old Mole Kitchen)\nF\nFish\nSauces\nJuices\nEnergy Drink\nSoft Drinks\nFlash Sale Offer! Philly Cheese Steak Roll & Soft Drink only for \u00a37.50!\nPhilly Cheese Steak Roll & Soft Drink only for 7.50!\n\u00a37.50\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBurger with Two Smashed Patties\nServed with salad and sauce of your choice\n\u00a310.00\n2xBeef Pinchitos in Wrap\nServed with salad and sauce of your choice\n\u00a310.00\nBeef Meat Balls in Pepper Sauce & Chips\nChoose your Size\n\u00a36.50\nBreaded Chicken Hot Bread Roll\n\u00a35.50\nHot Bread Rolls\nPhilly Cheese Steak Roll\nPhilly Cheese Steak Roll Juicy steak loaded with grilled peppers and onions, topped with melted cheese and creamy cheddar sauce, all tucked into a bread roll for a rich, flavour-packed bite.\n\u00a38.50\nChicken Tikka Hot Bread Roll\n\u00a35.50\nChicken Tandoori Hot Bread Roll\n\u00a35.50\nChicken Pinchito Hot Bread Roll\n\u00a35.50\nAfricano Chicken Hot Bread Roll\n\u00a35.50\nPlain Chicken Hot Bread Roll\n\u00a35.50\nBreaded Chicken Hot Bread Roll\n\u00a35.50\nBacon Hot Bread Roll\n\u00a34.50\nBacon & Egg Hot Bread Roll\n\u00a35.00\nEgg Hot Bread Roll\n\u00a34.00\nBacon, Sausage & Egg Hot Bread Roll\n\u00a36.50\nSausage Hot Bread Roll\n\u00a34.50\nCold Bread Rolls\nHam Cold Bread Roll\n\u00a34.00\nCheese Cold Bread Roll\n\u00a34.00\nHam & Cheese Co",
-            "notices": []
-          },
-          {
-            "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Old Mole Kitchen\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Philly Cheese Steak Roll & Soft Drink only for 7.50!\nEnjoy our crispy, delicious Papitas! 6x for just \u00a33.70 or 12x for \u00a34.70!\nFlash Sale Offer! Philly Cheese Steak Roll & Soft Drink only for \u00a37.50!\nTop Selling Items\nHot Bread Rolls\nCold Bread Rolls\nMontaditos\nBreakfast\nOur Churros\nOur Smashed Burger\nPinchitos\nSalads & Appetizers\nOur Side Orders\nDaily Specials\nHand Crafted Shawarma / Arabian Kebab\nHome-Made Desserts (Exclusive Only At The Old Mole Kitchen)\nFish\nSauces\nJuices\nEnergy Drink\nSoft Drinks\nFlash Sale Offer! Philly Cheese Steak Roll & Soft Drink only for \u00a37.50!\nPhilly Cheese Steak Roll & Soft Drink only for 7.50!\n\u00a37.50\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBurger with Two Smashed Patties\nServed with salad and sauce of your choice\n\u00a310.00\n2xBeef Pinchitos in Wrap\nServed with salad and sauce of your choice\n\u00a310.00\nBeef Meat Balls in Pepper Sauce & Chips\nChoose your Size\n\u00a36.50\nBreaded Chicken Hot Bread Roll\n\u00a35.50\nHot Bread Rolls\nPhilly Cheese Steak Roll\nPhilly Cheese Steak Roll Juicy steak loaded with grilled peppers and onions, topped with melted cheese and creamy cheddar sauce, all tucked into a bread roll for a rich, flavour-packed bite.\n\u00a38.50\nChicken Tikka Hot Bread Roll\n\u00a35.50\nChicken Tandoori Hot Bread Roll\n\u00a35.50\nChicken Pinchito Hot Bread Roll\n\u00a35.50\nAfricano Chicken Hot Bread Roll\n\u00a35.50\nPlain Chicken Hot Bread Roll\n\u00a35.50\nBreaded Chicken Hot Bread Roll\n\u00a35.50\nBacon Hot Bread Roll\n\u00a34.50\nBacon & Egg Hot Bread Roll\n\u00a35.00\nEgg Hot Bread Roll\n\u00a34.00\nBacon, Sausage & Egg Hot Bread Roll\n\u00a36.50\nSausage Hot Bread Roll\n\u00a34.50\nCold Bread Rolls\nHam Cold Bread Roll\n\u00a34.00\nCheese Cold Bread Roll\n\u00a34.00\nHam & Cheese Cold B",
-            "notices": [
-              {
-                "text": "Coca Cola\n\n330ml Can\n\n1\nAdd to order\n\u00a32.30",
-                "buttons": [
-                  "",
-                  "",
-                  "",
-                  "Add to order\n\u00a32.30"
-                ],
-                "has_inputs": false
-              }
-            ]
-          },
-          {
-            "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nThe Old Mole Kitchen\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.30\n1\nSubtotal\n\u00a32.30\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.59\nAdd special instructions\nCheckout\nEnjoy our Philly Cheese Steak Roll & Soft Drink only for 7.50!\nEnjoy our crispy, delicious Papitas! 6x for just \u00a33.70 or 12x for \u00a34.70!\nFlash Sale Offer! Philly Cheese Steak Roll & Soft Drink only for \u00a37.50!\nTop Selling Items\nHot Bread Rolls\nCold Bread Rolls\nMontaditos\nBreakfast\nOur Churros\nOur Smashed Burger\nPinchitos\nSalads & Appetizers\nOur Side Orders\nDaily Specials\nHand Crafted Shawarma / Arabian Kebab\nHome-Made Desserts (Exclusive Only At The Old Mole Kitchen)\nFish\nSauces\nJuices\nEnergy Drink\nSoft Drinks\nFlash Sale Offer! Philly Cheese Steak Roll & Soft Drink only for \u00a37.50!\nPhilly Cheese Steak Roll & Soft Drink only for 7.50!\n\u00a37.50\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBurger with Two Smashed Patties\nServed with salad and sauce of your choice\n\u00a310.00\n2xBeef Pinchitos in Wrap\nServed with salad and sauce of your choice\n\u00a310.00\nBeef Meat Balls in Pepper Sauce & Chips\nChoose your Size\n\u00a36.50\nBreaded Chicken Hot Bread Roll\n\u00a35.50\nHot Bread Rolls\nPhilly Cheese Steak Roll\nPhilly Cheese Steak Roll Juicy steak loaded with grilled peppers and onions, topped with melted cheese and creamy cheddar sauce, all tucked into a bread roll for a rich, flavour-packed bite.\n\u00a38.50\nChicken Tikka Hot Bread Roll\n\u00a35.50\nChicken Tandoori Hot Bread Roll\n\u00a35.50\nChicken Pinchito Hot Bread Roll\n\u00a35.50\nAfricano Chicken Hot Bread Roll\n\u00a35.50\nPlain Chicken Hot Bread Roll\n\u00a35.50\nBreaded Chicken Hot Bread Roll\n\u00a35.50\nBacon Hot Bread Roll\n\u00a34.50\nBacon & Egg Hot Bread Roll\n\u00a35.00\nEgg Hot Bread Roll\n\u00a34.00\nBacon, Sausage & Egg Hot Bread Roll\n\u00a36.50\nSausage Hot Bread R",
-            "notices": []
-          }
-        ],
-        "item": "Coca Cola",
-        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
-      }
     },
     {
       "name": "Laguna Bar",
@@ -328,6 +239,95 @@
           }
         ],
         "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
+    },
+    {
+      "name": "Sanu Brunch & Co",
+      "status": "open",
+      "notice": "",
+      "notice_transcript": [
+        {
+          "step": 0,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            },
+            {
+              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
+              "buttons": [
+                "Accept all",
+                "Reject non-essential",
+                "Manage cookies",
+                ""
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "Reject non-essential"
+        },
+        {
+          "step": 1,
+          "notices": [
+            {
+              "text": "\u2b50Win your order for FREE! Don't forgot every order gets a free entry to our Busy Monkey Game! \u2b50Go to www.hungrymonkey.gi/promos and follow the steps to the top of the Gibraltar leaderboard!\nOK",
+              "buttons": [
+                "OK"
+              ],
+              "has_inputs": false
+            }
+          ],
+          "action": "OK"
+        },
+        {
+          "step": 2,
+          "notices": []
+        },
+        {
+          "step": 0,
+          "notices": [],
+          "phase": "after_add"
+        }
+      ],
+      "unresolved_notice": false,
+      "order_button_after_notices": true,
+      "closure_notice_only": false,
+      "stale_closure_notice": false,
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nBrunch\nWraps\nMains\nSanu Signatures\nAppetisers\nSalads\nBurgers\nKids\nCaffeine & Tea\nSmoothies\nSoft Drinks\nCocktails\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.95\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.95\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.95\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nCaesar Salad\nLettuce, crispy chicken, parmesan cheese and caesar sauce\n\u00a36.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a36.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a36.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.95\nCheese & Ham Croissant\n\u00a32.95\nPlain Croissant\n\u00a32.95\nButter & Jam Toast\n\u00a32.95\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.95\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ham\n\u00a35.20\nHo",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nBrunch\nWraps\nMains\nSanu Signatures\nAppetisers\nSalads\nBurgers\nKids\nCaffeine & Tea\nSmoothies\nSoft Drinks\nCocktails\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.95\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.95\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.95\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nCaesar Salad\nLettuce, crispy chicken, parmesan cheese and caesar sauce\n\u00a36.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a36.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a36.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.95\nCheese & Ham Croissant\n\u00a32.95\nPlain Croissant\n\u00a32.95\nButter & Jam Toast\n\u00a32.95\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.95\nCampo Breadd with Tomato, Garlic, Olive Oil & Iberian Ham\n\u00a35.20\nHo",
+            "notices": [
+              {
+                "text": "Chicken Strips\nWould you like Sauce?\nAdd Gaucho Sauce\nAdd Mayo\nAdd Ketchup\nAdd Caesar Sauce\nAdd HP Sauce\nAdd BBQ Sauce\nAdd Yoghurt Sauce\nAdd Ali-Oli\nOut of stock\nAdd Queso Sauce\nWould you like some Savoury Extras?\nAdd Cheese\n\u00a31.00\nAdd Bacon\n\u00a31.00\nAdd Sausage\n\u00a31.00\nAdd Chicken\n\u00a31.00\nAdd Salmon\n\u00a31.00\nAdd Salad\n\u00a31.00\nAdd Scrambled Egg\n\u00a31.00\nAdd Poached Egg\n\u00a31.00\nAdd Fried Egg\n\u00a31.00\nAdd Ham\n\u00a31.00\nAdd Avocado\n\u00a31.00\nAdd Mushrooms\n\u00a31.00\nAdd Tuna\n\u00a31.00\nWould you like some Sweet Extras?\nAdd Nutella\n\u00a31.00\nAdd Kinder Bueno Sauce\n\u00a31.00\nAdd Kinder Bueno Bar\n\u00a31.00\nAdd Milky Way\n\u00a31.00\nAdd Maple Syrup\n\u00a31.00\nAdd Peanut Butter\n\u00a31.00\nAdd Strawberry Jam\n\u00a31.00\nAdd Butter\n\u00a31.00\nAdd Cream Cheese\n\u00a31.00\nAdd Honey\n\u00a31.00\nAdd Granola\n\u00a31.00\nAdd Fresh Fruits\n\u00a31.00\n1\nAdd to order\n\u00a36.95",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a36.95"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nChicken Strips\n\u00a36.95\n1\nSubtotal\n\u00a36.95\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a310.24\nAdd special instructions\nCheckout\nBuild your perfect Crepe from just \u00a35.50 - endless toppings, endless deliciousness!\nSatisfy your cravings with our delicious Classic, Chicken or Falafel Burgers from just \u00a38.95!\nTop Selling Items\nBreakfast\nHot Baguettes\nCold Baguettes\nBrunch\nWraps\nMains\nSanu Signatures\nAppetisers\nSalads\nBurgers\nKids\nCaffeine & Tea\nSmoothies\nSoft Drinks\nCocktails\nBeers & Ciders\nTop Selling Items\nA quick look at our top sellers chosen by you!\nBacon, Egg & Sausage Hot Baguette\n\u00a35.95\nBagel\nWith your choice of sweet/savoury extra fillings.\n\u00a32.95\nBreaded Chicken Hot Baguette\nAdd salad & your favourite sauce.\n\u00a35.95\nThe English Breakfast Full\nBacon rashers, sausage, tomatoes, beans, mushrooms, fried egg, hash browns and toast.\n\u00a310.90\nCaesar Salad\nLettuce, crispy chicken, parmesan cheese and caesar sauce\n\u00a36.95\nBreakfast\nClub Sandwich\nChicken, crispy bacon, fresh lettuce, juicy tomatoes and mayo.\n\u00a36.50\nThe Fit Toast\nAvocado, ham, tuna and boiled eggs.\n\u00a36.95\nThe English Breakfast Full\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a38.95\nThe English Breakfast Half\nBacon, sausage, tomatoes, baked beans, mushrooms, fried egg, hash browns and toast.\n\u00a36.50\nThe Fit English Breakfast\nOmlette, baked beans, tomatoes, mushrooms, sliced avocado and toast.\n\u00a38.95\nSanu Special\nCampo bread, omelette, spinach, cherry tomatoes, avocado and salmon.\n\u00a36.95\nCroissant Royale\nCroissant, cheese, sliced avocado, poached egg and hollandaise sauce.\n\u00a36.95\nJam & Butter Croissant\n\u00a32.95\nCheese & Ham Croissant\n\u00a32.95\nPlain Croissant\n\u00a32.95\nButter & Jam Toast\n\u00a32.95\nBagel\nWith your choic",
+            "notices": []
+          }
+        ],
+        "item": "Chicken Strips",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -836,9 +836,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-25T10:28:39.216926+01:00",
+  "last_confirmed_at": "2026-11-25T10:30:39.217920+01:00",
   "last_sample_check": {
-    "at": "2026-11-25T10:28:39.216926+01:00",
+    "at": "2026-11-25T10:30:39.217920+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
