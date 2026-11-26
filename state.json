@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-26T19:59:26.851788+01:00",
+  "last_observed_at": "2026-11-26T20:01:26.852337+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -50,7 +50,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Royal Calpe",
+      "name": "OAKBERRY",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -87,7 +87,7 @@
       "basket_probe": {}
     },
     {
-      "name": "Starbucks",
+      "name": "The Star Bar",
       "status": "closed",
       "notice": "Sorry, we\u2019re not taking orders right now\nYou can still browse our menu or access your account settings.",
       "notice_transcript": [
@@ -125,11 +125,6 @@
     }
   ],
   "notification_receipts": [
-    {
-      "id": "monitor:2026-11-20T09:02:26.737562+01:00:restored",
-      "subject": "Competitor Watch: suitable stores available again",
-      "delivered_at": "2026-11-20T09:03:30.197037+01:00"
-    },
     {
       "id": "2026-11-20T18:46:13.330979+01:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (18:46)",
@@ -624,13 +619,18 @@
       "id": "2026-11-26T19:59:26.851788+01:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (19:59)",
       "delivered_at": "2026-11-26T20:00:03.285711+01:00"
+    },
+    {
+      "id": "2026-11-26T20:01:26.852337+01:00:closed",
+      "subject": "Hungry Monkey is STILL not taking orders (20:01)",
+      "delivered_at": "2026-11-26T20:02:03.763599+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "closed",
-  "last_confirmed_at": "2026-11-26T19:59:26.851788+01:00",
+  "last_confirmed_at": "2026-11-26T20:01:26.852337+01:00",
   "last_sample_check": {
-    "at": "2026-11-26T19:59:26.851788+01:00",
+    "at": "2026-11-26T20:01:26.852337+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
