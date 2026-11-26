@@ -364,11 +364,6 @@
   ],
   "notification_receipts": [
     {
-      "id": "2026-11-20T19:38:41.118544+01:00:open",
-      "subject": "Hungry Monkey is taking orders again (19:38) - basket test passed",
-      "delivered_at": "2026-11-20T19:39:33.381105+01:00"
-    },
-    {
       "id": "2026-11-20T20:08:41.119908+01:00:closed",
       "subject": "Hungry Monkey has STOPPED taking orders (20:08)",
       "delivered_at": "2026-11-20T20:09:15.422138+01:00"
@@ -862,15 +857,20 @@
       "id": "monitor:2026-11-26T23:01:26.791433+01:00:no_samples",
       "subject": "Competitor Watch: no suitable stores available to test",
       "delivered_at": "2026-11-26T23:02:52.880575+01:00"
+    },
+    {
+      "id": "monitor:2026-11-26T23:09:26.792003+01:00:failed",
+      "subject": "Competitor Watch: monitoring problem",
+      "delivered_at": "2026-11-26T23:10:54.544929+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "open",
   "last_confirmed_at": "2026-11-26T22:59:26.863532+01:00",
   "last_sample_check": {
-    "at": "2026-11-26T23:07:26.861423+01:00",
+    "at": "2026-11-26T23:09:26.863522+01:00",
     "eligible": false,
-    "exclusions_confirmed": true,
+    "exclusions_confirmed": false,
     "venues": [
       {
         "name": "Essaouira",
