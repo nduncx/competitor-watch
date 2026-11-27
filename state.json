@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-26T22:59:26.863532+01:00",
+  "last_observed_at": "2026-11-27T18:20:54.615400+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,7 +156,7 @@
       }
     },
     {
-      "name": "Birdie Cafe",
+      "name": "Beeyo",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -195,15 +195,15 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35\n23. Chicken Noodles\n\u00a37.35\n23A. Plain Noodles\n\u00a35.25\nSpecial Dishes\n36. Beef in Oyster Sauce\n\u00a38.2",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yogurt\nFrozen Yoghurt Specials\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.00\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nFrozen Yogurt\nBuild Your Own Natural Frozen Yogurt\nFrozen Yogurt - 500ml\nChoose up to 3 toppings from our delicious selection of chocolates, biscuits, fruits, sauces and crunchy favourites. Want more? Extra toppings are available for a",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35\n23. Chicken Noodles\n\u00a37.35\n23A. Plain Noodles\n\u00a35.25\nSpecial Dishes\n36. Beef in Oyster Sauce\n\u00a38.2",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yogurt\nFrozen Yoghurt Specials\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.00\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nFrozen Yogurt\nBuild Your Own Natural Frozen Yogurt\nFrozen Yogurt - 500ml\nChoose up to 3 toppings from our delicious selection of chocolates, biscuits, fruits, sauces and crunchy favourites. Want more? Extra toppings are available for a",
             "notices": [
               {
-                "text": "Coke\n1\nAdd to order\n\u00a32.00",
+                "text": "Coca Cola\n1\nAdd to order\n\u00a32.00",
                 "buttons": [
                   "",
                   "",
@@ -216,59 +216,18 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoke\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nEnjoy our Special Dishes only from \u00a38.25! - Ready to delight your taste buds with every bite!\nEnjoy our Set Menus! Whether you're dining solo or in a group of 4, delicious meal waiting for you!\nTop Selling Items\nSoup\nStarters\nVegetarian\nChow Mein *Soft Noodles*\nSpecial Dishes\nRice Dishes\nSweet & Sour Dishes\nCurry Dishes\nSet Menus\nDesserts\nSauces\nExtras\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n47. Salt & Pepper Ribs\n\u00a38.40\n23. Chicken Noodles\n\u00a37.35\n30. Chicken Balls in Sweet & Sour Sauce\n\u00a37.70\nSoup\n1. Special Soup of the House\n\u00a35.15\n2. Hot & Sour Soup\n\u00a34.75\n3. Wan Ton Soup\n\u00a35.10\n4. Chicken Noodle Soup\n\u00a34.45\n5. Chicken & Mushroom Soup\n\u00a34.45\n6. Chicken & Sweetcorn Soup\n\u00a34.45\n7. Crab & Sweetcorn Soup\n\u00a34.50\nStarters\n8. Chicken Spring Roll\n\u00a32.95\n9. Prawn Crackers\n\u00a32.70\n10. Crispy Fried Wan Ton\n\u00a36.80\n11. Chicken Satay\n\u00a37.00\n41. Butterfly Prawn (Thick Batter)\n\u00a310.50\n41A. Butterfly Prawn (Thin Batter)\n\u00a310.50\n41B. Sesame Prawn Roast\n\u00a37.80\n47. Salt & Pepper Ribs\n\u00a38.40\nVegetarian\n12. Salt & Pepper Mock Duck\n\u00a310.30\nVegetarian\n13. Mock Duck with Veg in Black Bean Sauce\n\u00a39.75\nVegetarian\n14. Mix Veg Singapore Noodles\n\u00a39.95\nVegetarian\n15. Vegetable Spring Roll\n\u00a32.95\nVegetarian\n16. San Choi Po (Veg)\n\u00a39.95\nVegetarian\n17. Mix Veg Fried Rice\n\u00a36.10\nVegetarian\n18. Mix Veg Noodles\n\u00a37.45\nVegetarian\n18A. Four Seasons Veg in Garlic Sauce\n\u00a38.40\nVegetarian\n18B. Garlic Broccoli\n\u00a37.60\nVegetarian\nChow Mein *Soft Noodles*\n19. King Prawn Noodles\n\u00a310.50\n20. Special Noodles\n\u00a310.00\n21. Beef Noodles\n\u00a37.35\n22. Pork Noodles\n\u00a37.35",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yogurt\nFrozen Yoghurt Specials\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.00\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nFrozen Yogurt\nBuild Your Own Natural Frozen Yogurt\nFrozen Yogurt - 500ml\nChoose up to 3 toppings from our delicious selection of choco",
             "notices": []
           }
         ],
-        "item": "Coke",
+        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Donations, Gifts, Vouchers and Bags!",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Donate, Vouchers, Gifts or Bag For Life ?\nDonate \u00a32 - Get a \u00a32 Hungry Monkey Voucher\nLimited Edition Monkey!\nHungry Monkey Vouchers\nGifts\nBag For Life\nContinue",
-              "buttons": [
-                "Continue"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "Sorry we're closed\nWe are currently closed but you can still pre-order.\nGot it",
-              "buttons": [
-                "Got it"
-              ],
-              "has_inputs": false
-            }
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Neha Curry House",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
+      "name": "Gela Ti Amo",
+      "status": "open",
+      "notice": "",
       "notice_transcript": [
         {
           "step": 0,
@@ -289,85 +248,53 @@
         {
           "step": 1,
           "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "The Shack",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
         },
         {
-          "step": 1,
-          "notices": []
-        }
-      ],
-      "unresolved_notice": false,
-      "order_button_after_notices": true,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Thi Vietnamese Restaurant",
-      "status": "venue_closed",
-      "notice": "We are currently closed but you can still pre-order.",
-      "notice_transcript": [
-        {
           "step": 0,
-          "notices": [
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ],
-          "action": "Reject non-essential"
-        },
-        {
-          "step": 1,
-          "notices": []
+          "notices": [],
+          "phase": "after_add"
         }
       ],
       "unresolved_notice": false,
       "order_button_after_notices": true,
       "closure_notice_only": false,
       "stale_closure_notice": false,
-      "basket_probe": {}
+      "basket_probe": {
+        "passed": true,
+        "steps": [
+          {
+            "phase": "before_item",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best ",
+            "notices": []
+          },
+          {
+            "phase": "item_dialog",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best ",
+            "notices": [
+              {
+                "text": "Coca Cola\n\nCan 330ml\n\n1\nAdd to order\n\u00a31.50",
+                "buttons": [
+                  "",
+                  "",
+                  "",
+                  "Add to order\n\u00a31.50"
+                ],
+                "has_inputs": false
+              }
+            ]
+          },
+          {
+            "phase": "basket_added",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sou",
+            "notices": []
+          }
+        ],
+        "item": "Coca Cola",
+        "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
+      }
     }
   ],
   "notification_receipts": [
-    {
-      "id": "2026-11-20T20:18:41.119998+01:00:closed",
-      "subject": "Hungry Monkey is STILL not taking orders (20:18)",
-      "delivered_at": "2026-11-20T20:19:14.987292+01:00"
-    },
     {
       "id": "2026-11-20T20:20:41.128818+01:00:closed",
       "subject": "Hungry Monkey is STILL not taking orders (20:20)",
@@ -862,41 +789,19 @@
       "id": "monitor:2026-11-26T23:19:26.792726+01:00:no_samples",
       "subject": "Competitor Watch: no suitable stores available to test",
       "delivered_at": "2026-11-26T23:20:52.087986+01:00"
+    },
+    {
+      "id": "monitor:2026-11-27T18:20:54.569922+01:00:restored",
+      "subject": "Competitor Watch: suitable stores available again",
+      "delivered_at": "2026-11-27T18:21:49.477404+01:00"
     }
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-26T22:59:26.863532+01:00",
+  "last_confirmed_at": "2026-11-27T18:20:54.615400+01:00",
   "last_sample_check": {
-    "at": "2026-11-26T23:29:26.864096+01:00",
-    "eligible": false,
-    "exclusions_confirmed": true,
-    "venues": [
-      {
-        "name": "Essaouira",
-        "status": "venue_closed"
-      },
-      {
-        "name": "3Bros Takeout",
-        "status": "venue_closed"
-      },
-      {
-        "name": "4 Stagioni",
-        "status": "venue_closed"
-      },
-      {
-        "name": "54 Dining & Caf\u00e9",
-        "status": "venue_closed"
-      },
-      {
-        "name": "Ace Burgers",
-        "status": "venue_closed"
-      },
-      {
-        "name": "AquaTerra",
-        "status": "venue_closed"
-      }
-    ]
+    "at": "2026-11-27T18:20:54.615400+01:00",
+    "eligible": true
   },
   "pending_ops_notifications": [],
   "ops_notification_receipts": [
