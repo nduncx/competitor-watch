@@ -10,7 +10,7 @@
     "2026-09-28-slack-layout-preview-v1"
   ],
   "pending_notifications": [],
-  "last_observed_at": "2026-11-27T23:18:54.638104+01:00",
+  "last_observed_at": "2026-11-28T17:03:48.424118+01:00",
   "last_venues": [
     {
       "name": "Essaouira",
@@ -156,7 +156,7 @@
       }
     },
     {
-      "name": "Neha Curry House",
+      "name": "Beeyo",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -195,20 +195,20 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nBooze Promos!\nVapes\nKid's Meal\nStreetfood Specials\nDesserts (Indian Sweets)\nSoft Drinks\nSalitos / Breezers\nEnergy Drinks\nBeers & Ciders\nWines\nVodka\nGin\nRum\nWhiskey\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\nIncludes: 4 Appetisers, 4 Mains, 2 Rices, 2 Naans & 4 Drinks\nNeha Combo for 4 (NON-ALCOHOL)\nChoose 4 Appetisers + 4 Mains + 2 Rices + 2 Naans + 4 Drinks\n\u00a349.00\nNeha Combo for 4 (ALCOHOL)\nChoose 4 Appetisers + 4 Mains + 2 Rices + 2 Naans + 4 Beers\n\u00a352.00\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nIncludes: 2 Appetisers, 2 Mains, 1 Rice, 1 Naan & 2 Soft Drinks\nNeha Dinner Date for Two @ \u00a329 (NON-ALCOHOL)\nChoose 2 Appetisers + 2 Mains + 1 Rice + 1 Naan + 2 Drinks\n\u00a329.00\nNeha Dinner Date for Two @ \u00a331 (ALCOHOL)\nChoose 2 Appetisers + 2 Mains + 1 Rice + 1 Naan + 2 Beers\n\u00a331.00\nNeha's Curry Meal Deal\nHalf Rice. Half Curry. Free Poppadom + Drink. (Available from 4pm onwards)\nVegetarian Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a37.99\nChicken Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a38.99\nLamb Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a39.99\nBooze Promos!\n5 Cider Combo\nGet 5 Ciders for \u00a310.00\n\u00a310.00\n5 Breezer Combo\nMix & Match Breezers for \u00a312.00\n\u00a312.00\n5 + 1 San Miguel Bottl",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yogurt\nFrozen Yoghurt Specials\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.00\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nFrozen Yogurt\nBuild Your Own Natural Frozen Yogurt\nFrozen Yogurt - 500ml\nChoose up to 3 toppings from our delicious selection of chocolates, biscuits, fruits, sauces and crunchy favourites. Want more? Extra toppings are available for a",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nBooze Promos!\nVapes\nKid's Meal\nStreetfood Specials\nDesserts (Indian Sweets)\nSoft Drinks\nSalitos / Breezers\nEnergy Drinks\nBeers & Ciders\nWines\nVodka\nGin\nRum\nWhiskey\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\nIncludes: 4 Appetisers, 4 Mains, 2 Rices, 2 Naans & 4 Drinks\nNeha Combo for 4 (NON-ALCOHOL)\nChoose 4 Appetisers + 4 Mains + 2 Rices + 2 Naans + 4 Drinks\n\u00a349.00\nNeha Combo for 4 (ALCOHOL)\nChoose 4 Appetisers + 4 Mains + 2 Rices + 2 Naans + 4 Beers\n\u00a352.00\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nIncludes: 2 Appetisers, 2 Mains, 1 Rice, 1 Naan & 2 Soft Drinks\nNeha Dinner Date for Two @ \u00a329 (NON-ALCOHOL)\nChoose 2 Appetisers + 2 Mains + 1 Rice + 1 Naan + 2 Drinks\n\u00a329.00\nNeha Dinner Date for Two @ \u00a331 (ALCOHOL)\nChoose 2 Appetisers + 2 Mains + 1 Rice + 1 Naan + 2 Beers\n\u00a331.00\nNeha's Curry Meal Deal\nHalf Rice. Half Curry. Free Poppadom + Drink. (Available from 4pm onwards)\nVegetarian Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a37.99\nChicken Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a38.99\nLamb Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a39.99\nBooze Promos!\n5 Cider Combo\nGet 5 Ciders for \u00a310.00\n\u00a310.00\n5 Breezer Combo\nMix & Match Breezers for \u00a312.00\n\u00a312.00\n5 + 1 San Miguel Bottl",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yogurt\nFrozen Yoghurt Specials\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.00\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nFrozen Yogurt\nBuild Your Own Natural Frozen Yogurt\nFrozen Yogurt - 500ml\nChoose up to 3 toppings from our delicious selection of chocolates, biscuits, fruits, sauces and crunchy favourites. Want more? Extra toppings are available for a",
             "notices": [
               {
-                "text": "Pepsi Can\n\n330ml Can\n\n1\nAdd to order\n\u00a31.50",
+                "text": "Coca Cola\n1\nAdd to order\n\u00a32.00",
                 "buttons": [
                   "",
                   "",
                   "",
-                  "Add to order\n\u00a31.50"
+                  "Add to order\n\u00a32.00"
                 ],
                 "has_inputs": false
               }
@@ -216,50 +216,16 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nPepsi Can\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nKids Meal Now Available - Mild and Delicious Meals For Your Children\nFree Pani Puri (min spend \u00a350)!! Type \"FREE PANI PURI\" at checkout\nNeha's Curry Meal Deal Now Available!\nNeha's Curry Night for 4 Combo: 4 appetisers, 4 mains, 2 rices, 2 naans & 2 drinks only for \u00a349!\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nNeha's Curry Meal Deal\nBooze Promos!\nVapes\nKid's Meal\nStreetfood Specials\nDesserts (Indian Sweets)\nSoft Drinks\nSalitos / Breezers\nEnergy Drinks\nBeers & Ciders\nWines\nVodka\nGin\nRum\nWhiskey\n**OFFER** Neha's Curry Night for 4 Combo @ \u00a349\nIncludes: 4 Appetisers, 4 Mains, 2 Rices, 2 Naans & 4 Drinks\nNeha Combo for 4 (NON-ALCOHOL)\nChoose 4 Appetisers + 4 Mains + 2 Rices + 2 Naans + 4 Drinks\n\u00a349.00\nNeha Combo for 4 (ALCOHOL)\nChoose 4 Appetisers + 4 Mains + 2 Rices + 2 Naans + 4 Beers\n\u00a352.00\n**OFFER** Neha's Dinner Date for 2 Combo @ \u00a329\nIncludes: 2 Appetisers, 2 Mains, 1 Rice, 1 Naan & 2 Soft Drinks\nNeha Dinner Date for Two @ \u00a329 (NON-ALCOHOL)\nChoose 2 Appetisers + 2 Mains + 1 Rice + 1 Naan + 2 Drinks\n\u00a329.00\nNeha Dinner Date for Two @ \u00a331 (ALCOHOL)\nChoose 2 Appetisers + 2 Mains + 1 Rice + 1 Naan + 2 Beers\n\u00a331.00\nNeha's Curry Meal Deal\nHalf Rice. Half Curry. Free Poppadom + Drink. (Available from 4pm onwards)\nVegetarian Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a37.99\nChicken Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a38.99\nLamb Meal Deal\nIncludes Free Drink! (Beer options available). Half Rice Half Curry.\n\u00a39.99\nBooze Promos!\n5 Cider Combo\nGet 5 C",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBeeyo\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a32.00\n1\nSubtotal\n\u00a32.00\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a35.29\nAdd special instructions\nCheckout\nCloud Specials are here! Enjoy hot or iced flavours like Cherry, Raspberry & more, from just \u00a35.20!\nFreshen up with our Natural Frozen Yogurt Specials! Oreo, Biscoff & more from \u00a312.99!\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nTop Selling Items\nFrozen Yogurt\nFrozen Yoghurt Specials\nMilkshakes\nSmoothies\nFreezo & Hottie\nCoffee Lovers\nSpecial Coffees\nBeeyo's Favourite Coffee\nMatchas\nEnergy & Wellness\nFrapp\u00e9s\nBites to Delight\nDrinks\n20% OFF Hungry Monkey Launch offer! Natural Froyo Dubai\nChoose your Dubai toppings\nFrozen Yogurt Dubai - 500ml Was \u00a313.90 Now \u00a311.00\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nTop Selling Items\nOriginal Bubble Waffle\nFreshly made original vanilla bubble waffle, served warm and crispy on the outside, soft and fluffy on the inside. Choose up to 3 toppings to create your perfect waffle.\n\u00a310.95\nMini Pancakes\nWarm, fluffy mini pancakes served fresh. Customize them with up to 3 toppings of your choice.\n\u00a310.95\nSignature Lotus\nA creamy blend of milk and rich Lotus Biscoff flavour, topped with smooth cream, Biscoff biscuit and crunchy crumbs.\n\u00a36.35\nFrozen Yogurt Dubai - 500ml\nCreamy frozen yogurt layered with Nutella, crunchy kunafa, and rich pistachio sauce, topped with a generous swirl of frozen yogurt, Nutella chocolate drizzle and pistachio cream.\n\u00a311.00\nFrozen Yogurt\nBuild Your Own Natural Frozen Yogurt\nFrozen Yogurt - 500ml\nChoose up to 3 toppings from our delicious selection of choco",
             "notices": []
           }
         ],
-        "item": "Pepsi Can",
+        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     },
     {
-      "name": "Donations, Gifts, Vouchers and Bags!",
-      "status": "unknown",
-      "notice": "",
-      "notice_transcript": [
-        {
-          "step": 0,
-          "notices": [
-            {
-              "text": "Donate, Vouchers, Gifts or Bag For Life ?\nDonate \u00a32 - Get a \u00a32 Hungry Monkey Voucher\nLimited Edition Monkey!\nHungry Monkey Vouchers\nGifts\nBag For Life\nContinue",
-              "buttons": [
-                "Continue"
-              ],
-              "has_inputs": false
-            },
-            {
-              "text": "We use cookies to improve your online experience. See our cookie policy.\n\nAccept all\nReject non-essential\nManage cookies",
-              "buttons": [
-                "Accept all",
-                "Reject non-essential",
-                "Manage cookies",
-                ""
-              ],
-              "has_inputs": false
-            }
-          ]
-        }
-      ],
-      "unresolved_notice": true,
-      "order_button_after_notices": false,
-      "closure_notice_only": false,
-      "stale_closure_notice": false,
-      "basket_probe": {}
-    },
-    {
-      "name": "Shack 2",
+      "name": "Gela Ti Amo",
       "status": "open",
       "notice": "",
       "notice_transcript": [
@@ -298,15 +264,15 @@
         "steps": [
           {
             "phase": "before_item",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nWraps\nKids Meals\nPinchitos\nChicken kebabs\nSnacks\nSalads\nSides\nNEW! Desserts\nSweets & Confectionary\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nChicken in Tomato with Chips\n\u00a37.00\nPeppered Chicken with Chips\n\u00a37.00\nLentil Stew\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats c",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best ",
             "notices": []
           },
           {
             "phase": "item_dialog",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nWraps\nKids Meals\nPinchitos\nChicken kebabs\nSnacks\nSalads\nSides\nNEW! Desserts\nSweets & Confectionary\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nChicken in Tomato with Chips\n\u00a37.00\nPeppered Chicken with Chips\n\u00a37.00\nLentil Stew\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nNEW! Shacks Goat\nDouble smash patties topped with goats c",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\n\nThere are no items in your basket\n\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nOreo\nAuthentic Italian Gelato made fresh daily using the best ",
             "notices": [
               {
-                "text": "Coca Cola 33cl\n1\nAdd to order\n\u00a31.50",
+                "text": "Coca Cola\n\nCan 330ml\n\n1\nAdd to order\n\u00a31.50",
                 "buttons": [
                   "",
                   "",
@@ -319,11 +285,11 @@
           },
           {
             "phase": "basket_added",
-            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nShack 2\nBasket\nCollection or Delivery\nYour order\nCoca Cola 33cl\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nWrap up your hunger! Enjoy our delicious Chicken Tender & Popcorn Chicken Wraps from just \u00a39.20!\nChoose Small, Medium or Large Kebab Boxes! Packed with kebab, chips, salad & sauces from just \u00a37.50!\nTop Selling Items\nSpecial Dishes\nBurgers\nCombis\nKebab\nWraps\nKids Meals\nPinchitos\nChicken kebabs\nSnacks\nSalads\nSides\nNEW! Desserts\nSweets & Confectionary\nDrinks\nEnergy Drinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh burger bun topped with you choice of salad.\n\u00a312.00\nLarge Kebab Box\nLarge Kebab Box served with your choice of chips salad and sauces.\n\u00a312.50\nChicken Kebab Wrap\nThe finest chicken kebab\n\u00a39.50\nKebab Wrap\nKebab wrap toasted with our house butter and coated in our house spices,served with your choice of salad and sauces\n\u00a39.20\nChicken Tenders\n\u00a36.00\nSpecial Dishes\nChicken in Tomato with Chips\n\u00a37.00\nPeppered Chicken with Chips\n\u00a37.00\nLentil Stew\n\u00a37.00\nBurgers\nChicken Burger\nCrispy Chicken on a fresh burger bun\n\u00a37.50\nSmash Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and your choice of salad.\n\u00a38.50\nShack Special Burger\nCheese filled quarter pounder topped with mozzarella sticks served on a fresh burger bun with your choice of salad.\n\u00a39.95\nSmash Kebab Burger\n2\u00d7 smash patties served on a fresh burger bun topped with cheese and kebab and your choice of salad.\n\u00a39.95\nShacks Big Order Burger\n2\u00d7 patties 1 \u00d7 cheese fillet pattie topped with mozzarella sticks and hash browns served on a fresh bu",
+            "text": "MENU\nSIGN IN\nMANAGE PRIVACY PREFERENCES\nBasket\nCollection or Delivery\nYour order\nCoca Cola\n\u00a31.50\n1\nSubtotal\n\u00a31.50\nDelivery\n\u00a33.29\n\nTIP\n\nNo tip\n5%\n10%\n15%\nOther\n\u00a3\nTotal\n\u00a34.79\nAdd special instructions\nCheckout\nEnjoy our Italian gelato, made fresh daily with the finest locally sourced ingredients only for \u00a35!\nSip on pure indulgence! Try our creamy milkshakes in Cookie, Kinder Bueno and more only for \u00a36!\nTop Selling Items\nSummer Beach Box\nMix & Match\nFresh Authentic Italian Gelato\nMilkshakes\nExtras\nIced Coffee\nGranitas\nDrinks\nTop Selling Items\nA quick look at our top sellers chosen by you!\nAero Mint\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nKinder Bueno\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\nPistachio\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\n\u00a35.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\nSummer Beach Box\nExtra Large Tub (1L) + 4 Gelato Cones\nChoose up to 2 flavours from our entire range.\n\u00a322.00\nMix & Match\nMedium Tub (200ml)\nChoose up to 2 Flavours from our entire range.\n\u00a35.00\nLarge Tub (300ml)\nChoose up to 2 Flavours from our entire range.\n\u00a36.00\n1/2 Litre Tub (500ml)\nChoose up to 2 Flavours from our entire range.\n\u00a311.00\n3/4 Litre Tub (750ml)\nChoose up to 2 Flavours from our entire range.\nOut of stock\n1 Litre Tub (1000ml)\nChoose up to 2 Flavours from our entire range.\n\u00a319.00\nFresh Authentic Italian Gelato\nAmarena (Cherry)\nAuthentic Italian Gelato made fresh daily using the best locally sourced natural ingredients.\nOut of stock\nCookie\nAuthentic Italian Gelato made fresh daily using the best locally sou",
             "notices": []
           }
         ],
-        "item": "Coca Cola 33cl",
+        "item": "Coca Cola",
         "reason": "simple item appeared in basket after notices were dismissed; no pre-order/refusal notice"
       }
     }
@@ -832,9 +798,9 @@
   ],
   "recovery_streak": 0,
   "last_result": "open",
-  "last_confirmed_at": "2026-11-27T23:18:54.638104+01:00",
+  "last_confirmed_at": "2026-11-28T17:03:48.424118+01:00",
   "last_sample_check": {
-    "at": "2026-11-27T23:18:54.638104+01:00",
+    "at": "2026-11-28T17:03:48.424118+01:00",
     "eligible": true
   },
   "pending_ops_notifications": [],
